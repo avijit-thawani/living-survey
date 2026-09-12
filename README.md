@@ -2,92 +2,20 @@
 
 # Living Surveys
 
-A living survey is a reading list that keeps itself current. It lives in a GitHub
-repository's README, so there is no website to deploy, no account to create, and
-no API keys to manage.
+A reading list that keeps itself current, living in a GitHub repo's README.
+No website to deploy, no account, no API keys.
 
-## How it works
+1. **Use this template** and name your repo. The name becomes the survey title.
+2. **Add papers** to `import/papers.txt`: links, DOIs, or plain titles. Or drop
+   a `.bib` / `.ris` export into `import/`.
+3. **Or seed from one paper** with `refs: <link>`, which pulls in everything it
+   cites. Works on a survey, your thesis, or a draft you are checking.
+4. **Leave it alone.** A daily Action follows the citation graph, finds what to
+   read next, and rewrites this README.
 
-1. **Click "Use this template"** and name your repository. That name becomes your
-   survey's title.
-2. **Give it some papers to start from.** Everything you feed the survey lives
-   in [`import/`](import/). Put links, bare DOIs or plain paper titles in
-   [`import/papers.txt`](import/papers.txt), one per line, or drop a `.bib` or
-   `.ris` export from Zotero or Google Scholar into the same folder.
-3. **Or start from a single paper.** Write `refs: <link>` in
-   `import/papers.txt` and everything that paper cites becomes a Rec. Point it
-   at a survey to adopt a ready-made reading list, at your own thesis to see
-   what it rests on, or at your draft before submitting to catch related work
-   you missed. The popularity penalty strips the generic references, so you get
-   the topical ones back rather than Adam and BERT.
-4. **Keep it going.** A GitHub Action runs daily. It looks through the citation
-   graph, finds papers you should read next, and writes both lists into this
-   README and into [`views/`](views/).
-   - **Adding more papers later** is the same as seeding: add lines to
-     `import/papers.txt`, or drop another `.bib` in. Both are re-read every run,
-     and nothing is ever added twice.
-   - **Promoting a Rec into Core** means copying its link into
-     `import/papers.txt` and committing. It leaves Recs on the next run.
-   - **Rejecting a Rec** means adding its id to `data/dismissed.json`, which
-     keeps it from coming back.
-   - **Editing by hand, or with an agent**: Core lives in `data/core.json` and
-     Recs in `data/recs.json`. Those are the source of truth. `README.md`,
-     `views/` and `data/core.csv` are all generated from them and will be
-     overwritten.
+Full instructions, settings and how the ranking works: **[SETUP.md](https://github.com/avijit-thawani/living-survey/blob/main/SETUP.md)**.
 
-Scroll down to see a working demo of what that produces.
-
-## Advanced settings
-
-Everything has a working default. Change these only if you want to.
-
-| To change | Edit |
-| --- | --- |
-| Title and description | `survey.config.json`, or leave blank to use the repo name and description |
-| How often it runs | the `cron` line in `.github/workflows/update.yml` |
-| How many Recs appear | `candidateCount` in `survey.config.json` |
-| How many rows show on this page | `previewRows` in `survey.config.json`, default 10 |
-| The recommendation algorithm | the `algorithm` block in `survey.config.json`, implemented in `lib/candidates.js` |
-| Papers never to suggest again | add their ids to `data/dismissed.json` |
-
-### The two lists
-
-**Core** is what the survey contains. **Recs** is what to read next. Those names
-are used everywhere: `data/core.json`, `data/recs.json`, `views/core-by-*.md`.
-
-Both carry a **Score** from 0 to 100, saying how tied into the survey a paper
-is, measured against the most connected paper in its own list. A Core paper
-scores on how many other Core papers cite it or it cites, so 0 means nothing
-else here is connected to it, which usually flags an outlier. Score is the
-default sort for both lists.
-
-### Sorting without a website
-
-GitHub renders markdown but runs no JavaScript, so a table cannot be sorted in
-the browser. Every sort order is instead written ahead of time to its own file
-under `views/`, and each column heading links to the file sorted that way. The
-active column is marked rather than linked. This page shows the top rows of each
-list and links to the rest.
-
-### How Recs are found
-
-Recs come from two directions through the citation graph.
-
-- **Forward**, `cites N here`: papers that cite N of yours. This is newer work
-  building on your survey, and it is what makes the survey living.
-- **Backward**, `cited by N here`: papers that N of yours cite. These are the
-  foundations of the topic, which the forward pass can never find because they
-  predate your papers and never cite them back.
-
-The backward direction is divided by `citationCount ^ popularityPenalty`, the
-same idea as the IDF term in TF-IDF, with a paper's global citation count
-standing in for document frequency. Without it the list fills with the field's
-plumbing, since every numeracy paper cites Adam and BERT and neither says
-anything about numeracy. Raising `popularityPenalty` above `0.2` favours obscure
-papers; lowering it favours famous ones. Set `forward` or `backward` to `false`
-to switch a direction off.
-
-Full instructions are in [SETUP.md](SETUP.md).
+Scroll down for a live demo.
 
 <!-- TEMPLATE-INTRO:END -->
 
@@ -98,12 +26,6 @@ Full instructions are in [SETUP.md](SETUP.md).
 A worked example: 11 papers on numeracy in NLP, with everything under Suggested next reads found automatically from their citations.
 
 **11** in Core · **25** Recs · updated 2026-09-12
-
-> **How to read this page.**
-> **Core** is what this survey contains; **Recs** is what to read next, found automatically by following citations. Only the top 10 of each is shown here, linked to the full lists.
-> **Score** is 0 to 100 and says how tied into this survey a paper is, relative to the most connected one in its own list. It drives the default order.
-> In Recs, **Why** says how a paper turned up: *cites N here*, newer work building on N of these; *cited by N here*, older work N of these rest on; *from ...*, the bibliography of a survey used as a seed.
-> Column headings are links: click one to open the same list sorted that way.
 
 ## Core
 
@@ -157,6 +79,7 @@ The papers in this survey.
 
 ### Want your own living survey?
 
-Click **Use this template**, name your repo, and overwrite [`import/papers.txt`](import/papers.txt) with your papers, and you get the table above plus ✨ daily reading suggestions mined from the citation graph, with no site to host and no API keys. Details in [SETUP.md](SETUP.md).
+Click **Use this template**, add your papers, and a daily GitHub Action keeps
+the tables above up to date. No hosting, no API keys. See **[SETUP.md](https://github.com/avijit-thawani/living-survey/blob/main/SETUP.md)**.
 
 <!-- TEMPLATE-FOOTER:END -->

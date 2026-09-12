@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T16:44:54.834Z",
+  "updatedAt": "2026-09-12T23:02:32.293Z",
   "recs": [
     {
       "id": "0427110f0e79f41e69a8eb00a3ec8868bac26a4f",
@@ -165,7 +165,7 @@
       "addedAt": "2026-09-12",
       "overlap": 3,
       "direction": "backward",
-      "score": 97.25580870822435,
+      "score": 97.25580870822436,
       "why": "cited by 3 here",
       "fromReferences": false
     },
@@ -175,7 +175,7 @@
       "authors": [
         "Yiben Yang",
         "L. Birnbaum",
-        "Ji-Ping Wang",
+        "Ji-Ping Z. Wang",
         "Doug Downey"
       ],
       "year": 2018,
@@ -193,7 +193,7 @@
       "addedAt": "2026-09-12",
       "overlap": 2,
       "direction": "backward",
-      "score": 86.15575289851236,
+      "score": 86.15575289851239,
       "why": "cited by 2 here",
       "fromReferences": false
     },
@@ -221,7 +221,7 @@
       "addedAt": "2026-09-12",
       "overlap": 2,
       "direction": "backward",
-      "score": 76.12288152623253,
+      "score": 76.12288152623255,
       "why": "cited by 2 here",
       "fromReferences": false
     },
@@ -582,7 +582,7 @@
       "addedAt": "2026-09-12",
       "overlap": 2,
       "direction": "backward",
-      "score": 69.38247742603612,
+      "score": 69.38247742603613,
       "why": "cited by 2 here",
       "fromReferences": false
     },
@@ -608,7 +608,7 @@
       "addedAt": "2026-09-12",
       "overlap": 3,
       "direction": "backward",
-      "score": 68.36247981270381,
+      "score": 68.36247981270382,
       "why": "cited by 3 here",
       "fromReferences": false
     },
@@ -636,7 +636,7 @@
       "addedAt": "2026-09-12",
       "overlap": 3,
       "direction": "backward",
-      "score": 67.70754601248254,
+      "score": 67.70754601248255,
       "why": "cited by 3 here",
       "fromReferences": false
     },
@@ -665,7 +665,7 @@
       "addedAt": "2026-09-12",
       "overlap": 3,
       "direction": "backward",
-      "score": 67.65675259744104,
+      "score": 67.65675259744106,
       "why": "cited by 3 here",
       "fromReferences": false
     },
@@ -691,7 +691,7 @@
       "addedAt": "2026-09-12",
       "overlap": 3,
       "direction": "backward",
-      "score": 64.61681467388426,
+      "score": 64.61681467388428,
       "why": "cited by 3 here",
       "fromReferences": false
     }
