@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T15:35:58.584Z",
+  "updatedAt": "2026-09-12T15:50:26.539Z",
   "candidates": [
     {
       "id": "2cc3ab9fa41ba2804e301f7eae9598636e62422a",
@@ -22,7 +22,9 @@
       "influentialCitationCount": 15,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 4
+      "overlap": 4,
+      "why": "cites 4 here",
+      "fromReferences": false
     },
     {
       "id": "5be5619fc22300ef356ec4ef729d567ce7116c57",
@@ -48,7 +50,9 @@
       "influentialCitationCount": 0,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 4
+      "overlap": 4,
+      "why": "cites 4 here",
+      "fromReferences": false
     },
     {
       "id": "c9e55ef1b3362db711d95a928a28a8cbd0db3092",
@@ -73,7 +77,9 @@
       "influentialCitationCount": 5,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 4
+      "overlap": 4,
+      "why": "cites 4 here",
+      "fromReferences": false
     },
     {
       "id": "ff8f3dfd9e2f4a92310999722abefab202935521",
@@ -96,7 +102,9 @@
       "influentialCitationCount": 1,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 4
+      "overlap": 4,
+      "why": "cites 4 here",
+      "fromReferences": false
     },
     {
       "id": "cf36c0c47e1f1a9bb5285c638bdd77244113bbae",
@@ -122,7 +130,9 @@
       "influentialCitationCount": 26,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 3
+      "overlap": 3,
+      "why": "cites 3 here",
+      "fromReferences": false
     },
     {
       "id": "2dbec38fe353ab0e495ad09263389dbc9260824d",
@@ -147,7 +157,9 @@
       "influentialCitationCount": 8,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 3
+      "overlap": 3,
+      "why": "cites 3 here",
+      "fromReferences": false
     },
     {
       "id": "28a5a53dafacebad8a7c47773079caeffb9a5baa",
@@ -171,7 +183,9 @@
       "influentialCitationCount": 8,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 3
+      "overlap": 3,
+      "why": "cites 3 here",
+      "fromReferences": false
     },
     {
       "id": "62953ca1252c9febe07c7007a10911726f37792d",
@@ -197,7 +211,9 @@
       "influentialCitationCount": 7,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 3
+      "overlap": 3,
+      "why": "cites 3 here",
+      "fromReferences": false
     },
     {
       "id": "7e5ca499cd9b932921bda84db98f75087d0b0683",
@@ -219,7 +235,9 @@
       "influentialCitationCount": 1,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 3
+      "overlap": 3,
+      "why": "cites 3 here",
+      "fromReferences": false
     },
     {
       "id": "37588705a2af7d5b24d901dd33ade1ff293aabdd",
@@ -241,7 +259,9 @@
       "influentialCitationCount": 1,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 3
+      "overlap": 3,
+      "why": "cites 3 here",
+      "fromReferences": false
     },
     {
       "id": "d3a1e7f060bfe7d97c2e430da9eb6967bbbe358a",
@@ -262,7 +282,9 @@
       "influentialCitationCount": 0,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 3
+      "overlap": 3,
+      "why": "cites 3 here",
+      "fromReferences": false
     },
     {
       "id": "59c436bbdcc524e1c8a07d1d24fa3ef122d7d9fa",
@@ -286,7 +308,9 @@
       "influentialCitationCount": 0,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 3
+      "overlap": 3,
+      "why": "cites 3 here",
+      "fromReferences": false
     },
     {
       "id": "1c1b9f56f904a4fc8e980c3ccb5aa92b342d856b",
@@ -311,7 +335,9 @@
       "influentialCitationCount": 0,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 3
+      "overlap": 3,
+      "why": "cites 3 here",
+      "fromReferences": false
     },
     {
       "id": "7bebb48d34c219b119ca2d4ffc97d7fd4940c35c",
@@ -335,7 +361,9 @@
       "influentialCitationCount": 2,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 3
+      "overlap": 3,
+      "why": "cites 3 here",
+      "fromReferences": false
     },
     {
       "id": "c9343c26a0e604f7afd94b7290bbdf8d96cd65b6",
@@ -357,7 +385,9 @@
       "influentialCitationCount": 0,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 3
+      "overlap": 3,
+      "why": "cites 3 here",
+      "fromReferences": false
     },
     {
       "id": "f0b8599d000901f58c973b9ddf18161f5e7fd303",
@@ -380,7 +410,9 @@
       "influentialCitationCount": 0,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 3
+      "overlap": 3,
+      "why": "cites 3 here",
+      "fromReferences": false
     },
     {
       "id": "f42f61a547c5996be6aee175145b0d74e6324dff",
@@ -410,7 +442,9 @@
       "influentialCitationCount": 12,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 2
+      "overlap": 2,
+      "why": "cites 2 here",
+      "fromReferences": false
     },
     {
       "id": "4d7571441f507f39133209e8afa7ad088da2199c",
@@ -436,7 +470,9 @@
       "influentialCitationCount": 4,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 2
+      "overlap": 2,
+      "why": "cites 2 here",
+      "fromReferences": false
     },
     {
       "id": "5932a504a1b53ea4eb33325a8e34a57b00921183",
@@ -464,7 +500,9 @@
       "influentialCitationCount": 5,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 2
+      "overlap": 2,
+      "why": "cites 2 here",
+      "fromReferences": false
     },
     {
       "id": "25f8718f4964dfcf266d1c17197796f1114407e8",
@@ -489,7 +527,9 @@
       "influentialCitationCount": 7,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 2
+      "overlap": 2,
+      "why": "cites 2 here",
+      "fromReferences": false
     },
     {
       "id": "aa3b9d051db86d2e37405cb08bc4a827db12e466",
@@ -510,7 +550,9 @@
       "influentialCitationCount": 4,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 2
+      "overlap": 2,
+      "why": "cites 2 here",
+      "fromReferences": false
     },
     {
       "id": "14336fbb221da89d77b1e54f1d477c0a8cb0ef85",
@@ -536,7 +578,9 @@
       "influentialCitationCount": 5,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 2
+      "overlap": 2,
+      "why": "cites 2 here",
+      "fromReferences": false
     },
     {
       "id": "9af3b6b3f8dcedbb02b88936c428e1cd02503a8a",
@@ -560,7 +604,9 @@
       "influentialCitationCount": 0,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 2
+      "overlap": 2,
+      "why": "cites 2 here",
+      "fromReferences": false
     },
     {
       "id": "4afb017781cbd023fa277739645d7025f50f0a34",
@@ -585,7 +631,9 @@
       "influentialCitationCount": 0,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 2
+      "overlap": 2,
+      "why": "cites 2 here",
+      "fromReferences": false
     },
     {
       "id": "58557a9654b9f1770667cb71219379f65f32ded9",
@@ -609,7 +657,9 @@
       "influentialCitationCount": 2,
       "source": null,
       "addedAt": "2026-09-12",
-      "overlap": 2
+      "overlap": 2,
+      "why": "cites 2 here",
+      "fromReferences": false
     }
   ]
 }
