@@ -2,7 +2,7 @@
 
 # Numeracy in NLP (demo)
 
-A demo survey showing what this template produces. Replace the title and description here in `survey.config.json`, clear `papers.txt` and `data/`, and make it yours — see [SETUP.md](SETUP.md).
+A demo survey showing what this template produces. Create your own with **Use this template** — a new survey clears these demo papers automatically on its first run. See [SETUP.md](SETUP.md).
 
 **11** papers · last updated 2026-09-12
 
