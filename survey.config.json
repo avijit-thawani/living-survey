@@ -1,14 +1,13 @@
 {
   "title": "Numeracy in NLP (demo)",
-  "description": "A demo survey showing what this template produces. Create your own with **Use this template** \u2014 a new survey clears these demo papers automatically on its first run. See [SETUP.md](SETUP.md).",
+  "description": "A worked example: 11 papers on numeracy in NLP, with everything under Suggested next reads found automatically from their citations.",
   "contactEmail": "",
   "candidateCount": 25,
-  "tableColumns": [
-    "title",
-    "venue",
-    "year",
-    "citationCount",
-    "authors"
-  ],
-  "sortBy": "year"
+  "sortBy": "year",
+  "algorithm": {
+    "forward": true,
+    "backward": true,
+    "minCount": 2,
+    "popularityPenalty": 0.2
+  }
 }
