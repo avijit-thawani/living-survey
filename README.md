@@ -4,7 +4,12 @@
 
 A demo survey showing what this template produces. Create your own with **Use this template** — a new survey clears these demo papers automatically on its first run. See [SETUP.md](SETUP.md).
 
-**11** papers · last updated 2026-09-12
+**11** papers · **25** suggested · updated 2026-09-12
+
+> **How to read this page.**
+> **Papers** lists the 11 papers in this survey, with **Cited by** showing how often each has been cited.
+> **✨ Suggested next reads** is generated automatically, not hand-picked: it finds papers that cite several papers already here, ranked by **Overlap** — how many of them each one cites. A high overlap means the paper sits close to the centre of this topic.
+> To add a paper, put its link in [`papers.txt`](papers.txt) and commit; everything below rebuilds itself.
 
 ## Papers
 
@@ -22,7 +27,9 @@ A demo survey showing what this template produces. Create your own with **Use th
 | 10 | [Self-Attention with Relative Position Representations](https://www.semanticscholar.org/paper/c8efcc854d97dfc2a42b83316a2109f9d166e43f)<br><sub>Peter Shaw, Jakob Uszkoreit, Ashish Vaswani</sub><br><sub>This work presents an alternative approach, extending the self-attention mechanism to efficiently consider representations of the relative positions, or distances between sequence elements, on the WMT 2014 English-to-German and English- to-French translation tasks.</sub> | North American Chapter of the Association for Computational Linguistics | 2018 | 2920 |
 | 11 | [Decoupling Strategy and Generation in Negotiation Dialogues](https://www.semanticscholar.org/paper/b626754a0fd7de12c87e88165b2484ac5d98212a)<br><sub>He He et al.</sub><br><sub>A modular approach based on coarse dialogue acts (e.g., propose(price=50)) that decouples strategy and generation that can flexibly set the strategy using supervised learning, reinforcement learning, or domain-specific knowledge without degeneracy is proposed.</sub> | Conference on Empirical Methods in Natural Language Processing | 2018 | 257 |
 
-## Suggested next reads
+## ✨ Suggested next reads
+
+<sub>Generated automatically from the citation graph — nobody picked these. Refreshed every week.</sub>
 
 | Paper | Venue | Year | Cited by | Overlap |
 | --- | --- | ---: | ---: | ---: |
@@ -30,7 +37,6 @@ A demo survey showing what this template produces. Create your own with **Use th
 | [Exploring the Numerical Reasoning Capabilities of Language Models: A Comprehensive Analysis on Tabular Data](https://www.semanticscholar.org/paper/5be5619fc22300ef356ec4ef729d567ce7116c57)<br><sub>Mubashara Akhtar et al.</sub> | Conference on Empirical Methods in Natural Language Processing | 2023 | 51 | 4 |
 | [Number Cookbook: Number Understanding of Language Models and How to Improve It](https://www.semanticscholar.org/paper/c9e55ef1b3362db711d95a928a28a8cbd0db3092)<br><sub>Haotong Yang et al.</sub> | International Conference on Learning Representations | 2024 | 50 | 4 |
 | [Do Language Models Understand Measurements?](https://www.semanticscholar.org/paper/ff8f3dfd9e2f4a92310999722abefab202935521)<br><sub>Sungjin Park, Seung-kook Ryu, E. Choi</sub> | Conference on Empirical Methods in Natural Language Processing | 2022 | 6 | 4 |
-| [Investigating the Limitations of the Transformers with Simple Arithmetic Tasks](https://www.semanticscholar.org/paper/e4d6e26f52cfbf881c0235913538acb26329fa24)<br><sub>Rodrigo Nogueira, Zhiying Jiang, Jimmy Lin</sub> | arXiv.org | 2021 | 3 | 4 |
 | [Dissociating language and thought in large language models](https://www.semanticscholar.org/paper/cf36c0c47e1f1a9bb5285c638bdd77244113bbae)<br><sub>Kyle Mahowald et al.</sub> | Trends in Cognitive Sciences | 2024 | 576 | 3 |
 | [A Survey of Deep Learning for Mathematical Reasoning](https://www.semanticscholar.org/paper/2dbec38fe353ab0e495ad09263389dbc9260824d)<br><sub>Pan Lu et al.</sub> | Annual Meeting of the Association for Computational Linguistics | 2022 | 209 | 3 |
 | [Representing Numbers in NLP: a Survey and a Vision](https://www.semanticscholar.org/paper/28a5a53dafacebad8a7c47773079caeffb9a5baa)<br><sub>Avijit Thawani et al.</sub> | North American Chapter of the Association for Computational Linguistics | 2021 | 151 | 3 |
@@ -43,16 +49,15 @@ A demo survey showing what this template produces. Create your own with **Use th
 | [On the data requirements of probing](https://www.semanticscholar.org/paper/7bebb48d34c219b119ca2d4ffc97d7fd4940c35c)<br><sub>Zining Zhu et al.</sub> | Findings | 2022 | 5 | 3 |
 | [Predicting Numerals in Natural Language Text Using a Language Model Considering the Quantitative Aspects of Numerals](https://www.semanticscholar.org/paper/c9343c26a0e604f7afd94b7290bbdf8d96cd65b6)<br><sub>Taku Sakamoto, Akiko Aizawa</sub> | Workshop on Knowledge Extraction and Integration for Deep Learning Architectures; Deep Learning Inside Out | 2021 | 5 | 3 |
 | [A survey on mathematical reasoning and optimization with large language models](https://www.semanticscholar.org/paper/f0b8599d000901f58c973b9ddf18161f5e7fd303)<br><sub>Ali Forootani, Danial Esmaeili Aliabadi, Daniela Thrän</sub> | Intelligent Systems with Applications | 2026 | 0 | 3 |
+| [Navigate through Enigmatic Labyrinth A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future](https://www.semanticscholar.org/paper/f42f61a547c5996be6aee175145b0d74e6324dff)<br><sub>Zheng Chu et al.</sub> | Annual Meeting of the Association for Computational Linguistics | 2023 | 275 | 2 |
+| [ChatGPT Is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models](https://www.semanticscholar.org/paper/4d7571441f507f39133209e8afa7ad088da2199c)<br><sub>Ning Bian et al.</sub> | International Conference on Language Resources and Evaluation | 2023 | 105 | 2 |
+| [LogicBench: Towards Systematic Evaluation of Logical Reasoning Ability of Large Language Models](https://www.semanticscholar.org/paper/5932a504a1b53ea4eb33325a8e34a57b00921183)<br><sub>Mihir Parmar et al.</sub> | Annual Meeting of the Association for Computational Linguistics | 2024 | 91 | 2 |
 | [AI Safety in Generative AI Large Language Models: A Survey](https://www.semanticscholar.org/paper/25f8718f4964dfcf266d1c17197796f1114407e8)<br><sub>Jaymari Chua et al.</sub> | arXiv.org | 2024 | 48 | 2 |
 | [tasksource: A Large Collection of NLP tasks with a Structured Dataset Preprocessing Framework](https://www.semanticscholar.org/paper/aa3b9d051db86d2e37405cb08bc4a827db12e466)<br><sub>D. Sileo</sub> | International Conference on Language Resources and Evaluation | 2024 | 35 | 2 |
 | [LangBridge: Multilingual Reasoning Without Multilingual Supervision](https://www.semanticscholar.org/paper/14336fbb221da89d77b1e54f1d477c0a8cb0ef85)<br><sub>Dongkeun Yoon et al.</sub> | Annual Meeting of the Association for Computational Linguistics | 2024 | 30 | 2 |
+| [Learning to Initialize: Can Meta Learning Improve Cross-task Generalization in Prompt Tuning?](https://www.semanticscholar.org/paper/9af3b6b3f8dcedbb02b88936c428e1cd02503a8a)<br><sub>Chengwei Qin et al.</sub> | Annual Meeting of the Association for Computational Linguistics | 2023 | 23 | 2 |
+| [A Theoretically Grounded Question Answering Data Set for Evaluating Machine Common Sense](https://www.semanticscholar.org/paper/4afb017781cbd023fa277739645d7025f50f0a34)<br><sub>Henrique Santos et al.</sub> | Data Intelligence | 2023 | 12 | 2 |
 | [Explicitly Encoding Structural Symmetry is Key to Length Generalization in Arithmetic Tasks](https://www.semanticscholar.org/paper/58557a9654b9f1770667cb71219379f65f32ded9)<br><sub>Mahdi Sabbaghi et al.</sub> | arXiv.org | 2024 | 11 | 2 |
-| [WinoWhat: A Parallel Corpus of Paraphrased WinoGrande Sentences with Common Sense Categorization](https://www.semanticscholar.org/paper/9736625959c6bbd90a8d2b0c495f08a87e281c46)<br><sub>Ine Gevers et al.</sub> | Proceedings of the 29th Conference on Computational Natural Language Learning | 2025 | 3 | 2 |
-| [AgentCoMa: A Compositional Benchmark Mixing Commonsense and Mathematical Reasoning in Real-World Scenarios](https://www.semanticscholar.org/paper/e8631dd8dc6499ee64abc625d368bd3ae812b2c5)<br><sub>Lisa Alazraki et al.</sub> | Annual Meeting of the Association for Computational Linguistics | 2025 | 2 | 2 |
-| [Self-Organizing Group Network for learning primary mathematics from natural language](https://www.semanticscholar.org/paper/aa44ac212b2b25c0dcd4477e9d0b0eca7d0afca4)<br><sub>Yi-Ming Xiong et al.</sub> | Knowledge-Based Systems | 2026 | 0 | 2 |
-| [GenBERTplus : A New Approach to Numeracy in Natural Language Processing](https://www.semanticscholar.org/paper/29c8b567b865ff5e854c106a3ff1e24270bc1908)<br><sub>Shuruthi Ajay, Vallidevi Krishnamurthy, Abhilasha Singh</sub> | Conference Information and Communication Technology | 2025 | 0 | 2 |
-
-<sub>**Overlap** is how many papers already in this survey are cited by that paper — higher means more central to this topic.</sub>
 
 To add any of these, paste its link into [`papers.txt`](papers.txt) and commit.
 
@@ -70,6 +75,6 @@ To add any of these, paste its link into [`papers.txt`](papers.txt) and commit.
 
 ### Want your own living survey?
 
-This page is built from [`living-survey`](https://github.com/avijit-thawani/living-survey): click **Use this template**, paste paper links into `papers.txt`, and a GitHub Action keeps the table and the suggested-reading list above up to date. No hosting, no API keys. See [SETUP.md](SETUP.md).
+This page is built from [`living-survey`](https://github.com/avijit-thawani/living-survey). Two steps: click **Use this template** and name your repo, then overwrite `papers.txt` with your papers. A GitHub Action keeps the table and the ✨ suggestions above up to date. No hosting, no API keys. See [SETUP.md](SETUP.md).
 
 <!-- TEMPLATE-FOOTER:END -->
