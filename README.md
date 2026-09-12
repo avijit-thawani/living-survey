@@ -10,13 +10,30 @@ no API keys to manage.
 
 1. **Click "Use this template"** and name your repository. That name becomes your
    survey's title.
-2. **Give it some papers to start from.** Any of these work, and you can mix them:
-   paste links into `papers.txt`, drop a `.bib` or `.ris` export from Zotero or
-   Google Scholar into `import/`, or write `refs: <link to a survey paper>` to
-   adopt that survey's entire bibliography in one line.
-3. **That is all.** A GitHub Action runs on a schedule, daily by default. It looks
-   through the citation graph for papers you should read next and writes them into
-   this very README, alongside the table of what you already have.
+2. **Give it some papers to start from.** Everything you feed the survey lives
+   in [`import/`](import/). Put links, bare DOIs or plain paper titles in
+   [`import/papers.txt`](import/papers.txt), one per line, or drop a `.bib` or
+   `.ris` export from Zotero or Google Scholar into the same folder.
+3. **Or start from a single paper.** Write `refs: <link>` in
+   `import/papers.txt` and everything that paper cites becomes a Rec. Point it
+   at a survey to adopt a ready-made reading list, at your own thesis to see
+   what it rests on, or at your draft before submitting to catch related work
+   you missed. The popularity penalty strips the generic references, so you get
+   the topical ones back rather than Adam and BERT.
+4. **Keep it going.** A GitHub Action runs daily. It looks through the citation
+   graph, finds papers you should read next, and writes both lists into this
+   README and into [`views/`](views/).
+   - **Adding more papers later** is the same as seeding: add lines to
+     `import/papers.txt`, or drop another `.bib` in. Both are re-read every run,
+     and nothing is ever added twice.
+   - **Promoting a Rec into Core** means copying its link into
+     `import/papers.txt` and committing. It leaves Recs on the next run.
+   - **Rejecting a Rec** means adding its id to `data/dismissed.json`, which
+     keeps it from coming back.
+   - **Editing by hand, or with an agent**: Core lives in `data/core.json` and
+     Recs in `data/recs.json`. Those are the source of truth. `README.md`,
+     `views/` and `data/core.csv` are all generated from them and will be
+     overwritten.
 
 Scroll down to see a working demo of what that produces.
 
@@ -109,7 +126,7 @@ The papers in this survey.
 
 ## ✨ Recs
 
-<sub>Found by following the citation graph, not picked by hand. Refreshed daily. To accept one, paste its link into [`papers.txt`](papers.txt) and commit.</sub>
+<sub>Found by following the citation graph, not picked by hand. Refreshed daily. To accept one, paste its link into [`import/papers.txt`](import/papers.txt) and commit.</sub>
 
 | # | [Paper](views/recs-by-title.md) | Venue | [Year](views/recs-by-year.md) | [Cited by](views/recs-by-citations.md) | Score &#9660; | Why |
 | ---: | --- | --- | ---: | ---: | ---: | --- |
@@ -140,6 +157,6 @@ The papers in this survey.
 
 ### Want your own living survey?
 
-Click **Use this template**, name your repo, and overwrite [`papers.txt`](papers.txt) with your papers, and you get the table above plus ✨ daily reading suggestions mined from the citation graph, with no site to host and no API keys. Details in [SETUP.md](SETUP.md).
+Click **Use this template**, name your repo, and overwrite [`import/papers.txt`](import/papers.txt) with your papers, and you get the table above plus ✨ daily reading suggestions mined from the citation graph, with no site to host and no API keys. Details in [SETUP.md](SETUP.md).
 
 <!-- TEMPLATE-FOOTER:END -->

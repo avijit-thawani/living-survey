@@ -22,4 +22,4 @@ Papers in this survey.
 
 [Back to the survey](../README.md) · [Recs list](recs-by-score.md)
 
-<sub>Generated, and rewritten on every update. Edit [`papers.txt`](../papers.txt), not this file.</sub>
+<sub>Generated, and rewritten on every update. Edit [`import/papers.txt`](../import/papers.txt), not this file.</sub>
