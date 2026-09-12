@@ -70,8 +70,14 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
+      # Matches the label or the title prefix: "Use this template" copies files
+      # but not labels, so a fresh survey has no 'add-paper' label until the
+      # first one is created.
       - name: Reply to the paper request
-        if: github.event_name == 'issues' && contains(github.event.issue.labels.*.name, 'add-paper')
+        if: >-
+          github.event_name == 'issues' &&
+          (contains(github.event.issue.labels.*.name, 'add-paper') ||
+           startsWith(github.event.issue.title, 'Add paper:'))
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE: ${{ github.event.issue.html_url }}

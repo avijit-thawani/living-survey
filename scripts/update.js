@@ -40,9 +40,15 @@ const linksFromIssue = () => {
   const issue = event?.issue;
   if (!issue) return [];
 
+  // Match on either the label or the title prefix. Labels are repository
+  // settings rather than files, so "Use this template" does not copy them --
+  // gating on the label alone would silently never fire in a fresh survey.
   const labels = (issue.labels ?? []).map((l) => (typeof l === "string" ? l : l?.name));
-  if (!labels.includes("add-paper")) {
-    log.info(`Issue #${issue.number} is not labelled 'add-paper'; ignoring it.`);
+  const looksLikeRequest =
+    labels.includes("add-paper") || /^add paper:/i.test(String(issue.title ?? ""));
+
+  if (!looksLikeRequest) {
+    log.info(`Issue #${issue.number} is not a paper request; ignoring it.`);
     return [];
   }
 
