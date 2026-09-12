@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T14:33:48.377Z",
+  "updatedAt": "2026-09-12T14:40:11.918Z",
   "papers": [
     {
       "id": "c8efcc854d97dfc2a42b83316a2109f9d166e43f",
@@ -227,6 +227,28 @@
       "referenceCount": 28,
       "influentialCitationCount": 274,
       "source": "https://arxiv.org/abs/2103.07191",
+      "addedAt": "2026-09-12"
+    },
+    {
+      "id": "3dd61d97827e3f380bf9304101149a3f865051fc",
+      "title": "Injecting Numerical Reasoning Skills into Language Models",
+      "authors": [
+        "Mor Geva",
+        "Ankit Gupta",
+        "Jonathan Berant"
+      ],
+      "year": 2020,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2020-04-01",
+      "summary": "This work shows that numerical reasoning is amenable to automatic data generation, and thus one can inject this skill into pre-trained LMs, by generating large amounts of data, and training in a multi-task setup.",
+      "url": "https://www.semanticscholar.org/paper/3dd61d97827e3f380bf9304101149a3f865051fc",
+      "doi": "10.18653/v1/2020.acl-main.89",
+      "arxivId": "2004.04487",
+      "pdf": "https://www.aclweb.org/anthology/2020.acl-main.89.pdf",
+      "citationCount": 249,
+      "referenceCount": 35,
+      "influentialCitationCount": 25,
+      "source": "https://arxiv.org/abs/2004.04487",
       "addedAt": "2026-09-12"
     }
   ]
