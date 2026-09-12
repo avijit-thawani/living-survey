@@ -10,6 +10,8 @@ Click **Use this template** → **Create a new repository** at the top of the te
 
 Make the repo **public**. GitHub Actions is free and unlimited on public repos, so a public survey costs nothing to run forever. (It works in a private repo too, but then it consumes your account's monthly Actions minutes.)
 
+The template ships with a small demo survey so its own page shows something real. **You do not need to delete it** — your new repo clears the demo papers and resets the title automatically on its first run.
+
 ## 2. Name your survey
 
 Edit [`survey.config.json`](survey.config.json):

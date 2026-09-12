@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, existsSync, mkdirSync, rmSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -58,9 +58,56 @@ const linksFromIssue = () => {
   return cleaned;
 };
 
+/**
+ * The template ships with a small demo survey so its own page shows something
+ * real. A repo created from the template inherits that demo, which is not what
+ * anyone wants their survey to start as. The first run in a fresh repo clears
+ * it automatically, so nobody has to know to delete someone else's papers.
+ *
+ * Keyed off a marker file rather than the repo name, so cloning or renaming
+ * behaves predictably.
+ */
+const clearDemoIfInherited = () => {
+  const marker = p(".demo-survey");
+  if (!existsSync(marker)) return false;
+
+  // Still running in the template repo itself: keep the demo.
+  const here = process.env.GITHUB_REPOSITORY ?? "";
+  const origin = readFileSync(marker, "utf8").trim();
+  if (here && origin && here === origin) {
+    log.debug("Running in the template repo; keeping the demo survey.");
+    return false;
+  }
+  if (!here) {
+    log.debug("No GITHUB_REPOSITORY set (local run); keeping the demo survey.");
+    return false;
+  }
+
+  log.step("First run in a new survey: clearing the template's demo papers");
+  writeJson(p("data/papers.json"), { papers: [] });
+  writeJson(p("data/candidates.json"), { candidates: [] });
+  writeFileSync(p("data/papers.csv"), "", "utf8");
+
+  const config = readJson(p("survey.config.json"), {});
+  writeJson(p("survey.config.json"), {
+    ...config,
+    title: config.title === "Numeracy in NLP (demo)" ? "My Living Survey" : config.title,
+    description:
+      config.title === "Numeracy in NLP (demo)"
+        ? "Edit `survey.config.json` to set this title and description, and add papers to `papers.txt`."
+        : config.description,
+  });
+
+  rmSync(marker);
+  log.info("Demo cleared. Your papers from papers.txt are being added now.");
+  return true;
+};
+
 const main = async () => {
   const refreshMode = process.argv.includes("--refresh");
   log.step(`Starting update${refreshMode ? " (refresh mode)" : ""}`);
+
+  clearDemoIfInherited();
 
   const config = readJson(p("survey.config.json"), {});
   const email = config.contactEmail || process.env.CONTACT_EMAIL || "";

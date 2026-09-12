@@ -1,8 +1,14 @@
 {
   "title": "Numeracy in NLP (demo)",
-  "description": "A demo survey showing what this template produces. Replace the title and description here in `survey.config.json`, clear `papers.txt` and `data/`, and make it yours — see [SETUP.md](SETUP.md).",
+  "description": "A demo survey showing what this template produces. Create your own with **Use this template** \u2014 a new survey clears these demo papers automatically on its first run. See [SETUP.md](SETUP.md).",
   "contactEmail": "",
   "candidateCount": 25,
-  "tableColumns": ["title", "venue", "year", "citationCount", "authors"],
+  "tableColumns": [
+    "title",
+    "venue",
+    "year",
+    "citationCount",
+    "authors"
+  ],
   "sortBy": "year"
 }
