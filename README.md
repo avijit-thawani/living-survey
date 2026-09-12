@@ -29,7 +29,7 @@ A demo survey showing what this template produces. Create your own with **Use th
 
 ## ✨ Suggested next reads
 
-<sub>Generated automatically from the citation graph — nobody picked these. Refreshed every week.</sub>
+<sub>Generated automatically from the citation graph — nobody picked these. Refreshed daily.</sub>
 
 | Paper | Venue | Year | Cited by | Why |
 | --- | --- | ---: | ---: | --- |
@@ -75,6 +75,6 @@ To add any of these, paste its link into [`papers.txt`](papers.txt) and commit.
 
 ### Want your own living survey?
 
-This page is built from [`living-survey`](https://github.com/avijit-thawani/living-survey). Two steps: click **Use this template** and name your repo, then overwrite `papers.txt` with your papers. A GitHub Action keeps the table and the ✨ suggestions above up to date. No hosting, no API keys. See [SETUP.md](SETUP.md).
+Click **Use this template**, name your repo, and overwrite [`papers.txt`](papers.txt) with your papers — you get the table above plus ✨ daily reading suggestions mined from the citation graph, with no site to host and no API keys. Details in [SETUP.md](SETUP.md).
 
 <!-- TEMPLATE-FOOTER:END -->
