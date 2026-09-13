@@ -1,7 +1,7 @@
 {
   "repo": "avijit-thawani/living-survey",
-  "landing": true,
   "title": "",
-  "note": "Marks this checkout as the template's own landing page: it explains the template and links to real surveys instead of carrying one. A repo created from the template deletes this file on its first run and behaves like an ordinary survey. Safe to delete.",
+  "demoDirs": ["demos"],
+  "note": "Marks the demo surveys the template ships with, so its own front page shows something real. The first run in a repo created from the template deletes demos/ and this file, leaving you an empty survey of your own. Safe to delete.",
   "paperIds": []
 }

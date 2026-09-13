@@ -15,20 +15,28 @@ algorithm you can read in `lib/recommend.js` and tune in `survey.config.json`:
 same inputs, same output, every time, and every row says which of your papers it
 came from.
 
-## Surveys built with this
+## Demos
 
-Real surveys, updating daily. Each one's README *is* the survey.
+Four surveys living in this repo, each grown from a single `author:` line and
+updated daily. They also show that one repository can hold many surveys — see
+[SETUP.md](https://github.com/avijit-thawani/living-survey/blob/main/SETUP.md#more-than-one-survey-in-one-repo).
 
-| Survey | Seeded from | Shape |
+<!-- SURVEYS:START -->
+
+| Survey | What is in it | Updated |
 | --- | --- | --- |
-| [Jeff Dean](https://github.com/avijit-thawani/survey-jeff-dean) | one `author:` line | a long career, heavily cited |
-| [Yoshua Bengio](https://github.com/avijit-thawani/survey-yoshua-bengio) | one `author:` line | the largest we run |
-| [Chris Olah](https://github.com/avijit-thawani/survey-chris-olah) | one `author:` line | interpretability, much of it outside venues |
-| [Noam Brown](https://github.com/avijit-thawani/survey-noam-brown) | one `author:` line | small and sharp: games, then reasoning |
-| [Tokenization in NLP](https://github.com/avijit-thawani/tokenization-in-nlp) | 51 pasted links | a topic survey, the shape the ranking suits best |
-| [Numeracy in NLP](https://github.com/avijit-thawani/numeracy-in-nlp) | 20 pasted links | a small topic survey |
-| [A thesis bibliography](https://github.com/avijit-thawani/thesis-bibliography) | one `.bib`, 474 entries | bulk import at scale |
-| [Niyati Bafna](https://github.com/avijit-thawani/niyati-literature) | one `author:` line | one early-career researcher |
+| [Yoshua Bengio](demos/bengio/) | Every paper by Yoshua Bengio, with what to read next found automatically from their citations. · **613** in Core · **25** Recs | 2026-09-13 |
+| [Noam Brown](demos/brown/) | Every paper by Noam Brown, with what to read next found automatically from their citations. · **110** in Core · **25** Recs | 2026-09-13 |
+| [Jeff Dean](demos/dean/) | Every paper by Jeff Dean, with what to read next found automatically from their citations. · **38** in Core · **25** Recs | 2026-09-13 |
+| [Chris Olah](demos/olah/) | Every paper by Chris Olah, with what to read next found automatically from their citations. · **27** in Core · **25** Recs | 2026-09-13 |
+
+<!-- SURVEYS:END -->
+
+And in repositories of their own: [Tokenization in
+NLP](https://github.com/avijit-thawani/tokenization-in-nlp) (51 pasted links),
+[Numeracy in NLP](https://github.com/avijit-thawani/numeracy-in-nlp), [a 474-entry
+thesis bibliography](https://github.com/avijit-thawani/thesis-bibliography) and
+[Niyati Bafna](https://github.com/avijit-thawani/niyati-literature).
 
 ## Make your own
 

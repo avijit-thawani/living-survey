@@ -1,0 +1,32 @@
+{
+  "title": "Yoshua Bengio",
+  "description": "Every paper by Yoshua Bengio, with what to read next found automatically from their citations.",
+  "contactEmail": "",
+  "candidateCount": 25,
+  "previewRows": 10,
+  "algorithm": {
+    "forward": true,
+    "backward": true,
+    "minCount": 2,
+    "popularityPenalty": 0.2,
+    "freshness": {
+      "enabled": true,
+      "windows": [
+        {
+          "days": 30,
+          "count": 10,
+          "label": "past month"
+        },
+        {
+          "days": 180,
+          "count": 10,
+          "label": "past 6 months"
+        }
+      ]
+    }
+  },
+  "recPullRequests": {
+    "enabled": false,
+    "count": 3
+  }
+}
