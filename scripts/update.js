@@ -12,6 +12,7 @@ import { loadGraph, saveGraph, keysWorthKeeping } from "../lib/graphCache.js";
 import { parseBibliography } from "../lib/bibliography.js";
 import { INTRO_START, INTRO_END } from "../lib/renderReadme.js";
 import { lookupOwnerEmail } from "../lib/identity.js";
+import { isLandingRepo } from "../lib/landing.js";
 import { render } from "./render.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -167,7 +168,7 @@ const clearDemoIfInherited = () => {
     return false;
   }
 
-  log.step("First run in a new survey: clearing the template's demo papers");
+  log.step("First run in a new survey: clearing anything inherited from the template");
   writeJson(p("data/core.json"), { core: [] });
   writeJson(p("data/recs.json"), { recs: [] });
   writeFileSync(p("data/core.csv"), "", "utf8");
@@ -279,6 +280,18 @@ const migrateLegacyNames = () => {
 const main = async () => {
   const refreshMode = process.argv.includes("--refresh");
   log.step(`Starting update${refreshMode ? " (refresh mode)" : ""}`);
+
+  // The template repo explains the template and links to surveys built with
+  // it; it is not one itself. Stopping here rather than in render() means the
+  // scheduled run also stops making API calls for a survey with no papers.
+  if (isLandingRepo(ROOT)) {
+    log.info(
+      "This is the living-survey template's landing page, not a survey. Nothing to update. " +
+        "A repo created from the template clears this on its first run."
+    );
+    writeSummary();
+    return;
+  }
 
   clearDemoIfInherited();
 

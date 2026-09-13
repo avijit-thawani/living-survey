@@ -12,6 +12,7 @@ import {
 } from "../lib/renderReadme.js";
 import { allViews } from "../lib/views.js";
 import { resolveIdentity } from "../lib/identity.js";
+import { isLandingRepo } from "../lib/landing.js";
 
 /**
  * Writes the README, the sorted views and the CSV from whatever is currently
@@ -36,6 +37,13 @@ const readJson = (path, fallback) => {
 };
 
 export const render = () => {
+  // The template's own README is a landing page, not a survey. Rendering into
+  // it would replace the explanation with an empty table.
+  if (isLandingRepo(ROOT)) {
+    log.info("This is the template's landing page, so there is no survey to render.");
+    return;
+  }
+
   const config = readJson(p("survey.config.json"), {});
   const event = process.env.GITHUB_EVENT_PATH
     ? readJson(process.env.GITHUB_EVENT_PATH, null)
