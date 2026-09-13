@@ -7,7 +7,14 @@
     "forward": true,
     "backward": true,
     "minCount": 2,
-    "popularityPenalty": 0.2
+    "popularityPenalty": 0.2,
+    "freshness": {
+      "enabled": true,
+      "windows": [
+        { "days": 30, "count": 10, "label": "past month" },
+        { "days": 180, "count": 10, "label": "past 6 months" }
+      ]
+    }
   },
   "recPullRequests": {
     "enabled": false,

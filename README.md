@@ -17,19 +17,27 @@ came from.
 
 1. **Use this template** and name your repo. The name becomes the survey title.
 
-2. **Seed it.** Anything in `import/` counts, and you can mix all three:
-   - lines in `import/papers.txt`: a link, a bare DOI or arXiv id, or just the
-     paper's title;
-   - a `.bib` or `.ris` file dropped in, straight from Zotero, Mendeley or
-     Google Scholar;
-   - `refs: <link>` to take everything one paper cites. Point it at a survey
-     for a ready-made reading list, at your thesis to see what it rests on, or
-     at a draft to catch related work you missed.
+2. **Seed it from a profile.** One line in `import/papers.txt`:
+
+   ```
+   author: https://www.semanticscholar.org/author/Niyati-Bafna/2090730520
+   ```
+
+   Everything that person has published becomes your starting library — an
+   OpenAlex id, an ORCID or just their name work too. Point it at yourself for
+   a reading list built around your own work. The profile is *followed*, not
+   imported once, so when they publish, the next daily run adds it.
+
+   Or mix in any of the other three: plain links, DOIs, arXiv ids or titles;
+   a `.bib` / `.ris` dropped in from Zotero, Mendeley or Google Scholar; and
+   `refs: <link>` to take everything one paper cites.
 
 3. **It runs itself.** A daily Action looks up what you added, follows the
    citation graph, and rewrites this README with two tables: **Core**, the
-   papers you have, and **Recs**, what to read next. Sorted copies of both live
-   in `views/`.
+   papers you have, and **Recs**, what to read next. The top of Recs is
+   reserved for recent work — the best of the past month, then the past six
+   months — so a survey you seeded today is useful today. Sorted copies of both
+   live in `views/`.
 
 4. **Grow it from Recs.** Every Rec row has a **Decide** link: `add` or `drop`
    to answer with one click, or `review` where a pull request is waiting, so
