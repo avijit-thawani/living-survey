@@ -1,6 +1,10 @@
 # Setting up your own living survey
 
-A living survey is a GitHub repo whose README *is* the survey: a table of the papers you have read, plus a ✨ regularly refreshed list of papers you probably should read next. There is no website to deploy, no server, and no API keys.
+A living survey is a GitHub repo whose README *is* the survey: a table of the papers you have read, plus a ✨ regularly refreshed list of papers you probably should read next.
+
+**It is your repo and nothing else.** No website to deploy, no server, no database, no account, no API keys. Your papers and every file derived from them (`data/`, `views/`, the README itself) are committed to the repo you own, and a GitHub Action running in your own Actions minutes rewrites them in place. The only thing that leaves is a lookup of each paper's public metadata from Semantic Scholar and OpenAlex; delete the repo and nothing of yours survives anywhere.
+
+**No LLM is involved in the recommendations.** Recs are computed by a citation graph algorithm — `lib/recommend.js`, scored in `lib/score.js`, with every knob exposed in `survey.config.json`. It is deterministic: the same survey produces the same list, every row states exactly why it is there (`cites 4 in Core`), and if you dislike the ranking you can change the rule rather than reword a prompt. Nothing here calls a model at all: the one-line summary under each title is Semantic Scholar's own `tldr` field, fetched like the rest of the metadata.
 
 Setup is two steps.
 

@@ -3,7 +3,17 @@
 # Living Surveys
 
 A reading list that keeps itself current, living in a GitHub repo's README.
-No website to deploy, no account, no API keys.
+
+Your survey is a repo you own and nothing else. No website, no backend, no
+database, no account, no API keys — the papers, the data files and the code all
+sit in your repo, and a GitHub Action rewrites them in place. Nothing is sent
+anywhere except the public metadata lookups every run makes to Semantic Scholar
+and OpenAlex.
+
+**No LLM picks your papers.** Recommendations come from a citation graph
+algorithm you can read in `lib/recommend.js` and tune in `survey.config.json`:
+same inputs, same output, every time, and every row says which of your papers it
+came from.
 
 1. **Use this template** and name your repo. The name becomes the survey title.
 
