@@ -6,12 +6,24 @@ A reading list that keeps itself current, living in a GitHub repo's README.
 No website to deploy, no account, no API keys.
 
 1. **Use this template** and name your repo. The name becomes the survey title.
-2. **Add papers** to `import/papers.txt`: links, DOIs, or plain titles. Or drop
-   a `.bib` / `.ris` export into `import/`.
-3. **Or seed from one paper** with `refs: <link>`, which pulls in everything it
-   cites. Works on a survey, your thesis, or a draft you are checking.
-4. **Leave it alone.** A daily Action follows the citation graph, finds what to
-   read next, and rewrites this README.
+
+2. **Seed it.** Anything in `import/` counts, and you can mix all three:
+   - lines in `import/papers.txt`: a link, a bare DOI or arXiv id, or just the
+     paper's title;
+   - a `.bib` or `.ris` file dropped in, straight from Zotero, Mendeley or
+     Google Scholar;
+   - `refs: <link>` to take everything one paper cites. Point it at a survey
+     for a ready-made reading list, at your thesis to see what it rests on, or
+     at a draft to catch related work you missed.
+
+3. **It runs itself.** A daily Action looks up what you added, follows the
+   citation graph, and rewrites this README with two tables: **Core**, the
+   papers you have, and **Recs**, what to read next. Sorted copies of both live
+   in `views/`.
+
+4. **Grow it from Recs.** Every Rec row has a **Decide** link: `add` or `drop`
+   to answer with one click, or `review` where a pull request is waiting, so
+   accepting a paper is a merge and rejecting it is a close.
 
 Full instructions, settings and how the ranking works: **[SETUP.md](https://github.com/avijit-thawani/living-survey/blob/main/SETUP.md)**.
 
