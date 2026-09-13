@@ -11,8 +11,16 @@
     "freshness": {
       "enabled": true,
       "windows": [
-        { "days": 30, "count": 10, "label": "past month" },
-        { "days": 180, "count": 10, "label": "past 6 months" }
+        {
+          "days": 30,
+          "count": 10,
+          "label": "past month"
+        },
+        {
+          "days": 365,
+          "count": 10,
+          "label": "past year"
+        }
       ]
     }
   },

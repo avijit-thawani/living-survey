@@ -18,9 +18,9 @@
           "label": "past month"
         },
         {
-          "days": 180,
+          "days": 365,
           "count": 10,
-          "label": "past 6 months"
+          "label": "past year"
         }
       ]
     }
