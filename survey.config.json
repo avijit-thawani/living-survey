@@ -3,7 +3,6 @@
   "description": "A worked example: 11 papers on numeracy in NLP, with everything under Suggested next reads found automatically from their citations.",
   "contactEmail": "",
   "candidateCount": 25,
-  "sortBy": "year",
   "algorithm": {
     "forward": true,
     "backward": true,
