@@ -217,8 +217,18 @@ test("a repo name becomes a readable title", () => {
 
 test("config beats the repo name, which beats the default", () => {
   const event = { repository: { name: "numeracy-in-nlp", description: "About numbers" } };
-  assert.equal(resolveIdentity({ title: "Chosen" }, event).title, "Chosen");
-  assert.equal(resolveIdentity({ title: "  " }, event).title, "Numeracy in NLP");
-  assert.equal(resolveIdentity({}, event).description, "About numbers");
-  assert.equal(resolveIdentity({}, null).title, "My Living Survey");
+  assert.equal(resolveIdentity({ title: "Chosen" }, event, "").title, "Chosen");
+  assert.equal(resolveIdentity({ title: "  " }, event, "").title, "Numeracy in NLP");
+  assert.equal(resolveIdentity({}, event, "").description, "About numbers");
+  assert.equal(resolveIdentity({}, null, "").title, "My Living Survey");
+});
+
+/**
+ * A scheduled run carries no event payload, so the title used to fall back to
+ * "My Living Survey" on exactly the days nobody pushed -- renaming the survey
+ * every night and renaming it back on the next push.
+ */
+test("a run with no event still knows the repository it is in", () => {
+  assert.equal(resolveIdentity({}, null, "someone/numeracy-in-nlp").title, "Numeracy in NLP");
+  assert.equal(resolveIdentity({ title: "Chosen" }, null, "someone/numeracy-in-nlp").title, "Chosen");
 });
