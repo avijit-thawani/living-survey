@@ -230,13 +230,18 @@ click. Affiliations are plain text: Semantic Scholar has no page for an
 institution, because there they are free-text strings on an author rather than
 entities.
 
-Both ride along in the request the run already makes, so they cost nothing.
-Author coverage is near total; affiliations are not — across a sample of 36
-suggestions Semantic Scholar had one for 11%, mostly because recent preprints
-carry none. OpenAlex, which does model institutions, had them for 63% of the
-same papers, so a run asks OpenAlex for the ones still missing, one free
-single-work lookup each, capped at the suggestions on show. A dash means
-neither had anything, not that the authors are unaffiliated.
+Authors ride along in the request the run already makes, so they cost nothing,
+and nearly every paper has them. **Affiliations effectively come from OpenAlex.**
+Semantic Scholar's `affiliations` field is free text on an author record and is
+almost never set on the recent work that fills these tables: across 99
+suggestions judged by both, it was present on 0%, against 16% (past month), 15%
+(past year) and 60% (older) for the same papers in OpenAlex. Not one paper had
+an affiliation in Semantic Scholar that OpenAlex lacked. So a run tries the free
+field first and asks OpenAlex for the rest, one single-work lookup each, capped
+at the suggestions on show.
+
+A dash means neither had it. That is the common case for a paper published this
+month, where the author's h-index is the signal and the affiliation is a bonus.
 
 A paper's best h-index also feeds the Score, at `algorithm.authorityWeight`
 (default 0.2). It is a multiplier, not an added term, and runs through
