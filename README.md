@@ -25,10 +25,10 @@ updated daily. They also show that one repository can hold many surveys — see
 
 | Survey | What is in it | Updated |
 | --- | --- | --- |
-| [Yoshua Bengio](demos/bengio/) | Every paper by Yoshua Bengio, with what to read next found automatically from their citations. · **813** in Core · **25** Recs | 2026-09-14 |
-| [Noam Brown](demos/brown/) | Every paper by Noam Brown, with what to read next found automatically from their citations. · **110** in Core · **25** Recs | 2026-09-14 |
-| [Jeff Dean](demos/dean/) | Every paper by Jeff Dean, with what to read next found automatically from their citations. · **38** in Core · **25** Recs | 2026-09-14 |
-| [Chris Olah](demos/olah/) | Every paper by Chris Olah, with what to read next found automatically from their citations. · **27** in Core · **25** Recs | 2026-09-14 |
+| [Yoshua Bengio](demos/bengio/) | Every paper by Yoshua Bengio, with what to read next found automatically from their citations. · **813** in your list · **25** Recs | 2026-09-14 |
+| [Noam Brown](demos/brown/) | Every paper by Noam Brown, with what to read next found automatically from their citations. · **110** in your list · **25** Recs | 2026-09-14 |
+| [Jeff Dean](demos/dean/) | Every paper by Jeff Dean, with what to read next found automatically from their citations. · **38** in your list · **25** Recs | 2026-09-14 |
+| [Chris Olah](demos/olah/) | Every paper by Chris Olah, with what to read next found automatically from their citations. · **27** in your list · **25** Recs | 2026-09-14 |
 
 <!-- SURVEYS:END -->
 
@@ -58,11 +58,9 @@ thesis bibliography](https://github.com/avijit-thawani/thesis-bibliography) and
    `refs: <link>` to take everything one paper cites.
 
 3. **It runs itself.** A daily Action looks up what you added, follows the
-   citation graph, and rewrites your README with two tables: **Core**, the
-   papers you have, and **Recs**, what to read next. The top of Recs is
-   reserved for recent work — the best of the past month, then the past six
-   months — so a survey you seeded today is useful today. Sorted copies of both
-   live in `views/`.
+   citation graph, and rewrites your README. **Recs** comes first — what to read
+   next, in two tables: the best of the past month, then the past year — and
+   **your list** follows. Sorted copies of both live in `views/`.
 
 4. **Grow it from Recs.** Every Rec row has a **Decide** link: `add` or `drop`
    to answer with one click, or `review` where a pull request is waiting, so
