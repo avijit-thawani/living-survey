@@ -274,6 +274,7 @@ All of these have working defaults; change them only if you want to.
 | `algorithm.authorityWeight` | How much the best author's h-index lifts a Rec's Score. Default 0.2, meaning at most about +20%. 0 ranks on connection alone. |
 | `algorithm.specificityPenalty` | How much to discount a citation of one of your *most-cited* papers. Every recent paper cites the field's famous benchmark in passing, and counting that equally fills the recent tables with work on other subjects. Default 0.3; 0 counts every citation the same. |
 | `algorithm.freshness.minCount` | How many of your papers a recent paper must connect to before it can take a reserved slot. Default is one more than `minCount`, because a slot is a promotion over better-connected work. |
+| `algorithm.intentBoost` | Extra weight for a citation Semantic Scholar calls influential, or labels methodology or result rather than background. Default 0.5. Only ever a bonus: roughly 40% of edges carry no label, and those are scored exactly as before. 0 ignores intent. |
 | `algorithm.popularityPenalty` | Higher favours obscure papers, lower favours famous ones. Default 0.2. |
 | `algorithm.freshness.enabled` | Reserve the top of Recs for recent work. Default on. |
 | `algorithm.freshness.windows` | The reserved slots, as `{ days, count, label }`. Default: 10 from the past 30 days, then 10 from the past 180. |
