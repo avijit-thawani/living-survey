@@ -62,9 +62,9 @@ thesis bibliography](https://github.com/avijit-thawani/thesis-bibliography) and
    next, in two tables: the best of the past month, then the past year — and
    **your list** follows. Sorted copies of both live in `views/`.
 
-4. **Grow it from Recs.** Every Rec row has a **Decide** link: `add` or `drop`
-   to answer with one click, or `review` where a pull request is waiting, so
-   accepting a paper is a merge and rejecting it is a close.
+4. **Grow it from Recs.** Every Rec row has a **Decide** cell with the same two
+   choices: `add` or `drop`, one click each. Where pull requests are switched
+   on, `add` opens the one waiting for that paper, so accepting it is a merge.
 
 Full instructions, settings and how the ranking works: **[SETUP.md](https://github.com/avijit-thawani/living-survey/blob/main/SETUP.md)**.
 
