@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T00:11:04.907Z",
+  "updatedAt": "2026-09-14T03:50:37.538Z",
   "recs": [
     {
       "id": "7e28af1c40db66532e63627f28e16c8c19158231",
@@ -149,7 +149,7 @@
       "title": "Load balancing for large language model inference serving: A control and learning oriented survey",
       "authors": [
         "Hanbo Ma",
-        "Zhong-Guo Li",
+        "Zhongguo Li",
         "Ju-Nan Wang",
         "Chun-Yi Cao",
         "Dong-Lin Li",
@@ -234,7 +234,11 @@
     {
       "id": "9d01c67bd7329cfe2976405243f29f0fe30a8772",
       "title": "Mixture-of-experts and gating mechanisms in multimodal biomedical learning: a routing-centric analysis",
-      "authors": [],
+      "authors": [
+        "Ba-Duy Nguyen",
+        "Van-Dung Hoang",
+        "Hien D. Nguyen"
+      ],
       "year": 2026,
       "venue": "Network Modeling Analysis in Health Informatics and Bioinformatics",
       "publicationDate": "2026-09-12",
