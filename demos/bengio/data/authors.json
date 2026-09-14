@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T03:41:23.446Z",
+  "updatedAt": "2026-09-14T12:22:17.033Z",
   "authors": [
     {
       "target": "https://www.semanticscholar.org/author/Yoshua-Bengio/1751762",
@@ -863,7 +863,7 @@
       "authorId": "1751762",
       "name": "Yoshua Bengio",
       "paperCount": 813,
-      "checkedAt": "2026-09-13"
+      "checkedAt": "2026-09-14"
     },
     {
       "target": "https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 226bf05765f706bc71f604679295d4df0970b0a7",
@@ -1653,7 +1653,7 @@
       "target": "https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 8bc95013decd7416a2ba28d9262b9e1c7cbcde81 | 1f6e9cdb9b24ccfee4d7dade0fdc4597cdc4d93a",
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 8bc95013decd7416a2ba28d9262b9e1c7cbcde81 | 1f6e9cdb9b24ccfee4d7dade0fdc4597cdc4d93a",
       "authorId": "1751762",
-      "name": "https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 8bc95013decd7416a2ba28d9262b9e1c7cbcde81 | 1f6e9cdb9b24ccfee4d7dade0fdc4597cdc4d93a",
+      "name": "Yoshua Bengio",
       "paperCount": 813,
       "checkedAt": "2026-09-14"
     },
@@ -2484,8 +2484,10 @@
     {
       "target": "https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 8bc95013decd7416a2ba28d9262b9e1c7cbcde81 | 23bd347361b4392705835d419b6543b3e73a3a96",
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 8bc95013decd7416a2ba28d9262b9e1c7cbcde81 | 23bd347361b4392705835d419b6543b3e73a3a96",
-      "authorId": null,
-      "name": null
+      "authorId": "1751762",
+      "name": "Yoshua Bengio",
+      "paperCount": 813,
+      "checkedAt": "2026-09-14"
     },
     {
       "target": "https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 8bc95013decd7416a2ba28d9262b9e1c7cbcde81 | 24d7b1487202e3aaf329df3d8135ae6eabefaa45",
@@ -3234,8 +3236,10 @@
     {
       "target": "https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | d08a0eb7024dff5c4fabd58144a38031633d4e1a | d08a0eb7024dff5c4fabd58144a38031633d4e1a",
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | d08a0eb7024dff5c4fabd58144a38031633d4e1a | d08a0eb7024dff5c4fabd58144a38031633d4e1a",
-      "authorId": null,
-      "name": null
+      "authorId": "1751762",
+      "name": "Yoshua Bengio",
+      "paperCount": 813,
+      "checkedAt": "2026-09-14"
     },
     {
       "target": "https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | d08a0eb7024dff5c4fabd58144a38031633d4e1a | f25a86995de6d6275bd433eb33ebf52ba6c1e669",
@@ -4056,8 +4060,10 @@
     {
       "target": "https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | d08a0eb7024dff5c4fabd58144a38031633d4e1a | 212118353c6c51feed4e574cb4ac24c22f92944a",
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | d08a0eb7024dff5c4fabd58144a38031633d4e1a | 212118353c6c51feed4e574cb4ac24c22f92944a",
-      "authorId": null,
-      "name": null
+      "authorId": "1751762",
+      "name": "Yoshua Bengio",
+      "paperCount": 813,
+      "checkedAt": "2026-09-14"
     },
     {
       "target": "https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | d08a0eb7024dff5c4fabd58144a38031633d4e1a | 226bf05765f706bc71f604679295d4df0970b0a7",
@@ -6934,8 +6940,10 @@
     {
       "target": "https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | d366f84b6838d4c0ab5e555376046f2bd95c81d5 | 62c3142956d54db158d190ce691e3c13e7897412",
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | d366f84b6838d4c0ab5e555376046f2bd95c81d5 | 62c3142956d54db158d190ce691e3c13e7897412",
-      "authorId": null,
-      "name": null
+      "authorId": "1751762",
+      "name": "Yoshua Bengio",
+      "paperCount": 813,
+      "checkedAt": "2026-09-14"
     },
     {
       "target": "https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | d366f84b6838d4c0ab5e555376046f2bd95c81d5 | 636178ab6fb78c843f0be93b1db380a163cdfb26",
@@ -12404,8 +12412,10 @@
     {
       "target": "https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | a184a27061613e31b7b6b9732f7a31a2099fc48c | a8f33c488a29622aed3bdf9929d677ba654b25db",
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | a184a27061613e31b7b6b9732f7a31a2099fc48c | a8f33c488a29622aed3bdf9929d677ba654b25db",
-      "authorId": null,
-      "name": null
+      "authorId": "1751762",
+      "name": "Yoshua Bengio",
+      "paperCount": 813,
+      "checkedAt": "2026-09-14"
     },
     {
       "target": "https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | a184a27061613e31b7b6b9732f7a31a2099fc48c | abfab930a183a809b93993456ec8ca7e2478033f",

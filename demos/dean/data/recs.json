@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T03:50:37.538Z",
+  "updatedAt": "2026-09-14T12:23:02.820Z",
   "recs": [
     {
       "id": "7e28af1c40db66532e63627f28e16c8c19158231",
@@ -482,7 +482,7 @@
         "Huazhong Yang",
         "Yongpan Liu",
         "Guowei Zhang",
-        "Hongyang Jia"
+        "Hong-Yang Jia"
       ],
       "year": 2026,
       "venue": "International Symposium on Computer Architecture",
@@ -721,7 +721,7 @@
       "doi": null,
       "arxivId": "2112.06905",
       "pdf": null,
-      "citationCount": 1319,
+      "citationCount": 1320,
       "referenceCount": 108,
       "influentialCitationCount": 83,
       "source": null,
@@ -834,7 +834,7 @@
       "doi": null,
       "arxivId": "2006.16668",
       "pdf": null,
-      "citationCount": 2326,
+      "citationCount": 2332,
       "referenceCount": 99,
       "influentialCitationCount": 217,
       "source": null,
