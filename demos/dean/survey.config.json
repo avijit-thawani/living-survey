@@ -3,7 +3,7 @@
   "description": "Every paper by Jeff Dean, with what to read next found automatically from their citations.",
   "contactEmail": "",
   "candidateCount": 25,
-  "previewRows": 10,
+  "previewRows": 5,
   "algorithm": {
     "forward": true,
     "backward": true,
