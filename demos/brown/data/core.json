@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T02:06:00.631Z",
+  "updatedAt": "2026-09-15T11:27:12.122Z",
   "core": [
     {
       "id": "1167853b9cff97347fc7beb1c8ce92fc95486a1a",
@@ -12,6 +12,19 @@
         "J. Kolter",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "J. Kolter",
+          "hIndex": 73,
+          "authorId": "145116464"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2023,
       "venue": "International Conference on Machine Learning",
       "publicationDate": "2023-01-22",
@@ -36,6 +49,19 @@
         "Pierre Weill-Tessier",
         "Michael Kölling"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Michael Kölling",
+          "hIndex": 11,
+          "authorId": "2098916347"
+        }
+      ],
+      "affiliations": [],
       "year": 2023,
       "venue": "UK & Ireland Computing Education Research Conference",
       "publicationDate": "2023-09-07",
@@ -58,6 +84,19 @@
         "Noam Brown",
         "M. Dejam"
       ],
+      "topAuthors": [
+        {
+          "name": "M. Dejam",
+          "hIndex": 42,
+          "authorId": "12962724"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2023,
       "venue": "Journal of Hydrology",
       "publicationDate": "2023-05-01",
@@ -97,6 +136,19 @@
         "O. Samples",
         "T. Terrill"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "T. Akintobi",
+          "hIndex": 14,
+          "authorId": "3897544"
+        }
+      ],
+      "affiliations": [],
       "year": 2023,
       "venue": "Frontiers in Public Health",
       "publicationDate": "2023-06-19",
@@ -121,6 +173,19 @@
         "Michael Kölling",
         "Miaojing Shi"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Miaojing Shi",
+          "hIndex": 26,
+          "authorId": "8003001"
+        }
+      ],
+      "affiliations": [],
       "year": 2023,
       "venue": "Annual Conference on Innovation and Technology in Computer Science Education",
       "publicationDate": "2023-06-29",
@@ -148,6 +213,19 @@
         "J. Kolter",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "J. Kolter",
+          "hIndex": 73,
+          "authorId": "145116464"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2023,
       "venue": "International Conference on Learning Representations",
       "publicationDate": "2023-04-25",
@@ -174,6 +252,19 @@
         "N. Jensen",
         "Michael Kölling"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Bonita Sharif",
+          "hIndex": 29,
+          "authorId": "3263403"
+        }
+      ],
+      "affiliations": [],
       "year": 2023,
       "venue": "International Computing Education Research Workshop",
       "publicationDate": "2023-08-07",
@@ -181,7 +272,7 @@
       "url": "https://www.semanticscholar.org/paper/8a3f74b37841dfea72b51900bcdb5ff82e0a68fd",
       "doi": "10.1145/3568813.3600133",
       "arxivId": null,
-      "pdf": "https://kclpure.kcl.ac.uk/ws/files/220207586/ICER_2023_Eye_tracking_BlueJ_.pdf",
+      "pdf": null,
       "citationCount": 10,
       "referenceCount": 57,
       "influentialCitationCount": 1,
@@ -225,6 +316,19 @@
         "R. Chaisson",
         "P. Nahid"
       ],
+      "topAuthors": [
+        {
+          "name": "R. Chaisson",
+          "hIndex": 103,
+          "authorId": "145695691"
+        },
+        {
+          "name": "S. Swindells",
+          "hIndex": 55,
+          "authorId": "145613493"
+        }
+      ],
+      "affiliations": [],
       "year": 2023,
       "venue": "American Journal of Respiratory and Critical Care Medicine",
       "publicationDate": "2023-02-15",
@@ -246,6 +350,14 @@
       "authors": [
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": "Technical Symposium on Computer Science Education",
       "publicationDate": "2022-03-01",
@@ -299,6 +411,19 @@
         "I. Smith",
         "J. Eden"
       ],
+      "topAuthors": [
+        {
+          "name": "C. Broder",
+          "hIndex": 69,
+          "authorId": "5171013"
+        },
+        {
+          "name": "R. Plowright",
+          "hIndex": 49,
+          "authorId": "5262090"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": "Emerging Infectious Diseases",
       "publicationDate": "2022-03-01",
@@ -322,6 +447,19 @@
         "Noam Brown",
         "C. Topaz"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "C. Topaz",
+          "hIndex": 22,
+          "authorId": "1949686"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": null,
       "publicationDate": "2022-02-15",
@@ -354,6 +492,19 @@
         "J. Wallace",
         "J. Pitt"
       ],
+      "topAuthors": [
+        {
+          "name": "D. Amor",
+          "hIndex": 64,
+          "authorId": "6965104"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": "Pathology (Sydney)",
       "publicationDate": "2022-03-01",
@@ -377,6 +528,19 @@
         "Noam Brown",
         "C. Topaz"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "C. Topaz",
+          "hIndex": 22,
+          "authorId": "1949686"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": "PNAS Nexus",
       "publicationDate": "2022-09-01",
@@ -403,6 +567,19 @@
         "T. Gagie",
         "Susana Ladra"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "T. Gagie",
+          "hIndex": 31,
+          "authorId": "1765894"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": "Data Compression Conference",
       "publicationDate": "2022-11-14",
@@ -431,6 +608,19 @@
         "Alexander H. Miller",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Adam Lerer",
+          "hIndex": 30,
+          "authorId": "1977806"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": "International Conference on Learning Representations",
       "publicationDate": "2022-10-11",
@@ -459,6 +649,22 @@
         "Noam Brown",
         "Christian Kroer"
       ],
+      "topAuthors": [
+        {
+          "name": "J. Kolter",
+          "hIndex": 73,
+          "authorId": "145116464"
+        },
+        {
+          "name": "Marc Lanctot",
+          "hIndex": 42,
+          "authorId": "1975889"
+        }
+      ],
+      "affiliations": [
+        "University of Montreal",
+        "Columbia University"
+      ],
       "year": 2022,
       "venue": "International Conference on Learning Representations",
       "publicationDate": "2022-06-12",
@@ -483,6 +689,19 @@
         "Noam Brown",
         "S. Finkenstaedt-Quinn"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "S. Finkenstaedt-Quinn",
+          "hIndex": 15,
+          "authorId": "1405321707"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": "Double Helix: A Journal of Critical Thinking and Writing",
       "publicationDate": null,
@@ -505,6 +724,19 @@
         "Noam Brown",
         "M. Dejam"
       ],
+      "topAuthors": [
+        {
+          "name": "M. Dejam",
+          "hIndex": 42,
+          "authorId": "12962724"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": "The Physics of Fluids",
       "publicationDate": "2022-07-09",
@@ -530,6 +762,19 @@
         "J. Foerster",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Adam Lerer",
+          "hIndex": 30,
+          "authorId": "1977806"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": "arXiv.org",
       "publicationDate": "2022-10-11",
@@ -558,6 +803,19 @@
         "Katherine A. Lewis",
         "Deja Workman"
       ],
+      "topAuthors": [
+        {
+          "name": "M. Waring",
+          "hIndex": 42,
+          "authorId": "2695123"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": "Frontiers in Education",
       "publicationDate": "2022-09-15",
@@ -604,6 +862,22 @@
         "Hugh Zhang",
         "M.N. Zijlstra"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Adam Lerer",
+          "hIndex": 30,
+          "authorId": "1977806"
+        }
+      ],
+      "affiliations": [
+        "Carnegie Mellon University",
+        "UC Berkeley"
+      ],
       "year": 2022,
       "venue": "Science",
       "publicationDate": "2022-11-22",
@@ -631,6 +905,19 @@
         "A. Clarke",
         "K. Clarke"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "A. Clarke",
+          "hIndex": 34,
+          "authorId": "47849770"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": "Journal of materials engineering and performance (Print)",
       "publicationDate": "2022-09-21",
@@ -654,6 +941,19 @@
         "Adam Lerer",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Adam Lerer",
+          "hIndex": 30,
+          "authorId": "1977806"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": "AAAI Conference on Artificial Intelligence",
       "publicationDate": "2022-04-11",
@@ -680,6 +980,19 @@
         "J. Foerster",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "J. Kolter",
+          "hIndex": 73,
+          "authorId": "145116464"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": "International Conference on Learning Representations",
       "publicationDate": null,
@@ -702,6 +1015,19 @@
         "C. Ling",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "C. Ling",
+          "hIndex": 11,
+          "authorId": "37087787"
+        }
+      ],
+      "affiliations": [],
       "year": 2021,
       "venue": "AAAI Conference on Artificial Intelligence",
       "publicationDate": "2021-02-02",
@@ -727,6 +1053,19 @@
         "Stuart J. Russell",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Stuart J. Russell",
+          "hIndex": 70,
+          "authorId": "145107462"
+        },
+        {
+          "name": "Brandon Amos",
+          "hIndex": 38,
+          "authorId": "1773498"
+        }
+      ],
+      "affiliations": [],
       "year": 2021,
       "venue": "Neural Information Processing Systems",
       "publicationDate": "2021-09-30",
@@ -751,6 +1090,19 @@
         "Noam Brown",
         "J. Foerster"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Adam Lerer",
+          "hIndex": 30,
+          "authorId": "1977806"
+        }
+      ],
+      "affiliations": [],
       "year": 2021,
       "venue": "arXiv.org",
       "publicationDate": "2021-06-16",
@@ -779,6 +1131,19 @@
         "A. Hamad",
         "A. Yan"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Michael Rogers",
+          "hIndex": 5,
+          "authorId": "2068097793"
+        }
+      ],
+      "affiliations": [],
       "year": 2021,
       "venue": "Future healthcare journal",
       "publicationDate": "2021-08-31",
@@ -815,7 +1180,7 @@
         "R. Reik",
         "S. Rossmann",
         "M. Destree",
-        "Kim‐Anh Nguyen",
+        "Kim-Anh Nguyen",
         "M. Sayers",
         "C. Lough",
         "D. Bougie",
@@ -848,6 +1213,19 @@
         "J. Opsomer",
         "M. Busch"
       ],
+      "topAuthors": [
+        {
+          "name": "A. Fry",
+          "hIndex": 91,
+          "authorId": "3867454"
+        },
+        {
+          "name": "M. Busch",
+          "hIndex": 91,
+          "authorId": "2270494342"
+        }
+      ],
+      "affiliations": [],
       "year": 2021,
       "venue": "Journal of the American Medical Association (JAMA)",
       "publicationDate": "2021-09-02",
@@ -883,6 +1261,19 @@
         "S. Chochua",
         "Almea M Matanock"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "L. Feldstein",
+          "hIndex": 30,
+          "authorId": "5254581"
+        }
+      ],
+      "affiliations": [],
       "year": 2021,
       "venue": "Emerging Infectious Diseases",
       "publicationDate": "2021-07-01",
@@ -908,6 +1299,19 @@
         "Jeffrey S. Dittel",
         "Benny G. Johnson"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Benny G. Johnson",
+          "hIndex": 12,
+          "authorId": "1739428183"
+        }
+      ],
+      "affiliations": [],
       "year": 2021,
       "venue": "ACM Conference on Learning @ Scale",
       "publicationDate": "2021-06-08",
@@ -944,6 +1348,19 @@
         "Sara E. Oliver",
         "Heidi M. Soeters"
       ],
+      "topAuthors": [
+        {
+          "name": "W. Schaffner",
+          "hIndex": 98,
+          "authorId": "49606090"
+        },
+        {
+          "name": "L. Harrison",
+          "hIndex": 92,
+          "authorId": "2368539"
+        }
+      ],
+      "affiliations": [],
       "year": 2021,
       "venue": "Clinical Infectious Diseases",
       "publicationDate": "2021-05-16",
@@ -971,6 +1388,19 @@
         "Noam Brown",
         "J. Foerster"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Adam Lerer",
+          "hIndex": 30,
+          "authorId": "1977806"
+        }
+      ],
+      "affiliations": [],
       "year": 2021,
       "venue": "International Conference on Machine Learning",
       "publicationDate": "2021-03-06",
@@ -979,9 +1409,9 @@
       "doi": null,
       "arxivId": "2103.04000",
       "pdf": null,
-      "citationCount": 100,
+      "citationCount": 101,
       "referenceCount": 29,
-      "influentialCitationCount": 15,
+      "influentialCitationCount": 10,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 6f7eb6062cc4e8feecca0202f634257d1752f795",
       "addedAt": "2026-09-13",
       "score": 25
@@ -1000,7 +1430,7 @@
         "Lisa A. Mills",
         "S. Lester",
         "N. Thornburg",
-        "K. Nguyen",
+        "Kenny Nguyen",
         "V. Costantini",
         "J. Vinjé",
         "Jennifer Y. Huang",
@@ -1026,6 +1456,19 @@
         "P. Kutty",
         "Allison C. Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "J. Vinjé",
+          "hIndex": 79,
+          "authorId": "145210292"
+        },
+        {
+          "name": "L. McDonald",
+          "hIndex": 54,
+          "authorId": "144218288"
+        }
+      ],
+      "affiliations": [],
       "year": 2021,
       "venue": "Infection control and hospital epidemiology",
       "publicationDate": "2021-11-22",
@@ -1049,6 +1492,19 @@
         "J. Horne",
         "A. Low"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "A. Low",
+          "hIndex": 8,
+          "authorId": "2086883009"
+        }
+      ],
+      "affiliations": [],
       "year": 2021,
       "venue": null,
       "publicationDate": null,
@@ -1073,6 +1529,19 @@
         "Adam Lerer",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Adam Lerer",
+          "hIndex": 30,
+          "authorId": "1977806"
+        }
+      ],
+      "affiliations": [],
       "year": 2021,
       "venue": "Neural Information Processing Systems",
       "publicationDate": "2021-10-06",
@@ -1100,6 +1569,22 @@
         "Jacob Andreas",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Jacob Andreas",
+          "hIndex": 53,
+          "authorId": "2112400"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [
+        "MIT",
+        "Microsoft"
+      ],
       "year": 2021,
       "venue": "International Conference on Machine Learning",
       "publicationDate": "2021-12-14",
@@ -1108,7 +1593,7 @@
       "doi": null,
       "arxivId": "2112.07544",
       "pdf": null,
-      "citationCount": 76,
+      "citationCount": 77,
       "referenceCount": 80,
       "influentialCitationCount": 5,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | d7bebb71635cb818d2f5e0ca0a70434283deb4b6",
@@ -1127,6 +1612,19 @@
         "S. Winter",
         "A. Majumdar"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "S. Winter",
+          "hIndex": 13,
+          "authorId": "5222136"
+        }
+      ],
+      "affiliations": [],
       "year": 2021,
       "venue": "Journal of public health",
       "publicationDate": "2021-06-12",
@@ -1155,6 +1653,19 @@
         "A. Hamad",
         "A. Yan"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Michael Rogers",
+          "hIndex": 5,
+          "authorId": "2068097793"
+        }
+      ],
+      "affiliations": [],
       "year": 2021,
       "venue": null,
       "publicationDate": "2021-03-01",
@@ -1186,6 +1697,19 @@
         "Kaylei Arcangel",
         "M. Waring"
       ],
+      "topAuthors": [
+        {
+          "name": "M. Waring",
+          "hIndex": 42,
+          "authorId": "2695123"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2020,
       "venue": "Journal of American College Health",
       "publicationDate": "2020-11-20",
@@ -1210,6 +1734,19 @@
         "Noam Brown",
         "Caleb Banister"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Ryan Zarick",
+          "hIndex": 3,
+          "authorId": "3270090"
+        }
+      ],
+      "affiliations": [],
       "year": 2020,
       "venue": "arXiv.org",
       "publicationDate": "2020-07-20",
@@ -1271,6 +1808,19 @@
         "Sara J. Vagi",
         "Rachael Zacks"
       ],
+      "topAuthors": [
+        {
+          "name": "J. Tate",
+          "hIndex": 73,
+          "authorId": "2558909"
+        },
+        {
+          "name": "M. Cortese",
+          "hIndex": 51,
+          "authorId": "16304731"
+        }
+      ],
+      "affiliations": [],
       "year": 2020,
       "venue": "MMWR. Morbidity and mortality weekly report",
       "publicationDate": "2020-07-24",
@@ -1295,6 +1845,19 @@
         "A. Bakhtin",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Adam Lerer",
+          "hIndex": 30,
+          "authorId": "1977806"
+        }
+      ],
+      "affiliations": [],
       "year": 2020,
       "venue": "International Conference on Learning Representations",
       "publicationDate": "2020-10-06",
@@ -1318,6 +1881,19 @@
         "Adam Lerer",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Adam Lerer",
+          "hIndex": 30,
+          "authorId": "1977806"
+        }
+      ],
+      "affiliations": [],
       "year": 2020,
       "venue": "arXiv.org",
       "publicationDate": "2020-06-18",
@@ -1383,6 +1959,21 @@
         "Robinson",
         "C. C. Jacobs"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "C. F.",
+          "hIndex": 8,
+          "authorId": "1410235988"
+        }
+      ],
+      "affiliations": [
+        "International University, Vietnam national University Ho Chi Minh city"
+      ],
       "year": 2020,
       "venue": null,
       "publicationDate": null,
@@ -1411,6 +2002,19 @@
         "Nina De Luna",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "M. Waring",
+          "hIndex": 42,
+          "authorId": "2695123"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2020,
       "venue": "PLoS ONE",
       "publicationDate": "2020-12-16",
@@ -1447,6 +2051,19 @@
         "Tamara K. Thompson",
         "J. Anzinger"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "D. McGrowder",
+          "hIndex": 26,
+          "authorId": "6462851"
+        }
+      ],
+      "affiliations": [],
       "year": 2020,
       "venue": "medRxiv",
       "publicationDate": "2020-09-29",
@@ -1479,6 +2096,19 @@
         "A. Willig",
         "C. Angelini"
       ],
+      "topAuthors": [
+        {
+          "name": "L. McClure",
+          "hIndex": 58,
+          "authorId": "2262319"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2020,
       "venue": "Journal of Women's Health",
       "publicationDate": "2020-02-11",
@@ -1500,6 +2130,14 @@
       "authors": [
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2020,
       "venue": "International Workshop on Heterogeneous High-performance Reconfigurable Computing",
       "publicationDate": "2020-11-01",
@@ -1533,6 +2171,19 @@
         "R. Pail",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "E. Pavlis",
+          "hIndex": 34,
+          "authorId": "2202600"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2020,
       "venue": null,
       "publicationDate": "2020-03-09",
@@ -1557,6 +2208,19 @@
         "Adam Lerer",
         "Qucheng Gong"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Adam Lerer",
+          "hIndex": 30,
+          "authorId": "1977806"
+        }
+      ],
+      "affiliations": [],
       "year": 2020,
       "venue": "Neural Information Processing Systems",
       "publicationDate": "2020-07-27",
@@ -1580,6 +2244,19 @@
         "Christina Bryce",
         "E. Trapanese"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "E. Trapanese",
+          "hIndex": 2,
+          "authorId": "1485360014"
+        }
+      ],
+      "affiliations": [],
       "year": 2019,
       "venue": null,
       "publicationDate": null,
@@ -1602,6 +2279,19 @@
         "Noam Brown",
         "T. Sandholm"
       ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2019,
       "venue": "Science",
       "publicationDate": "2019-07-11",
@@ -1610,7 +2300,7 @@
       "doi": "10.1126/science.aay2400",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 908,
+      "citationCount": 907,
       "referenceCount": 30,
       "influentialCitationCount": 58,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 2ee463bba9d4db6aec0eab17e54431a6dc80bf17",
@@ -1624,6 +2314,19 @@
         "Stephen R. Wallder",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Stephen R. Wallder",
+          "hIndex": 1,
+          "authorId": "83282184"
+        }
+      ],
+      "affiliations": [],
       "year": 2019,
       "venue": "Research in Educational Administration & Leadership",
       "publicationDate": "2019-12-15",
@@ -1648,6 +2351,19 @@
         "Jakob N. Foerster",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Adam Lerer",
+          "hIndex": 30,
+          "authorId": "1977806"
+        }
+      ],
+      "affiliations": [],
       "year": 2019,
       "venue": "AAAI Conference on Artificial Intelligence",
       "publicationDate": "2019-12-05",
@@ -1670,6 +2386,19 @@
         "K. Covelman",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "K. Covelman",
+          "hIndex": 5,
+          "authorId": "7623949"
+        }
+      ],
+      "affiliations": [],
       "year": 2019,
       "venue": "Encyclopedia of Couple and Family Therapy",
       "publicationDate": null,
@@ -1693,6 +2422,21 @@
         "Christian Kroer",
         "Noam Brown",
         "T. Sandholm"
+      ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [
+        "Columbia University"
       ],
       "year": 2019,
       "venue": "International Conference on Machine Learning",
@@ -1718,6 +2462,22 @@
         "Noam Brown",
         "Michael J. Cafarella"
       ],
+      "topAuthors": [
+        {
+          "name": "Michael J. Cafarella",
+          "hIndex": 40,
+          "authorId": "1725561"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [
+        "University of Washington",
+        "University of Michigan"
+      ],
       "year": 2019,
       "venue": "HILDA@SIGMOD",
       "publicationDate": "2019-07-05",
@@ -1740,6 +2500,19 @@
         "Noam Brown",
         "T. Sandholm"
       ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2018,
       "venue": "AAAI Conference on Artificial Intelligence",
       "publicationDate": "2018-09-11",
@@ -1764,6 +2537,19 @@
         "Noam Brown",
         "J. Kalyvas"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "I. Belski",
+          "hIndex": 17,
+          "authorId": "2001526"
+        }
+      ],
+      "affiliations": [],
       "year": 2018,
       "venue": null,
       "publicationDate": null,
@@ -1788,6 +2574,19 @@
         "Sam Gross",
         "T. Sandholm"
       ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2018,
       "venue": "International Conference on Machine Learning",
       "publicationDate": "2018-11-01",
@@ -1811,6 +2610,19 @@
         "T. Sandholm",
         "Brandon Amos"
       ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Brandon Amos",
+          "hIndex": 38,
+          "authorId": "1773498"
+        }
+      ],
+      "affiliations": [],
       "year": 2018,
       "venue": "Neural Information Processing Systems",
       "publicationDate": "2018-05-21",
@@ -1833,6 +2645,19 @@
         "Noam Brown",
         "T. Sandholm"
       ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2018,
       "venue": "Science",
       "publicationDate": "2018-01-26",
@@ -1855,6 +2680,19 @@
         "Noam Brown",
         "T. Sandholm"
       ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2017,
       "venue": "International Joint Conference on Artificial Intelligence",
       "publicationDate": "2017-08-19",
@@ -1887,6 +2725,19 @@
         "N. Egorova",
         "H. Kaplan"
       ],
+      "topAuthors": [
+        {
+          "name": "M. Parides",
+          "hIndex": 49,
+          "authorId": "4225852"
+        },
+        {
+          "name": "N. Egorova",
+          "hIndex": 44,
+          "authorId": "144813813"
+        }
+      ],
+      "affiliations": [],
       "year": 2017,
       "venue": "Journal of Hospital Medicine",
       "publicationDate": "2017-03-01",
@@ -1909,6 +2760,19 @@
         "Noam Brown",
         "T. Sandholm"
       ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2017,
       "venue": "International Conference on Machine Learning",
       "publicationDate": "2017-07-17",
@@ -1931,6 +2795,19 @@
         "Noam Brown",
         "T. Sandholm"
       ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2017,
       "venue": "Neural Information Processing Systems",
       "publicationDate": "2017-05-08",
@@ -1953,6 +2830,21 @@
         "Noam Brown",
         "Christian Kroer",
         "T. Sandholm"
+      ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [
+        "Columbia University"
       ],
       "year": 2017,
       "venue": "AAAI Conference on Artificial Intelligence",
@@ -1980,6 +2872,19 @@
         "P. Nandy",
         "D. Woodbury"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "D. Woodbury",
+          "hIndex": 2,
+          "authorId": "2059950461"
+        }
+      ],
+      "affiliations": [],
       "year": 2017,
       "venue": null,
       "publicationDate": null,
@@ -2003,6 +2908,19 @@
         "Noam Brown",
         "Amjad AlTadmri"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Michael Kölling",
+          "hIndex": 11,
+          "authorId": "2098916347"
+        }
+      ],
+      "affiliations": [],
       "year": 2017,
       "venue": null,
       "publicationDate": "2017-06-21",
@@ -2024,6 +2942,14 @@
       "authors": [
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2016,
       "venue": "English Journal",
       "publicationDate": "2016-01-01",
@@ -2053,6 +2979,19 @@
         "Justin Wood",
         "A. Raheja"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Subodh Bhandari",
+          "hIndex": 13,
+          "authorId": "25335448"
+        }
+      ],
+      "affiliations": [],
       "year": 2016,
       "venue": null,
       "publicationDate": "2016-01-04",
@@ -2075,6 +3014,19 @@
         "Noam Brown",
         "T. Sandholm"
       ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2016,
       "venue": "AAAI Workshops",
       "publicationDate": "2016-09-12",
@@ -2097,6 +3049,19 @@
         "Noam Brown",
         "T. Sandholm"
       ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2016,
       "venue": "International Joint Conference on Artificial Intelligence",
       "publicationDate": "2016-07-09",
@@ -2119,6 +3084,19 @@
         "Noam Brown",
         "T. Sandholm"
       ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2016,
       "venue": "AAAI Conference on Artificial Intelligence",
       "publicationDate": "2016-02-12",
@@ -2143,6 +3121,19 @@
         "Noam Brown",
         "M. Todosow"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "M. Todosow",
+          "hIndex": 19,
+          "authorId": "31032644"
+        }
+      ],
+      "affiliations": [],
       "year": 2016,
       "venue": null,
       "publicationDate": null,
@@ -2167,6 +3158,19 @@
         "J. Baird",
         "C. Anderson"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "C. Anderson",
+          "hIndex": 3,
+          "authorId": "2283442503"
+        }
+      ],
+      "affiliations": [],
       "year": 2015,
       "venue": "Archives of Disease in Childhood",
       "publicationDate": "2015-04-01",
@@ -2190,6 +3194,19 @@
         "Sam Ganzfried",
         "T. Sandholm"
       ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2015,
       "venue": "AAAI Conference on Artificial Intelligence",
       "publicationDate": "2015-01-25",
@@ -2212,6 +3229,19 @@
         "Noam Brown",
         "T. Sandholm"
       ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2015,
       "venue": "Neural Information Processing Systems",
       "publicationDate": "2015-12-07",
@@ -2235,6 +3265,19 @@
         "Sam Ganzfried",
         "T. Sandholm"
       ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2015,
       "venue": "AAAI Workshop: Computer Poker and Imperfect Information",
       "publicationDate": "2015-05-04",
@@ -2257,6 +3300,19 @@
         "Noam Brown",
         "T. Sandholm"
       ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2015,
       "venue": "International Joint Conference on Artificial Intelligence",
       "publicationDate": "2015-07-25",
@@ -2284,6 +3340,19 @@
         "K. Sykes",
         "K. Pryde"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "K. Pryde",
+          "hIndex": 7,
+          "authorId": "31889164"
+        }
+      ],
+      "affiliations": [],
       "year": 2015,
       "venue": "Archives of Disease in Childhood",
       "publicationDate": "2015-04-01",
@@ -2308,6 +3377,19 @@
         "Dan Jensen",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Dan Jensen",
+          "hIndex": 19,
+          "authorId": "145199950"
+        }
+      ],
+      "affiliations": [],
       "year": 2014,
       "venue": null,
       "publicationDate": "2014-06-15",
@@ -2330,6 +3412,19 @@
         "Noam Brown",
         "T. Sandholm"
       ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2014,
       "venue": "AAAI Conference on Artificial Intelligence",
       "publicationDate": "2014-06-21",
@@ -2352,6 +3447,19 @@
         "Noam Brown",
         "O. Hod"
       ],
+      "topAuthors": [
+        {
+          "name": "O. Hod",
+          "hIndex": 44,
+          "authorId": "6006009"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2013,
       "venue": null,
       "publicationDate": "2013-09-16",
@@ -2375,6 +3483,19 @@
         "Jian fei Chen",
         "J. Ooi"
       ],
+      "topAuthors": [
+        {
+          "name": "J. Ooi",
+          "hIndex": 36,
+          "authorId": "39118612"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2012,
       "venue": null,
       "publicationDate": null,
@@ -2478,6 +3599,21 @@
         "A. Eichmann",
         "R. Elinson"
       ],
+      "topAuthors": [
+        {
+          "name": "W. Earnshaw",
+          "hIndex": 104,
+          "authorId": "4764329"
+        },
+        {
+          "name": "D. Denlinger",
+          "hIndex": 87,
+          "authorId": "4809845"
+        }
+      ],
+      "affiliations": [
+        "Center for Molecular Medicine Norway"
+      ],
       "year": 2012,
       "venue": "Neonatology",
       "publicationDate": "2012-11-01",
@@ -2500,6 +3636,19 @@
         "Michael Kölling",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Michael Kölling",
+          "hIndex": 11,
+          "authorId": "2098916347"
+        }
+      ],
+      "affiliations": [],
       "year": 2012,
       "venue": "Technical Symposium on Computer Science Education",
       "publicationDate": "2012-02-29",
@@ -2523,6 +3672,19 @@
         "Robert Mundkowsky",
         "S. Shiu"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Robert Mundkowsky",
+          "hIndex": 4,
+          "authorId": "2142174"
+        }
+      ],
+      "affiliations": [],
       "year": 2011,
       "venue": null,
       "publicationDate": null,
@@ -2544,6 +3706,14 @@
       "authors": [
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2011,
       "venue": null,
       "publicationDate": null,
@@ -2570,6 +3740,19 @@
         "Noam Brown",
         "P. Wheat"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "P. Wheat",
+          "hIndex": 1,
+          "authorId": "98135268"
+        }
+      ],
+      "affiliations": [],
       "year": 2009,
       "venue": null,
       "publicationDate": null,
@@ -2593,6 +3776,19 @@
         "Noam Brown",
         "C. O'Neill"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "M. Davenport",
+          "hIndex": 2,
+          "authorId": "2054323691"
+        }
+      ],
+      "affiliations": [],
       "year": 2008,
       "venue": null,
       "publicationDate": null,
@@ -2616,6 +3812,19 @@
         "S. Kaloustian",
         "M. Roeckle"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "S. Kaloustian",
+          "hIndex": 2,
+          "authorId": "46732595"
+        }
+      ],
+      "affiliations": [],
       "year": 2007,
       "venue": null,
       "publicationDate": "2007-09-12",
@@ -2640,6 +3849,19 @@
         "O. Zelzer",
         "J. V. Cranenbroek"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "L. Troyer",
+          "hIndex": 4,
+          "authorId": "69541177"
+        }
+      ],
+      "affiliations": [],
       "year": 2006,
       "venue": null,
       "publicationDate": "2006-12-01",
@@ -2665,6 +3887,21 @@
         "J. Wirth",
         "Hans-Juergen Euler"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Hans-Juergen Euler",
+          "hIndex": 10,
+          "authorId": "40794656"
+        }
+      ],
+      "affiliations": [
+        "George Mason Univ., Fairfax, VA, USA"
+      ],
       "year": 2005,
       "venue": null,
       "publicationDate": "2005-09-16",
@@ -2689,6 +3926,19 @@
         "Noam Brown",
         "P. Gaynor"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "D. Carnegie",
+          "hIndex": 19,
+          "authorId": "1939427"
+        }
+      ],
+      "affiliations": [],
       "year": 2005,
       "venue": "International Journal of Intelligent Systems Technologies and Applications",
       "publicationDate": "2005-07-01",
@@ -2713,6 +3963,19 @@
         "G. Bonham-Carter",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "G. Bonham-Carter",
+          "hIndex": 30,
+          "authorId": "1402911679"
+        }
+      ],
+      "affiliations": [],
       "year": 2004,
       "venue": null,
       "publicationDate": null,
@@ -2742,6 +4005,19 @@
         "G. Carter",
         "JI DowlingJEGiebischGHBeyenbachCCaseRMDreyerFGilbeyMB"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Aalkjaer Bilezikian JP Catterall WA Dubois JM Acker H Bilse Blang",
+          "hIndex": 0,
+          "authorId": "1395264007"
+        }
+      ],
+      "affiliations": [],
       "year": 2004,
       "venue": "Pflügers Archiv",
       "publicationDate": null,
@@ -2763,6 +4039,14 @@
       "authors": [
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2003,
       "venue": null,
       "publicationDate": null,
@@ -2786,6 +4070,19 @@
         "Noam Brown",
         "C. Lewis"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "L. Bingle",
+          "hIndex": 30,
+          "authorId": "5046205"
+        }
+      ],
+      "affiliations": [],
       "year": 2002,
       "venue": "Journal of Pathology",
       "publicationDate": "2002-03-01",
@@ -2807,6 +4104,14 @@
       "authors": [
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 2002,
       "venue": null,
       "publicationDate": "2002-07-01",
@@ -2830,6 +4135,19 @@
         "Noam Brown",
         "Novint"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "T. Anderson",
+          "hIndex": 3,
+          "authorId": "2068149168"
+        }
+      ],
+      "affiliations": [],
       "year": 2002,
       "venue": null,
       "publicationDate": null,
@@ -2854,6 +4172,19 @@
         "E. Bishop",
         "C. Lewis"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "C. Lewis",
+          "hIndex": 7,
+          "authorId": "2083000456"
+        }
+      ],
+      "affiliations": [],
       "year": 2001,
       "venue": "Journal of Leukocyte Biology",
       "publicationDate": "2001-10-01",
@@ -2876,6 +4207,19 @@
         "Noam Brown",
         "Charlie Kindel"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "Charlie Kindel",
+          "hIndex": 3,
+          "authorId": "69492172"
+        }
+      ],
+      "affiliations": [],
       "year": 1998,
       "venue": null,
       "publicationDate": "1998-03-11",
@@ -3155,6 +4499,19 @@
         "J. Cullum",
         "E. Cundliffe"
       ],
+      "topAuthors": [
+        {
+          "name": "B. Bukau",
+          "hIndex": 121,
+          "authorId": "6175037"
+        },
+        {
+          "name": "A. Cowman",
+          "hIndex": 118,
+          "authorId": "4818804"
+        }
+      ],
+      "affiliations": [],
       "year": 1998,
       "venue": "Mineralogical magazine",
       "publicationDate": "1998-12-01",
@@ -3179,6 +4536,19 @@
         "L. Twyford",
         "M. Given"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "L. Twyford",
+          "hIndex": 3,
+          "authorId": "104727366"
+        }
+      ],
+      "affiliations": [],
       "year": 1998,
       "venue": null,
       "publicationDate": null,
@@ -3440,6 +4810,19 @@
         "E. O. Davis",
         "P. Boer"
       ],
+      "topAuthors": [
+        {
+          "name": "A. Cowman",
+          "hIndex": 118,
+          "authorId": "4818804"
+        },
+        {
+          "name": "J. Blenis",
+          "hIndex": 108,
+          "authorId": "4037343"
+        }
+      ],
+      "affiliations": [],
       "year": 1997,
       "venue": null,
       "publicationDate": "1997-12-01",
@@ -3465,6 +4848,19 @@
         "Noam Brown",
         "G. W. Delamore"
       ],
+      "topAuthors": [
+        {
+          "name": "D. Wexler",
+          "hIndex": 60,
+          "authorId": "1787931"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 1996,
       "venue": null,
       "publicationDate": "1996-07-01",
@@ -3488,6 +4884,19 @@
         "J. Tlou",
         "Noam Brown"
       ],
+      "topAuthors": [
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        },
+        {
+          "name": "E. Osunde",
+          "hIndex": 4,
+          "authorId": "113355875"
+        }
+      ],
+      "affiliations": [],
       "year": 1996,
       "venue": null,
       "publicationDate": "1996-06-01",
@@ -3513,6 +4922,19 @@
         "Noam Brown",
         "D. Clarke"
       ],
+      "topAuthors": [
+        {
+          "name": "A. Copp",
+          "hIndex": 70,
+          "authorId": "6188629"
+        },
+        {
+          "name": "Noam Brown",
+          "hIndex": 34,
+          "authorId": "2685623"
+        }
+      ],
+      "affiliations": [],
       "year": 1990,
       "venue": null,
       "publicationDate": null,

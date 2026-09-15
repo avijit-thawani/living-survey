@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T02:06:40.225Z",
+  "updatedAt": "2026-09-15T11:28:15.688Z",
   "recs": [
     {
       "id": "0ceeb993f18091b8cfc574f7ffce90238dae3656",
@@ -30,7 +30,7 @@
       "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 59.61219266379763,
+      "score": 58.65691858842388,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -79,7 +79,7 @@
       "addedAt": "2026-09-15",
       "overlap": 4,
       "direction": "forward",
-      "score": 48.047598505601975,
+      "score": 48.03810533976874,
       "why": "past month · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -122,7 +122,7 @@
       "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 38.4405579540956,
+      "score": 38.413281392126194,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -162,7 +162,7 @@
       "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 31.45651626946359,
+      "score": 31.43594647044773,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -203,7 +203,7 @@
       "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 28.44717150902441,
+      "score": 28.430959028977355,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -237,7 +237,7 @@
       "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 27.196481090096935,
+      "score": 27.184554061841197,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -326,7 +326,7 @@
       "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 81.51211997132208,
+      "score": 81.51271165304416,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -369,7 +369,7 @@
       "addedAt": "2026-09-15",
       "overlap": 6,
       "direction": "forward",
-      "score": 70.36815266062288,
+      "score": 70.33417855853509,
       "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -411,7 +411,7 @@
       "addedAt": "2026-09-15",
       "overlap": 5,
       "direction": "forward",
-      "score": 68.63282114669393,
+      "score": 68.62703035526279,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -454,8 +454,91 @@
       "addedAt": "2026-09-15",
       "overlap": 6,
       "direction": "forward",
-      "score": 65.87072482852523,
+      "score": 65.85945181755001,
       "why": "past year · cites 6 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "a55c25e2717a6cf7b74f8cf0e0be7e94d7bbe49f",
+      "title": "Agent Safety Should Be a Runtime Contract",
+      "authors": [
+        "Albus W. Ng",
+        "Yibin Han",
+        "Jusheng Zhang",
+        "Wen-Hao Wang"
+      ],
+      "topAuthors": [
+        {
+          "name": "Jusheng Zhang",
+          "hIndex": 15,
+          "authorId": "2344795356"
+        },
+        {
+          "name": "Wen-Hao Wang",
+          "hIndex": 6,
+          "authorId": "2280328057"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-08-11",
+      "summary": "The right unit of safety in agentic AI is the trajectory-with-checkable-evidence, not the model, and this work formalizes an Agent Trajectory Schema and Evidence Chain, state a compositional gating proposition based on standard monitor composition, and outline a research agenda.",
+      "url": "https://www.semanticscholar.org/paper/a55c25e2717a6cf7b74f8cf0e0be7e94d7bbe49f",
+      "doi": null,
+      "arxivId": "2608.11274",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 92,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 6,
+      "direction": "forward",
+      "score": 64.96858906950841,
+      "why": "past year · cites 6 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "97307df78c99c73a52c0c01f847b5b3d4f235756",
+      "title": "We Think, Therefore We Align LLMs to Helpful, Harmless and Honest Before They Go Wrong",
+      "authors": [
+        "G. Kashyap",
+        "M. Dras",
+        "Usman Naseem"
+      ],
+      "topAuthors": [
+        {
+          "name": "M. Dras",
+          "hIndex": 37,
+          "authorId": "1795294"
+        },
+        {
+          "name": "G. Kashyap",
+          "hIndex": 13,
+          "authorId": "2138567368"
+        }
+      ],
+      "affiliations": [],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "publicationDate": "2025-09-26",
+      "summary": "Adaptive Multi-Branch Steering (AMBS), a two-stage framework in a 1-to-N Transformer setting that parameterizes objective-specific transformations relative to a shared representation, is proposed.",
+      "url": "https://www.semanticscholar.org/paper/97307df78c99c73a52c0c01f847b5b3d4f235756",
+      "doi": "10.48550/arXiv.2509.22510",
+      "arxivId": "2509.22510",
+      "pdf": null,
+      "citationCount": 4,
+      "referenceCount": 50,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 4,
+      "direction": "forward",
+      "score": 64.5064290683445,
+      "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -498,91 +581,8 @@
       "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 65.3006414958659,
+      "score": 64.25421110740346,
       "why": "past year · cites 3 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "a55c25e2717a6cf7b74f8cf0e0be7e94d7bbe49f",
-      "title": "Agent Safety Should Be a Runtime Contract",
-      "authors": [
-        "Albus W. Ng",
-        "Yibin Han",
-        "Jusheng Zhang",
-        "Wen-Hao Wang"
-      ],
-      "topAuthors": [
-        {
-          "name": "Jusheng Zhang",
-          "hIndex": 15,
-          "authorId": "2344795356"
-        },
-        {
-          "name": "Wen-Hao Wang",
-          "hIndex": 6,
-          "authorId": "2280328057"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-08-11",
-      "summary": "The right unit of safety in agentic AI is the trajectory-with-checkable-evidence, not the model, and this work formalizes an Agent Trajectory Schema and Evidence Chain, state a compositional gating proposition based on standard monitor composition, and outline a research agenda.",
-      "url": "https://www.semanticscholar.org/paper/a55c25e2717a6cf7b74f8cf0e0be7e94d7bbe49f",
-      "doi": null,
-      "arxivId": "2608.11274",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 92,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-15",
-      "overlap": 6,
-      "direction": "forward",
-      "score": 65.00459811402281,
-      "why": "past year · cites 6 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "97307df78c99c73a52c0c01f847b5b3d4f235756",
-      "title": "We Think, Therefore We Align LLMs to Helpful, Harmless and Honest Before They Go Wrong",
-      "authors": [
-        "G. Kashyap",
-        "M. Dras",
-        "Usman Naseem"
-      ],
-      "topAuthors": [
-        {
-          "name": "M. Dras",
-          "hIndex": 37,
-          "authorId": "1795294"
-        },
-        {
-          "name": "G. Kashyap",
-          "hIndex": 13,
-          "authorId": "2138567368"
-        }
-      ],
-      "affiliations": [],
-      "year": 2025,
-      "venue": "arXiv.org",
-      "publicationDate": "2025-09-26",
-      "summary": "Adaptive Multi-Branch Steering (AMBS), a two-stage framework in a 1-to-N Transformer setting that parameterizes objective-specific transformations relative to a shared representation, is proposed.",
-      "url": "https://www.semanticscholar.org/paper/97307df78c99c73a52c0c01f847b5b3d4f235756",
-      "doi": "10.48550/arXiv.2509.22510",
-      "arxivId": "2509.22510",
-      "pdf": null,
-      "citationCount": 4,
-      "referenceCount": 50,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-15",
-      "overlap": 4,
-      "direction": "forward",
-      "score": 64.50900682630368,
-      "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -629,7 +629,7 @@
       "addedAt": "2026-09-15",
       "overlap": 5,
       "direction": "forward",
-      "score": 61.42477286802688,
+      "score": 61.418182963165115,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -669,7 +669,7 @@
       "addedAt": "2026-09-15",
       "overlap": 4,
       "direction": "forward",
-      "score": 60.37202784715786,
+      "score": 60.352648602038514,
       "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -772,7 +772,7 @@
       "addedAt": "2026-09-15",
       "overlap": 6,
       "direction": "forward",
-      "score": 84.15728725262291,
+      "score": 84.13294464691565,
       "why": "cites 6 in your list",
       "fromReferences": false
     },
@@ -814,7 +814,7 @@
       "addedAt": "2026-09-15",
       "overlap": 2,
       "direction": "forward",
-      "score": 77.29263849118931,
+      "score": 77.29931622930923,
       "why": "cites 2 in your list",
       "fromReferences": false
     },
@@ -854,7 +854,7 @@
       "addedAt": "2026-09-15",
       "overlap": 2,
       "direction": "forward",
-      "score": 77.02644676417285,
+      "score": 77.02556854555877,
       "why": "cites 2 in your list",
       "fromReferences": false
     },
@@ -895,7 +895,7 @@
       "addedAt": "2026-09-15",
       "overlap": 5,
       "direction": "forward",
-      "score": 74.58647646110661,
+      "score": 74.56330648003893,
       "why": "cites 5 in your list",
       "fromReferences": false
     },
@@ -943,7 +943,7 @@
       "addedAt": "2026-09-15",
       "overlap": 5,
       "direction": "forward",
-      "score": 74.3510822623793,
+      "score": 74.34543142891403,
       "why": "cites 5 in your list",
       "fromReferences": false
     },
@@ -994,14 +994,14 @@
       "doi": null,
       "arxivId": "2306.16388",
       "pdf": null,
-      "citationCount": 497,
+      "citationCount": 498,
       "referenceCount": 95,
       "influentialCitationCount": 35,
       "source": null,
       "addedAt": "2026-09-15",
       "overlap": 5,
       "direction": "forward",
-      "score": 72.7498823768391,
+      "score": 72.73054761461056,
       "why": "cites 5 in your list",
       "fromReferences": false
     },
@@ -1061,14 +1061,14 @@
       "doi": "10.48550/arXiv.2306.09479",
       "arxivId": "2306.09479",
       "pdf": "http://arxiv.org/pdf/2306.09479",
-      "citationCount": 256,
+      "citationCount": 257,
       "referenceCount": 68,
       "influentialCitationCount": 19,
       "source": null,
       "addedAt": "2026-09-15",
       "overlap": 5,
       "direction": "forward",
-      "score": 71.49604773438529,
+      "score": 71.47834338238385,
       "why": "cites 5 in your list",
       "fromReferences": false
     },
@@ -1113,7 +1113,7 @@
       "addedAt": "2026-09-15",
       "overlap": 2,
       "direction": "forward",
-      "score": 71.4034574160125,
+      "score": 71.410405911616,
       "why": "cites 2 in your list",
       "fromReferences": false
     }

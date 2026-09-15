@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T02:05:34.533Z",
+  "updatedAt": "2026-09-15T11:26:54.883Z",
   "recs": [
     {
       "id": "7c5e23306b57b06d97a1569f6fcd5300a12597bd",
@@ -32,7 +32,7 @@
       "addedAt": "2026-09-15",
       "overlap": 9,
       "direction": "forward",
-      "score": 38.737033038863835,
+      "score": 38.73671955635006,
       "why": "past month · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -74,7 +74,7 @@
       "addedAt": "2026-09-15",
       "overlap": 6,
       "direction": "forward",
-      "score": 30.174048419733072,
+      "score": 30.175664004001423,
       "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -119,7 +119,7 @@
       "addedAt": "2026-09-15",
       "overlap": 9,
       "direction": "forward",
-      "score": 27.77799774128187,
+      "score": 27.77837558265077,
       "why": "past year · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -162,7 +162,7 @@
       "addedAt": "2026-09-15",
       "overlap": 5,
       "direction": "forward",
-      "score": 26.701211832741013,
+      "score": 26.701981987032497,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -204,7 +204,7 @@
       "addedAt": "2026-09-15",
       "overlap": 7,
       "direction": "forward",
-      "score": 24.17920285394998,
+      "score": 24.177078542477087,
       "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -247,7 +247,7 @@
       "addedAt": "2026-09-15",
       "overlap": 5,
       "direction": "forward",
-      "score": 23.86743168061396,
+      "score": 23.868709594886933,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -283,7 +283,7 @@
       "addedAt": "2026-09-15",
       "overlap": 7,
       "direction": "forward",
-      "score": 23.67458354919121,
+      "score": 23.673772390885322,
       "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -327,7 +327,7 @@
       "addedAt": "2026-09-15",
       "overlap": 5,
       "direction": "forward",
-      "score": 23.344027500123833,
+      "score": 23.341910805120506,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -371,7 +371,7 @@
       "addedAt": "2026-09-15",
       "overlap": 7,
       "direction": "forward",
-      "score": 22.361752702738215,
+      "score": 22.35976808087218,
       "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -420,7 +420,7 @@
       "addedAt": "2026-09-15",
       "overlap": 6,
       "direction": "forward",
-      "score": 22.262793635489256,
+      "score": 22.263322050905973,
       "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -461,7 +461,7 @@
       "addedAt": "2026-09-15",
       "overlap": 7,
       "direction": "forward",
-      "score": 21.860099799945324,
+      "score": 21.858043170306196,
       "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -497,9 +497,9 @@
       "doi": null,
       "arxivId": "1412.6980",
       "pdf": null,
-      "citationCount": 170986,
+      "citationCount": 170995,
       "referenceCount": 26,
-      "influentialCitationCount": 27035,
+      "influentialCitationCount": 27039,
       "source": null,
       "addedAt": "2026-09-15",
       "overlap": 125,
@@ -572,7 +572,7 @@
       "doi": "10.1162/neco.1997.9.8.1735",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 109965,
+      "citationCount": 109969,
       "referenceCount": 48,
       "influentialCitationCount": 10342,
       "source": null,
@@ -614,7 +614,7 @@
       "addedAt": "2026-09-15",
       "overlap": 23,
       "direction": "forward",
-      "score": 83.24622298770402,
+      "score": 83.24593107280286,
       "why": "cites 23 in your list",
       "fromReferences": false
     },
@@ -649,7 +649,7 @@
       "addedAt": "2026-09-15",
       "overlap": 21,
       "direction": "forward",
-      "score": 81.05192761597525,
+      "score": 81.05512899124602,
       "why": "cites 21 in your list",
       "fromReferences": false
     },
@@ -684,7 +684,7 @@
       "addedAt": "2026-09-15",
       "overlap": 21,
       "direction": "forward",
-      "score": 79.88515851523579,
+      "score": 79.88829741914782,
       "why": "cites 21 in your list",
       "fromReferences": false
     },
@@ -758,7 +758,7 @@
       "addedAt": "2026-09-15",
       "overlap": 18,
       "direction": "forward",
-      "score": 74.73033042722027,
+      "score": 74.72884395281496,
       "why": "cites 18 in your list",
       "fromReferences": false
     },
@@ -791,7 +791,7 @@
       "addedAt": "2026-09-15",
       "overlap": 15,
       "direction": "forward",
-      "score": 72.47895251610355,
+      "score": 72.4773069181028,
       "why": "cites 15 in your list",
       "fromReferences": false
     },
@@ -824,7 +824,7 @@
       "addedAt": "2026-09-15",
       "overlap": 7,
       "direction": "forward",
-      "score": 70.12373746376886,
+      "score": 70.12749204139493,
       "why": "cites 7 in your list",
       "fromReferences": false
     },
@@ -865,7 +865,7 @@
       "addedAt": "2026-09-15",
       "overlap": 19,
       "direction": "forward",
-      "score": 69.42391634138265,
+      "score": 69.42437861010275,
       "why": "cites 19 in your list",
       "fromReferences": false
     },
@@ -899,7 +899,7 @@
       "doi": null,
       "arxivId": "1502.03167",
       "pdf": null,
-      "citationCount": 47722,
+      "citationCount": 47724,
       "referenceCount": 54,
       "influentialCitationCount": 2318,
       "source": null,
@@ -948,7 +948,7 @@
       "addedAt": "2026-09-15",
       "overlap": 10,
       "direction": "forward",
-      "score": 68.52143785204841,
+      "score": 68.52510663906361,
       "why": "cites 10 in your list",
       "fromReferences": false
     },
@@ -983,7 +983,7 @@
       "doi": null,
       "arxivId": "1409.3215",
       "pdf": null,
-      "citationCount": 22375,
+      "citationCount": 22376,
       "referenceCount": 40,
       "influentialCitationCount": 1415,
       "source": null,

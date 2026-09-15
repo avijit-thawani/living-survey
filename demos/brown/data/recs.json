@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T02:06:00.631Z",
+  "updatedAt": "2026-09-15T11:27:12.122Z",
   "recs": [
     {
       "id": "064b6d786f7716aedba6c85c22f1b0812fbb55ba",
@@ -36,7 +36,7 @@
       "addedAt": "2026-09-15",
       "overlap": 10,
       "direction": "forward",
-      "score": 53.28513296550595,
+      "score": 53.28554671668737,
       "why": "past month · cites 10 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -77,7 +77,7 @@
       "addedAt": "2026-09-15",
       "overlap": 8,
       "direction": "forward",
-      "score": 45.46435798996432,
+      "score": 45.464873484811356,
       "why": "past month · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -111,7 +111,7 @@
       "addedAt": "2026-09-15",
       "overlap": 7,
       "direction": "forward",
-      "score": 30.64527080390057,
+      "score": 30.645926537891,
       "why": "past month · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -151,7 +151,7 @@
       "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 17.907069062036697,
+      "score": 17.90686405514565,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -192,7 +192,7 @@
       "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 16.073312979425793,
+      "score": 16.07428641842429,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -232,7 +232,7 @@
       "addedAt": "2026-09-15",
       "overlap": 4,
       "direction": "forward",
-      "score": 14.201578360311732,
+      "score": 14.202439554790164,
       "why": "past month · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -266,7 +266,7 @@
       "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 10.92259322341576,
+      "score": 10.923474750069419,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -306,7 +306,7 @@
       "addedAt": "2026-09-15",
       "overlap": 13,
       "direction": "forward",
-      "score": 81.20657626851208,
+      "score": 81.20670632158199,
       "why": "past year · cites 13 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -347,7 +347,7 @@
       "addedAt": "2026-09-15",
       "overlap": 11,
       "direction": "forward",
-      "score": 67.19104202551411,
+      "score": 67.19130878507502,
       "why": "past year · cites 11 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -390,7 +390,7 @@
       "addedAt": "2026-09-15",
       "overlap": 8,
       "direction": "forward",
-      "score": 60.96350565055052,
+      "score": 60.96396752790599,
       "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -430,7 +430,7 @@
       "addedAt": "2026-09-15",
       "overlap": 8,
       "direction": "forward",
-      "score": 58.97932425169981,
+      "score": 58.978649034116216,
       "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -470,7 +470,7 @@
       "addedAt": "2026-09-15",
       "overlap": 9,
       "direction": "forward",
-      "score": 51.65752354554222,
+      "score": 51.65795593021111,
       "why": "past year · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -512,7 +512,7 @@
       "addedAt": "2026-09-15",
       "overlap": 8,
       "direction": "forward",
-      "score": 45.972843288512266,
+      "score": 45.97339958427742,
       "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -552,7 +552,7 @@
       "addedAt": "2026-09-15",
       "overlap": 9,
       "direction": "forward",
-      "score": 45.908814521869786,
+      "score": 45.90931271993118,
       "why": "past year · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -592,7 +592,7 @@
       "addedAt": "2026-09-15",
       "overlap": 7,
       "direction": "forward",
-      "score": 38.62125406839443,
+      "score": 38.621835697200765,
       "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -637,7 +637,7 @@
       "addedAt": "2026-09-15",
       "overlap": 4,
       "direction": "forward",
-      "score": 32.50566250280469,
+      "score": 32.47862197842657,
       "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -678,7 +678,7 @@
       "addedAt": "2026-09-15",
       "overlap": 7,
       "direction": "forward",
-      "score": 30.940275793186718,
+      "score": 30.940967034845528,
       "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -902,7 +902,7 @@
       "addedAt": "2026-09-15",
       "overlap": 14,
       "direction": "forward",
-      "score": 87.57814663062449,
+      "score": 87.57820373955002,
       "why": "cites 14 in your list",
       "fromReferences": false
     },
