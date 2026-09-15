@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-14T12:24:08.623Z",
+  "updatedAt": "2026-09-15T02:06:40.225Z",
   "recs": [
+    {
+      "id": "0ceeb993f18091b8cfc574f7ffce90238dae3656",
+      "title": "A Layered Analysis of Disagreement And Answer Quality in Multi-Agent LLM Debate",
+      "authors": [
+        "Qian Chen"
+      ],
+      "topAuthors": [
+        {
+          "name": "Qian Chen",
+          "hIndex": 0,
+          "authorId": "2493809721"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-09-07",
+      "summary": "Multi-agent debate, in which several LLMs exchange arguments before answering, is widely assumed to improve answer quality by surfacing genuine disagreement, but evidence that it changes what agents say or improves the quality of the final answer is found.",
+      "url": "https://www.semanticscholar.org/paper/0ceeb993f18091b8cfc574f7ffce90238dae3656",
+      "doi": null,
+      "arxivId": "2609.08016",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 57,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 59.61219266379763,
+      "why": "past month · cites 3 in your list",
+      "fromReferences": false,
+      "freshWindow": "past month"
+    },
     {
       "id": "612d8403d32288862c1d97fc9c3bbefb89df3512",
       "title": "Debate Training Reduces Reward Hacking in RLAIF",
@@ -17,6 +51,19 @@
         "Natasha Jaques",
         "Rohin Shah"
       ],
+      "topAuthors": [
+        {
+          "name": "Natasha Jaques",
+          "hIndex": 33,
+          "authorId": "3106683"
+        },
+        {
+          "name": "Zachary Kenton",
+          "hIndex": 20,
+          "authorId": "40947466"
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-08-18",
@@ -29,39 +76,11 @@
       "referenceCount": 43,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 4,
       "direction": "forward",
-      "score": 66.66666666666666,
-      "why": "past month · cites 4 in Core",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
-    {
-      "id": "6db11455cdf61ce01b1e966dcdd60768ac4e03d4",
-      "title": "The Geometry of Refusal: Why Post-Hoc Safety Is Fragile and Pretraining-Time Safety Persists",
-      "authors": [
-        "Srikanth Malla",
-        "Chi-Ho Choi",
-        "Joon Choi"
-      ],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-09-07",
-      "summary": "Post-hoc safety training is the dominant way to align large language models, yet jailbreaks, fine-tuning attacks, and activation-space probes keep recovering the behaviors it was meant to remove, so a little benign fine-tuning restores it.",
-      "url": "https://www.semanticscholar.org/paper/6db11455cdf61ce01b1e966dcdd60768ac4e03d4",
-      "doi": null,
-      "arxivId": "2609.06934",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 67,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 3,
-      "direction": "forward",
-      "score": 50,
-      "why": "past month · cites 3 in Core",
+      "score": 48.047598505601975,
+      "why": "past month · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
     },
@@ -72,6 +91,21 @@
         "Julien Colin",
         "Nuria Oliver",
         "Thomas Serre"
+      ],
+      "topAuthors": [
+        {
+          "name": "Thomas Serre",
+          "hIndex": 52,
+          "authorId": "1981539"
+        },
+        {
+          "name": "Julien Colin",
+          "hIndex": 2,
+          "authorId": "2297706178"
+        }
+      ],
+      "affiliations": [
+        "Brown University"
       ],
       "year": 2026,
       "venue": null,
@@ -85,11 +119,11 @@
       "referenceCount": 174,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 50,
-      "why": "past month · cites 3 in Core",
+      "score": 38.4405579540956,
+      "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
     },
@@ -100,6 +134,19 @@
         "N. Aljaafari",
         "André Freitas"
       ],
+      "topAuthors": [
+        {
+          "name": "André Freitas",
+          "hIndex": 4,
+          "authorId": "2316638121"
+        },
+        {
+          "name": "N. Aljaafari",
+          "hIndex": 3,
+          "authorId": "8776688"
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-08-22",
@@ -112,94 +159,52 @@
       "referenceCount": 67,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 50,
-      "why": "past month · cites 3 in Core",
+      "score": 31.45651626946359,
+      "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
     },
     {
-      "id": "0ceeb993f18091b8cfc574f7ffce90238dae3656",
-      "title": "A Layered Analysis of Disagreement And Answer Quality in Multi-Agent LLM Debate",
+      "id": "6db11455cdf61ce01b1e966dcdd60768ac4e03d4",
+      "title": "The Geometry of Refusal: Why Post-Hoc Safety Is Fragile and Pretraining-Time Safety Persists",
       "authors": [
-        "Qian Chen"
+        "Srikanth Malla",
+        "Chiho Choi",
+        "Joon Choi"
       ],
+      "topAuthors": [
+        {
+          "name": "Srikanth Malla",
+          "hIndex": 11,
+          "authorId": "51128743"
+        },
+        {
+          "name": "Chiho Choi",
+          "hIndex": 2,
+          "authorId": "2301128189"
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-09-07",
-      "summary": "Multi-agent debate, in which several LLMs exchange arguments before answering, is widely assumed to improve answer quality by surfacing genuine disagreement, but evidence that it changes what agents say or improves the quality of the final answer is found.",
-      "url": "https://www.semanticscholar.org/paper/0ceeb993f18091b8cfc574f7ffce90238dae3656",
+      "summary": "Post-hoc safety training is the dominant way to align large language models, yet jailbreaks, fine-tuning attacks, and activation-space probes keep recovering the behaviors it was meant to remove, so a little benign fine-tuning restores it.",
+      "url": "https://www.semanticscholar.org/paper/6db11455cdf61ce01b1e966dcdd60768ac4e03d4",
       "doi": null,
-      "arxivId": "2609.08016",
+      "arxivId": "2609.06934",
       "pdf": null,
       "citationCount": 0,
-      "referenceCount": 57,
+      "referenceCount": 67,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 50,
-      "why": "past month · cites 3 in Core",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
-    {
-      "id": "813e78180035ec19f6d81921b2290fef75283ef0",
-      "title": "RISA: Response Inspection and Selective Actions for Refusal Calibration in Large Language Models",
-      "authors": [
-        "Wenhan Chang",
-        "Tianqing Zhu",
-        "P. Xiong",
-        "Shi-Yi Liao",
-        "Wanlei Zhou"
-      ],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-09-01",
-      "summary": "Experimental results demonstrate that RISA improves refusal reliability while largely preserving model utility, offering a practical solution for response-aware refusal calibration in LLMs.",
-      "url": "https://www.semanticscholar.org/paper/813e78180035ec19f6d81921b2290fef75283ef0",
-      "doi": null,
-      "arxivId": "2609.00790",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 31,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 3,
-      "direction": "forward",
-      "score": 50,
-      "why": "past month · cites 3 in Core",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
-    {
-      "id": "db10db333340deb9c7daeb4deb64df7026e76e5d",
-      "title": "When Safety Overrides Vision: Exploring Dynamics between Vision Influence and Safety Alignment in Vision-Language Models",
-      "authors": [
-        "Mehak Gupta",
-        "Tanmoy Chakraborty"
-      ],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-08-19",
-      "summary": "This work investigates the internal decoding dynamics underlying safety-induced abstention in aligned VLMs and shows that suppressing refusal-related representations reliably restores grounded answering behavior across models without retraining or modifying visual inputs.",
-      "url": "https://www.semanticscholar.org/paper/db10db333340deb9c7daeb4deb64df7026e76e5d",
-      "doi": null,
-      "arxivId": "2608.18628",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 54,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 3,
-      "direction": "forward",
-      "score": 50,
-      "why": "past month · cites 3 in Core",
+      "score": 28.44717150902441,
+      "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
     },
@@ -209,6 +214,14 @@
       "authors": [
         "Maxim Chupilkin"
       ],
+      "topAuthors": [
+        {
+          "name": "Maxim Chupilkin",
+          "hIndex": 5,
+          "authorId": "1395686361"
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-09-04",
@@ -221,67 +234,102 @@
       "referenceCount": 22,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 50,
-      "why": "past month · cites 3 in Core",
+      "score": 27.196481090096935,
+      "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
     },
     {
-      "id": "7e4f430a470796088eb1ac51873683b120175f48",
-      "title": "Knowing What Not to Answer: Selective Non-Compliance in Vision-Language Models",
+      "id": "cae115cd059d12f4213780a0840b3cb2f3c6fd9d",
+      "title": "All Circuits Lead to Rome: Rethinking Functional Anisotropy in Circuit and Sheaf Discovery for LLMs",
       "authors": [
-        "Minji Kim",
-        "Jihyoung Jang",
-        "Hyounghun Kim"
+        "Xi Chen",
+        "Mingyu Jin",
+        "Jing-Cheng Niu",
+        "Yutong Yin",
+        "Jin-Man Zhao",
+        "Bangwei Guo",
+        "Dimitris N. Metaxas",
+        "Zhaoran Wang",
+        "Yutao Yue",
+        "Gerald Penn"
       ],
+      "topAuthors": [
+        {
+          "name": "Dimitris N. Metaxas",
+          "hIndex": 11,
+          "authorId": "2290468815"
+        },
+        {
+          "name": "Zhaoran Wang",
+          "hIndex": 8,
+          "authorId": "2257245348"
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-09-04",
-      "summary": "KoNA is introduced, a benchmark for evaluating selective non-compliance in VLMs across five categories: False Premise, Visual Inaccessibility, Universal Unknown, Task Feasibility, and Safety, and results suggest that the fine-tuned models can distinguish between answerable components and those requiring non-compliance and respond in a task-appropriate manner.",
-      "url": "https://www.semanticscholar.org/paper/7e4f430a470796088eb1ac51873683b120175f48",
-      "doi": null,
-      "arxivId": "2609.04720",
+      "venue": "arXiv.org",
+      "publicationDate": "2026-05-12",
+      "summary": "Overlap-Aware Sheaf Repulsion is introduced and a Distributive Dense Circuit Hypothesis is proposed and provided, demonstrating that non-unique, low-overlap circuit explanations arise naturally from high-dimensional superposition under mild assumptions.",
+      "url": "https://www.semanticscholar.org/paper/cae115cd059d12f4213780a0840b3cb2f3c6fd9d",
+      "doi": "10.48550/arXiv.2605.12671",
+      "arxivId": "2605.12671",
       "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 62,
+      "citationCount": 9,
+      "referenceCount": 66,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 50,
-      "why": "past month · cites 3 in Core",
+      "score": 100,
+      "why": "past year · cites 3 in your list",
       "fromReferences": false,
-      "freshWindow": "past month"
+      "freshWindow": "past year"
     },
     {
-      "id": "8e5533985e7d6d0072452959eba2a223bb068824",
-      "title": "Deep Learning Models Also Recall Features",
+      "id": "c3428d8f8a7459bd771394931f0a1cdc07352777",
+      "title": "AutoRISE: Agent-Driven Strategy Evolution for Red-Teaming Large Language Models",
       "authors": [
-        "P. Beckmann"
+        "Tanmay Gautam",
+        "Alireza Bahramali",
+        "Sandeep Atluri"
       ],
+      "topAuthors": [
+        {
+          "name": "Alireza Bahramali",
+          "hIndex": 8,
+          "authorId": "51233660"
+        },
+        {
+          "name": "Tanmay Gautam",
+          "hIndex": 5,
+          "authorId": "2105612963"
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-08-21",
-      "summary": "This paper argues that factual recall points to something broader: a general kind of operation in deep learning models, which is called feature recall, and defines it, shows it applies across architectures, and contrasts it with the established paradigm of feature combination.",
-      "url": "https://www.semanticscholar.org/paper/8e5533985e7d6d0072452959eba2a223bb068824",
-      "doi": null,
-      "arxivId": "2608.20970",
+      "venue": "arXiv.org",
+      "publicationDate": "2026-04-23",
+      "summary": "This work proposes AutoRISE, a method that searches over executable attack programs rather than individual prompts, requiring no fine-tuning, human annotation, or GPU compute and improves attack success by up to 16 points on frontier targets with low baseline success rates.",
+      "url": "https://www.semanticscholar.org/paper/c3428d8f8a7459bd771394931f0a1cdc07352777",
+      "doi": "10.48550/arXiv.2604.22871",
+      "arxivId": "2604.22871",
       "pdf": null,
-      "citationCount": 2,
-      "referenceCount": 19,
+      "citationCount": 1,
+      "referenceCount": 43,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 2,
+      "addedAt": "2026-09-15",
+      "overlap": 3,
       "direction": "forward",
-      "score": 33.33333333333333,
-      "why": "past month · cites 2 in Core",
+      "score": 81.51211997132208,
+      "why": "past year · cites 3 in your list",
       "fromReferences": false,
-      "freshWindow": "past month"
+      "freshWindow": "past year"
     },
     {
       "id": "da3637eba3025bdb0898cd751ed81f0ef37b042e",
@@ -293,6 +341,19 @@
         "S. Krier",
         "Simon Osindero"
       ],
+      "topAuthors": [
+        {
+          "name": "Simon Osindero",
+          "hIndex": 36,
+          "authorId": "2217144"
+        },
+        {
+          "name": "Nenad Tomasev",
+          "hIndex": 7,
+          "authorId": "2359197879"
+        }
+      ],
+      "affiliations": [],
       "year": 2025,
       "venue": "arXiv.org",
       "publicationDate": "2025-12-18",
@@ -305,40 +366,53 @@
       "referenceCount": 199,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 6,
       "direction": "forward",
-      "score": 100,
-      "why": "past year · cites 6 in Core",
+      "score": 70.36815266062288,
+      "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
     {
-      "id": "a55c25e2717a6cf7b74f8cf0e0be7e94d7bbe49f",
-      "title": "Agent Safety Should Be a Runtime Contract",
+      "id": "da118fcb0229a1a59bb508073272cc4a2b165659",
+      "title": "Affective AI Safety: The Missing Piece in LLM Safety",
       "authors": [
-        "Albus W. Ng",
-        "Yibin Han",
-        "Jusheng Zhang",
-        "Wenhao Wang"
+        "Carolin Iflander",
+        "Alba Curry",
+        "F. Plaza-del-Arco",
+        "A. C. Curry"
       ],
+      "topAuthors": [
+        {
+          "name": "A. C. Curry",
+          "hIndex": 16,
+          "authorId": "3451318"
+        },
+        {
+          "name": "F. Plaza-del-Arco",
+          "hIndex": 10,
+          "authorId": "1410406981"
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-08-11",
-      "summary": "The right unit of safety in agentic AI is the trajectory-with-checkable-evidence, not the model, and this work formalizes an Agent Trajectory Schema and Evidence Chain, state a compositional gating proposition based on standard monitor composition, and outline a research agenda.",
-      "url": "https://www.semanticscholar.org/paper/a55c25e2717a6cf7b74f8cf0e0be7e94d7bbe49f",
-      "doi": null,
-      "arxivId": "2608.11274",
+      "venue": "arXiv.org",
+      "publicationDate": "2026-06-22",
+      "summary": "It is argued that affective safety requires dedicated frameworks that engage with cumulative, relational, and identity-level effects and identifies recurring harm types: affective self-alienation, fairness and bias harms, and relational harms.",
+      "url": "https://www.semanticscholar.org/paper/da118fcb0229a1a59bb508073272cc4a2b165659",
+      "doi": "10.48550/arXiv.2606.23380",
+      "arxivId": "2606.23380",
       "pdf": null,
       "citationCount": 0,
-      "referenceCount": 92,
+      "referenceCount": 74,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 6,
+      "addedAt": "2026-09-15",
+      "overlap": 5,
       "direction": "forward",
-      "score": 100,
-      "why": "past year · cites 6 in Core",
+      "score": 68.63282114669393,
+      "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -349,6 +423,21 @@
         "Aoxiong Zeng",
         "Yuxin Yang",
         "Xiangquan Yang"
+      ],
+      "topAuthors": [
+        {
+          "name": "Aoxiong Zeng",
+          "hIndex": 2,
+          "authorId": "2404320817"
+        },
+        {
+          "name": "Yuxin Yang",
+          "hIndex": 2,
+          "authorId": "2337838233"
+        }
+      ],
+      "affiliations": [
+        "University of Southern California"
       ],
       "year": 2026,
       "venue": "arXiv.org",
@@ -362,218 +451,226 @@
       "referenceCount": 70,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 6,
       "direction": "forward",
-      "score": 100,
-      "why": "past year · cites 6 in Core",
+      "score": 65.87072482852523,
+      "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
     {
-      "id": "03b24e150cdcd55bce8b4d4abcbfcd4483079caa",
-      "title": "Positive Alignment: Artificial Intelligence for Human Flourishing",
+      "id": "0d608d15c654207c6859418f5f8fcb90614fe661",
+      "title": "Confidence Should Be Calibrated More Than One Turn Deep",
       "authors": [
-        "R. Laukkonen",
-        "S. Krier",
-        "Chlo'e Bakalar",
-        "S. Chandaria",
-        "M. Kringelbach",
-        "Adam Elwood",
-        "Daniel Ford",
-        "Fernando E. Rosas",
-        "Maty Bohacek",
-        "Matija Franklin",
-        "N. Tomavsev",
-        "S. Chan",
-        "Verena Rieser",
-        "Roma Patel",
-        "M. Levin",
-        "Arun Rao"
+        "Zhao-Han Zhang",
+        "Chengzhengxu Li",
+        "Xiaoming Liu",
+        "Chao Shen",
+        "Ziquan Liu",
+        "Ioannis Patras"
       ],
+      "topAuthors": [
+        {
+          "name": "Chao Shen",
+          "hIndex": 8,
+          "authorId": "2154740036"
+        },
+        {
+          "name": "Xiaoming Liu",
+          "hIndex": 7,
+          "authorId": "2265689457"
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-05-11",
-      "summary": "Positive Alignment is the development of AI systems that actively support human and ecological flourishing in a pluralistic, polycentric, context-sensitive, and user-authored way while (ii) remaining safe and cooperative.",
-      "url": "https://www.semanticscholar.org/paper/03b24e150cdcd55bce8b4d4abcbfcd4483079caa",
-      "doi": "10.48550/arXiv.2605.10310",
-      "arxivId": "2605.10310",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2026-04-07",
+      "summary": "This work introduces the task of multi-turn calibration to reframe calibration from a static property into a dynamic challenge central to reliable multi-turn conversation, where calibrating model confidence at each turn conditioned on the conversation history is required.",
+      "url": "https://www.semanticscholar.org/paper/0d608d15c654207c6859418f5f8fcb90614fe661",
+      "doi": "10.48550/arXiv.2604.05397",
+      "arxivId": "2604.05397",
       "pdf": null,
-      "citationCount": 6,
-      "referenceCount": 252,
+      "citationCount": 2,
+      "referenceCount": 56,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 5,
+      "addedAt": "2026-09-15",
+      "overlap": 3,
       "direction": "forward",
-      "score": 83.33333333333334,
-      "why": "past year · cites 5 in Core",
+      "score": 65.3006414958659,
+      "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
     {
-      "id": "0355b3095b900acac7446e3a07f6ce7bdf38b94a",
-      "title": "ContextEcho: A Benchmark for Persona Drift in Long Agentic-Coding Sessions",
+      "id": "a55c25e2717a6cf7b74f8cf0e0be7e94d7bbe49f",
+      "title": "Agent Safety Should Be a Runtime Contract",
       "authors": [
-        "Xianzhong Ding",
-        "Yangyang Yu",
-        "Chang-Wei Liu",
-        "Bill W. Zhao"
+        "Albus W. Ng",
+        "Yibin Han",
+        "Jusheng Zhang",
+        "Wen-Hao Wang"
       ],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-05-22",
-      "summary": "ContextEcho is introduced, a benchmark and reusable harness for measuring persona drift at deployment scale and provides researchers and deployers an open-source framework to audit whether the persona a model ships with is the persona users encounter at session end, across chat-completions API targets and without retraining.",
-      "url": "https://www.semanticscholar.org/paper/0355b3095b900acac7446e3a07f6ce7bdf38b94a",
-      "doi": "10.48550/arXiv.2605.24279",
-      "arxivId": "2605.24279",
-      "pdf": null,
-      "citationCount": 1,
-      "referenceCount": 91,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 5,
-      "direction": "forward",
-      "score": 83.33333333333334,
-      "why": "past year · cites 5 in Core",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "348a0ce5ed4b16f34ab2ba6bcef3248d3b81698c",
-      "title": "The Missing Layer: Specification Infrastructure for AI Oversight",
-      "authors": [
-        "Satyam Kumar",
-        "Saurabh Jha"
+      "topAuthors": [
+        {
+          "name": "Jusheng Zhang",
+          "hIndex": 15,
+          "authorId": "2344795356"
+        },
+        {
+          "name": "Wen-Hao Wang",
+          "hIndex": 6,
+          "authorId": "2280328057"
+        }
       ],
+      "affiliations": [],
       "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-07-26",
-      "summary": "This work introduces CARMA, a Layer 2 prototype for autonomous ETL agents in which one specification drives enforcement, evaluation, and escalation, with every decision traceable to a versioned specification, naming what AI oversight is missing and giving independent teams principles to build the missing pieces so they compose.",
-      "url": "https://www.semanticscholar.org/paper/348a0ce5ed4b16f34ab2ba6bcef3248d3b81698c",
-      "doi": "10.48550/arXiv.2607.24866",
-      "arxivId": "2607.24866",
+      "venue": null,
+      "publicationDate": "2026-08-11",
+      "summary": "The right unit of safety in agentic AI is the trajectory-with-checkable-evidence, not the model, and this work formalizes an Agent Trajectory Schema and Evidence Chain, state a compositional gating proposition based on standard monitor composition, and outline a research agenda.",
+      "url": "https://www.semanticscholar.org/paper/a55c25e2717a6cf7b74f8cf0e0be7e94d7bbe49f",
+      "doi": null,
+      "arxivId": "2608.11274",
       "pdf": null,
       "citationCount": 0,
-      "referenceCount": 26,
+      "referenceCount": 92,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 5,
+      "addedAt": "2026-09-15",
+      "overlap": 6,
       "direction": "forward",
-      "score": 83.33333333333334,
-      "why": "past year · cites 5 in Core",
+      "score": 65.00459811402281,
+      "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
     {
-      "id": "9d55c16f696a1085b65756aa8d8058b03d26a893",
-      "title": "Artificial Jagged Intelligence as Uneven Optimization Energy Allocation Capability Concentration, Redistribution, and Optimization Governance",
+      "id": "97307df78c99c73a52c0c01f847b5b3d4f235756",
+      "title": "We Think, Therefore We Align LLMs to Helpful, Harmless and Honest Before They Go Wrong",
       "authors": [
-        "W. Shu",
-        "Peng Wei"
+        "G. Kashyap",
+        "M. Dras",
+        "Usman Naseem"
+      ],
+      "topAuthors": [
+        {
+          "name": "M. Dras",
+          "hIndex": 37,
+          "authorId": "1795294"
+        },
+        {
+          "name": "G. Kashyap",
+          "hIndex": 13,
+          "authorId": "2138567368"
+        }
+      ],
+      "affiliations": [],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "publicationDate": "2025-09-26",
+      "summary": "Adaptive Multi-Branch Steering (AMBS), a two-stage framework in a 1-to-N Transformer setting that parameterizes objective-specific transformations relative to a shared representation, is proposed.",
+      "url": "https://www.semanticscholar.org/paper/97307df78c99c73a52c0c01f847b5b3d4f235756",
+      "doi": "10.48550/arXiv.2509.22510",
+      "arxivId": "2509.22510",
+      "pdf": null,
+      "citationCount": 4,
+      "referenceCount": 50,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 4,
+      "direction": "forward",
+      "score": 64.50900682630368,
+      "why": "past year · cites 4 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "a39068cc41776b34cd9b8a3a016579c01b953195",
+      "title": "Scaling Reward Modeling without Human Supervision",
+      "authors": [
+        "Jingxuan Fan",
+        "Yueying Li",
+        "Zhenting Qi",
+        "Dinghuai Zhang",
+        "Kianté Brantley",
+        "S. Kakade",
+        "Han-Lin Zhang",
+        "Hanlin Zhang"
+      ],
+      "topAuthors": [
+        {
+          "name": "S. Kakade",
+          "hIndex": 97,
+          "authorId": "144695232"
+        },
+        {
+          "name": "Hanlin Zhang",
+          "hIndex": 16,
+          "authorId": "2119078297"
+        }
+      ],
+      "affiliations": [
+        "Harvard University"
       ],
       "year": 2026,
       "venue": "arXiv.org",
-      "publicationDate": "2026-05-02",
-      "summary": "A formal theory of AJI as uneven allocation of optimization pressure is developed, predicting that early concentration of update energy should forecast later capability jaggedness; that scaling under a narrow objective need not eliminate anisotropy; and that explicitly funded auxiliary objectives can revive neglected capabilities.",
-      "url": "https://www.semanticscholar.org/paper/9d55c16f696a1085b65756aa8d8058b03d26a893",
-      "doi": "10.48550/arXiv.2605.01420",
-      "arxivId": "2605.01420",
+      "publicationDate": "2026-02-11",
+      "summary": "Overall, this work demonstrates the feasibility and promise of training reward models without costly and potentially unreliable human annotations and operationalizes reward-based scaling, in its simplest form, as preference learning over document prefixes and suffixes drawn from large-scale web corpora.",
+      "url": "https://www.semanticscholar.org/paper/a39068cc41776b34cd9b8a3a016579c01b953195",
+      "doi": "10.48550/arXiv.2603.02225",
+      "arxivId": "2603.02225",
       "pdf": null,
       "citationCount": 0,
-      "referenceCount": 40,
+      "referenceCount": 60,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 5,
       "direction": "forward",
-      "score": 83.33333333333334,
-      "why": "past year · cites 5 in Core",
+      "score": 61.42477286802688,
+      "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
     {
-      "id": "b73dd5190c7e467cb3826e57fdd9413b64e51251",
-      "title": "Competition for attention predicts good-to-bad tipping in AI",
+      "id": "29903da4ed5aed0fdd44d039c48c588914b3d087",
+      "title": "Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning",
       "authors": [
-        "Neil F. Johnson",
-        "F. Huo"
+        "Pranav Sawant",
+        "Jakub Krejčí"
       ],
+      "topAuthors": [
+        {
+          "name": "Jakub Krejčí",
+          "hIndex": 1,
+          "authorId": "2342751265"
+        },
+        {
+          "name": "Pranav Sawant",
+          "hIndex": 0,
+          "authorId": "2139947829"
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": "arXiv.org",
-      "publicationDate": "2026-02-16",
-      "summary": "It is shown that a large class of potentially dangerous tipping originates at the atomistic scale in such edge AI due to competition for the machinery's attention, which yields a mathematical formula for the dynamical tipping point n*, governed by dot-product competition for attention between the conversation's context and competing output basins, that reveals new control levers.",
-      "url": "https://www.semanticscholar.org/paper/b73dd5190c7e467cb3826e57fdd9413b64e51251",
-      "doi": "10.48550/arXiv.2602.14370",
-      "arxivId": "2602.14370",
+      "publicationDate": "2026-07-08",
+      "summary": "This article offers a comprehensive overview of mechanistic interpretability, an emerging field that seeks to reverse-engineer the internal algorithms of modern neural networks, and explores methods for actively controlling and modifying model behavior through steering vectors and causal interventions.",
+      "url": "https://www.semanticscholar.org/paper/29903da4ed5aed0fdd44d039c48c588914b3d087",
+      "doi": "10.48550/arXiv.2607.07316",
+      "arxivId": "2607.07316",
       "pdf": null,
       "citationCount": 0,
-      "referenceCount": 53,
+      "referenceCount": 58,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 5,
+      "addedAt": "2026-09-15",
+      "overlap": 4,
       "direction": "forward",
-      "score": 83.33333333333334,
-      "why": "past year · cites 5 in Core",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "da118fcb0229a1a59bb508073272cc4a2b165659",
-      "title": "Affective AI Safety: The Missing Piece in LLM Safety",
-      "authors": [
-        "Carolin Iflander",
-        "Alba Curry",
-        "F. Plaza-del-Arco",
-        "A. C. Curry"
-      ],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-06-22",
-      "summary": "It is argued that affective safety requires dedicated frameworks that engage with cumulative, relational, and identity-level effects and identifies recurring harm types: affective self-alienation, fairness and bias harms, and relational harms.",
-      "url": "https://www.semanticscholar.org/paper/da118fcb0229a1a59bb508073272cc4a2b165659",
-      "doi": "10.48550/arXiv.2606.23380",
-      "arxivId": "2606.23380",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 74,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 5,
-      "direction": "forward",
-      "score": 83.33333333333334,
-      "why": "past year · cites 5 in Core",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "8274d25eff5483adf4aceab5c7834eadb65c4fb5",
-      "title": "Runtime configuration for situated governance of AI agents: a case study in investigative journalism",
-      "authors": [
-        "Nick Hagar",
-        "Nick Diakopoulos"
-      ],
-      "year": 2026,
-      "venue": "AI and Ethics",
-      "publicationDate": "2026-08-10",
-      "summary": "",
-      "url": "https://www.semanticscholar.org/paper/8274d25eff5483adf4aceab5c7834eadb65c4fb5",
-      "doi": "10.1007/s43681-026-01298-7",
-      "arxivId": null,
-      "pdf": "https://link.springer.com/content/pdf/10.1007/s43681-026-01298-7.pdf",
-      "citationCount": 0,
-      "referenceCount": 63,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 5,
-      "direction": "forward",
-      "score": 83.33333333333334,
-      "why": "past year · cites 5 in Core",
+      "score": 60.37202784715786,
+      "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -583,6 +680,21 @@
       "authors": [
         "Irene Solaiman",
         "Christy Dennison"
+      ],
+      "topAuthors": [
+        {
+          "name": "Irene Solaiman",
+          "hIndex": 9,
+          "authorId": "1404060690"
+        },
+        {
+          "name": "Christy Dennison",
+          "hIndex": 3,
+          "authorId": "1468636850"
+        }
+      ],
+      "affiliations": [
+        "OpenAI (United States)"
       ],
       "year": 2021,
       "venue": "Neural Information Processing Systems",
@@ -596,11 +708,11 @@
       "referenceCount": 41,
       "influentialCitationCount": 12,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 7,
       "direction": "backward",
-      "score": 100,
-      "why": "cited by 7 in Core",
+      "score": 99.28531500397766,
+      "why": "cited by 7 in your list",
       "fromReferences": false
     },
     {
@@ -632,6 +744,19 @@
         "Robert Trager",
         "Kevin Wolf"
       ],
+      "topAuthors": [
+        {
+          "name": "Anton Korinek",
+          "hIndex": 31,
+          "authorId": "4645245"
+        },
+        {
+          "name": "Gillian K. Hadfield",
+          "hIndex": 30,
+          "authorId": "40051700"
+        }
+      ],
+      "affiliations": [],
       "year": 2023,
       "venue": "arXiv.org",
       "publicationDate": "2023-07-06",
@@ -644,11 +769,182 @@
       "referenceCount": 249,
       "influentialCitationCount": 11,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 6,
       "direction": "forward",
-      "score": 100,
-      "why": "cites 6 in Core",
+      "score": 84.15728725262291,
+      "why": "cites 6 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "e8ea0333cae8a6e0b42ccbce654f6093ecbeab31",
+      "title": "PENDULUM: A Benchmark for Assessing Sycophancy in Multimodal Large Language Models",
+      "authors": [
+        "A. B. M. Ashikur Rahman",
+        "Saeed Anwar",
+        "Muhammad Usman",
+        "Irfan Ahmad",
+        "Ajmal Mian"
+      ],
+      "topAuthors": [
+        {
+          "name": "Saeed Anwar",
+          "hIndex": 5,
+          "authorId": "2297845544"
+        },
+        {
+          "name": "Ajmal Mian",
+          "hIndex": 5,
+          "authorId": "2290752695"
+        }
+      ],
+      "affiliations": [],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "publicationDate": "2025-12-22",
+      "summary": "A comprehensive evaluation benchmark, \\textit{PENDULUM}, comprises approximately 2,000 human-curated Visual Question Answering pairs specifically designed to elicit sycophantic responses, and proposes novel metrics to quantify sycophancy in visual reasoning, offering deeper insights into its manifestations across different multimodal contexts.",
+      "url": "https://www.semanticscholar.org/paper/e8ea0333cae8a6e0b42ccbce654f6093ecbeab31",
+      "doi": "10.48550/arXiv.2512.19350",
+      "arxivId": "2512.19350",
+      "pdf": null,
+      "citationCount": 3,
+      "referenceCount": 42,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 77.29263849118931,
+      "why": "cites 2 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "e51db6be1c84759e5a78fa5bce1d9fb886168bb7",
+      "title": "LLM Self-Recognition: Steering and Retrieving Activation Signatures",
+      "authors": [
+        "Thibaud Ardoin",
+        "Jonas Schäfer",
+        "Gerhard Wunder"
+      ],
+      "topAuthors": [
+        {
+          "name": "Gerhard Wunder",
+          "hIndex": 3,
+          "authorId": "2273988684"
+        },
+        {
+          "name": "Thibaud Ardoin",
+          "hIndex": 2,
+          "authorId": "2132557282"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-06-04",
+      "summary": "This work creates a detectable fingerprint that enables attribution of a given text to a specific LLM by steering the internal residual stream during generation with a random sparse vector, and demonstrates that activation spaces contain exploitable structure for encoding signals without semantic interference.",
+      "url": "https://www.semanticscholar.org/paper/e51db6be1c84759e5a78fa5bce1d9fb886168bb7",
+      "doi": "10.48550/arXiv.2606.06315",
+      "arxivId": "2606.06315",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 33,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 77.02644676417285,
+      "why": "cites 2 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "12d16f426edc6ab248fb476007bd1646282d4d68",
+      "title": "Language Model Behavior: A Comprehensive Survey",
+      "authors": [
+        "Tyler A. Chang",
+        "B. Bergen"
+      ],
+      "topAuthors": [
+        {
+          "name": "B. Bergen",
+          "hIndex": 31,
+          "authorId": "24316216"
+        },
+        {
+          "name": "Tyler A. Chang",
+          "hIndex": 12,
+          "authorId": "2087001989"
+        }
+      ],
+      "affiliations": [
+        "UC San Diego"
+      ],
+      "year": 2023,
+      "venue": "International Conference on Computational Logic",
+      "publicationDate": "2023-03-20",
+      "summary": "Over 250 recent studies of English language model behavior before task-specific fine-tuning are discussed, synthesizing recent results to highlight what is currently known about large language model capabilities, thus providing a resource for applied work and for research in adjacent fields that use language models.",
+      "url": "https://www.semanticscholar.org/paper/12d16f426edc6ab248fb476007bd1646282d4d68",
+      "doi": "10.1162/coli_a_00492",
+      "arxivId": "2303.11504",
+      "pdf": "https://direct.mit.edu/coli/article-pdf/doi/10.1162/coli_a_00492/2177312/coli_a_00492.pdf",
+      "citationCount": 181,
+      "referenceCount": 393,
+      "influentialCitationCount": 6,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 74.58647646110661,
+      "why": "cites 5 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "f05c288caeb9a14ef387e6867934ced3d2200259",
+      "title": "SALMON: Self-Alignment with Instructable Reward Models",
+      "authors": [
+        "Zhiqing Sun",
+        "Yikang Shen",
+        "Hongxin Zhang",
+        "Qinhong Zhou",
+        "Zhenfang Chen",
+        "David D. Cox",
+        "Yiming Yang",
+        "Chuang Gan"
+      ],
+      "topAuthors": [
+        {
+          "name": "Zhiqing Sun",
+          "hIndex": 26,
+          "authorId": "48064856"
+        },
+        {
+          "name": "Zhenfang Chen",
+          "hIndex": 25,
+          "authorId": "2111329651"
+        }
+      ],
+      "affiliations": [
+        "Carnegie Mellon University",
+        "UMass Amherst"
+      ],
+      "year": 2023,
+      "venue": "International Conference on Learning Representations",
+      "publicationDate": "2023-10-09",
+      "summary": "This paper presents a novel approach, namely SALMON, to align base language models with minimal human supervision, using only a small set of human-defined principles, yet achieving superior performance in LLM-based AI agents.",
+      "url": "https://www.semanticscholar.org/paper/f05c288caeb9a14ef387e6867934ced3d2200259",
+      "doi": null,
+      "arxivId": "2310.05910",
+      "pdf": null,
+      "citationCount": 66,
+      "referenceCount": 137,
+      "influentialCitationCount": 7,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 74.3510822623793,
+      "why": "cites 5 in your list",
       "fromReferences": false
     },
     {
@@ -674,6 +970,22 @@
         "Jack Clark",
         "Deep Ganguli"
       ],
+      "topAuthors": [
+        {
+          "name": "Esin Durmus",
+          "hIndex": 35,
+          "authorId": "41152329"
+        },
+        {
+          "name": "Jared Kaplan",
+          "hIndex": 33,
+          "authorId": "2053807409"
+        }
+      ],
+      "affiliations": [
+        "Stanford University",
+        "OpenAI"
+      ],
       "year": 2023,
       "venue": "arXiv.org",
       "publicationDate": "2023-06-28",
@@ -686,11 +998,11 @@
       "referenceCount": 95,
       "influentialCitationCount": 35,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 5,
       "direction": "forward",
-      "score": 83.33333333333334,
-      "why": "cites 5 in Core",
+      "score": 72.7498823768391,
+      "why": "cites 5 in your list",
       "fromReferences": false
     },
     {
@@ -725,6 +1037,22 @@
         "Sam Bowman",
         "Ethan Perez"
       ],
+      "topAuthors": [
+        {
+          "name": "Ethan Perez",
+          "hIndex": 27,
+          "authorId": "3439053"
+        },
+        {
+          "name": "Sam Bowman",
+          "hIndex": 24,
+          "authorId": "1799822"
+        }
+      ],
+      "affiliations": [
+        "Stanford University",
+        "University of Washington"
+      ],
       "year": 2023,
       "venue": "Trans. Mach. Learn. Res.",
       "publicationDate": "2023-06-15",
@@ -737,37 +1065,56 @@
       "referenceCount": 68,
       "influentialCitationCount": 19,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 5,
       "direction": "forward",
-      "score": 83.33333333333334,
-      "why": "cites 5 in Core",
+      "score": 71.49604773438529,
+      "why": "cites 5 in your list",
       "fromReferences": false
     },
     {
-      "id": "12d16f426edc6ab248fb476007bd1646282d4d68",
-      "title": "Language Model Behavior: A Comprehensive Survey",
+      "id": "4a047c2e07bdaabc7064e5ba6c37a246e9a82ab0",
+      "title": "Many-Tier Instruction Hierarchy in LLM Agents",
       "authors": [
-        "Tyler A. Chang",
-        "B. Bergen"
+        "Jingyu Zhang",
+        "Tianjian Li",
+        "William Jurayj",
+        "Hongyuan Zhan",
+        "Benjamin Van Durme",
+        "Daniel Khashabi"
       ],
-      "year": 2023,
-      "venue": "International Conference on Computational Logic",
-      "publicationDate": "2023-03-20",
-      "summary": "Over 250 recent studies of English language model behavior before task-specific fine-tuning are discussed, synthesizing recent results to highlight what is currently known about large language model capabilities, thus providing a resource for applied work and for research in adjacent fields that use language models.",
-      "url": "https://www.semanticscholar.org/paper/12d16f426edc6ab248fb476007bd1646282d4d68",
-      "doi": "10.1162/coli_a_00492",
-      "arxivId": "2303.11504",
-      "pdf": "https://direct.mit.edu/coli/article-pdf/doi/10.1162/coli_a_00492/2177312/coli_a_00492.pdf",
-      "citationCount": 181,
-      "referenceCount": 393,
-      "influentialCitationCount": 6,
+      "topAuthors": [
+        {
+          "name": "Benjamin Van Durme",
+          "hIndex": 18,
+          "authorId": "2292194313"
+        },
+        {
+          "name": "Daniel Khashabi",
+          "hIndex": 9,
+          "authorId": "2319593572"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
+      ],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-04-10",
+      "summary": "This work proposes Many-Tier Instruction Hierarchy (ManyIH), a paradigm for resolving instruction conflicts among instructions with arbitrarily many privilege levels, and introduces ManyIH-Bench, the first benchmark for ManyIH.",
+      "url": "https://www.semanticscholar.org/paper/4a047c2e07bdaabc7064e5ba6c37a246e9a82ab0",
+      "doi": "10.48550/arXiv.2604.09443",
+      "arxivId": "2604.09443",
+      "pdf": null,
+      "citationCount": 6,
+      "referenceCount": 41,
+      "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 5,
+      "addedAt": "2026-09-15",
+      "overlap": 2,
       "direction": "forward",
-      "score": 83.33333333333334,
-      "why": "cites 5 in Core",
+      "score": 71.4034574160125,
+      "why": "cites 2 in your list",
       "fromReferences": false
     }
   ]

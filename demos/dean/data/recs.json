@@ -1,37 +1,6 @@
 {
-  "updatedAt": "2026-09-14T12:23:02.820Z",
+  "updatedAt": "2026-09-15T02:06:20.799Z",
   "recs": [
-    {
-      "id": "7e28af1c40db66532e63627f28e16c8c19158231",
-      "title": "Empowering Compact LLMs with Fusion of Layer-wise Exits for Recommendation",
-      "authors": [
-        "Xurong Liang",
-        "Tong Chen",
-        "Q. Nguyen",
-        "Jianxin Li",
-        "Xiangliang Zhang",
-        "Hongzhi Yin"
-      ],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-08-18",
-      "summary": "The Fusion of Layer-wise Exits for Sequential Recommendation (FLEXRec), a discriminative framework that enhances compact LLMs while retaining scalable full-corpus ranking and achieves state-of-the-art accuracy among competing methods while remaining highly efficient.",
-      "url": "https://www.semanticscholar.org/paper/7e28af1c40db66532e63627f28e16c8c19158231",
-      "doi": null,
-      "arxivId": "2608.17316",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 56,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 3,
-      "direction": "forward",
-      "score": 75,
-      "why": "past month · cites 3 in Core",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
     {
       "id": "53defead4bd7ac00bd30f0aa0a05e02e9e4c4cc7",
       "title": "From Concentration to Differentiation and Back: Routing Effective Rank in MoE Reasoning Cohorts",
@@ -41,6 +10,19 @@
         "Yi-Xin Cao",
         "Yu-Gang Jiang"
       ],
+      "topAuthors": [
+        {
+          "name": "Yu-Gang Jiang",
+          "hIndex": 4,
+          "authorId": "2336013998"
+        },
+        {
+          "name": "Kang Chen",
+          "hIndex": 2,
+          "authorId": "2371440255"
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-09-06",
@@ -53,239 +35,55 @@
       "referenceCount": 52,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 75,
-      "why": "past month · cites 3 in Core",
+      "score": 37.55408367056158,
+      "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
     },
     {
-      "id": "1009a0c28254e978b3d0491381320084bcc21535",
-      "title": "A survey of LLMs in drug discovery and precision medicine",
+      "id": "7e28af1c40db66532e63627f28e16c8c19158231",
+      "title": "Empowering Compact LLMs with Fusion of Layer-wise Exits for Recommendation",
       "authors": [
-        "Hasi Hays",
-        "William J. Richardson"
+        "Xurong Liang",
+        "Tong Chen",
+        "Q. Nguyen",
+        "Jian-Xin Li",
+        "Xiangliang Zhang",
+        "Hongzhi Yin"
       ],
-      "year": 2026,
-      "venue": "Frontiers in Drug Discovery",
-      "publicationDate": "2026-08-20",
-      "summary": "This comprehensive review examines the state-of-the-art applications of LLMs across the drug development pipeline, spanning target identification, molecular generation, property prediction, and drug repurposing in drug discovery, as well as clinical decision support, patient stratification, treatment personalization, and genomic interpretation in precision medicine.",
-      "url": "https://www.semanticscholar.org/paper/1009a0c28254e978b3d0491381320084bcc21535",
-      "doi": "10.3389/fddsv.2026.1854899",
-      "arxivId": null,
-      "pdf": "https://doi.org/10.3389/fddsv.2026.1854899",
-      "citationCount": 2,
-      "referenceCount": 124,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 2,
-      "direction": "forward",
-      "score": 50,
-      "why": "past month · cites 2 in Core",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
-    {
-      "id": "ae4082c3a5863fb7780ecc330469ac57d7970bef",
-      "title": "Structure Aware Neural Architecture Search for Mixture of Experts",
-      "authors": [
-        "Petr Babkin",
-        "O. Bakhteev"
+      "topAuthors": [
+        {
+          "name": "Hongzhi Yin",
+          "hIndex": 14,
+          "authorId": "2267513105"
+        },
+        {
+          "name": "Q. Nguyen",
+          "hIndex": 8,
+          "authorId": "2248231751"
+        }
       ],
+      "affiliations": [],
       "year": 2026,
       "venue": null,
-      "publicationDate": "2026-08-30",
-      "summary": "An architecture search framework that makes the alignment between experts and the structure of the data an explicit search variable and ensures that the assignment of data clusters to experts is optimised jointly with the per-expert architectures is proposed.",
-      "url": "https://www.semanticscholar.org/paper/ae4082c3a5863fb7780ecc330469ac57d7970bef",
+      "publicationDate": "2026-08-18",
+      "summary": "The Fusion of Layer-wise Exits for Sequential Recommendation (FLEXRec), a discriminative framework that enhances compact LLMs while retaining scalable full-corpus ranking and achieves state-of-the-art accuracy among competing methods while remaining highly efficient.",
+      "url": "https://www.semanticscholar.org/paper/7e28af1c40db66532e63627f28e16c8c19158231",
       "doi": null,
-      "arxivId": "2608.29817",
+      "arxivId": "2608.17316",
       "pdf": null,
       "citationCount": 0,
-      "referenceCount": 48,
+      "referenceCount": 56,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 2,
+      "addedAt": "2026-09-15",
+      "overlap": 3,
       "direction": "forward",
-      "score": 50,
-      "why": "past month · cites 2 in Core",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
-    {
-      "id": "4db6621db1a372b1cd78f66ce1e13064bac69455",
-      "title": "Training-free monitoring of SCF convergence using large language models: a case study of magnetic transition metal oxides with VASP",
-      "authors": [
-        "Siying Wu",
-        "Xu Han",
-        "Huan Ma",
-        "Wenping Guo"
-      ],
-      "year": 2026,
-      "venue": "Computational materials science",
-      "publicationDate": "2026-09-01",
-      "summary": "",
-      "url": "https://www.semanticscholar.org/paper/4db6621db1a372b1cd78f66ce1e13064bac69455",
-      "doi": "10.1016/j.commatsci.2026.114981",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 41,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 2,
-      "direction": "forward",
-      "score": 50,
-      "why": "past month · cites 2 in Core",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
-    {
-      "id": "6a10b90cf3514d0b49fd40ac155f8610068ef4e0",
-      "title": "Load balancing for large language model inference serving: A control and learning oriented survey",
-      "authors": [
-        "Hanbo Ma",
-        "Zhongguo Li",
-        "Ju-Nan Wang",
-        "Chun-Yi Cao",
-        "Dong-Lin Li",
-        "Jun Yang",
-        "Zheng-Tao Ding"
-      ],
-      "year": 2026,
-      "venue": "Neurocomputing",
-      "publicationDate": "2026-09-01",
-      "summary": "",
-      "url": "https://www.semanticscholar.org/paper/6a10b90cf3514d0b49fd40ac155f8610068ef4e0",
-      "doi": "10.1016/j.neucom.2026.134973",
-      "arxivId": null,
-      "pdf": "https://doi.org/10.2139/ssrn.6946157",
-      "citationCount": 0,
-      "referenceCount": 103,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 2,
-      "direction": "forward",
-      "score": 50,
-      "why": "past month · cites 2 in Core",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
-    {
-      "id": "ee1925d2e4d608becf30ebe4314823f2e39fcd54",
-      "title": "STAR: instruction tuning for Arabic across tasks, datasets, and models",
-      "authors": [
-        "Maged Saeed Al-shaibani",
-        "Zaid Alyafeai",
-        "Irfan Ahmad"
-      ],
-      "year": 2026,
-      "venue": "Language Resources and Evaluation",
-      "publicationDate": "2026-08-29",
-      "summary": "An in-depth evaluation of instruction tuning for Arabic NLP tasks using three prominent LLMs: LLaMA 3.1-8B, AceGPT-v2-8B, and Qwen3-8B shows that instruction tuning consistently improves performance across most tasks, with notable variations in effectiveness across different tasks and prompts.",
-      "url": "https://www.semanticscholar.org/paper/ee1925d2e4d608becf30ebe4314823f2e39fcd54",
-      "doi": "10.1007/s10579-026-09942-8",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 58,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 2,
-      "direction": "forward",
-      "score": 50,
-      "why": "past month · cites 2 in Core",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
-    {
-      "id": "1cb5102209d7863c53ea905203ed7f2a4b6c8007",
-      "title": "The Entropy of Artificial Cognition: Deciphering the Anthropogenic Footprint and Multilingual Energetic Tax of Large Language Models",
-      "authors": [
-        "Anaswara K. S.",
-        "Krishna Mukundan M"
-      ],
-      "year": 2026,
-      "venue": "International Journal of Technology and Emerging Research",
-      "publicationDate": "2026-08-23",
-      "summary": "It is concluded that future AI research should give equal importance to energy efficiency and performance instead of focusing only on improving accuracy, and adopting Green AI practices will improve transparency, increase accountability, and support the long-term sustainability of AI technologies.",
-      "url": "https://www.semanticscholar.org/paper/1cb5102209d7863c53ea905203ed7f2a4b6c8007",
-      "doi": "10.64823/ijter.2621020",
-      "arxivId": null,
-      "pdf": "https://ioro.org/article/527589896563/pdf",
-      "citationCount": 0,
-      "referenceCount": 37,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 2,
-      "direction": "forward",
-      "score": 50,
-      "why": "past month · cites 2 in Core",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
-    {
-      "id": "9d01c67bd7329cfe2976405243f29f0fe30a8772",
-      "title": "Mixture-of-experts and gating mechanisms in multimodal biomedical learning: a routing-centric analysis",
-      "authors": [
-        "Ba-Duy Nguyen",
-        "Van-Dung Hoang",
-        "Hien D. Nguyen"
-      ],
-      "year": 2026,
-      "venue": "Network Modeling Analysis in Health Informatics and Bioinformatics",
-      "publicationDate": "2026-09-12",
-      "summary": "A novel three-axis taxonomy covering Gating Architecture, Application Level, and Supporting Techniques is proposed and a controlled comparison of six gating architectures on three biomedical benchmarks shows that the five Axis 1 gating types produce measurably distinct performance profiles and that no single architecture dominates across all settings.",
-      "url": "https://www.semanticscholar.org/paper/9d01c67bd7329cfe2976405243f29f0fe30a8772",
-      "doi": "10.1007/s13721-026-00871-8",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 89,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 2,
-      "direction": "forward",
-      "score": 50,
-      "why": "past month · cites 2 in Core",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
-    {
-      "id": "f3519582974814b35a5890b6a951042fc5e107cd",
-      "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
-      "authors": [
-        "Atindra Jha",
-        "Margaret Li",
-        "J. Leskovec",
-        "Percy Liang",
-        "Luke S. Zettlemoyer"
-      ],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-09-10",
-      "summary": "This work addresses the adverse interactions between sparsity and data repetition, and presents evidence for the core mechanisms of overfitting and its potential remediation, and suggests promising avenues for future methods to reduce over-specialization in model parameters by disrupting memorization patterns.",
-      "url": "https://www.semanticscholar.org/paper/f3519582974814b35a5890b6a951042fc5e107cd",
-      "doi": null,
-      "arxivId": "2609.11917",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 32,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 2,
-      "direction": "forward",
-      "score": 50,
-      "why": "past month · cites 2 in Core",
+      "score": 24.99733316861548,
+      "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
     },
@@ -301,6 +99,19 @@
         "Mohammad Sadrosadati",
         "Onur Mutlu"
       ],
+      "topAuthors": [
+        {
+          "name": "Mohammad Sadrosadati",
+          "hIndex": 20,
+          "authorId": "2287617441"
+        },
+        {
+          "name": "Onur Mutlu",
+          "hIndex": 18,
+          "authorId": "2239200492"
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": "International Symposium on High-Performance Computer Architecture",
       "publicationDate": "2026-01-24",
@@ -313,39 +124,219 @@
       "referenceCount": 198,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 75,
-      "why": "past year · cites 3 in Core",
+      "score": 42.46270805830028,
+      "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
     {
-      "id": "db722b24f66ecb1be4803be189942e5324021523",
-      "title": "A Queueing-Theoretic Framework for Stability Analysis of LLM Inference with KV Cache Memory Constraints",
+      "id": "aed222f8a88b7828f1a02cce0a93fa147a6086bc",
+      "title": "APEX: Adaptive Expert Prefetching for Memory-Efficient Edge MoE Inference",
       "authors": [
-        "Chengyi Nie",
-        "Nian Si",
-        "Zijie Zhou"
+        "Alish Kanani",
+        "Layan Badawi",
+        "U. Ogras"
       ],
+      "topAuthors": [
+        {
+          "name": "U. Ogras",
+          "hIndex": 31,
+          "authorId": "117025233"
+        },
+        {
+          "name": "Alish Kanani",
+          "hIndex": 5,
+          "authorId": "1874624023"
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-05-06",
-      "summary": "This paper introduces the first queueing-theoretic framework that explicitly incorporates both computation and GPU memory constraints into the analysis of LLM inference, and derives rigorous stability and instability conditions that determine whether an LLM inference service can sustain incoming demand without unbounded queue growth.",
-      "url": "https://www.semanticscholar.org/paper/db722b24f66ecb1be4803be189942e5324021523",
-      "doi": "10.48550/arXiv.2605.04595",
-      "arxivId": "2605.04595",
+      "venue": null,
+      "publicationDate": "2026-08-12",
+      "summary": "The results establish adaptive, confidence-driven expert prefetching as an effective approach for efficient MoE inference on edge systems.",
+      "url": "https://www.semanticscholar.org/paper/aed222f8a88b7828f1a02cce0a93fa147a6086bc",
+      "doi": null,
+      "arxivId": "2608.11688",
       "pdf": null,
-      "citationCount": 3,
-      "referenceCount": 42,
+      "citationCount": 1,
+      "referenceCount": 56,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 75,
-      "why": "past year · cites 3 in Core",
+      "score": 31.78868288614442,
+      "why": "past year · cites 3 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "5ae7ae205a5c8e5c6c0a488b91ada1cc7bb00530",
+      "title": "MLSYSIM: First-Principles Infrastructure Modeling for Machine Learning Systems",
+      "authors": [
+        "V. Reddi"
+      ],
+      "topAuthors": [
+        {
+          "name": "V. Reddi",
+          "hIndex": 46,
+          "authorId": "1805668"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-06-28",
+      "summary": "This work presents MLSYSIM (Machine Learning Systems Infrastructure Modeling), a first-principles analytical framework that formalizes the physics of systems into a dimensionally-strict Python engine, and enforces unit integrity at runtime so the silent conversion errors that plague ad-hoc modeling cannot occur.",
+      "url": "https://www.semanticscholar.org/paper/5ae7ae205a5c8e5c6c0a488b91ada1cc7bb00530",
+      "doi": "10.48550/arXiv.2607.02558",
+      "arxivId": "2607.02558",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 74,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 28.70916808210297,
+      "why": "past year · cites 3 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "11c13d0d045a3444157a854a247ed8ed9f9d10e2",
+      "title": "The Climate Impact Paradox of Artificial Intelligence: Literature Review and Research Prospects",
+      "authors": [
+        "Zhan-Ming Chen",
+        "Qiyang Xiong",
+        "Zitong Hu",
+        "Shiyu Liu",
+        "Jianhong Ma"
+      ],
+      "topAuthors": [
+        {
+          "name": "Shiyu Liu",
+          "hIndex": 5,
+          "authorId": "2131173404"
+        },
+        {
+          "name": "Jianhong Ma",
+          "hIndex": 4,
+          "authorId": "2315658969"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "Journal of Energy and Climate Change",
+      "publicationDate": "2026-01-01",
+      "summary": "It is argued that relying solely on exogenous technological progress is insufficient to mitigate the environmental risks of AI and it is imperative to construct a comprehensive governance framework that encompasses full life-cycle carbon footprint accounting, software-hardware synergetic innovation, and market-based incentive mechanisms.",
+      "url": "https://www.semanticscholar.org/paper/11c13d0d045a3444157a854a247ed8ed9f9d10e2",
+      "doi": "10.3724/j.issn.2097-4981.jecc-2025-0385",
+      "arxivId": null,
+      "pdf": "https://www.sciengine.com/doi/pdf/244C259834E54F3DAE4364E50B073C37",
+      "citationCount": 0,
+      "referenceCount": 110,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 27.315404848068713,
+      "why": "past year · cites 3 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "b9288a865205dcfa55bc16cfd8cff9cbdd4ec4ad",
+      "title": "The Carbon Footprint of Intelligence: The Environment cost of LLMs",
+      "authors": [
+        "Devyansh Jain",
+        "Archit Agarwal",
+        "Subhanshu Baliyan",
+        "R. Kanagaraj"
+      ],
+      "topAuthors": [
+        {
+          "name": "R. Kanagaraj",
+          "hIndex": 2,
+          "authorId": "2337120724"
+        },
+        {
+          "name": "Devyansh Jain",
+          "hIndex": 1,
+          "authorId": "2337117459"
+        }
+      ],
+      "affiliations": [
+        "Vellore Institute of Technology University"
+      ],
+      "year": 2025,
+      "venue": "2025 9th International Conference on Electronics, Communication and Aerospace Technology (ICECA)",
+      "publicationDate": "2025-11-05",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/b9288a865205dcfa55bc16cfd8cff9cbdd4ec4ad",
+      "doi": "10.1109/ICECA66444.2025.11383190",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 1,
+      "referenceCount": 29,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 26.552495141946224,
+      "why": "past year · cites 3 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "f468ecacdbbc0d9807ad190df7d1519ec3f84536",
+      "title": "MoE-Prefill: Zero Redundancy Overheads in MoE Prefill Serving",
+      "authors": [
+        "Zhaoyuan Su",
+        "Olatunji Ruwase",
+        "Karthik Ganesan",
+        "Aurick Qiao",
+        "Samyam Rajbhandari",
+        "Juncheng Yang",
+        "Yue Cheng",
+        "Yuxiong He"
+      ],
+      "topAuthors": [
+        {
+          "name": "Olatunji Ruwase",
+          "hIndex": 25,
+          "authorId": "2537545"
+        },
+        {
+          "name": "Samyam Rajbhandari",
+          "hIndex": 23,
+          "authorId": "32817044"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-05-03",
+      "summary": "MoE-Prefill is proposed, a prefill-only serving system whose backend, AsyncEP (Asynchronous Expert Parallelism), gathers experts by weight rather than routing them by activation, and whose frontend co-enforces a physically-derived saturation threshold through prefix-aware routing and true-FLOPs load tracking.",
+      "url": "https://www.semanticscholar.org/paper/f468ecacdbbc0d9807ad190df7d1519ec3f84536",
+      "doi": "10.48550/arXiv.2605.02960",
+      "arxivId": "2605.02960",
+      "pdf": null,
+      "citationCount": 1,
+      "referenceCount": 75,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 25.531635817566027,
+      "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -450,6 +441,21 @@
         "Arina Sugako",
         "Jason R. Warner"
       ],
+      "topAuthors": [
+        {
+          "name": "M. Artoni",
+          "hIndex": 23,
+          "authorId": "4009560"
+        },
+        {
+          "name": "Filippos Christianos",
+          "hIndex": 13,
+          "authorId": "3448899"
+        }
+      ],
+      "affiliations": [
+        "Huawei Noah's Ark Lab"
+      ],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-05-26",
@@ -462,11 +468,60 @@
       "referenceCount": 98,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 75,
-      "why": "past year · cites 3 in Core",
+      "score": 25.453884130356048,
+      "why": "past year · cites 3 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "8405ea27ba425c2b453c252f958ccafdc8cc8458",
+      "title": "3D-IRMM-Net: An Interpretable Radiologist-Mimicking 3D Multimodal Network for Lesion Detection in ABUS With LLM-Based Guidance and Uncertainty Quantification",
+      "authors": [
+        "Xin Qian",
+        "Wei Ke",
+        "Luoxi Zhu",
+        "Yue Sun",
+        "Jiajia Lu",
+        "Zhang Xiong",
+        "Lingyun Bao",
+        "Tao Tan"
+      ],
+      "topAuthors": [
+        {
+          "name": "Wei Ke",
+          "hIndex": 9,
+          "authorId": "2283973495"
+        },
+        {
+          "name": "Xin Qian",
+          "hIndex": 5,
+          "authorId": "2269135298"
+        }
+      ],
+      "affiliations": [
+        "Macao Polytechnic University",
+        "Westlake University"
+      ],
+      "year": 2026,
+      "venue": "IEEE transactions on circuits and systems for video technology (Print)",
+      "publicationDate": "2026-08-01",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/8405ea27ba425c2b453c252f958ccafdc8cc8458",
+      "doi": "10.1109/TCSVT.2026.3682663",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 47,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 24.603473475752903,
+      "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -484,6 +539,22 @@
         "Guowei Zhang",
         "Hong-Yang Jia"
       ],
+      "topAuthors": [
+        {
+          "name": "Yongpan Liu",
+          "hIndex": 38,
+          "authorId": "2442306"
+        },
+        {
+          "name": "Hong-Yang Jia",
+          "hIndex": 7,
+          "authorId": "2291080993"
+        }
+      ],
+      "affiliations": [
+        "Tsinghua University",
+        "Huawei Technologies (United Kingdom)"
+      ],
       "year": 2026,
       "venue": "International Symposium on Computer Architecture",
       "publicationDate": "2026-06-01",
@@ -496,188 +567,54 @@
       "referenceCount": 115,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 75,
-      "why": "past year · cites 3 in Core",
+      "score": 24.057647075646823,
+      "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
     {
-      "id": "f468ecacdbbc0d9807ad190df7d1519ec3f84536",
-      "title": "MoE-Prefill: Zero Redundancy Overheads in MoE Prefill Serving",
+      "id": "7cd98d2ea17a2cef71efd479aca3696035f27199",
+      "title": "A survey of large language models: techniques, applications, and challenges",
       "authors": [
-        "Zhaoyuan Su",
-        "Olatunji Ruwase",
-        "Karthik Ganesan",
-        "Aurick Qiao",
-        "Samyam Rajbhandari",
-        "Juncheng Yang",
-        "Yue Cheng",
-        "Yuxiong He"
+        "Jiajie Ji",
+        "Xueqing Zhao",
+        "Xin Shi"
+      ],
+      "topAuthors": [
+        {
+          "name": "Xueqing Zhao",
+          "hIndex": 16,
+          "authorId": "150345544"
+        },
+        {
+          "name": "Xin Shi",
+          "hIndex": 6,
+          "authorId": "2110331657"
+        }
+      ],
+      "affiliations": [
+        "Xi'an Polytechnic University"
       ],
       "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-05-03",
-      "summary": "MoE-Prefill is proposed, a prefill-only serving system whose backend, AsyncEP (Asynchronous Expert Parallelism), gathers experts by weight rather than routing them by activation, and whose frontend co-enforces a physically-derived saturation threshold through prefix-aware routing and true-FLOPs load tracking.",
-      "url": "https://www.semanticscholar.org/paper/f468ecacdbbc0d9807ad190df7d1519ec3f84536",
-      "doi": "10.48550/arXiv.2605.02960",
-      "arxivId": "2605.02960",
-      "pdf": null,
-      "citationCount": 1,
-      "referenceCount": 75,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 3,
-      "direction": "forward",
-      "score": 75,
-      "why": "past year · cites 3 in Core",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "733313a872bd3f646eb987ac67ae1292f9904221",
-      "title": "Evaluating ChatGPT on Medical Information Extraction Tasks: Performance, Explainability and Beyond",
-      "authors": [
-        "Liz Li",
-        "Wei Zhu"
-      ],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-01-29",
-      "summary": "Assessing the overall ability of ChatGPT in 4 different medical information extraction (MedIE) tasks across 6 benchmark datasets reveals that ChatGPT can provide high-quality explanations for its decisions, however, ChatGPT is over-confident in its predcitions.",
-      "url": "https://www.semanticscholar.org/paper/733313a872bd3f646eb987ac67ae1292f9904221",
-      "doi": "10.48550/arXiv.2601.21767",
-      "arxivId": "2601.21767",
-      "pdf": null,
-      "citationCount": 1,
-      "referenceCount": 139,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 3,
-      "direction": "forward",
-      "score": 75,
-      "why": "past year · cites 3 in Core",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "1bdf0abf1f062d9d134bae46a2411c5388ed2807",
-      "title": "Beyond mimicry: a framework for evaluating genuine intelligence in artificial systems",
-      "authors": [
-        "Sarfaraz K. Niazi"
-      ],
-      "year": 2026,
-      "venue": "Frontiers Artif. Intell.",
-      "publicationDate": "2026-01-12",
-      "summary": "The Machine Perturbational Complexity & Agency Battery (mPCAB) introduces a new, substrate-independent framework that applies neurophysiological methods used initially to assess consciousness in artificial systems, supporting the development of mind-like machines and responsible AI advancements.",
-      "url": "https://www.semanticscholar.org/paper/1bdf0abf1f062d9d134bae46a2411c5388ed2807",
-      "doi": "10.3389/frai.2025.1686752",
+      "venue": "Multimedia Systems",
+      "publicationDate": "2026-05-06",
+      "summary": "This survey presents a systematic and comprehensive overview of LLMs, articulating their evolution through a lens of performance-efficiency-cost trade-offs, and develops an integrated analytical framework of “three-dimensional trade-off + scenario adaptation”.",
+      "url": "https://www.semanticscholar.org/paper/7cd98d2ea17a2cef71efd479aca3696035f27199",
+      "doi": "10.1007/s00530-026-02288-9",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 1,
-      "referenceCount": 268,
+      "citationCount": 0,
+      "referenceCount": 143,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 3,
       "direction": "forward",
-      "score": 75,
-      "why": "past year · cites 3 in Core",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "b8aa44b8e7e62ac1966b3d06b0e56cded1d18647",
-      "title": "Beyond Fast and Slow: Cognitive-Inspired Elastic Reasoning for Large Language Models",
-      "authors": [
-        "Jinwu Hu",
-        "Dong Yang",
-        "Lang-Yu Bian",
-        "Z. Wen",
-        "Yufeng Wang",
-        "Yaofo Chen",
-        "Bin Xiao",
-        "Yuanqing Li",
-        "Mingkui Tan"
-      ],
-      "year": 2025,
-      "venue": "arXiv.org",
-      "publicationDate": "2025-12-17",
-      "summary": "CogER is proposed, a framework inspired by human hierarchical reasoning that dynamically selects the most suitable reasoning strategy for each query, and introduces Cognitive Tool-Ass Reasoning, which enables the LLM to autonomously invoke external tools within its chain-of-thought.",
-      "url": "https://www.semanticscholar.org/paper/b8aa44b8e7e62ac1966b3d06b0e56cded1d18647",
-      "doi": "10.48550/arXiv.2512.15089",
-      "arxivId": "2512.15089",
-      "pdf": null,
-      "citationCount": 1,
-      "referenceCount": 107,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 3,
-      "direction": "forward",
-      "score": 75,
-      "why": "past year · cites 3 in Core",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "b9288a865205dcfa55bc16cfd8cff9cbdd4ec4ad",
-      "title": "The Carbon Footprint of Intelligence: The Environment cost of LLMs",
-      "authors": [
-        "Devyansh Jain",
-        "Archit Agarwal",
-        "Subhanshu Baliyan",
-        "R. Kanagaraj"
-      ],
-      "year": 2025,
-      "venue": "2025 9th International Conference on Electronics, Communication and Aerospace Technology (ICECA)",
-      "publicationDate": "2025-11-05",
-      "summary": "",
-      "url": "https://www.semanticscholar.org/paper/b9288a865205dcfa55bc16cfd8cff9cbdd4ec4ad",
-      "doi": "10.1109/ICECA66444.2025.11383190",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 1,
-      "referenceCount": 29,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 3,
-      "direction": "forward",
-      "score": 75,
-      "why": "past year · cites 3 in Core",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "aed222f8a88b7828f1a02cce0a93fa147a6086bc",
-      "title": "APEX: Adaptive Expert Prefetching for Memory-Efficient Edge MoE Inference",
-      "authors": [
-        "Alish Kanani",
-        "Layan Badawi",
-        "U. Ogras"
-      ],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-08-12",
-      "summary": "The results establish adaptive, confidence-driven expert prefetching as an effective approach for efficient MoE inference on edge systems.",
-      "url": "https://www.semanticscholar.org/paper/aed222f8a88b7828f1a02cce0a93fa147a6086bc",
-      "doi": null,
-      "arxivId": "2608.11688",
-      "pdf": null,
-      "citationCount": 1,
-      "referenceCount": 56,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 3,
-      "direction": "forward",
-      "score": 75,
-      "why": "past year · cites 3 in Core",
+      "score": 23.763088256430294,
+      "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -713,6 +650,21 @@
         "Z. Chen",
         "Claire Cui"
       ],
+      "topAuthors": [
+        {
+          "name": "Quoc V. Le",
+          "hIndex": 122,
+          "authorId": "2827616"
+        },
+        {
+          "name": "Yonghui Wu",
+          "hIndex": 65,
+          "authorId": "48607963"
+        }
+      ],
+      "affiliations": [
+        "Inflection AI"
+      ],
       "year": 2021,
       "venue": "International Conference on Machine Learning",
       "publicationDate": "2021-12-13",
@@ -721,15 +673,67 @@
       "doi": null,
       "arxivId": "2112.06905",
       "pdf": null,
-      "citationCount": 1320,
+      "citationCount": 1324,
       "referenceCount": 108,
       "influentialCitationCount": 83,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 8,
       "direction": "backward",
       "score": 100,
-      "why": "cited by 8 in Core",
+      "why": "cited by 8 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "e4d34cf851ccf75b69dc4597ebc58316ae5350c2",
+      "title": "Towards Automatic and Agile AI/ML Accelerator Design with End-to-End Synthesis",
+      "authors": [
+        "J. Zhang",
+        "Nicolas Bohm Agostini",
+        "Shihao Song",
+        "Cheng Tan",
+        "Ankur Limaye",
+        "V. Amatya",
+        "Joseph Manzano",
+        "Marco Minutoli",
+        "Vito Giovanni Castellana",
+        "Antonino Tumeo",
+        "Gu-Yeon Wei",
+        "D. Brooks"
+      ],
+      "topAuthors": [
+        {
+          "name": "D. Brooks",
+          "hIndex": 63,
+          "authorId": "1896817"
+        },
+        {
+          "name": "Gu-Yeon Wei",
+          "hIndex": 54,
+          "authorId": "2255803"
+        }
+      ],
+      "affiliations": [
+        "Pacific Northwest National Laboratory",
+        "Harvard University Press"
+      ],
+      "year": 2021,
+      "venue": "IEEE International Conference on Application-Specific Systems, Architectures, and Processors",
+      "publicationDate": "2021-07-01",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/e4d34cf851ccf75b69dc4597ebc58316ae5350c2",
+      "doi": "10.1109/ASAP52443.2021.00040",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 13,
+      "referenceCount": 48,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 98.3848331165324,
+      "why": "cites 3 in your list",
       "fromReferences": false
     },
     {
@@ -740,6 +744,22 @@
         "Sebastian Ruder",
         "Ivan Vulic",
         "E. Ponti"
+      ],
+      "topAuthors": [
+        {
+          "name": "Sebastian Ruder",
+          "hIndex": 57,
+          "authorId": "2884561"
+        },
+        {
+          "name": "Ivan Vulic",
+          "hIndex": 57,
+          "authorId": "1747849"
+        }
+      ],
+      "affiliations": [
+        "Cohere",
+        "Technical University Darmstadt"
       ],
       "year": 2023,
       "venue": "Trans. Mach. Learn. Res.",
@@ -753,63 +773,11 @@
       "referenceCount": 329,
       "influentialCitationCount": 6,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 4,
       "direction": "forward",
-      "score": 100,
-      "why": "cites 4 in Core",
-      "fromReferences": false
-    },
-    {
-      "id": "6645dbe724e3826904f1bb0e74bb194b63c829a6",
-      "title": "Mix-of-Language-Experts Architecture for Multilingual Programming",
-      "authors": [
-        "Yifan Zong",
-        "Yun-Tian Deng",
-        "Peng-Yu Nie"
-      ],
-      "year": 2025,
-      "venue": "2025 IEEE/ACM International Workshop on Large Language Models for Code (LLM4Code)",
-      "publicationDate": "2025-05-03",
-      "summary": "This paper introduces MOLE (Mix-of-Language-Experts), a novel architecture that balances efficiency and specialization for multilingual programming and achieves greater parameter efficiency compared to training separate language-specific LoRAs while outperforming a single shared LLM finetuned for all programming languages in terms of accuracy.",
-      "url": "https://www.semanticscholar.org/paper/6645dbe724e3826904f1bb0e74bb194b63c829a6",
-      "doi": "10.1109/LLM4Code66737.2025.00030",
-      "arxivId": "2506.18923",
-      "pdf": null,
-      "citationCount": 2,
-      "referenceCount": 47,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 4,
-      "direction": "forward",
-      "score": 100,
-      "why": "cites 4 in Core",
-      "fromReferences": false
-    },
-    {
-      "id": "7080caab6265c6432a3eeb1328ab64a6e3bd4a08",
-      "title": "Multipath agents for modular multitask ML systems",
-      "authors": [
-        "Andrea Gesmundo"
-      ],
-      "year": 2023,
-      "venue": "arXiv.org",
-      "publicationDate": "2023-02-06",
-      "summary": "This work introduces a novel methodology allowing to define multiple methods as distinct agents capable of activating in parallel multiple modules in a frozen state by connecting them with trainable modules.",
-      "url": "https://www.semanticscholar.org/paper/7080caab6265c6432a3eeb1328ab64a6e3bd4a08",
-      "doi": "10.48550/arXiv.2302.02721",
-      "arxivId": "2302.02721",
-      "pdf": "http://arxiv.org/pdf/2302.02721",
-      "citationCount": 1,
-      "referenceCount": 63,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 4,
-      "direction": "forward",
-      "score": 100,
-      "why": "cites 4 in Core",
+      "score": 97.2247300705974,
+      "why": "cites 4 in your list",
       "fromReferences": false
     },
     {
@@ -826,6 +794,21 @@
         "Noam Shazeer",
         "Z. Chen"
       ],
+      "topAuthors": [
+        {
+          "name": "Z. Chen",
+          "hIndex": 59,
+          "authorId": "2545358"
+        },
+        {
+          "name": "Orhan Firat",
+          "hIndex": 47,
+          "authorId": "2345617"
+        }
+      ],
+      "affiliations": [
+        "Google"
+      ],
       "year": 2020,
       "venue": "International Conference on Learning Representations",
       "publicationDate": "2020-06-30",
@@ -834,15 +817,522 @@
       "doi": null,
       "arxivId": "2006.16668",
       "pdf": null,
-      "citationCount": 2332,
+      "citationCount": 2338,
       "referenceCount": 99,
-      "influentialCitationCount": 217,
+      "influentialCitationCount": 218,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 8,
       "direction": "backward",
-      "score": 89.27441582517453,
-      "why": "cited by 8 in Core",
+      "score": 87.62396436487907,
+      "why": "cited by 8 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "7080caab6265c6432a3eeb1328ab64a6e3bd4a08",
+      "title": "Multipath agents for modular multitask ML systems",
+      "authors": [
+        "Andrea Gesmundo"
+      ],
+      "topAuthors": [
+        {
+          "name": "Andrea Gesmundo",
+          "hIndex": 16,
+          "authorId": "2813347"
+        }
+      ],
+      "affiliations": [],
+      "year": 2023,
+      "venue": "arXiv.org",
+      "publicationDate": "2023-02-06",
+      "summary": "This work introduces a novel methodology allowing to define multiple methods as distinct agents capable of activating in parallel multiple modules in a frozen state by connecting them with trainable modules.",
+      "url": "https://www.semanticscholar.org/paper/7080caab6265c6432a3eeb1328ab64a6e3bd4a08",
+      "doi": "10.48550/arXiv.2302.02721",
+      "arxivId": "2302.02721",
+      "pdf": "http://arxiv.org/pdf/2302.02721",
+      "citationCount": 1,
+      "referenceCount": 63,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 4,
+      "direction": "forward",
+      "score": 87.04547572015211,
+      "why": "cites 4 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "68f141724814839d556a989646194be88641b143",
+      "title": "Scaling Language Models: Methods, Analysis & Insights from Training Gopher",
+      "authors": [
+        "Jack W. Rae",
+        "Sebastian Borgeaud",
+        "Trevor Cai",
+        "Katie Milli-can",
+        "Jordan Hoffmann",
+        "Francis Song",
+        "John Aslanides",
+        "Sarah Henderson",
+        "Roman Ring",
+        "Susannah Young",
+        "Eliza Rutherford",
+        "T. Hennigan",
+        "Jacob Menick",
+        "Albin Cassirer",
+        "Richard Powell",
+        "George van den Driessche",
+        "Lisa Anne Hendricks",
+        "Maribeth Rauh",
+        "Po-Sen Huang",
+        "A. Glaese",
+        "Johannes Welbl",
+        "Sumanth Dathathri",
+        "Saffron Huang",
+        "Jonathan Uesato",
+        "John F. J. Mellor",
+        "I. Higgins",
+        "Antonia Creswell",
+        "Nat McAleese",
+        "Amy Wu",
+        "Erich Elsen",
+        "Siddhant M. Jayakumar",
+        "Elena Buchatskaya",
+        "D. Budden",
+        "Esme Sutherland",
+        "K. Simonyan",
+        "Michela Paganini",
+        "L. Sifre",
+        "L. Martens",
+        "Xiang Lorraine Li",
+        "Adhiguna Kuncoro",
+        "Aida Nematzadeh",
+        "E. Gribovskaya",
+        "Domenic Donato",
+        "Angeliki Lazaridou",
+        "Arthur Mensch",
+        "Jean-Baptiste Lespiau",
+        "M. Tsimpoukelli",
+        "N. Grigorev",
+        "Doug Fritz",
+        "Thibault Sottiaux",
+        "Mantas Pajarskas",
+        "Tobias Pohlen",
+        "Z. Gong",
+        "Daniel Toyama",
+        "Cyprien de Masson d'Autume",
+        "Yujia Li",
+        "Tayfun Terzi",
+        "Vladimir Mikulik",
+        "Igor Babuschkin",
+        "Aidan Clark",
+        "Diego de Las Casas",
+        "Aurelia Guy",
+        "Chris Jones",
+        "James Bradbury",
+        "Matthew G. Johnson",
+        "Blake A. Hechtman",
+        "Laura Weidinger",
+        "Iason Gabriel",
+        "William S. Isaac",
+        "Edward Lockhart",
+        "Simon Osindero",
+        "Laura Rimell",
+        "Chris Dyer",
+        "O. Vinyals",
+        "Kareem W. Ayoub",
+        "J. Stanway",
+        "L. Bennett",
+        "D. Hassabis",
+        "K. Kavukcuoglu",
+        "G. Irving"
+      ],
+      "topAuthors": [
+        {
+          "name": "O. Vinyals",
+          "hIndex": 102,
+          "authorId": "1689108"
+        },
+        {
+          "name": "D. Hassabis",
+          "hIndex": 92,
+          "authorId": "48987704"
+        }
+      ],
+      "affiliations": [
+        "DeepMind",
+        "UMASS Amherst"
+      ],
+      "year": 2021,
+      "venue": "arXiv.org",
+      "publicationDate": "2021-12-08",
+      "summary": "This paper presents an analysis of Transformer-based language model performance across a wide range of model scales -- from models with tens of millions of parameters up to a 280 billion parameter model called Gopher.",
+      "url": "https://www.semanticscholar.org/paper/68f141724814839d556a989646194be88641b143",
+      "doi": null,
+      "arxivId": "2112.11446",
+      "pdf": null,
+      "citationCount": 1666,
+      "referenceCount": 0,
+      "influentialCitationCount": 101,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 7,
+      "direction": "backward",
+      "score": 83.51686131806095,
+      "why": "cited by 7 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "title": "Scaling Laws for Neural Language Models",
+      "authors": [
+        "J. Kaplan",
+        "Sam McCandlish",
+        "T. Henighan",
+        "Tom B. Brown",
+        "Benjamin Chess",
+        "R. Child",
+        "Scott Gray",
+        "Alec Radford",
+        "Jeff Wu",
+        "Dario Amodei"
+      ],
+      "topAuthors": [
+        {
+          "name": "J. Kaplan",
+          "hIndex": 43,
+          "authorId": "152724169"
+        },
+        {
+          "name": "Alec Radford",
+          "hIndex": 33,
+          "authorId": "38909097"
+        }
+      ],
+      "affiliations": [
+        "OpenAI"
+      ],
+      "year": 2020,
+      "venue": "arXiv.org",
+      "publicationDate": "2020-01-23",
+      "summary": "Larger models are significantly more sample-efficient, such that optimally compute-efficient training involves training very large models on a relatively modest amount of data and stopping significantly before convergence.",
+      "url": "https://www.semanticscholar.org/paper/e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "doi": null,
+      "arxivId": "2001.08361",
+      "pdf": null,
+      "citationCount": 8984,
+      "referenceCount": 59,
+      "influentialCitationCount": 628,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 9,
+      "direction": "backward",
+      "score": 74.3899872605726,
+      "why": "cited by 9 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "f0b31fdf53ad60df454afd4ec8633b3aeb347bff",
+      "title": "Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning",
+      "authors": [
+        "Dongze Lian",
+        "Daquan Zhou",
+        "Jiashi Feng",
+        "Xinchao Wang"
+      ],
+      "topAuthors": [
+        {
+          "name": "Xinchao Wang",
+          "hIndex": 68,
+          "authorId": "48631088"
+        },
+        {
+          "name": "Jiashi Feng",
+          "hIndex": 47,
+          "authorId": "1698982"
+        }
+      ],
+      "affiliations": [],
+      "year": 2022,
+      "venue": "Neural Information Processing Systems",
+      "publicationDate": "2022-10-17",
+      "summary": "Different from some existing parameter-efficient fine-tuning methods that introduce the extra parameters and computational cost in the training and inference stages, SSF only adds learnable parameters during the training stage, and these additional parameters can be merged into the original pre-trained model weights via re-parameterization in the inference phase.",
+      "url": "https://www.semanticscholar.org/paper/f0b31fdf53ad60df454afd4ec8633b3aeb347bff",
+      "doi": "10.48550/arXiv.2210.08823",
+      "arxivId": "2210.08823",
+      "pdf": "http://arxiv.org/pdf/2210.08823",
+      "citationCount": 409,
+      "referenceCount": 112,
+      "influentialCitationCount": 50,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 74.16089327029786,
+      "why": "cites 3 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "6645dbe724e3826904f1bb0e74bb194b63c829a6",
+      "title": "Mix-of-Language-Experts Architecture for Multilingual Programming",
+      "authors": [
+        "Yifan Zong",
+        "Yun-Tian Deng",
+        "Peng-Yu Nie"
+      ],
+      "topAuthors": [
+        {
+          "name": "Peng-Yu Nie",
+          "hIndex": 3,
+          "authorId": "2326731294"
+        },
+        {
+          "name": "Yifan Zong",
+          "hIndex": 2,
+          "authorId": "2116896487"
+        }
+      ],
+      "affiliations": [
+        "University of Waterloo"
+      ],
+      "year": 2025,
+      "venue": "2025 IEEE/ACM International Workshop on Large Language Models for Code (LLM4Code)",
+      "publicationDate": "2025-05-03",
+      "summary": "This paper introduces MOLE (Mix-of-Language-Experts), a novel architecture that balances efficiency and specialization for multilingual programming and achieves greater parameter efficiency compared to training separate language-specific LoRAs while outperforming a single shared LLM finetuned for all programming languages in terms of accuracy.",
+      "url": "https://www.semanticscholar.org/paper/6645dbe724e3826904f1bb0e74bb194b63c829a6",
+      "doi": "10.1109/LLM4Code66737.2025.00030",
+      "arxivId": "2506.18923",
+      "pdf": null,
+      "citationCount": 2,
+      "referenceCount": 47,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 4,
+      "direction": "forward",
+      "score": 72.92207791434913,
+      "why": "cites 4 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "4a8964ea0de47010fb458021b68fa3ef5c4b77b2",
+      "title": "Primer: Searching for Efficient Transformers for Language Modeling",
+      "authors": [
+        "David R. So",
+        "Wojciech Ma'nke",
+        "Hanxiao Liu",
+        "Zihang Dai",
+        "Noam Shazeer",
+        "Quoc V. Le"
+      ],
+      "topAuthors": [
+        {
+          "name": "Quoc V. Le",
+          "hIndex": 122,
+          "authorId": "2827616"
+        },
+        {
+          "name": "Noam Shazeer",
+          "hIndex": 40,
+          "authorId": "1846258"
+        }
+      ],
+      "affiliations": [
+        "Google",
+        "Google Brain"
+      ],
+      "year": 2021,
+      "venue": "Neural Information Processing Systems",
+      "publicationDate": "2021-09-17",
+      "summary": "This work identifies an architecture, named Primer, that has a smaller training cost than the original Transformer and other variants for auto-regressive language modeling, and proves empirically that Primer can be dropped into different codebases to significantly speed up training without additional tuning.",
+      "url": "https://www.semanticscholar.org/paper/4a8964ea0de47010fb458021b68fa3ef5c4b77b2",
+      "doi": null,
+      "arxivId": "2109.08668",
+      "pdf": null,
+      "citationCount": 229,
+      "referenceCount": 60,
+      "influentialCitationCount": 19,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 4,
+      "direction": "backward",
+      "score": 70.96625165690253,
+      "why": "cited by 4 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "1ed66e048bb025e75aa5ea660545285212e5341f",
+      "title": "Scaling Up Models and Data with t5x and seqio",
+      "authors": [
+        "Adam Roberts",
+        "Hyung Won Chung",
+        "Anselm Levskaya",
+        "Gaurav Mishra",
+        "James Bradbury",
+        "D. Andor",
+        "Sharan Narang",
+        "Brian Lester",
+        "Colin Gaffney",
+        "Afroz Mohiuddin",
+        "Curtis Hawthorne",
+        "Aitor Lewkowycz",
+        "Alexandru Salcianu",
+        "Marc van Zee",
+        "Jacob Austin",
+        "Sebastian Goodman",
+        "Livio Baldini Soares",
+        "Hai-Tang Hu",
+        "Sasha Tsvyashchenko",
+        "A. Chowdhery",
+        "Jasmijn Bastings",
+        "Jannis Bulian",
+        "Xavier García",
+        "Jianmo Ni",
+        "Andre Chen",
+        "Kathleen Kenealy",
+        "J. Clark",
+        "Stephan Lee",
+        "Dan Garrette",
+        "J. Lee-Thorp",
+        "Colin Raffel",
+        "Noam Shazeer",
+        "Marvin Ritter",
+        "Maarten Bosma",
+        "Alexandre Passos",
+        "Jeremy B. Maitin-Shepard",
+        "Noah Fiedel",
+        "Mark Omernick",
+        "Brennan Saeta",
+        "Ryan Sepassi",
+        "A. Spiridonov",
+        "Joshua Newlan",
+        "Andrea Gesmundo"
+      ],
+      "topAuthors": [
+        {
+          "name": "Colin Raffel",
+          "hIndex": 59,
+          "authorId": "2402716"
+        },
+        {
+          "name": "Adam Roberts",
+          "hIndex": 40,
+          "authorId": "145625142"
+        }
+      ],
+      "affiliations": [
+        "Google",
+        "Google DeepMind"
+      ],
+      "year": 2022,
+      "venue": "Journal of machine learning research",
+      "publicationDate": "2022-03-31",
+      "summary": "Two software libraries are presented that simplifies the process of building and training large language models at scale while maintaining ease of use and provides a task-based API for simple creation of fast and reproducible training data and evaluation pipelines.",
+      "url": "https://www.semanticscholar.org/paper/1ed66e048bb025e75aa5ea660545285212e5341f",
+      "doi": "10.48550/arXiv.2203.17189",
+      "arxivId": "2203.17189",
+      "pdf": "http://arxiv.org/pdf/2203.17189",
+      "citationCount": 225,
+      "referenceCount": 25,
+      "influentialCitationCount": 11,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 4,
+      "direction": "backward",
+      "score": 69.90018752198058,
+      "why": "cited by 4 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "b568514ae2f52f199104f568773da3cf73f85f7c",
+      "title": "Hindsight Logging for Model Training",
+      "authors": [
+        "Rolando Garcia",
+        "Eric Liu",
+        "Vikram Sreekanti",
+        "Bobby Yan",
+        "Anusha Dandamudi",
+        "Joseph E. Gonzalez",
+        "Joseph M Hellerstein",
+        "Koushik Sen"
+      ],
+      "topAuthors": [
+        {
+          "name": "Joseph M Hellerstein",
+          "hIndex": 93,
+          "authorId": "1695576"
+        },
+        {
+          "name": "Joseph E. Gonzalez",
+          "hIndex": 68,
+          "authorId": "49988044"
+        }
+      ],
+      "affiliations": [
+        "UC Berkeley"
+      ],
+      "year": 2020,
+      "venue": "Proceedings of the VLDB Endowment",
+      "publicationDate": "2020-06-12",
+      "summary": "Flor, a record-replay system for hindsight logging in Python, is implemented and it is found that Flor replay achieves near-ideal scale-out and order-of-magnitude speedups in replay, with just 1.47% average runtime overhead from record.",
+      "url": "https://www.semanticscholar.org/paper/b568514ae2f52f199104f568773da3cf73f85f7c",
+      "doi": "10.14778/3436905.3436925",
+      "arxivId": "2006.07357",
+      "pdf": "https://arxiv.org/pdf/2006.07357",
+      "citationCount": 11,
+      "referenceCount": 72,
+      "influentialCitationCount": 1,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 68.65206632691437,
+      "why": "cites 2 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "8f49e3bbfe8239f34de5cac22df711743a59678c",
+      "title": "TRACER: A Framework for Facilitating Accurate and Interpretable Analytics for High Stakes Applications",
+      "authors": [
+        "Kaiping Zheng",
+        "Shaofeng Cai",
+        "H. Chua",
+        "Wei Wang",
+        "K. Ngiam",
+        "B. Ooi"
+      ],
+      "topAuthors": [
+        {
+          "name": "B. Ooi",
+          "hIndex": 82,
+          "authorId": "1693070"
+        },
+        {
+          "name": "K. Ngiam",
+          "hIndex": 27,
+          "authorId": "7452993"
+        }
+      ],
+      "affiliations": [
+        "National University of Singapore",
+        "National University Health System"
+      ],
+      "year": 2020,
+      "venue": "SIGMOD Conference",
+      "publicationDate": "2020-03-24",
+      "summary": "A general framework TRACER is proposed to facilitate accurate and interpretable predictions, with a novel model TITV devised for healthcare analytics and other high stakes applications such as financial investment and risk management.",
+      "url": "https://www.semanticscholar.org/paper/8f49e3bbfe8239f34de5cac22df711743a59678c",
+      "doi": "10.1145/3318464.3389720",
+      "arxivId": "2003.12012",
+      "pdf": "https://arxiv.org/pdf/2003.12012",
+      "citationCount": 33,
+      "referenceCount": 101,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 68.34215334194924,
+      "why": "cites 2 in your list",
       "fromReferences": false
     }
   ]

@@ -1,11 +1,21 @@
 {
-  "updatedAt": "2026-09-14T12:22:17.033Z",
+  "updatedAt": "2026-09-15T02:05:34.533Z",
   "recs": [
     {
       "id": "7c5e23306b57b06d97a1569f6fcd5300a12597bd",
       "title": "Neuromodulated Equilibrium Learning",
       "authors": [
         "Yoshimasa Kubo"
+      ],
+      "topAuthors": [
+        {
+          "name": "Yoshimasa Kubo",
+          "hIndex": 5,
+          "authorId": "22660793"
+        }
+      ],
+      "affiliations": [
+        "Lakehead University"
       ],
       "year": 2026,
       "venue": "bioRxiv",
@@ -19,124 +29,53 @@
       "referenceCount": 29,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 6,
+      "addedAt": "2026-09-15",
+      "overlap": 9,
       "direction": "forward",
-      "score": 25,
-      "why": "past month · cites 6 in Core",
+      "score": 38.737033038863835,
+      "why": "past month · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
     },
     {
-      "id": "f2dbdeba82c0786f885cce59d058d6bd89bc58ae",
-      "title": "Model Compression and Hardware-Aware Acceleration for Deep Learning on FPGAs: A Co-Design Taxonomy and Comparative Analysis",
+      "id": "1bddc89533854ea198ae7a0d271eac4329444425",
+      "title": "Equilibrium Propagation for Non-Conservative Systems",
       "authors": [
-        "Peter Forcha",
-        "H. Kajekusumadhar",
-        "Mbua Peter",
-        "M. Kawser,",
-        "A. Mo",
-        "Christophe Bobda"
+        "A. Scurria",
+        "Dimitri Vanden Abeele",
+        "B. Mognetti",
+        "Serge Massar"
       ],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-08-21",
-      "summary": "This survey restricted the scope to FPGAs alone and organized 25 compression-hardware co-design case studies into a five-category taxonomy defined by which FPGA resources each strategy primarily reshapes, formalizing six open challenges: toolchain fragmentation, accuracy--efficiency characterization, automated mixed-precision optimization, sparse computation reliability, persistent memory bottlenecks, and FPGA-based training.",
-      "url": "https://www.semanticscholar.org/paper/f2dbdeba82c0786f885cce59d058d6bd89bc58ae",
-      "doi": null,
-      "arxivId": "2608.21657",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 117,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 5,
-      "direction": "forward",
-      "score": 20.833333333333336,
-      "why": "past month · cites 5 in Core",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
-    {
-      "id": "2727b309dd77a1768890e75d1d7aeae8f6393bdf",
-      "title": "Pretraining Recurrent Networks without Recurrence",
-      "authors": [
-        "Akarsh Kumar",
-        "Phillip Isola"
+      "topAuthors": [
+        {
+          "name": "B. Mognetti",
+          "hIndex": 25,
+          "authorId": "37793177"
+        },
+        {
+          "name": "A. Scurria",
+          "hIndex": 21,
+          "authorId": "8428530"
+        }
       ],
+      "affiliations": [],
       "year": 2026,
       "venue": "arXiv.org",
-      "publicationDate": "2026-06-04",
-      "summary": "Supervised Memory Training is proposed, a method for training nonlinear RNNs that sidesteps recurrent credit propagation entirely by reducing RNN training to supervised learning on one-step memory transition labels and enables nonlinear RNNs to better capture long-range dependencies and train in parallel.",
-      "url": "https://www.semanticscholar.org/paper/2727b309dd77a1768890e75d1d7aeae8f6393bdf",
-      "doi": "10.48550/arXiv.2606.06479",
-      "arxivId": "2606.06479",
+      "publicationDate": "2026-02-03",
+      "summary": "The key property of equilibrium propagation is kept, namely the use of stationary states both for inference and learning, but the dynamics in the learning phase are modified by a term proportional to the non-reciprocal part of the interaction so as to obtain the exact gradient of the cost function.",
+      "url": "https://www.semanticscholar.org/paper/1bddc89533854ea198ae7a0d271eac4329444425",
+      "doi": "10.48550/arXiv.2602.03670",
+      "arxivId": "2602.03670",
       "pdf": null,
       "citationCount": 2,
-      "referenceCount": 139,
+      "referenceCount": 62,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 11,
+      "addedAt": "2026-09-15",
+      "overlap": 6,
       "direction": "forward",
-      "score": 45.83333333333333,
-      "why": "past year · cites 11 in Core",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "8d77c7d589d4ce2ca2449fd4e359b223c2d23f7e",
-      "title": "Dopamine-driven synaptic credit assignment in neural networks",
-      "authors": [
-        "Saranraj Nambusubramaniyan",
-        "Shervin Safavi",
-        "R. Guru",
-        "Andreas Knoblauch"
-      ],
-      "year": 2025,
-      "venue": "arXiv.org",
-      "publicationDate": "2025-10-25",
-      "summary": "A NeuroAI approach and inspiration from neural Reinforcement Learning are drawn to develop a derivative-free optimizer for training neural networks, Dopamine, which finds robust solutions and comparable performance to the state-of-the-art Machine Learning optimizers but is also neurobiologically more plausible.",
-      "url": "https://www.semanticscholar.org/paper/8d77c7d589d4ce2ca2449fd4e359b223c2d23f7e",
-      "doi": "10.48550/arXiv.2510.22178",
-      "arxivId": "2510.22178",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 97,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 8,
-      "direction": "forward",
-      "score": 33.33333333333333,
-      "why": "past year · cites 8 in Core",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "ac6381e7fc3e2e1f3696264c6f87de53a9229fe1",
-      "title": "Deep Learning in Medical Image Analysis",
-      "authors": [
-        "Minxi Mo"
-      ],
-      "year": 2025,
-      "venue": "Applied and Computational Engineering",
-      "publicationDate": "2025-12-03",
-      "summary": "The findings show that CNNs excel in image classification for diseases like pneumonia and skin lesions and U-Net demonstrates superior performance in tasks requiring precise spatial localization such as brain tumor segmentation.",
-      "url": "https://www.semanticscholar.org/paper/ac6381e7fc3e2e1f3696264c6f87de53a9229fe1",
-      "doi": "10.54254/2755-2721/2025.ld30225",
-      "arxivId": null,
-      "pdf": "https://www.ewadirect.com/proceedings/ace/article/view/30225/pdf",
-      "citationCount": 0,
-      "referenceCount": 76,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 8,
-      "direction": "forward",
-      "score": 33.33333333333333,
-      "why": "past year · cites 8 in Core",
+      "score": 30.174048419733072,
+      "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -148,6 +87,22 @@
         "V. Tkachuk",
         "Adam White",
         "Martha White"
+      ],
+      "topAuthors": [
+        {
+          "name": "Martha White",
+          "hIndex": 32,
+          "authorId": "144542337"
+        },
+        {
+          "name": "Adam White",
+          "hIndex": 20,
+          "authorId": "145240145"
+        }
+      ],
+      "affiliations": [
+        "University of Alberta",
+        "Deepmind"
       ],
       "year": 2026,
       "venue": "Trans. Mach. Learn. Res.",
@@ -161,63 +116,219 @@
       "referenceCount": 74,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 7,
+      "addedAt": "2026-09-15",
+      "overlap": 9,
       "direction": "forward",
-      "score": 29.166666666666668,
-      "why": "past year · cites 7 in Core",
+      "score": 27.77799774128187,
+      "why": "past year · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
     {
-      "id": "63376b609aea97cf2f6c530d6b8f5fa64d5b0a07",
-      "title": "Anomaly Detection using Deep Learning",
-      "authors": [],
+      "id": "d1bf5fb85b6a073038e66479b58940e066a62079",
+      "title": "Contrastive learning in tunable dynamical systems",
+      "authors": [
+        "M. Stern",
+        "Adam G. Frim",
+        "Ra'ul Cand'as",
+        "Andrea J. Liu",
+        "Vijay Balasubramanian"
+      ],
+      "topAuthors": [
+        {
+          "name": "M. Stern",
+          "hIndex": 5,
+          "authorId": "2261827981"
+        },
+        {
+          "name": "Adam G. Frim",
+          "hIndex": 3,
+          "authorId": "2037826247"
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
-      "venue": "International Research Journal of Modernization in Engineering Technology &amp; Science",
-      "publicationDate": "2026-04-15",
-      "summary": "An anomaly detection architecture is proposed that consists of two models: a normal model, which is a time series forecaster and predicts the next expected behavior of the system under healthy conditions, and an anomaly detector that identifies any failure by comparing the expected values with the actual observations.",
-      "url": "https://www.semanticscholar.org/paper/63376b609aea97cf2f6c530d6b8f5fa64d5b0a07",
-      "doi": "10.56726/irjmets85420",
-      "arxivId": null,
-      "pdf": "https://doi.org/10.56726/irjmets85420",
-      "citationCount": 1,
-      "referenceCount": 149,
+      "venue": null,
+      "publicationDate": "2026-03-27",
+      "summary": "If physical dynamics break time reversal symmetry, gradient descent on a cost function embodying the desired behavior cannot be achieved with a scalable process, even in principle, PAR learning processes are introduced, composed of a local contrastive learning rule and a scalable supervision protocol.",
+      "url": "https://www.semanticscholar.org/paper/d1bf5fb85b6a073038e66479b58940e066a62079",
+      "doi": null,
+      "arxivId": "2603.26969",
+      "pdf": null,
+      "citationCount": 2,
+      "referenceCount": 94,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 7,
+      "addedAt": "2026-09-15",
+      "overlap": 5,
       "direction": "forward",
-      "score": 29.166666666666668,
-      "why": "past year · cites 7 in Core",
+      "score": 26.701211832741013,
+      "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
     {
-      "id": "bf7638d1543bcc78416ca6e1e09864ece60408b3",
-      "title": "Practical Challenges in Applying QAT to RNN Models",
+      "id": "d7ae6be525e6761003ad0a614d6ad4d4b0346ad3",
+      "title": "Can Local Learning Match Self-Supervised Backpropagation?",
       "authors": [
-        "Barnali Basak",
-        "Sayan Pradhan",
-        "Dighanchal Banerjee"
+        "Zihan Wu",
+        "Ariane Delrocq",
+        "W. Gerstner",
+        "G. Bellec"
       ],
-      "year": 2025,
-      "venue": "2025 First International Conference on Intelligent Computing and Systems at the Edge (ICEdge)",
-      "publicationDate": "2025-12-18",
-      "summary": "",
-      "url": "https://www.semanticscholar.org/paper/bf7638d1543bcc78416ca6e1e09864ece60408b3",
-      "doi": "10.1109/ICEdge67252.2025.11412447",
-      "arxivId": null,
+      "topAuthors": [
+        {
+          "name": "W. Gerstner",
+          "hIndex": 80,
+          "authorId": "1708945"
+        },
+        {
+          "name": "G. Bellec",
+          "hIndex": 12,
+          "authorId": "3401407"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-01-29",
+      "summary": "The best local-SSL rule with the CLAPP loss function matches the performance of a comparable global BP-SSL with InfoNCE or CPC-like loss functions, and improves upon state-of-the-art for local SSL on these benchmarks.",
+      "url": "https://www.semanticscholar.org/paper/d7ae6be525e6761003ad0a614d6ad4d4b0346ad3",
+      "doi": "10.48550/arXiv.2601.21683",
+      "arxivId": "2601.21683",
+      "pdf": null,
+      "citationCount": 1,
+      "referenceCount": 89,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 7,
+      "direction": "forward",
+      "score": 24.17920285394998,
+      "why": "past year · cites 7 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "3885f624b96e2051588b5c1844d2c3c8af3c4ada",
+      "title": "Optical Implementation of Equilibrium Propagation Using Spatial Photonic Ising Machines",
+      "authors": [
+        "Dimitri Vanden Abeele",
+        "D. Veraldi",
+        "D. Pierangeli",
+        "C. Conti",
+        "Serge Massar"
+      ],
+      "topAuthors": [
+        {
+          "name": "D. Pierangeli",
+          "hIndex": 20,
+          "authorId": "5214932"
+        },
+        {
+          "name": "D. Veraldi",
+          "hIndex": 4,
+          "authorId": "2304453331"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-06-11",
+      "summary": "This work provides a concrete pathway toward energy-efficient physical implementations of Equilibrium Propagation using a Spatial Photonic Ising Machine (SPIM), which exploits the gauge transformation method to optically encode both continuous neuron states and rank-1 binary trainable patterns as phase modulations via a spatial light modulator.",
+      "url": "https://www.semanticscholar.org/paper/3885f624b96e2051588b5c1844d2c3c8af3c4ada",
+      "doi": "10.48550/arXiv.2606.13454",
+      "arxivId": "2606.13454",
       "pdf": null,
       "citationCount": 0,
-      "referenceCount": 41,
+      "referenceCount": 56,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 23.86743168061396,
+      "why": "past year · cites 5 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "b6aa63899436575868c95e6b2264ce08ea2e3c88",
+      "title": "Dendritic Wave Recurrent Neural Networks",
+      "authors": [
+        "Yoshimasa Kubo"
+      ],
+      "topAuthors": [
+        {
+          "name": "Yoshimasa Kubo",
+          "hIndex": 5,
+          "authorId": "22660793"
+        }
+      ],
+      "affiliations": [
+        "Lakehead University"
+      ],
+      "year": 2026,
+      "venue": "bioRxiv",
+      "publicationDate": "2026-07-09",
+      "summary": "The Dendritic Wave Recurrent Neural Network is introduced, which augments the input pathway of the wRNN with nonlinear basal dendritic branches while preserving the original recurrent wave dynamics and improves mean accuracy on three sequential image-classification benchmarks.",
+      "url": "https://www.semanticscholar.org/paper/b6aa63899436575868c95e6b2264ce08ea2e3c88",
+      "doi": "10.64898/2026.07.03.736415",
+      "arxivId": null,
+      "pdf": "https://www.biorxiv.org/content/biorxiv/early/2026/07/09/2026.07.03.736415.full.pdf",
+      "citationCount": 1,
+      "referenceCount": 23,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
       "overlap": 7,
       "direction": "forward",
-      "score": 29.166666666666668,
-      "why": "past year · cites 7 in Core",
+      "score": 23.67458354919121,
+      "why": "past year · cites 7 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "659e09a6223bb893ae1918c8a0306a28f0bc9036",
+      "title": "Sequential critical periods support efficient local representation learning in a model of visual processing",
+      "authors": [
+        "Ariane Delrocq",
+        "Zi-Han S. Wu",
+        "G. Bellec",
+        "W. Gerstner"
+      ],
+      "topAuthors": [
+        {
+          "name": "W. Gerstner",
+          "hIndex": 80,
+          "authorId": "1708945"
+        },
+        {
+          "name": "G. Bellec",
+          "hIndex": 12,
+          "authorId": "3401407"
+        }
+      ],
+      "affiliations": [
+        "École Polytechnique Fédérale de Lausanne"
+      ],
+      "year": 2026,
+      "venue": "bioRxiv",
+      "publicationDate": "2026-03-24",
+      "summary": "A hierarchical model of the visual stream that learns invariant representations using only local synaptic plasticity rules modulated by lateral predictive signals is presented, demonstrating that imposing staggered critical periods significantly enhances representation quality for local learning rules, whereas it degrades performance in backpropagation-based networks.",
+      "url": "https://www.semanticscholar.org/paper/659e09a6223bb893ae1918c8a0306a28f0bc9036",
+      "doi": "10.1101/2024.12.20.629674",
+      "arxivId": null,
+      "pdf": "https://doi.org/10.1101/2024.12.20.629674",
+      "citationCount": 2,
+      "referenceCount": 95,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 23.344027500123833,
+      "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -230,6 +341,21 @@
         "Yash Chennawar",
         "Aaron D. Milstein"
       ],
+      "topAuthors": [
+        {
+          "name": "Aaron D. Milstein",
+          "hIndex": 17,
+          "authorId": "4025076"
+        },
+        {
+          "name": "Alessandro R. Galloni",
+          "hIndex": 4,
+          "authorId": "1379652511"
+        }
+      ],
+      "affiliations": [
+        "Rutgers, The State University of New Jersey"
+      ],
       "year": 2026,
       "venue": "Cell Reports",
       "publicationDate": "2026-03-26",
@@ -238,15 +364,64 @@
       "doi": "10.1016/j.celrep.2026.117159",
       "arxivId": null,
       "pdf": "https://doi.org/10.1016/j.celrep.2026.117159",
-      "citationCount": 2,
+      "citationCount": 3,
       "referenceCount": 158,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
+      "overlap": 7,
+      "direction": "forward",
+      "score": 22.361752702738215,
+      "why": "past year · cites 7 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "2fa559ae829ee67d408ae70def72d07b852701b1",
+      "title": "Adjoint propagation of error signal through modular recurrent neural networks for biologically plausible learning",
+      "authors": [
+        "Zhuo Liu",
+        "Hao Shu",
+        "Linmiao Wang",
+        "Xue-Fei Meng",
+        "You-Sheng Wang",
+        "Xuan-Cheng Li",
+        "Wei Wang",
+        "Tao Chen"
+      ],
+      "topAuthors": [
+        {
+          "name": "Xue-Fei Meng",
+          "hIndex": 6,
+          "authorId": "2115698265"
+        },
+        {
+          "name": "You-Sheng Wang",
+          "hIndex": 5,
+          "authorId": "2115726082"
+        }
+      ],
+      "affiliations": [
+        "University of Science and Technology of China",
+        "China Southern Power Grid (China)"
+      ],
+      "year": 2026,
+      "venue": "eLife",
+      "publicationDate": "2026-02-16",
+      "summary": "An adjoint propagation (AP) framework is introduced, in which the error signals arise naturally from recurrent dynamics and propagate concurrently with forward inference signals, which eliminates the biologically implausible feedback required by the backpropagation (BP) algorithm and allows concomitant error propagation for multiple tasks through the same RNN.",
+      "url": "https://www.semanticscholar.org/paper/2fa559ae829ee67d408ae70def72d07b852701b1",
+      "doi": "10.7554/eLife.108237",
+      "arxivId": null,
+      "pdf": "https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMTA4MjM3L2VsaWZlLTEwODIzNy12MS5wZGY_Y2Fub25pY2FsVXJpPWh0dHBzOi8vZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMTA4MjM3/elife-108237-v1.pdf?_hash=KaQiHPWLzAjINWQZuHRODVX8FXmAQ%2FQobUCHVeixcWY%3D",
+      "citationCount": 1,
+      "referenceCount": 92,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
       "overlap": 6,
       "direction": "forward",
-      "score": 25,
-      "why": "past year · cites 6 in Core",
+      "score": 22.262793635489256,
+      "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -258,6 +433,19 @@
         "Nasir Ahmad",
         "M. V. van Gerven"
       ],
+      "topAuthors": [
+        {
+          "name": "M. V. van Gerven",
+          "hIndex": 25,
+          "authorId": "134488190"
+        },
+        {
+          "name": "Nasir Ahmad",
+          "hIndex": 3,
+          "authorId": "2337064508"
+        }
+      ],
+      "affiliations": [],
       "year": 2025,
       "venue": "arXiv.org",
       "publicationDate": "2025-10-21",
@@ -270,94 +458,54 @@
       "referenceCount": 234,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 6,
+      "addedAt": "2026-09-15",
+      "overlap": 7,
       "direction": "forward",
-      "score": 25,
-      "why": "past year · cites 6 in Core",
+      "score": 21.860099799945324,
+      "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
     {
-      "id": "0a2f45bd54085cdaaeb780d6cbe6b8e1c2186520",
-      "title": "Theoretical analysis of the denoising autoencoder using Tweedie's formula",
+      "id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
+      "title": "Adam: A Method for Stochastic Optimization",
       "authors": [
-        "Yuta Aishima",
-        "Kazushi Ikeda"
+        "Diederik P. Kingma",
+        "Jimmy Ba"
       ],
-      "year": 2026,
-      "venue": "Neural Networks",
-      "publicationDate": "2026-07-01",
-      "summary": "This paper extends the classical analysis to an exponential family by leveraging Tweedie's formula and elucidates that the denoising autoencoder captures the conditional expectation of the sufficient statistic of the underlying stochastic denoising process: an estimator of an information-theoretically compressed quantity that bridges the original and corrupted data.",
-      "url": "https://www.semanticscholar.org/paper/0a2f45bd54085cdaaeb780d6cbe6b8e1c2186520",
-      "doi": "10.1016/j.neunet.2026.109287",
-      "arxivId": null,
-      "pdf": "https://doi.org/10.2139/ssrn.5279096",
-      "citationCount": 0,
-      "referenceCount": 62,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 6,
-      "direction": "forward",
-      "score": 25,
-      "why": "past year · cites 6 in Core",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "f267c6f4dfb4a8d392a91b32ee079fc986c3d626",
-      "title": "A survey of the integration between machine learning and artificial intelligence techniques in software-defined networking.",
-      "authors": [
-        "Ariel Łukowski",
-        "Grzegorz Papier",
-        "R. Wójcik",
-        "J. Domżał"
+      "topAuthors": [
+        {
+          "name": "Jimmy Ba",
+          "hIndex": 46,
+          "authorId": "2503659"
+        },
+        {
+          "name": "Diederik P. Kingma",
+          "hIndex": 35,
+          "authorId": "1726807"
+        }
       ],
-      "year": 2026,
-      "venue": "Neural Networks",
-      "publicationDate": "2026-07-01",
-      "summary": "A comprehensive survey of the integration between SDN and AI across diverse networking domains, including core, cloud, edge, wireless, IoT, and vehicular networks, which indicates that the integration of SDN and AI constitutes a foundation for the development of intelligent network management mechanisms.",
-      "url": "https://www.semanticscholar.org/paper/f267c6f4dfb4a8d392a91b32ee079fc986c3d626",
-      "doi": "10.1016/j.neunet.2026.109339",
-      "arxivId": null,
-      "pdf": "https://doi.org/10.1016/j.neunet.2026.109339",
-      "citationCount": 0,
-      "referenceCount": 435,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 6,
-      "direction": "forward",
-      "score": 25,
-      "why": "past year · cites 6 in Core",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "2e9d221c206e9503ceb452302d68d10e293f2a10",
-      "title": "Long Short-Term Memory",
-      "authors": [
-        "Sepp Hochreiter",
-        "J. Schmidhuber"
+      "affiliations": [
+        "University of Amsterdam",
+        "University of Toronto"
       ],
-      "year": 1997,
-      "venue": "Neural Computation",
-      "publicationDate": "1997-11-01",
-      "summary": "A novel, efficient, gradient based method called long short-term memory (LSTM) is introduced, which can learn to bridge minimal time lags in excess of 1000 discrete-time steps by enforcing constant error flow through constant error carousels within special units.",
-      "url": "https://www.semanticscholar.org/paper/2e9d221c206e9503ceb452302d68d10e293f2a10",
-      "doi": "10.1162/neco.1997.9.8.1735",
-      "arxivId": null,
+      "year": 2014,
+      "venue": "International Conference on Learning Representations",
+      "publicationDate": "2014-12-22",
+      "summary": "This work introduces Adam, an algorithm for first-order gradient-based optimization of stochastic objective functions, based on adaptive estimates of lower-order moments, and provides a regret bound on the convergence rate that is comparable to the best known results under the online convex optimization framework.",
+      "url": "https://www.semanticscholar.org/paper/a6cb366736791bcccc5c8639de5a8f9636bf87e8",
+      "doi": null,
+      "arxivId": "1412.6980",
       "pdf": null,
-      "citationCount": 109825,
-      "referenceCount": 48,
-      "influentialCitationCount": 10338,
+      "citationCount": 170986,
+      "referenceCount": 26,
+      "influentialCitationCount": 27035,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 79,
+      "addedAt": "2026-09-15",
+      "overlap": 125,
       "direction": "backward",
       "score": 100,
-      "why": "cited by 79 in Core",
+      "why": "cited by 125 in your list",
       "fromReferences": false
     },
     {
@@ -366,6 +514,14 @@
       "authors": [
         "Yann Dauphin"
       ],
+      "topAuthors": [
+        {
+          "name": "Yann Dauphin",
+          "hIndex": 35,
+          "authorId": "2921469"
+        }
+      ],
+      "affiliations": [],
       "year": 2016,
       "venue": null,
       "publicationDate": "2016-03-23",
@@ -378,63 +534,53 @@
       "referenceCount": 139,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 24,
       "direction": "forward",
-      "score": 100,
-      "why": "cites 24 in Core",
+      "score": 99.00793020605374,
+      "why": "cites 24 in your list",
       "fromReferences": false
     },
     {
-      "id": "ddc45fad8d15771d9f1f8579331458785b2cdd93",
-      "title": "Deep Boltzmann Machines",
+      "id": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "title": "Long Short-Term Memory",
       "authors": [
-        "R. Salakhutdinov",
-        "Geoffrey E. Hinton"
+        "Sepp Hochreiter",
+        "J. Schmidhuber"
       ],
-      "year": 2009,
-      "venue": "International Conference on Artificial Intelligence and Statistics",
-      "publicationDate": "2009-04-15",
-      "summary": "A new learning algorithm for Boltzmann machines that contain many layers of hidden variables that is made more efficient by using a layer-by-layer “pre-training” phase that allows variational inference to be initialized with a single bottomup pass.",
-      "url": "https://www.semanticscholar.org/paper/ddc45fad8d15771d9f1f8579331458785b2cdd93",
-      "doi": null,
+      "topAuthors": [
+        {
+          "name": "Sepp Hochreiter",
+          "hIndex": 62,
+          "authorId": "3308557"
+        },
+        {
+          "name": "J. Schmidhuber",
+          "hIndex": 3,
+          "authorId": "2467624663"
+        }
+      ],
+      "affiliations": [
+        "Technical University of Munich",
+        "Dalle Molle Institute for Artificial Intelligence Research"
+      ],
+      "year": 1997,
+      "venue": "Neural Computation",
+      "publicationDate": "1997-11-01",
+      "summary": "A novel, efficient, gradient based method called long short-term memory (LSTM) is introduced, which can learn to bridge minimal time lags in excess of 1000 discrete-time steps by enforcing constant error flow through constant error carousels within special units.",
+      "url": "https://www.semanticscholar.org/paper/2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "doi": "10.1162/neco.1997.9.8.1735",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 2357,
-      "referenceCount": 22,
-      "influentialCitationCount": 242,
+      "citationCount": 109965,
+      "referenceCount": 48,
+      "influentialCitationCount": 10342,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 36,
+      "addedAt": "2026-09-15",
+      "overlap": 106,
       "direction": "backward",
-      "score": 98.24930756601839,
-      "why": "cited by 36 in Core",
-      "fromReferences": false
-    },
-    {
-      "id": "5c66b83bb492b0e2824cdaffc3f1fb61b639c7b4",
-      "title": "Deep Learning for Natural Language Processing: A Survey",
-      "authors": [
-        "E. O. Arkhangelskaya",
-        "S. Nikolenko"
-      ],
-      "year": 2023,
-      "venue": "Journal of Mathematical Sciences",
-      "publicationDate": "2023-06-26",
-      "summary": "Various deep architectures that have either arisen specifically for NLP tasks or have become a method of choice for them are surveyed; the tasks include sentiment analysis, dependency parsing, machine translation, dialog and conversational models, question answering, and other applications.",
-      "url": "https://www.semanticscholar.org/paper/5c66b83bb492b0e2824cdaffc3f1fb61b639c7b4",
-      "doi": "10.1007/s10958-023-06519-6",
-      "arxivId": null,
-      "pdf": "https://link.springer.com/content/pdf/10.1007/s10958-023-06519-6.pdf",
-      "citationCount": 21,
-      "referenceCount": 355,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 23,
-      "direction": "forward",
-      "score": 95.83333333333334,
-      "why": "cites 23 in Core",
+      "score": 93.63716418534658,
+      "why": "cited by 106 in your list",
       "fromReferences": false
     },
     {
@@ -442,6 +588,16 @@
       "title": "Learning Deep Representations : Toward a better new understanding of the deep learning paradigm. (Apprentissage de représentations profondes : vers une meilleure compréhension du paradigme d'apprentissage profond)",
       "authors": [
         "L. Arnold"
+      ],
+      "topAuthors": [
+        {
+          "name": "L. Arnold",
+          "hIndex": 1,
+          "authorId": "49807271"
+        }
+      ],
+      "affiliations": [
+        "Université Paris-Saclay"
       ],
       "year": 2013,
       "venue": null,
@@ -455,89 +611,11 @@
       "referenceCount": 190,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 23,
       "direction": "forward",
-      "score": 95.83333333333334,
-      "why": "cites 23 in Core",
-      "fromReferences": false
-    },
-    {
-      "id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
-      "title": "Adam: A Method for Stochastic Optimization",
-      "authors": [
-        "Diederik P. Kingma",
-        "Jimmy Ba"
-      ],
-      "year": 2014,
-      "venue": "International Conference on Learning Representations",
-      "publicationDate": "2014-12-22",
-      "summary": "This work introduces Adam, an algorithm for first-order gradient-based optimization of stochastic objective functions, based on adaptive estimates of lower-order moments, and provides a regret bound on the convergence rate that is comparable to the best known results under the online convex optimization framework.",
-      "url": "https://www.semanticscholar.org/paper/a6cb366736791bcccc5c8639de5a8f9636bf87e8",
-      "doi": null,
-      "arxivId": "1412.6980",
-      "pdf": null,
-      "citationCount": 170841,
-      "referenceCount": 26,
-      "influentialCitationCount": 27005,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 79,
-      "direction": "backward",
-      "score": 91.54090695607192,
-      "why": "cited by 79 in Core",
-      "fromReferences": false
-    },
-    {
-      "id": "cea967b59209c6be22829699f05b8b1ac4dc092d",
-      "title": "Sequence to Sequence Learning with Neural Networks",
-      "authors": [
-        "I. Sutskever",
-        "O. Vinyals",
-        "Quoc V. Le"
-      ],
-      "year": 2014,
-      "venue": "Neural Information Processing Systems",
-      "publicationDate": "2014-09-10",
-      "summary": "This paper presents a general end-to-end approach to sequence learning that makes minimal assumptions on the sequence structure, and finds that reversing the order of the words in all source sentences improved the LSTM's performance markedly, because doing so introduced many short term dependencies between the source and the target sentence which made the optimization problem easier.",
-      "url": "https://www.semanticscholar.org/paper/cea967b59209c6be22829699f05b8b1ac4dc092d",
-      "doi": null,
-      "arxivId": "1409.3215",
-      "pdf": null,
-      "citationCount": 22364,
-      "referenceCount": 40,
-      "influentialCitationCount": 1414,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 49,
-      "direction": "backward",
-      "score": 85.27009556560263,
-      "why": "cited by 49 in Core",
-      "fromReferences": false
-    },
-    {
-      "id": "4d08dcd2cc1e9691defe664a10f021424a896a1e",
-      "title": "Neural Machine Translation: A Review",
-      "authors": [
-        "Felix Stahlberg"
-      ],
-      "year": 2019,
-      "venue": "Journal of Artificial Intelligence Research",
-      "publicationDate": "2019-12-04",
-      "summary": "This work traces back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family and concludes with a short survey of more recent trends in the field.",
-      "url": "https://www.semanticscholar.org/paper/4d08dcd2cc1e9691defe664a10f021424a896a1e",
-      "doi": "10.1613/JAIR.1.12007",
-      "arxivId": "1912.02047",
-      "pdf": "https://jair.org/index.php/jair/article/download/12007/26611",
-      "citationCount": 443,
-      "referenceCount": 648,
-      "influentialCitationCount": 9,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 20,
-      "direction": "forward",
-      "score": 83.33333333333334,
-      "why": "cites 20 in Core",
+      "score": 83.24622298770402,
+      "why": "cites 23 in your list",
       "fromReferences": false
     },
     {
@@ -545,6 +623,16 @@
       "title": "The Roles of Language Models and Hierarchical Models in Neural Sequence-to-Sequence Prediction",
       "authors": [
         "Felix Stahlberg"
+      ],
+      "topAuthors": [
+        {
+          "name": "Felix Stahlberg",
+          "hIndex": 20,
+          "authorId": "48404632"
+        }
+      ],
+      "affiliations": [
+        "Google Research"
       ],
       "year": 2020,
       "venue": "European Association for Machine Translation Conferences/Workshops",
@@ -558,64 +646,85 @@
       "referenceCount": 751,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 20,
+      "addedAt": "2026-09-15",
+      "overlap": 21,
       "direction": "forward",
-      "score": 83.33333333333334,
-      "why": "cites 20 in Core",
+      "score": 81.05192761597525,
+      "why": "cites 21 in your list",
       "fromReferences": false
     },
     {
-      "id": "f58ea68448a584b8c8540c86bb9965d746b767a9",
-      "title": "Deep Learning: Methods and Applications",
+      "id": "4d08dcd2cc1e9691defe664a10f021424a896a1e",
+      "title": "Neural Machine Translation: A Review",
       "authors": [
-        "L. Deng",
-        "Dong Yu"
+        "Felix Stahlberg"
       ],
-      "year": 2014,
-      "venue": "Foundations and Trends® in Signal Processing",
-      "publicationDate": "2014-06-12",
-      "summary": "This monograph provides an overview of general deep learning methodology and its applications to a variety of signal and information processing tasks, including natural language and text processing, information retrieval, and multimodal information processing empowered by multi-task deep learning.",
-      "url": "https://www.semanticscholar.org/paper/f58ea68448a584b8c8540c86bb9965d746b767a9",
-      "doi": "10.1561/2000000039",
-      "arxivId": null,
-      "pdf": "https://www.ped-perinatology.ru/jour/article/download/586/570",
-      "citationCount": 3880,
-      "referenceCount": 454,
-      "influentialCitationCount": 145,
+      "topAuthors": [
+        {
+          "name": "Felix Stahlberg",
+          "hIndex": 20,
+          "authorId": "48404632"
+        }
+      ],
+      "affiliations": [
+        "Google Research"
+      ],
+      "year": 2019,
+      "venue": "Journal of Artificial Intelligence Research",
+      "publicationDate": "2019-12-04",
+      "summary": "This work traces back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family and concludes with a short survey of more recent trends in the field.",
+      "url": "https://www.semanticscholar.org/paper/4d08dcd2cc1e9691defe664a10f021424a896a1e",
+      "doi": "10.1613/JAIR.1.12007",
+      "arxivId": "1912.02047",
+      "pdf": "https://jair.org/index.php/jair/article/download/12007/26611",
+      "citationCount": 444,
+      "referenceCount": 648,
+      "influentialCitationCount": 9,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 19,
+      "addedAt": "2026-09-15",
+      "overlap": 21,
       "direction": "forward",
-      "score": 79.16666666666666,
-      "why": "cites 19 in Core",
+      "score": 79.88515851523579,
+      "why": "cites 21 in your list",
       "fromReferences": false
     },
     {
-      "id": "8978cf7574ceb35f4c3096be768c7547b28a35d0",
-      "title": "A Fast Learning Algorithm for Deep Belief Nets",
+      "id": "ddc45fad8d15771d9f1f8579331458785b2cdd93",
+      "title": "Deep Boltzmann Machines",
       "authors": [
-        "Geoffrey E. Hinton",
-        "Simon Osindero",
-        "Y. Teh"
+        "R. Salakhutdinov",
+        "Geoffrey E. Hinton"
       ],
-      "year": 2006,
-      "venue": "Neural Computation",
-      "publicationDate": "2006-07-01",
-      "summary": "A fast, greedy algorithm is derived that can learn deep, directed belief networks one layer at a time, provided the top two layers form an undirected associative memory.",
-      "url": "https://www.semanticscholar.org/paper/8978cf7574ceb35f4c3096be768c7547b28a35d0",
-      "doi": "10.1162/neco.2006.18.7.1527",
+      "topAuthors": [
+        {
+          "name": "Geoffrey E. Hinton",
+          "hIndex": 160,
+          "authorId": "1695689"
+        },
+        {
+          "name": "R. Salakhutdinov",
+          "hIndex": 120,
+          "authorId": "145124475"
+        }
+      ],
+      "affiliations": [],
+      "year": 2009,
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "publicationDate": "2009-04-15",
+      "summary": "A new learning algorithm for Boltzmann machines that contain many layers of hidden variables that is made more efficient by using a layer-by-layer “pre-training” phase that allows variational inference to be initialized with a single bottomup pass.",
+      "url": "https://www.semanticscholar.org/paper/ddc45fad8d15771d9f1f8579331458785b2cdd93",
+      "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 17038,
-      "referenceCount": 39,
-      "influentialCitationCount": 1235,
+      "citationCount": 2357,
+      "referenceCount": 22,
+      "influentialCitationCount": 242,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 42,
+      "addedAt": "2026-09-15",
+      "overlap": 39,
       "direction": "backward",
-      "score": 77.17465169982874,
-      "why": "cited by 42 in Core",
+      "score": 75.56263847771027,
+      "why": "cited by 39 in your list",
       "fromReferences": false
     },
     {
@@ -623,6 +732,16 @@
       "title": "On Recurrent and Deep Neural Networks",
       "authors": [
         "Razvan Pascanu"
+      ],
+      "topAuthors": [
+        {
+          "name": "Razvan Pascanu",
+          "hIndex": 79,
+          "authorId": "1996134"
+        }
+      ],
+      "affiliations": [
+        "Google DeepMind"
       ],
       "year": 2015,
       "venue": null,
@@ -636,40 +755,243 @@
       "referenceCount": 206,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-14",
+      "addedAt": "2026-09-15",
       "overlap": 18,
       "direction": "forward",
-      "score": 75,
-      "why": "cites 18 in Core",
+      "score": 74.73033042722027,
+      "why": "cites 18 in your list",
       "fromReferences": false
     },
     {
-      "id": "0060745e006c5f14ec326904119dca19c6545e51",
-      "title": "Improving neural networks by preventing co-adaptation of feature detectors",
+      "id": "a867efc1cbefa4653dffc295c482156b0a6f2133",
+      "title": "Foundations and Advances in Deep Learning",
       "authors": [
-        "Geoffrey E. Hinton",
-        "Nitish Srivastava",
-        "A. Krizhevsky",
-        "I. Sutskever",
-        "R. Salakhutdinov"
+        "Kyunghyun Cho"
       ],
-      "year": 2012,
-      "venue": "arXiv.org",
-      "publicationDate": "2012-07-02",
-      "summary": "",
-      "url": "https://www.semanticscholar.org/paper/0060745e006c5f14ec326904119dca19c6545e51",
+      "topAuthors": [
+        {
+          "name": "Kyunghyun Cho",
+          "hIndex": 96,
+          "authorId": "1979489"
+        }
+      ],
+      "affiliations": [],
+      "year": 2014,
+      "venue": null,
+      "publicationDate": null,
+      "summary": "This thesis starts from some of the earlier ideas and models in the field of artificial neural networks and arrives at autoencoders and Boltzmann machines which are two most widely studied neural networks these days.",
+      "url": "https://www.semanticscholar.org/paper/a867efc1cbefa4653dffc295c482156b0a6f2133",
       "doi": null,
-      "arxivId": "1207.0580",
+      "arxivId": null,
       "pdf": null,
-      "citationCount": 8076,
-      "referenceCount": 26,
-      "influentialCitationCount": 739,
+      "citationCount": 16,
+      "referenceCount": 177,
+      "influentialCitationCount": 2,
       "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 33,
+      "addedAt": "2026-09-15",
+      "overlap": 15,
+      "direction": "forward",
+      "score": 72.47895251610355,
+      "why": "cites 15 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "5d3792a19c301b501d0c4260a3115cc8856be43a",
+      "title": "PRÉSENTATION GÉNÉRALE",
+      "authors": [
+        "Pierre Gillon"
+      ],
+      "topAuthors": [
+        {
+          "name": "Pierre Gillon",
+          "hIndex": 2,
+          "authorId": "122238622"
+        }
+      ],
+      "affiliations": [],
+      "year": 2019,
+      "venue": "Les premieres annees du roi Zimri-Lim de Mari",
+      "publicationDate": "2019-06-06",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/5d3792a19c301b501d0c4260a3115cc8856be43a",
+      "doi": "10.18356/d5b631d6-fr",
+      "arxivId": null,
+      "pdf": "https://doi.org/10.3917/presa.042.0003",
+      "citationCount": 29,
+      "referenceCount": 440,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 7,
+      "direction": "forward",
+      "score": 70.12373746376886,
+      "why": "cites 7 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "f58ea68448a584b8c8540c86bb9965d746b767a9",
+      "title": "Deep Learning: Methods and Applications",
+      "authors": [
+        "L. Deng",
+        "Dong Yu"
+      ],
+      "topAuthors": [
+        {
+          "name": "L. Deng",
+          "hIndex": 90,
+          "authorId": "144718788"
+        },
+        {
+          "name": "Dong Yu",
+          "hIndex": 82,
+          "authorId": "144580027"
+        }
+      ],
+      "affiliations": [
+        "Microsoft (United States)"
+      ],
+      "year": 2014,
+      "venue": "Foundations and Trends® in Signal Processing",
+      "publicationDate": "2014-06-12",
+      "summary": "This monograph provides an overview of general deep learning methodology and its applications to a variety of signal and information processing tasks, including natural language and text processing, information retrieval, and multimodal information processing empowered by multi-task deep learning.",
+      "url": "https://www.semanticscholar.org/paper/f58ea68448a584b8c8540c86bb9965d746b767a9",
+      "doi": "10.1561/2000000039",
+      "arxivId": null,
+      "pdf": "https://www.ped-perinatology.ru/jour/article/download/586/570",
+      "citationCount": 3879,
+      "referenceCount": 454,
+      "influentialCitationCount": 145,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 19,
+      "direction": "forward",
+      "score": 69.42391634138265,
+      "why": "cites 19 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "995c5f5e62614fcb4d2796ad2faab969da51713e",
+      "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+      "authors": [
+        "Sergey Ioffe",
+        "Christian Szegedy"
+      ],
+      "topAuthors": [
+        {
+          "name": "Christian Szegedy",
+          "hIndex": 29,
+          "authorId": "2574060"
+        },
+        {
+          "name": "Sergey Ioffe",
+          "hIndex": 20,
+          "authorId": "2054165706"
+        }
+      ],
+      "affiliations": [
+        "Google (United States)"
+      ],
+      "year": 2015,
+      "venue": "International Conference on Machine Learning",
+      "publicationDate": "2015-02-10",
+      "summary": "Applied to a state-of-the-art image classification model, Batch Normalization achieves the same accuracy with 14 times fewer training steps, and beats the original model by a significant margin.",
+      "url": "https://www.semanticscholar.org/paper/995c5f5e62614fcb4d2796ad2faab969da51713e",
+      "doi": null,
+      "arxivId": "1502.03167",
+      "pdf": null,
+      "citationCount": 47722,
+      "referenceCount": 54,
+      "influentialCitationCount": 2318,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 68,
       "direction": "backward",
-      "score": 70.40189476165347,
-      "why": "cited by 33 in Core",
+      "score": 69.0448567505207,
+      "why": "cited by 68 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "cbb8670258f80caf8168e47ee3b6d979446c8851",
+      "title": "A survey of hybrid ANN/HMM models for automatic speech recognition",
+      "authors": [
+        "E. Trentin",
+        "M. Gori"
+      ],
+      "topAuthors": [
+        {
+          "name": "M. Gori",
+          "hIndex": 48,
+          "authorId": "145467467"
+        },
+        {
+          "name": "E. Trentin",
+          "hIndex": 15,
+          "authorId": "1709862"
+        }
+      ],
+      "affiliations": [
+        "Istituto Centrale per la Ricerca Scientifica e Tecnologica Applicata al Mare",
+        "University of Siena"
+      ],
+      "year": 2001,
+      "venue": "Neurocomputing",
+      "publicationDate": "2001-04-01",
+      "summary": "A number of significant hybrid models for ASR are reviewed, putting together approaches and techniques from a highly specialistic and non-homogeneous literature, allowing for tangible improvements in recognition performance over the standard HMMs in difficult and significant benchmark tasks.",
+      "url": "https://www.semanticscholar.org/paper/cbb8670258f80caf8168e47ee3b6d979446c8851",
+      "doi": "10.1016/S0925-2312(00)00308-8",
+      "arxivId": null,
+      "pdf": "http://www-gth.die.upm.es/research/documentation/referencias/Trentin_ASurvey.pdf",
+      "citationCount": 227,
+      "referenceCount": 132,
+      "influentialCitationCount": 9,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 10,
+      "direction": "forward",
+      "score": 68.52143785204841,
+      "why": "cites 10 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "cea967b59209c6be22829699f05b8b1ac4dc092d",
+      "title": "Sequence to Sequence Learning with Neural Networks",
+      "authors": [
+        "I. Sutskever",
+        "O. Vinyals",
+        "Quoc V. Le"
+      ],
+      "topAuthors": [
+        {
+          "name": "Quoc V. Le",
+          "hIndex": 122,
+          "authorId": "2827616"
+        },
+        {
+          "name": "O. Vinyals",
+          "hIndex": 102,
+          "authorId": "1689108"
+        }
+      ],
+      "affiliations": [
+        "Google (United States)"
+      ],
+      "year": 2014,
+      "venue": "Neural Information Processing Systems",
+      "publicationDate": "2014-09-10",
+      "summary": "This paper presents a general end-to-end approach to sequence learning that makes minimal assumptions on the sequence structure, and finds that reversing the order of the words in all source sentences improved the LSTM's performance markedly, because doing so introduced many short term dependencies between the source and the target sentence which made the optimization problem easier.",
+      "url": "https://www.semanticscholar.org/paper/cea967b59209c6be22829699f05b8b1ac4dc092d",
+      "doi": null,
+      "arxivId": "1409.3215",
+      "pdf": null,
+      "citationCount": 22375,
+      "referenceCount": 40,
+      "influentialCitationCount": 1415,
+      "source": null,
+      "addedAt": "2026-09-15",
+      "overlap": 55,
+      "direction": "backward",
+      "score": 67.93983757787856,
+      "why": "cited by 55 in your list",
       "fromReferences": false
     }
   ]
