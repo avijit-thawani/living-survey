@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T11:27:12.122Z",
+  "updatedAt": "2026-09-16T11:22:30.801Z",
   "core": [
     {
       "id": "1167853b9cff97347fc7beb1c8ce92fc95486a1a",
@@ -1346,7 +1346,7 @@
         "Fang Hu",
         "Xin Wang",
         "Sara E. Oliver",
-        "Heidi M. Soeters"
+        "H. M. Soeters"
       ],
       "topAuthors": [
         {
@@ -1718,7 +1718,7 @@
       "doi": "10.1080/07448481.2021.1979009",
       "arxivId": null,
       "pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/9125396",
-      "citationCount": 8,
+      "citationCount": 9,
       "referenceCount": 49,
       "influentialCitationCount": 0,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 25a6cdaf8f8aa25727782dc8b10e6974b826c278",
@@ -1800,7 +1800,7 @@
         "Chase Gorishek",
         "Arianna Hanchey",
         "M. Melgar",
-        "Benjamin P. Monroe",
+        "Benjamin Monroe",
         "C. F. Nielsen",
         "G. Pellegrini",
         "Mays Shamout",
@@ -2022,8 +2022,8 @@
       "url": "https://www.semanticscholar.org/paper/9d53a29121c4354800a5d072c352a2c5189c68f3",
       "doi": "10.1371/journal.pone.0256213",
       "arxivId": null,
-      "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0256213&type=printable",
-      "citationCount": 27,
+      "pdf": "https://doi.org/10.31235/osf.io/f6jkx",
+      "citationCount": 28,
       "referenceCount": 46,
       "influentialCitationCount": 0,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 9d53a29121c4354800a5d072c352a2c5189c68f3",
