@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T11:22:30.801Z",
+  "updatedAt": "2026-09-17T11:35:50.706Z",
   "core": [
     {
       "id": "1167853b9cff97347fc7beb1c8ce92fc95486a1a",
@@ -47,7 +47,7 @@
         "Noam Brown",
         "Jamie Ford",
         "Pierre Weill-Tessier",
-        "Michael Kölling"
+        "Michael Kolling"
       ],
       "topAuthors": [
         {
@@ -56,7 +56,7 @@
           "authorId": "2685623"
         },
         {
-          "name": "Michael Kölling",
+          "name": "Michael Kolling",
           "hIndex": 11,
           "authorId": "2098916347"
         }
@@ -104,7 +104,7 @@
       "url": "https://www.semanticscholar.org/paper/404f23ceced7ead2e91d36169da9937971468a09",
       "doi": "10.1016/j.jhydrol.2023.129644",
       "arxivId": null,
-      "pdf": "https://www.sciencedirect.com/science/article/am/pii/S0022169423005863",
+      "pdf": "https://doi.org/10.1016/j.jhydrol.2023.129644",
       "citationCount": 12,
       "referenceCount": 16,
       "influentialCitationCount": 1,
@@ -170,7 +170,7 @@
       "authors": [
         "Marcus Messer",
         "Noam Brown",
-        "Michael Kölling",
+        "Michael Kolling",
         "Miaojing Shi"
       ],
       "topAuthors": [
@@ -250,7 +250,7 @@
         "Noam Brown",
         "Bonita Sharif",
         "N. Jensen",
-        "Michael Kölling"
+        "Michael Kolling"
       ],
       "topAuthors": [
         {
@@ -886,7 +886,7 @@
       "doi": "10.1126/science.ade9097",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 618,
+      "citationCount": 619,
       "referenceCount": 62,
       "influentialCitationCount": 20,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | e89ed6bb1864558e3889f5f2fb8931643c633479",
@@ -1774,7 +1774,7 @@
         "C. Szablewski",
         "J. Drobeniuc",
         "N. Bustamante",
-        "Olivia M Almendares",
+        "Olivia M. Almendares",
         "A. Schnall",
         "Z. Gilani",
         "Tiffany Smith",
@@ -2904,7 +2904,7 @@
       "id": "f50ca7afaa3e4ceb8777d928e0858f8b23cc4aa9",
       "title": "Frame-Based Editing",
       "authors": [
-        "Michael Kölling",
+        "Michael Kolling",
         "Noam Brown",
         "Amjad AlTadmri"
       ],
@@ -2915,7 +2915,7 @@
           "authorId": "2685623"
         },
         {
-          "name": "Michael Kölling",
+          "name": "Michael Kolling",
           "hIndex": 11,
           "authorId": "2098916347"
         }
@@ -3633,7 +3633,7 @@
       "id": "cc4e2a6e9154d0ea5e6a6093e5541472c8a99661",
       "title": "Teaching with greenfoot and the Kinect: a novel way to engage beginners (abstract only)",
       "authors": [
-        "Michael Kölling",
+        "Michael Kolling",
         "Noam Brown"
       ],
       "topAuthors": [
@@ -3643,7 +3643,7 @@
           "authorId": "2685623"
         },
         {
-          "name": "Michael Kölling",
+          "name": "Michael Kolling",
           "hIndex": 11,
           "authorId": "2098916347"
         }
