@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T11:40:04.271Z",
+  "updatedAt": "2026-09-18T11:11:29.200Z",
   "recs": [
     {
       "id": "0ceeb993f18091b8cfc574f7ffce90238dae3656",
@@ -27,10 +27,10 @@
       "referenceCount": 57,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 58.638079752621465,
+      "score": 55.0005617218216,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -46,7 +46,7 @@
       "topAuthors": [
         {
           "name": "Thomas Serre",
-          "hIndex": 52,
+          "hIndex": 53,
           "authorId": "1981539"
         },
         {
@@ -70,10 +70,10 @@
       "referenceCount": 174,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 38.368270392650466,
+      "score": 36.54857903051115,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -110,10 +110,10 @@
       "referenceCount": 67,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 31.400631709635572,
+      "score": 29.88178771281674,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -151,10 +151,10 @@
       "referenceCount": 67,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 28.39432941848959,
+      "score": 27.019534472365734,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -185,10 +185,10 @@
       "referenceCount": 22,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 27.15788660535296,
+      "score": 25.8435534319664,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -210,14 +210,14 @@
       ],
       "topAuthors": [
         {
-          "name": "Dimitris N. Metaxas",
-          "hIndex": 11,
-          "authorId": "2290468815"
+          "name": "Zhaoran Wang",
+          "hIndex": 42,
+          "authorId": "2257245348"
         },
         {
-          "name": "Zhaoran Wang",
-          "hIndex": 8,
-          "authorId": "2257245348"
+          "name": "Dimitris N. Metaxas",
+          "hIndex": 12,
+          "authorId": "2290468815"
         }
       ],
       "affiliations": [],
@@ -233,7 +233,7 @@
       "referenceCount": 66,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
       "score": 100,
@@ -274,10 +274,10 @@
       "referenceCount": 43,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 81.51093909650014,
+      "score": 77.61864212084328,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -317,10 +317,10 @@
       "referenceCount": 199,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 6,
       "direction": "forward",
-      "score": 70.276528217183,
+      "score": 66.90414016581879,
       "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -359,10 +359,10 @@
       "referenceCount": 74,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 5,
       "direction": "forward",
-      "score": 68.44899678264078,
+      "score": 65.17420370907787,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -402,10 +402,10 @@
       "referenceCount": 70,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 6,
       "direction": "forward",
-      "score": 65.80953342386702,
+      "score": 62.65491371072475,
       "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -444,10 +444,10 @@
       "referenceCount": 92,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 6,
       "direction": "forward",
-      "score": 64.8959719075535,
+      "score": 61.76916837592159,
       "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -485,10 +485,10 @@
       "referenceCount": 50,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 4,
       "direction": "forward",
-      "score": 64.46669891877349,
+      "score": 61.39452662580938,
       "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -529,10 +529,10 @@
       "referenceCount": 56,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 64.23357458980594,
+      "score": 60.24894912562194,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -577,10 +577,10 @@
       "referenceCount": 60,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 5,
       "direction": "forward",
-      "score": 61.340215824937076,
+      "score": 58.373392099962516,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -617,10 +617,10 @@
       "referenceCount": 58,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 4,
       "direction": "forward",
-      "score": 60.169805487621616,
+      "score": 57.288982412867796,
       "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -659,10 +659,10 @@
       "referenceCount": 41,
       "influentialCitationCount": 12,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 7,
       "direction": "backward",
-      "score": 99.28531500397766,
+      "score": 94.55477566300732,
       "why": "cited by 7 in your list",
       "fromReferences": false
     },
@@ -698,12 +698,12 @@
       "topAuthors": [
         {
           "name": "Anton Korinek",
-          "hIndex": 31,
+          "hIndex": 33,
           "authorId": "4645245"
         },
         {
           "name": "Gillian K. Hadfield",
-          "hIndex": 30,
+          "hIndex": 31,
           "authorId": "40051700"
         }
       ],
@@ -720,11 +720,51 @@
       "referenceCount": 249,
       "influentialCitationCount": 11,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 6,
       "direction": "forward",
-      "score": 84.06477349551135,
+      "score": 80.20276804029159,
       "why": "cites 6 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "e51db6be1c84759e5a78fa5bce1d9fb886168bb7",
+      "title": "LLM Self-Recognition: Steering and Retrieving Activation Signatures",
+      "authors": [
+        "Thibaud Ardoin",
+        "Jonas Schäfer",
+        "Gerhard Wunder"
+      ],
+      "topAuthors": [
+        {
+          "name": "Jonas Schäfer",
+          "hIndex": 4,
+          "authorId": "2272208512"
+        },
+        {
+          "name": "Gerhard Wunder",
+          "hIndex": 3,
+          "authorId": "2273988684"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-06-04",
+      "summary": "This work creates a detectable fingerprint that enables attribution of a given text to a specific LLM by steering the internal residual stream during generation with a random sparse vector, and demonstrates that activation spaces contain exploitable structure for encoding signals without semantic interference.",
+      "url": "https://www.semanticscholar.org/paper/e51db6be1c84759e5a78fa5bce1d9fb886168bb7",
+      "doi": "10.48550/arXiv.2606.06315",
+      "arxivId": "2606.06315",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 33,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-18",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 74.0035244942605,
+      "why": "cites 2 in your list",
       "fromReferences": false
     },
     {
@@ -762,50 +802,10 @@
       "referenceCount": 42,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 2,
       "direction": "forward",
-      "score": 77.29872688250519,
-      "why": "cites 2 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "e51db6be1c84759e5a78fa5bce1d9fb886168bb7",
-      "title": "LLM Self-Recognition: Steering and Retrieving Activation Signatures",
-      "authors": [
-        "Thibaud Ardoin",
-        "Jonas Schäfer",
-        "Gerhard Wunder"
-      ],
-      "topAuthors": [
-        {
-          "name": "Gerhard Wunder",
-          "hIndex": 3,
-          "authorId": "2273988684"
-        },
-        {
-          "name": "Thibaud Ardoin",
-          "hIndex": 2,
-          "authorId": "2132557282"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-06-04",
-      "summary": "This work creates a detectable fingerprint that enables attribution of a given text to a specific LLM by steering the internal residual stream during generation with a random sparse vector, and demonstrates that activation spaces contain exploitable structure for encoding signals without semantic interference.",
-      "url": "https://www.semanticscholar.org/paper/e51db6be1c84759e5a78fa5bce1d9fb886168bb7",
-      "doi": "10.48550/arXiv.2606.06315",
-      "arxivId": "2606.06315",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 33,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-17",
-      "overlap": 2,
-      "direction": "forward",
-      "score": 77.01336334089527,
+      "score": 73.60886137605667,
       "why": "cites 2 in your list",
       "fromReferences": false
     },
@@ -843,10 +843,10 @@
       "referenceCount": 393,
       "influentialCitationCount": 6,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 5,
       "direction": "forward",
-      "score": 74.54883797758612,
+      "score": 70.98178264077733,
       "why": "cites 5 in your list",
       "fromReferences": false
     },
@@ -891,10 +891,10 @@
       "referenceCount": 137,
       "influentialCitationCount": 7,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 5,
       "direction": "forward",
-      "score": 74.25312259063955,
+      "score": 70.67879172772027,
       "why": "cites 5 in your list",
       "fromReferences": false
     },
@@ -949,10 +949,10 @@
       "referenceCount": 95,
       "influentialCitationCount": 35,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 5,
       "direction": "forward",
-      "score": 72.68416510351548,
+      "score": 69.20651916656325,
       "why": "cites 5 in your list",
       "fromReferences": false
     },
@@ -1012,14 +1012,14 @@
       "doi": "10.48550/arXiv.2306.09479",
       "arxivId": "2306.09479",
       "pdf": "http://arxiv.org/pdf/2306.09479",
-      "citationCount": 256,
+      "citationCount": 257,
       "referenceCount": 68,
-      "influentialCitationCount": 19,
+      "influentialCitationCount": 20,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 5,
       "direction": "forward",
-      "score": 71.4373501483941,
+      "score": 68.01995465477626,
       "why": "cites 5 in your list",
       "fromReferences": false
     },
@@ -1061,10 +1061,10 @@
       "referenceCount": 41,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 2,
       "direction": "forward",
-      "score": 71.41447115158121,
+      "score": 68.00659385736056,
       "why": "cites 2 in your list",
       "fromReferences": false
     },
@@ -1110,10 +1110,10 @@
       "referenceCount": 58,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 2,
       "direction": "forward",
-      "score": 71.01209618634816,
+      "score": 67.62944298253106,
       "why": "cites 2 in your list",
       "fromReferences": false
     }

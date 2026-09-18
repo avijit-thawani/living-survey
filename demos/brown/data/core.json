@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T11:35:50.706Z",
+  "updatedAt": "2026-09-18T11:09:30.491Z",
   "core": [
     {
       "id": "1167853b9cff97347fc7beb1c8ce92fc95486a1a",
@@ -15,7 +15,7 @@
       "topAuthors": [
         {
           "name": "J. Kolter",
-          "hIndex": 73,
+          "hIndex": 78,
           "authorId": "145116464"
         },
         {
@@ -57,7 +57,7 @@
         },
         {
           "name": "Michael Kolling",
-          "hIndex": 11,
+          "hIndex": 34,
           "authorId": "2098916347"
         }
       ],
@@ -180,9 +180,9 @@
           "authorId": "2685623"
         },
         {
-          "name": "Miaojing Shi",
-          "hIndex": 26,
-          "authorId": "8003001"
+          "name": "Michael Kolling",
+          "hIndex": 34,
+          "authorId": "2098916347"
         }
       ],
       "affiliations": [],
@@ -216,7 +216,7 @@
       "topAuthors": [
         {
           "name": "J. Kolter",
-          "hIndex": 73,
+          "hIndex": 78,
           "authorId": "145116464"
         },
         {
@@ -259,9 +259,9 @@
           "authorId": "2685623"
         },
         {
-          "name": "Bonita Sharif",
-          "hIndex": 29,
-          "authorId": "3263403"
+          "name": "Michael Kolling",
+          "hIndex": 34,
+          "authorId": "2098916347"
         }
       ],
       "affiliations": [],
@@ -319,12 +319,12 @@
       "topAuthors": [
         {
           "name": "R. Chaisson",
-          "hIndex": 103,
+          "hIndex": 105,
           "authorId": "145695691"
         },
         {
           "name": "S. Swindells",
-          "hIndex": 55,
+          "hIndex": 56,
           "authorId": "145613493"
         }
       ],
@@ -419,7 +419,7 @@
         },
         {
           "name": "R. Plowright",
-          "hIndex": 49,
+          "hIndex": 45,
           "authorId": "5262090"
         }
       ],
@@ -652,7 +652,7 @@
       "topAuthors": [
         {
           "name": "J. Kolter",
-          "hIndex": 73,
+          "hIndex": 78,
           "authorId": "145116464"
         },
         {
@@ -673,7 +673,7 @@
       "doi": "10.48550/arXiv.2206.05825",
       "arxivId": "2206.05825",
       "pdf": "http://arxiv.org/pdf/2206.05825",
-      "citationCount": 93,
+      "citationCount": 94,
       "referenceCount": 88,
       "influentialCitationCount": 14,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 7925c5f11a0c792069d635aa3f93f43d71c71c84",
@@ -764,14 +764,14 @@
       ],
       "topAuthors": [
         {
+          "name": "J. Foerster",
+          "hIndex": 35,
+          "authorId": "2275156099"
+        },
+        {
           "name": "Noam Brown",
           "hIndex": 34,
           "authorId": "2685623"
-        },
-        {
-          "name": "Adam Lerer",
-          "hIndex": 30,
-          "authorId": "1977806"
         }
       ],
       "affiliations": [],
@@ -886,7 +886,7 @@
       "doi": "10.1126/science.ade9097",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 619,
+      "citationCount": 621,
       "referenceCount": 62,
       "influentialCitationCount": 20,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | e89ed6bb1864558e3889f5f2fb8931643c633479",
@@ -983,13 +983,13 @@
       "topAuthors": [
         {
           "name": "J. Kolter",
-          "hIndex": 73,
+          "hIndex": 78,
           "authorId": "145116464"
         },
         {
-          "name": "Noam Brown",
-          "hIndex": 34,
-          "authorId": "2685623"
+          "name": "J. Foerster",
+          "hIndex": 35,
+          "authorId": "2275156099"
         }
       ],
       "affiliations": [],
@@ -1092,14 +1092,14 @@
       ],
       "topAuthors": [
         {
+          "name": "J. Foerster",
+          "hIndex": 35,
+          "authorId": "2275156099"
+        },
+        {
           "name": "Noam Brown",
           "hIndex": 34,
           "authorId": "2685623"
-        },
-        {
-          "name": "Adam Lerer",
-          "hIndex": 30,
-          "authorId": "1977806"
         }
       ],
       "affiliations": [],
@@ -1221,7 +1221,7 @@
         },
         {
           "name": "M. Busch",
-          "hIndex": 91,
+          "hIndex": 89,
           "authorId": "2270494342"
         }
       ],
@@ -1351,7 +1351,7 @@
       "topAuthors": [
         {
           "name": "W. Schaffner",
-          "hIndex": 98,
+          "hIndex": 94,
           "authorId": "49606090"
         },
         {
@@ -1390,14 +1390,14 @@
       ],
       "topAuthors": [
         {
+          "name": "J. Foerster",
+          "hIndex": 35,
+          "authorId": "2275156099"
+        },
+        {
           "name": "Noam Brown",
           "hIndex": 34,
           "authorId": "2685623"
-        },
-        {
-          "name": "Adam Lerer",
-          "hIndex": 30,
-          "authorId": "1977806"
         }
       ],
       "affiliations": [],
@@ -1463,9 +1463,9 @@
           "authorId": "145210292"
         },
         {
-          "name": "L. McDonald",
-          "hIndex": 54,
-          "authorId": "144218288"
+          "name": "N. Thornburg",
+          "hIndex": 49,
+          "authorId": "6480907"
         }
       ],
       "affiliations": [],
@@ -1811,7 +1811,7 @@
       "topAuthors": [
         {
           "name": "J. Tate",
-          "hIndex": 73,
+          "hIndex": 72,
           "authorId": "2558909"
         },
         {
@@ -1967,7 +1967,7 @@
         },
         {
           "name": "C. F.",
-          "hIndex": 8,
+          "hIndex": 6,
           "authorId": "1410235988"
         }
       ],
@@ -2059,7 +2059,7 @@
         },
         {
           "name": "D. McGrowder",
-          "hIndex": 26,
+          "hIndex": 25,
           "authorId": "6462851"
         }
       ],
@@ -2099,7 +2099,7 @@
       "topAuthors": [
         {
           "name": "L. McClure",
-          "hIndex": 58,
+          "hIndex": 56,
           "authorId": "2262319"
         },
         {
@@ -2174,7 +2174,7 @@
       "topAuthors": [
         {
           "name": "E. Pavlis",
-          "hIndex": 34,
+          "hIndex": 37,
           "authorId": "2202600"
         },
         {
@@ -2300,7 +2300,7 @@
       "doi": "10.1126/science.aay2400",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 907,
+      "citationCount": 909,
       "referenceCount": 30,
       "influentialCitationCount": 58,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 2ee463bba9d4db6aec0eab17e54431a6dc80bf17",
@@ -2394,7 +2394,7 @@
         },
         {
           "name": "K. Covelman",
-          "hIndex": 5,
+          "hIndex": 4,
           "authorId": "7623949"
         }
       ],
@@ -2666,7 +2666,7 @@
       "doi": "10.1126/science.aao1733",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 849,
+      "citationCount": 850,
       "referenceCount": 50,
       "influentialCitationCount": 45,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | eaabb78d0bc44ed132e4d077e9486c86a9e4cda9",
@@ -2910,14 +2910,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Michael Kolling",
+          "hIndex": 34,
+          "authorId": "2098916347"
+        },
+        {
           "name": "Noam Brown",
           "hIndex": 34,
           "authorId": "2685623"
-        },
-        {
-          "name": "Michael Kolling",
-          "hIndex": 11,
-          "authorId": "2098916347"
         }
       ],
       "affiliations": [],
@@ -3129,7 +3129,7 @@
         },
         {
           "name": "M. Todosow",
-          "hIndex": 19,
+          "hIndex": 18,
           "authorId": "31032644"
         }
       ],
@@ -3602,7 +3602,7 @@
       "topAuthors": [
         {
           "name": "W. Earnshaw",
-          "hIndex": 104,
+          "hIndex": 98,
           "authorId": "4764329"
         },
         {
@@ -3638,14 +3638,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Michael Kolling",
+          "hIndex": 34,
+          "authorId": "2098916347"
+        },
+        {
           "name": "Noam Brown",
           "hIndex": 34,
           "authorId": "2685623"
-        },
-        {
-          "name": "Michael Kolling",
-          "hIndex": 11,
-          "authorId": "2098916347"
         }
       ],
       "affiliations": [],
@@ -3971,7 +3971,7 @@
         },
         {
           "name": "G. Bonham-Carter",
-          "hIndex": 30,
+          "hIndex": 31,
           "authorId": "1402911679"
         }
       ],
@@ -4180,7 +4180,7 @@
         },
         {
           "name": "C. Lewis",
-          "hIndex": 7,
+          "hIndex": 6,
           "authorId": "2083000456"
         }
       ],
@@ -4925,7 +4925,7 @@
       "topAuthors": [
         {
           "name": "A. Copp",
-          "hIndex": 70,
+          "hIndex": 69,
           "authorId": "6188629"
         },
         {

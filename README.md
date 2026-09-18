@@ -25,10 +25,10 @@ updated daily. They also show that one repository can hold many surveys — see
 
 | Survey | What is in it | Updated |
 | --- | --- | --- |
-| [Yoshua Bengio](demos/bengio/) | Every paper by Yoshua Bengio, with what to read next found automatically from their citations. · **813** in your list · **25** Recs | 2026-09-17 |
-| [Noam Brown](demos/brown/) | Every paper by Noam Brown, with what to read next found automatically from their citations. · **110** in your list · **25** Recs | 2026-09-17 |
-| [Jeff Dean](demos/dean/) | Every paper by Jeff Dean, with what to read next found automatically from their citations. · **38** in your list · **25** Recs | 2026-09-17 |
-| [Chris Olah](demos/olah/) | Every paper by Chris Olah, with what to read next found automatically from their citations. · **27** in your list · **25** Recs | 2026-09-17 |
+| [Yoshua Bengio](demos/bengio/) | Every paper by Yoshua Bengio, with what to read next found automatically from their citations. · **813** in your list · **25** Recs | 2026-09-18 |
+| [Noam Brown](demos/brown/) | Every paper by Noam Brown, with what to read next found automatically from their citations. · **110** in your list · **25** Recs | 2026-09-18 |
+| [Jeff Dean](demos/dean/) | Every paper by Jeff Dean, with what to read next found automatically from their citations. · **38** in your list · **25** Recs | 2026-09-18 |
+| [Chris Olah](demos/olah/) | Every paper by Chris Olah, with what to read next found automatically from their citations. · **27** in your list · **25** Recs | 2026-09-18 |
 
 <!-- SURVEYS:END -->
 

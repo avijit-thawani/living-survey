@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T11:35:37.089Z",
+  "updatedAt": "2026-09-18T11:09:09.953Z",
   "core": [
     {
       "id": "371104191ffa5c2404d64cc0af34ffadbdc898e3",
@@ -189,7 +189,7 @@
       "doi": "10.1016/j.ejor.2020.07.063",
       "arxivId": "1811.06128",
       "pdf": "https://arxiv.org/pdf/1811.06128",
-      "citationCount": 1921,
+      "citationCount": 1925,
       "referenceCount": 75,
       "influentialCitationCount": 79,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 3f13a5148f7caa51ea946193d261d4f8ed32d81a",
@@ -256,7 +256,7 @@
         },
         {
           "name": "Y. Zhang",
-          "hIndex": 90,
+          "hIndex": 91,
           "authorId": "48379623"
         }
       ],
@@ -749,7 +749,7 @@
         },
         {
           "name": "A. Black",
-          "hIndex": 67,
+          "hIndex": 66,
           "authorId": "1690706"
         }
       ],
@@ -846,7 +846,7 @@
       "doi": null,
       "arxivId": "1801.04062",
       "pdf": null,
-      "citationCount": 1735,
+      "citationCount": 1738,
       "referenceCount": 61,
       "influentialCitationCount": 271,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 6b73775f40467aed52784ff355b9bb7168e9078c",
@@ -1002,7 +1002,7 @@
       "doi": null,
       "arxivId": "1806.08734",
       "pdf": null,
-      "citationCount": 2652,
+      "citationCount": 2659,
       "referenceCount": 52,
       "influentialCitationCount": 92,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 715a73290f260cf2196307e59fe0b6776841f170",
@@ -1071,7 +1071,7 @@
         },
         {
           "name": "A. Black",
-          "hIndex": 67,
+          "hIndex": 66,
           "authorId": "1690706"
         }
       ],
@@ -1292,7 +1292,7 @@
         },
         {
           "name": "S. Levine",
-          "hIndex": 167,
+          "hIndex": 168,
           "authorId": "1736651"
         }
       ],
@@ -1700,7 +1700,7 @@
       "doi": null,
       "arxivId": "1809.10341",
       "pdf": null,
-      "citationCount": 3137,
+      "citationCount": 3139,
       "referenceCount": 51,
       "influentialCitationCount": 571,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 967a21a111757d6af7f7a25ca7ea2bdf6d505098",
@@ -1767,7 +1767,7 @@
         },
         {
           "name": "S. Levine",
-          "hIndex": 167,
+          "hIndex": 168,
           "authorId": "1736651"
         }
       ],
@@ -1860,7 +1860,7 @@
       "doi": null,
       "arxivId": "1812.05159",
       "pdf": null,
-      "citationCount": 1050,
+      "citationCount": 1052,
       "referenceCount": 40,
       "influentialCitationCount": 155,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | a2b5d224895d96bfe2e384e2dcf1ebd136ac3782",
@@ -3368,7 +3368,7 @@
       "doi": null,
       "arxivId": "1709.08568",
       "pdf": null,
-      "citationCount": 271,
+      "citationCount": 272,
       "referenceCount": 22,
       "influentialCitationCount": 13,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 0fff5c49c05c27c22ac7685130197146491f0b36",
@@ -3840,7 +3840,7 @@
         },
         {
           "name": "Petar Velickovic",
-          "hIndex": 26,
+          "hIndex": 27,
           "authorId": "3444569"
         }
       ],
@@ -3853,9 +3853,9 @@
       "doi": "10.17863/CAM.48429",
       "arxivId": "1710.10903",
       "pdf": null,
-      "citationCount": 28341,
+      "citationCount": 28374,
       "referenceCount": 44,
-      "influentialCitationCount": 3924,
+      "influentialCitationCount": 3926,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 33998aff64ce51df8dee45989cdca4b6b1329ec4",
       "addedAt": "2026-09-13",
       "score": 9.090909090909092
@@ -4480,7 +4480,7 @@
         },
         {
           "name": "B. Scellier",
-          "hIndex": 17,
+          "hIndex": 16,
           "authorId": "3364063"
         }
       ],
@@ -4520,7 +4520,7 @@
         },
         {
           "name": "M. Soljačić",
-          "hIndex": 97,
+          "hIndex": 98,
           "authorId": "1973666"
         }
       ],
@@ -4852,7 +4852,7 @@
       "doi": null,
       "arxivId": "1705.09792",
       "pdf": null,
-      "citationCount": 1080,
+      "citationCount": 1081,
       "referenceCount": 54,
       "influentialCitationCount": 170,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | a742162820cdabee2831235665517d0e98041502",
@@ -5071,7 +5071,7 @@
       "doi": null,
       "arxivId": "1710.07300",
       "pdf": null,
-      "citationCount": 510,
+      "citationCount": 511,
       "referenceCount": 40,
       "influentialCitationCount": 69,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | cb6be69c67b0b15ebbda89a126f4dd62a4d32958",
@@ -5341,7 +5341,7 @@
       "doi": null,
       "arxivId": "1705.10245",
       "pdf": null,
-      "citationCount": 125,
+      "citationCount": 124,
       "referenceCount": 19,
       "influentialCitationCount": 12,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | ef65b08bdf351166d49f184a42db10211d25f997",
@@ -5828,7 +5828,7 @@
         },
         {
           "name": "B. Scellier",
-          "hIndex": 17,
+          "hIndex": 16,
           "authorId": "3364063"
         }
       ],
@@ -5959,7 +5959,7 @@
       "pdf": null,
       "citationCount": 712,
       "referenceCount": 35,
-      "influentialCitationCount": 43,
+      "influentialCitationCount": 44,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 2fe874a1c85ecc9e848bf9defd76535e19d51f39",
       "addedAt": "2026-09-13",
       "score": 34.54545454545455
@@ -6332,9 +6332,9 @@
       "doi": null,
       "arxivId": "1610.01644",
       "pdf": null,
-      "citationCount": 1813,
+      "citationCount": 1817,
       "referenceCount": 38,
-      "influentialCitationCount": 95,
+      "influentialCitationCount": 94,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 5e23a28063b395bdaf784dc548a046885cb90cf2",
       "addedAt": "2026-09-13",
       "score": 10.909090909090908
@@ -6558,7 +6558,7 @@
       "doi": null,
       "arxivId": "1605.02688",
       "pdf": null,
-      "citationCount": 2381,
+      "citationCount": 2380,
       "referenceCount": 34,
       "influentialCitationCount": 140,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 6b570069f14c7588e066f7138e1f21af59d62e61",
@@ -6647,7 +6647,7 @@
         },
         {
           "name": "B. Scellier",
-          "hIndex": 17,
+          "hIndex": 16,
           "authorId": "3364063"
         }
       ],
@@ -6685,7 +6685,7 @@
         },
         {
           "name": "Y. Zhang",
-          "hIndex": 90,
+          "hIndex": 91,
           "authorId": "48379623"
         }
       ],
@@ -7311,9 +7311,9 @@
       "doi": "10.1016/j.patcog.2016.08.005",
       "arxivId": "1606.05763",
       "pdf": "https://arxiv.org/pdf/1606.05763",
-      "citationCount": 294,
+      "citationCount": 295,
       "referenceCount": 88,
-      "influentialCitationCount": 28,
+      "influentialCitationCount": 29,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | cff8123a9765fe0bfcbae1b62b367236ad645d56",
       "addedAt": "2026-09-13",
       "score": 10.909090909090908
@@ -7726,7 +7726,7 @@
       "doi": null,
       "arxivId": "1506.02216",
       "pdf": null,
-      "citationCount": 1392,
+      "citationCount": 1395,
       "referenceCount": 19,
       "influentialCitationCount": 211,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 0c3b69b5247ef18fd5bab1109d87a04184ea8f4b",
@@ -8035,7 +8035,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 38329,
+      "citationCount": 38327,
       "referenceCount": 1,
       "influentialCitationCount": 1479,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 2913c2bf3f92b5ae369400a42b2d27cc5bc05ecb",
@@ -8074,7 +8074,7 @@
       "doi": "10.1609/aaai.v31i1.10777",
       "arxivId": "1511.06406",
       "pdf": "https://doi.org/10.1609/aaai.v31i1.10777",
-      "citationCount": 229,
+      "citationCount": 230,
       "referenceCount": 27,
       "influentialCitationCount": 13,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 2c411e28ba58c1e1c33419e5fd70f7174a80717e",
@@ -8121,7 +8121,7 @@
       "doi": "10.1109/TASLP.2014.2383614",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 588,
+      "citationCount": 589,
       "referenceCount": 76,
       "influentialCitationCount": 40,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 3b9484449d77317ca1cb6a6c44c50c99879a8f0e",
@@ -8201,7 +8201,7 @@
       "doi": "10.1016/j.media.2016.05.004",
       "arxivId": "1505.03540",
       "pdf": "https://arxiv.org/pdf/1505.03540",
-      "citationCount": 3166,
+      "citationCount": 3168,
       "referenceCount": 52,
       "influentialCitationCount": 114,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 441ff323c92331e655ce9ff896773fc00b55089a",
@@ -8242,7 +8242,7 @@
       "doi": null,
       "arxivId": "1502.03044",
       "pdf": null,
-      "citationCount": 10924,
+      "citationCount": 10928,
       "referenceCount": 55,
       "influentialCitationCount": 823,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 4d8f2d14af5991d4f0d050d22216825cac3157bd",
@@ -8804,7 +8804,7 @@
         },
         {
           "name": "J. David",
-          "hIndex": 18,
+          "hIndex": 19,
           "authorId": "145719986"
         }
       ],
@@ -8932,7 +8932,7 @@
       "doi": null,
       "arxivId": "1506.07503",
       "pdf": null,
-      "citationCount": 2778,
+      "citationCount": 2777,
       "referenceCount": 34,
       "influentialCitationCount": 135,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | b624504240fa52ab76167acfe3156150ca01cf3b",
@@ -8973,7 +8973,7 @@
       "doi": null,
       "arxivId": "1511.06481",
       "pdf": null,
-      "citationCount": 230,
+      "citationCount": 229,
       "referenceCount": 20,
       "influentialCitationCount": 26,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | be38b06e010b500f8ac137432ade82d0028dd233",
@@ -9406,7 +9406,7 @@
       "doi": null,
       "arxivId": "1511.06464",
       "pdf": null,
-      "citationCount": 927,
+      "citationCount": 928,
       "referenceCount": 29,
       "influentialCitationCount": 124,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | e9c771197a6564762754e48c1daafb066f449f2e",
@@ -9468,7 +9468,7 @@
         },
         {
           "name": "Y. Zhang",
-          "hIndex": 90,
+          "hIndex": 91,
           "authorId": "48379623"
         }
       ],
@@ -9520,7 +9520,7 @@
       "doi": null,
       "arxivId": "1411.1792",
       "pdf": null,
-      "citationCount": 9504,
+      "citationCount": 9510,
       "referenceCount": 18,
       "influentialCitationCount": 465,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 081651b38ff7533550a3adfc1c00da333a8fe86c",
@@ -9560,9 +9560,9 @@
       "doi": "10.3115/v1/D14-1179",
       "arxivId": "1406.1078",
       "pdf": "https://aclanthology.org/D14-1179.pdf",
-      "citationCount": 27475,
+      "citationCount": 27499,
       "referenceCount": 33,
-      "influentialCitationCount": 3174,
+      "influentialCitationCount": 3175,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 0b544dfe355a5070b60986319a3f51fb45d1348e",
       "addedAt": "2026-09-13",
       "score": 10.909090909090908
@@ -9769,7 +9769,7 @@
         },
         {
           "name": "J. David",
-          "hIndex": 18,
+          "hIndex": 19,
           "authorId": "145719986"
         }
       ],
@@ -9819,7 +9819,7 @@
       "doi": "10.3115/v1/W14-4012",
       "arxivId": "1409.1259",
       "pdf": "https://aclanthology.org/W14-4012.pdf",
-      "citationCount": 7627,
+      "citationCount": 7631,
       "referenceCount": 15,
       "influentialCitationCount": 915,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 1eb09fecd75eb27825dce4f964b97f4f5cc399d7",
@@ -9947,7 +9947,7 @@
         },
         {
           "name": "M. Ranzato",
-          "hIndex": 62,
+          "hIndex": 64,
           "authorId": "1706809"
         }
       ],
@@ -10191,7 +10191,7 @@
         },
         {
           "name": "J. David",
-          "hIndex": 18,
+          "hIndex": 19,
           "authorId": "145719986"
         }
       ],
@@ -10245,9 +10245,9 @@
       "doi": null,
       "arxivId": "1412.6550",
       "pdf": null,
-      "citationCount": 4909,
+      "citationCount": 4917,
       "referenceCount": 38,
-      "influentialCitationCount": 528,
+      "influentialCitationCount": 530,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 8604f376633af8b347e31d84c6150a93b11e34c2",
       "addedAt": "2026-09-13",
       "score": 21.818181818181817
@@ -10399,9 +10399,9 @@
       "doi": null,
       "arxivId": "1412.3555",
       "pdf": null,
-      "citationCount": 15077,
+      "citationCount": 15089,
       "referenceCount": 20,
-      "influentialCitationCount": 1589,
+      "influentialCitationCount": 1590,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | ac3ee98020251797c2b401e1389461df88e52e62",
       "addedAt": "2026-09-13",
       "score": 18.181818181818183
@@ -10669,7 +10669,7 @@
         },
         {
           "name": "J. David",
-          "hIndex": 18,
+          "hIndex": 19,
           "authorId": "145719986"
         }
       ],
@@ -10718,7 +10718,7 @@
       "doi": null,
       "arxivId": "1410.8516",
       "pdf": null,
-      "citationCount": 2678,
+      "citationCount": 2679,
       "referenceCount": 35,
       "influentialCitationCount": 296,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | dc8301b67f98accbb331190dd7bd987952a692af",
@@ -10830,9 +10830,9 @@
       "doi": null,
       "arxivId": "1409.0473",
       "pdf": null,
-      "citationCount": 30011,
+      "citationCount": 30025,
       "referenceCount": 33,
-      "influentialCitationCount": 2616,
+      "influentialCitationCount": 2617,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5",
       "addedAt": "2026-09-13",
       "score": 18.181818181818183
@@ -10853,7 +10853,7 @@
         },
         {
           "name": "G. Corrado",
-          "hIndex": 43,
+          "hIndex": 66,
           "authorId": "102388768"
         }
       ],
@@ -10941,7 +10941,7 @@
       "doi": null,
       "arxivId": "1312.6211",
       "pdf": null,
-      "citationCount": 1698,
+      "citationCount": 1699,
       "referenceCount": 19,
       "influentialCitationCount": 102,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 0407b605b8f55db72e2545586bfe8e946b691b70",
@@ -11633,9 +11633,9 @@
       "doi": null,
       "arxivId": "1308.3432",
       "pdf": null,
-      "citationCount": 4178,
+      "citationCount": 4180,
       "referenceCount": 20,
-      "influentialCitationCount": 374,
+      "influentialCitationCount": 375,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 62c76ca0b2790c34e85ba1cce09d47be317c7235",
       "addedAt": "2026-09-13",
       "score": 10.909090909090908
@@ -11846,7 +11846,7 @@
         },
         {
           "name": "J. Kalaska",
-          "hIndex": 55,
+          "hIndex": 53,
           "authorId": "30757744"
         }
       ],
@@ -12194,7 +12194,7 @@
       "doi": null,
       "arxivId": "1312.6098",
       "pdf": null,
-      "citationCount": 285,
+      "citationCount": 286,
       "referenceCount": 21,
       "influentialCitationCount": 28,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | d06a2ce22b60b5d806b22bbbc754b4d83d7c82d1",
@@ -12295,9 +12295,9 @@
       "doi": "10.1016/j.neunet.2014.09.005",
       "arxivId": "1307.0414",
       "pdf": "http://arxiv.org/pdf/1307.0414.pdf",
-      "citationCount": 2084,
+      "citationCount": 2085,
       "referenceCount": 25,
-      "influentialCitationCount": 263,
+      "influentialCitationCount": 264,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | db8c3cfaae04a14c1209d62953029b6fa53e23c7",
       "addedAt": "2026-09-13",
       "score": 12.727272727272727
@@ -12410,7 +12410,7 @@
       "doi": null,
       "arxivId": "1301.3584",
       "pdf": null,
-      "citationCount": 456,
+      "citationCount": 457,
       "referenceCount": 43,
       "influentialCitationCount": 25,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | e8f95ccfd13689f672c39dca3eccf1c484533bcc",
@@ -12665,7 +12665,7 @@
       "doi": "10.1109/TPAMI.2013.50",
       "arxivId": "1206.5538",
       "pdf": "http://arxiv.org/pdf/1206.5538",
-      "citationCount": 14302,
+      "citationCount": 14307,
       "referenceCount": 263,
       "influentialCitationCount": 599,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 184ac0766262312ba76bbdece4e7ffad0aa8180b",
@@ -12700,9 +12700,9 @@
       "doi": "10.5555/2503308.2188395",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 11591,
+      "citationCount": 11598,
       "referenceCount": 35,
-      "influentialCitationCount": 519,
+      "influentialCitationCount": 520,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 188e247506ad992b8bc62d6c74789e89891a984f",
       "addedAt": "2026-09-13",
       "score": 0
@@ -13277,9 +13277,9 @@
       "doi": null,
       "arxivId": "1211.5063",
       "pdf": null,
-      "citationCount": 6123,
+      "citationCount": 6126,
       "referenceCount": 36,
-      "influentialCitationCount": 405,
+      "influentialCitationCount": 406,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 84069287da0a6b488b8c933f3cb5be759cb6237e",
       "addedAt": "2026-09-13",
       "score": 9.090909090909092
@@ -13808,9 +13808,9 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 5903,
+      "citationCount": 5907,
       "referenceCount": 22,
-      "influentialCitationCount": 486,
+      "influentialCitationCount": 487,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 03911c85305d42aa2eeb02be82ef6fb7da644dd0",
       "addedAt": "2026-09-13",
       "score": 0
@@ -13914,7 +13914,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 1589,
+      "citationCount": 1590,
       "referenceCount": 19,
       "influentialCitationCount": 130,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 195d0a8233a7a46329c742eaff56c276f847fadc",
@@ -13992,7 +13992,7 @@
       "doi": "10.1609/aaai.v25i1.7917",
       "arxivId": null,
       "pdf": "https://doi.org/10.1609/aaai.v25i1.7917",
-      "citationCount": 943,
+      "citationCount": 945,
       "referenceCount": 26,
       "influentialCitationCount": 92,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 1f4a4769e4d2fb846e59c2f185e0377190739f18",
@@ -14371,7 +14371,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 8953,
+      "citationCount": 8955,
       "referenceCount": 37,
       "influentialCitationCount": 445,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 67107f78a84bdb2411053cb54e94fa226eea6d8e",
@@ -15558,7 +15558,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 19635,
+      "citationCount": 19637,
       "referenceCount": 21,
       "influentialCitationCount": 936,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | ea9d2a2b4ce11aaf85136840c65f3bc9c03ab649",
@@ -15704,7 +15704,7 @@
         },
         {
           "name": "J. Carreau",
-          "hIndex": 19,
+          "hIndex": 18,
           "authorId": "145296235"
         }
       ],
@@ -15919,7 +15919,7 @@
         },
         {
           "name": "J. Carreau",
-          "hIndex": 19,
+          "hIndex": 18,
           "authorId": "145296235"
         }
       ],
@@ -16032,7 +16032,7 @@
         },
         {
           "name": "J. Kalaska",
-          "hIndex": 55,
+          "hIndex": 53,
           "authorId": "30757744"
         }
       ],
@@ -16082,9 +16082,9 @@
       "doi": "10.1145/1553374.1553380",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 7627,
+      "citationCount": 7636,
       "referenceCount": 33,
-      "influentialCitationCount": 452,
+      "influentialCitationCount": 453,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 8de174ab5419b9d3127695405efd079808e956e8",
       "addedAt": "2026-09-13",
       "score": 0
@@ -16376,7 +16376,7 @@
       "doi": "10.1145/1390156.1390294",
       "arxivId": null,
       "pdf": "http://www.iro.umontreal.ca/~vincentp/Publications/denoising_autoencoders_tr1316.pdf",
-      "citationCount": 8313,
+      "citationCount": 8314,
       "referenceCount": 30,
       "influentialCitationCount": 513,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 843959ffdccf31c6694d135fad07425924f785b1",
@@ -16605,7 +16605,7 @@
         },
         {
           "name": "J. Carreau",
-          "hIndex": 19,
+          "hIndex": 18,
           "authorId": "145296235"
         }
       ],
@@ -16780,7 +16780,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -17096,9 +17096,9 @@
       "doi": "10.7551/mitpress/7503.003.0024",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 5496,
+      "citationCount": 5495,
       "referenceCount": 18,
-      "influentialCitationCount": 327,
+      "influentialCitationCount": 326,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 355d44f53428b1ac4fb2ab468d593c720640e5bd",
       "addedAt": "2026-09-13",
       "score": 1.8181818181818181
@@ -17372,7 +17372,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -17410,7 +17410,7 @@
         },
         {
           "name": "J. Carreau",
-          "hIndex": 19,
+          "hIndex": 18,
           "authorId": "145296235"
         }
       ],
@@ -17880,7 +17880,7 @@
         },
         {
           "name": "L. Getoor",
-          "hIndex": 74,
+          "hIndex": 75,
           "authorId": "1746034"
         }
       ],
@@ -18301,7 +18301,7 @@
         },
         {
           "name": "J. Kalaska",
-          "hIndex": 55,
+          "hIndex": 53,
           "authorId": "30757744"
         }
       ],
@@ -18499,7 +18499,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 7905,
+      "citationCount": 7907,
       "referenceCount": 40,
       "influentialCitationCount": 479,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 6c2b28f9354f667cd5bd07afc0471d8334430da7",
@@ -18771,7 +18771,7 @@
         },
         {
           "name": "V. Vapnik",
-          "hIndex": 66,
+          "hIndex": 68,
           "authorId": "50560492"
         }
       ],
@@ -19367,7 +19367,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 31,
+      "citationCount": 32,
       "referenceCount": 11,
       "influentialCitationCount": 4,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 3181416c2d721b196aab5c0cf0d9b89fb6caa8f4",
@@ -19713,7 +19713,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 562,
+      "citationCount": 563,
       "referenceCount": 9,
       "influentialCitationCount": 27,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 81ff8885fd11af461fce05cf797ddf175664b305",
@@ -19771,7 +19771,7 @@
         },
         {
           "name": "V. Vapnik",
-          "hIndex": 66,
+          "hIndex": 68,
           "authorId": "50560492"
         }
       ],
@@ -19948,7 +19948,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -20058,7 +20058,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -20074,9 +20074,9 @@
       "doi": "10.1109/5.726791",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 62635,
+      "citationCount": 62668,
       "referenceCount": 147,
-      "influentialCitationCount": 6452,
+      "influentialCitationCount": 6456,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 162d958ff885f1462aeda91cd72582323fd6a1f4",
       "addedAt": "2026-09-13",
       "score": 0
@@ -20135,7 +20135,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -20175,7 +20175,7 @@
         },
         {
           "name": "J. Soucy",
-          "hIndex": 49,
+          "hIndex": 51,
           "authorId": "145318694"
         }
       ],
@@ -20247,7 +20247,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -20289,7 +20289,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -20401,7 +20401,7 @@
         },
         {
           "name": "J. Lina",
-          "hIndex": 42,
+          "hIndex": 43,
           "authorId": "145669666"
         }
       ],
@@ -20476,7 +20476,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -20515,7 +20515,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -20593,7 +20593,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -20714,7 +20714,7 @@
       "doi": "10.1109/72.536317",
       "arxivId": null,
       "pdf": "http://www.iro.umontreal.ca/~lisa/pointeurs/iohmms.pdf",
-      "citationCount": 355,
+      "citationCount": 356,
       "referenceCount": 66,
       "influentialCitationCount": 38,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 25bdc473f8377c1200adbd691fbb3cc77fa7bf70",
@@ -20941,7 +20941,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -21014,7 +21014,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -21030,7 +21030,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 4629,
+      "citationCount": 4628,
       "referenceCount": 20,
       "influentialCitationCount": 372,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | bf7e1b6997433dcb2121b07cce1de1c61471ff2d",
@@ -21113,7 +21113,7 @@
       "authors": [
         "N. Matic",
         "D. Henderson",
-        "Y. Le Cun",
+        "Y. le Cun",
         "Yoshua Bengio"
       ],
       "topAuthors": [
@@ -21123,8 +21123,8 @@
           "authorId": "1751762"
         },
         {
-          "name": "Y. Le Cun",
-          "hIndex": 4,
+          "name": "Y. le Cun",
+          "hIndex": 9,
           "authorId": "116525682"
         }
       ],
@@ -21159,7 +21159,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -21320,7 +21320,7 @@
       "doi": "10.1109/72.279181",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 9248,
+      "citationCount": 9252,
       "referenceCount": 27,
       "influentialCitationCount": 284,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | d0be39ee052d246ae99c082a565aba25b811be2d",
@@ -21377,7 +21377,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -21415,7 +21415,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -21489,7 +21489,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -21639,7 +21639,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -21710,7 +21710,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -21815,7 +21815,7 @@
         },
         {
           "name": "R. Mori",
-          "hIndex": 32,
+          "hIndex": 23,
           "authorId": "1714393"
         }
       ],
@@ -21852,7 +21852,7 @@
         },
         {
           "name": "R. Mori",
-          "hIndex": 32,
+          "hIndex": 23,
           "authorId": "1714393"
         }
       ],
@@ -21889,7 +21889,7 @@
         },
         {
           "name": "R. Mori",
-          "hIndex": 32,
+          "hIndex": 23,
           "authorId": "1714393"
         }
       ],
@@ -21926,7 +21926,7 @@
         },
         {
           "name": "R. Mori",
-          "hIndex": 32,
+          "hIndex": 23,
           "authorId": "1714393"
         }
       ],
@@ -21961,7 +21961,7 @@
         },
         {
           "name": "R. Mori",
-          "hIndex": 32,
+          "hIndex": 23,
           "authorId": "1714393"
         }
       ],
@@ -22064,7 +22064,7 @@
         },
         {
           "name": "R. Mori",
-          "hIndex": 32,
+          "hIndex": 23,
           "authorId": "1714393"
         }
       ],
@@ -22100,7 +22100,7 @@
         },
         {
           "name": "R. Mori",
-          "hIndex": 32,
+          "hIndex": 23,
           "authorId": "1714393"
         }
       ],
@@ -22170,7 +22170,7 @@
         },
         {
           "name": "R. Mori",
-          "hIndex": 32,
+          "hIndex": 23,
           "authorId": "1714393"
         }
       ],
@@ -22206,7 +22206,7 @@
         },
         {
           "name": "R. Mori",
-          "hIndex": 32,
+          "hIndex": 23,
           "authorId": "1714393"
         }
       ],
@@ -22281,7 +22281,7 @@
         },
         {
           "name": "R. Mori",
-          "hIndex": 32,
+          "hIndex": 23,
           "authorId": "1714393"
         }
       ],
@@ -22354,7 +22354,7 @@
         },
         {
           "name": "R. Mori",
-          "hIndex": 32,
+          "hIndex": 23,
           "authorId": "1714393"
         }
       ],
@@ -22391,7 +22391,7 @@
         },
         {
           "name": "R. Mori",
-          "hIndex": 32,
+          "hIndex": 23,
           "authorId": "1714393"
         }
       ],
@@ -22427,7 +22427,7 @@
         },
         {
           "name": "R. Mori",
-          "hIndex": 32,
+          "hIndex": 23,
           "authorId": "1714393"
         }
       ],
@@ -22464,7 +22464,7 @@
         },
         {
           "name": "R. Mori",
-          "hIndex": 32,
+          "hIndex": 23,
           "authorId": "1714393"
         }
       ],
@@ -22499,7 +22499,7 @@
         },
         {
           "name": "R. Mori",
-          "hIndex": 32,
+          "hIndex": 23,
           "authorId": "1714393"
         }
       ],
@@ -22534,7 +22534,7 @@
         },
         {
           "name": "R. Mori",
-          "hIndex": 32,
+          "hIndex": 23,
           "authorId": "1714393"
         }
       ],
@@ -22898,7 +22898,7 @@
         },
         {
           "name": "S. Keerthi",
-          "hIndex": 38,
+          "hIndex": 40,
           "authorId": "144106136"
         }
       ],
@@ -23287,7 +23287,7 @@
         },
         {
           "name": "T. Lillicrap",
-          "hIndex": 68,
+          "hIndex": 71,
           "authorId": "2542999"
         }
       ],
@@ -23375,7 +23375,7 @@
         },
         {
           "name": "A. Barkun",
-          "hIndex": 82,
+          "hIndex": 81,
           "authorId": "2418483"
         }
       ],
@@ -24125,7 +24125,7 @@
       "doi": "10.1109/ICCCNT56998.2023.10306417",
       "arxivId": "2203.00667",
       "pdf": null,
-      "citationCount": 30594,
+      "citationCount": 30602,
       "referenceCount": 141,
       "influentialCitationCount": 2670,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 6296aa7cab06eaf058f7291040b320b5a83c0091",
@@ -24287,7 +24287,7 @@
       "doi": null,
       "arxivId": "2102.08501",
       "pdf": null,
-      "citationCount": 125,
+      "citationCount": 126,
       "referenceCount": 132,
       "influentialCitationCount": 12,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 8a4a90a925d0376e740df508ac307613c647e5c3",
@@ -24350,7 +24350,7 @@
         },
         {
           "name": "B. Schölkopf",
-          "hIndex": 152,
+          "hIndex": 176,
           "authorId": "1707625"
         }
       ],
@@ -24393,7 +24393,7 @@
         },
         {
           "name": "B. Schölkopf",
-          "hIndex": 152,
+          "hIndex": 176,
           "authorId": "1707625"
         }
       ],
@@ -24411,7 +24411,7 @@
       "pdf": null,
       "citationCount": 366,
       "referenceCount": 279,
-      "influentialCitationCount": 26,
+      "influentialCitationCount": 25,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 8f566001453bc6be0a935bf69ffd90d9db3af32b",
       "addedAt": "2026-09-13",
       "score": 21.818181818181817
@@ -24492,7 +24492,7 @@
         },
         {
           "name": "Di He",
-          "hIndex": 41,
+          "hIndex": 42,
           "authorId": "1391126980"
         }
       ],
@@ -24567,7 +24567,7 @@
         },
         {
           "name": "T. Willson",
-          "hIndex": 117,
+          "hIndex": 119,
           "authorId": "5064590"
         }
       ],
@@ -24823,7 +24823,7 @@
         },
         {
           "name": "Yann LeCun",
-          "hIndex": 139,
+          "hIndex": 140,
           "authorId": "1688882"
         }
       ],
@@ -24955,7 +24955,7 @@
         },
         {
           "name": "P. Thibault",
-          "hIndex": 79,
+          "hIndex": 78,
           "authorId": "144582990"
         }
       ],
@@ -25123,7 +25123,7 @@
       "doi": null,
       "arxivId": "2006.15212",
       "pdf": null,
-      "citationCount": 176,
+      "citationCount": 177,
       "referenceCount": 43,
       "influentialCitationCount": 11,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 01db8a5e8d3d868517eb3b2b50aabcabf7b66d50",
@@ -25321,7 +25321,7 @@
       "doi": "10.1609/aaai.v35i3.16368",
       "arxivId": "2003.07449",
       "pdf": "https://doi.org/10.1609/aaai.v35i3.16368",
-      "citationCount": 110,
+      "citationCount": 111,
       "referenceCount": 68,
       "influentialCitationCount": 18,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 198333f1f426224de2f36a3ee2aa48e54cf4ba3e",
@@ -25430,7 +25430,7 @@
         },
         {
           "name": "B. Schölkopf",
-          "hIndex": 152,
+          "hIndex": 176,
           "authorId": "1707625"
         }
       ],
@@ -25467,7 +25467,7 @@
         },
         {
           "name": "R. O’Reilly",
-          "hIndex": 60,
+          "hIndex": 61,
           "authorId": "1390067049"
         }
       ],
@@ -25680,7 +25680,7 @@
       "doi": null,
       "arxivId": "2007.06700",
       "pdf": null,
-      "citationCount": 330,
+      "citationCount": 332,
       "referenceCount": 59,
       "influentialCitationCount": 20,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 517498898024107a75f5a4ea84f4129e300af603",
@@ -25709,7 +25709,7 @@
         },
         {
           "name": "K. Keutzer",
-          "hIndex": 98,
+          "hIndex": 99,
           "authorId": "1732330"
         }
       ],
@@ -25859,7 +25859,7 @@
       "arxivId": "2010.10593",
       "pdf": null,
       "citationCount": 6,
-      "referenceCount": 27,
+      "referenceCount": 28,
       "influentialCitationCount": 0,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 5b1e80415745c583bdcb4b62005c6e9ea67d9c50",
       "addedAt": "2026-09-13",
@@ -26038,9 +26038,9 @@
       "doi": null,
       "arxivId": "2004.07213",
       "pdf": null,
-      "citationCount": 497,
+      "citationCount": 498,
       "referenceCount": 230,
-      "influentialCitationCount": 31,
+      "influentialCitationCount": 32,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 62c3142956d54db158d190ce691e3c13e7897412",
       "addedAt": "2026-09-13",
       "score": 0
@@ -26240,7 +26240,7 @@
       "doi": null,
       "arxivId": "2006.16981",
       "pdf": null,
-      "citationCount": 76,
+      "citationCount": 77,
       "referenceCount": 34,
       "influentialCitationCount": 6,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 74e85e72392208b9a1d135dcb00fe28c61ddb9c7",
@@ -26370,7 +26370,7 @@
         },
         {
           "name": "P. Thibault",
-          "hIndex": 79,
+          "hIndex": 78,
           "authorId": "144582990"
         }
       ],
@@ -26536,7 +26536,7 @@
         },
         {
           "name": "Björn Ommer",
-          "hIndex": 41,
+          "hIndex": 46,
           "authorId": "1796707"
         }
       ],
@@ -26706,7 +26706,7 @@
         },
         {
           "name": "S. Levine",
-          "hIndex": 167,
+          "hIndex": 168,
           "authorId": "1736651"
         }
       ],
@@ -26746,7 +26746,7 @@
         },
         {
           "name": "B. Scellier",
-          "hIndex": 17,
+          "hIndex": 16,
           "authorId": "3364063"
         }
       ],
@@ -27123,7 +27123,7 @@
         },
         {
           "name": "S. Levine",
-          "hIndex": 167,
+          "hIndex": 168,
           "authorId": "1736651"
         }
       ],
@@ -27247,7 +27247,7 @@
         },
         {
           "name": "B. Schölkopf",
-          "hIndex": 152,
+          "hIndex": 176,
           "authorId": "1707625"
         }
       ],
@@ -27432,7 +27432,7 @@
         },
         {
           "name": "S. Levine",
-          "hIndex": 167,
+          "hIndex": 168,
           "authorId": "1736651"
         }
       ],
@@ -27524,7 +27524,7 @@
       "doi": null,
       "arxivId": "1905.10437",
       "pdf": null,
-      "citationCount": 1784,
+      "citationCount": 1786,
       "referenceCount": 44,
       "influentialCitationCount": 221,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 13c185b8c461034af2634f25dd8a85889e8ee135",
@@ -27819,9 +27819,9 @@
           "authorId": "1751762"
         },
         {
-          "name": "Konrad Paul Kording",
-          "hIndex": 70,
-          "authorId": "3282030"
+          "name": "T. Lillicrap",
+          "hIndex": 71,
+          "authorId": "2542999"
         }
       ],
       "affiliations": [
@@ -28203,9 +28203,9 @@
       "doi": null,
       "arxivId": "1910.06711",
       "pdf": null,
-      "citationCount": 1164,
+      "citationCount": 1165,
       "referenceCount": 51,
-      "influentialCitationCount": 113,
+      "influentialCitationCount": 114,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 37e52ff4714c7a08900b518127e438a195b84611",
       "addedAt": "2026-09-13",
       "score": 5.454545454545454
@@ -28587,9 +28587,9 @@
           "authorId": "1751762"
         },
         {
-          "name": "S. Levine",
-          "hIndex": 167,
-          "authorId": "1736651"
+          "name": "B. Schölkopf",
+          "hIndex": 176,
+          "authorId": "1707625"
         }
       ],
       "affiliations": [
@@ -28629,7 +28629,7 @@
         },
         {
           "name": "K. Sankaran",
-          "hIndex": 11,
+          "hIndex": 10,
           "authorId": "46769963"
         }
       ],
@@ -28709,7 +28709,7 @@
         },
         {
           "name": "S. Levine",
-          "hIndex": 167,
+          "hIndex": 168,
           "authorId": "1736651"
         }
       ],
@@ -29013,9 +29013,9 @@
           "authorId": "1751762"
         },
         {
-          "name": "M. Schönwiesner",
-          "hIndex": 21,
-          "authorId": "3123659"
+          "name": "D. Willett",
+          "hIndex": 18,
+          "authorId": "143720989"
         }
       ],
       "affiliations": [],
@@ -29049,9 +29049,9 @@
           "authorId": "1751762"
         },
         {
-          "name": "Sarath Chandar",
-          "hIndex": 22,
-          "authorId": "123607932"
+          "name": "Shagun Sodhani",
+          "hIndex": 19,
+          "authorId": "2462516"
         }
       ],
       "affiliations": [],
@@ -29148,7 +29148,7 @@
         },
         {
           "name": "D. Hassabis",
-          "hIndex": 92,
+          "hIndex": 93,
           "authorId": "48987704"
         }
       ],
@@ -29464,7 +29464,7 @@
         },
         {
           "name": "S. Levine",
-          "hIndex": 167,
+          "hIndex": 168,
           "authorId": "1736651"
         }
       ],
@@ -29622,7 +29622,7 @@
         },
         {
           "name": "S. Levine",
-          "hIndex": 167,
+          "hIndex": 168,
           "authorId": "1736651"
         }
       ],
@@ -29663,7 +29663,7 @@
         },
         {
           "name": "S. Levine",
-          "hIndex": 167,
+          "hIndex": 168,
           "authorId": "1736651"
         }
       ],
@@ -29801,7 +29801,7 @@
       "doi": null,
       "arxivId": "1902.06865",
       "pdf": null,
-      "citationCount": 125,
+      "citationCount": 126,
       "referenceCount": 73,
       "influentialCitationCount": 6,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | c3f13bcbd19ed1082f95cb042f8f4dd593b12764",
@@ -30411,7 +30411,7 @@
         },
         {
           "name": "R. O’Reilly",
-          "hIndex": 60,
+          "hIndex": 61,
           "authorId": "1390067049"
         }
       ],
@@ -30647,7 +30647,7 @@
       "doi": "10.1016/j.neucom.2018.01.007",
       "arxivId": "1803.11407",
       "pdf": "https://arxiv.org/pdf/1803.11407",
-      "citationCount": 186,
+      "citationCount": 187,
       "referenceCount": 26,
       "influentialCitationCount": 4,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 1080487b52da7f9faa6379eecd32ddb65ef9a9f3",
@@ -30673,7 +30673,7 @@
         },
         {
           "name": "C. Perreault",
-          "hIndex": 51,
+          "hIndex": 50,
           "authorId": "4697258"
         }
       ],
@@ -30760,7 +30760,7 @@
         },
         {
           "name": "Graham W. Taylor",
-          "hIndex": 55,
+          "hIndex": 56,
           "authorId": "144639556"
         }
       ],
@@ -31032,7 +31032,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 1650,
+      "citationCount": 1654,
       "referenceCount": 44,
       "influentialCitationCount": 217,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 1b59eea8ec4684381a885b59acd09c9151a49487",
@@ -31116,7 +31116,7 @@
       "doi": "10.18653/v1/D18-1259",
       "arxivId": "1809.09600",
       "pdf": "https://www.aclweb.org/anthology/D18-1259.pdf",
-      "citationCount": 5382,
+      "citationCount": 5388,
       "referenceCount": 20,
       "influentialCitationCount": 1117,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 22655979df781d222eaf812b0d325fa9adf11594",
@@ -31262,7 +31262,7 @@
         },
         {
           "name": "S. Levine",
-          "hIndex": 167,
+          "hIndex": 168,
           "authorId": "1736651"
         }
       ],

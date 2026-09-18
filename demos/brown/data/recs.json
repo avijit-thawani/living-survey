@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T11:35:50.706Z",
+  "updatedAt": "2026-09-18T11:09:30.491Z",
   "recs": [
     {
       "id": "064b6d786f7716aedba6c85c22f1b0812fbb55ba",
@@ -33,10 +33,10 @@
       "referenceCount": 69,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 10,
       "direction": "forward",
-      "score": 53.28554671668737,
+      "score": 53.2842689304951,
       "why": "past month · cites 10 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -74,10 +74,10 @@
       "referenceCount": 34,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 8,
       "direction": "forward",
-      "score": 45.46316813371082,
+      "score": 45.43829114726342,
       "why": "past month · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -108,10 +108,10 @@
       "referenceCount": 39,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 7,
       "direction": "forward",
-      "score": 30.644269607742142,
+      "score": 30.638940886920796,
       "why": "past month · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -148,10 +148,10 @@
       "referenceCount": 42,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 17.90686405514565,
+      "score": 17.887612354156577,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -167,7 +167,7 @@
       "topAuthors": [
         {
           "name": "A. Ozdaglar",
-          "hIndex": 69,
+          "hIndex": 68,
           "authorId": "145744184"
         },
         {
@@ -185,14 +185,14 @@
       "doi": null,
       "arxivId": "2608.31166",
       "pdf": null,
-      "citationCount": 2,
+      "citationCount": 3,
       "referenceCount": 26,
       "influentialCitationCount": 2,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 16.07428641842429,
+      "score": 16.06280165464387,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -229,10 +229,10 @@
       "referenceCount": 54,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 4,
       "direction": "forward",
-      "score": 14.200754300200325,
+      "score": 14.1947345827095,
       "why": "past month · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -263,10 +263,10 @@
       "referenceCount": 38,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 10.923474750069419,
+      "score": 10.920752334673983,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -303,10 +303,10 @@
       "referenceCount": 53,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 13,
       "direction": "forward",
-      "score": 81.20670632158199,
+      "score": 81.20630467918319,
       "why": "past year · cites 13 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -344,10 +344,10 @@
       "referenceCount": 53,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 11,
       "direction": "forward",
-      "score": 67.19130878507502,
+      "score": 67.19048495254262,
       "why": "past year · cites 11 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -365,7 +365,7 @@
       "topAuthors": [
         {
           "name": "J. Kolter",
-          "hIndex": 73,
+          "hIndex": 78,
           "authorId": "145116464"
         },
         {
@@ -387,10 +387,10 @@
       "referenceCount": 48,
       "influentialCitationCount": 2,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 8,
       "direction": "forward",
-      "score": 60.96396752790599,
+      "score": 61.086070186721464,
       "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -427,10 +427,10 @@
       "referenceCount": 55,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 8,
       "direction": "forward",
-      "score": 58.978649034116216,
+      "score": 58.97951883960522,
       "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -467,10 +467,10 @@
       "referenceCount": 29,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 9,
       "direction": "forward",
-      "score": 51.65795593021111,
+      "score": 51.65662059829067,
       "why": "past year · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -509,10 +509,10 @@
       "referenceCount": 32,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 8,
       "direction": "forward",
-      "score": 45.97339958427742,
+      "score": 45.971681578191976,
       "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -549,10 +549,10 @@
       "referenceCount": 53,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 9,
       "direction": "forward",
-      "score": 45.90931271993118,
+      "score": 45.90777413676226,
       "why": "past year · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -589,10 +589,10 @@
       "referenceCount": 36,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 7,
       "direction": "forward",
-      "score": 38.621835697200765,
+      "score": 38.62003945518104,
       "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -634,10 +634,10 @@
       "referenceCount": 66,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 4,
       "direction": "forward",
-      "score": 32.47862197842657,
+      "score": 32.47977030512299,
       "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -675,10 +675,10 @@
       "referenceCount": 78,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 7,
       "direction": "forward",
-      "score": 30.93924609568027,
+      "score": 30.933680094221717,
       "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -720,7 +720,7 @@
       "referenceCount": 14,
       "influentialCitationCount": 60,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 15,
       "direction": "backward",
       "score": 100,
@@ -764,7 +764,7 @@
       "referenceCount": 76,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 13,
       "direction": "forward",
       "score": 99.5455317791271,
@@ -808,7 +808,7 @@
       "referenceCount": 11,
       "influentialCitationCount": 182,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 17,
       "direction": "backward",
       "score": 94.10777582915615,
@@ -858,11 +858,55 @@
       "referenceCount": 53,
       "influentialCitationCount": 46,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 17,
       "direction": "backward",
       "score": 90.27356435131466,
       "why": "cited by 17 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "61dfe5df3c9bc00bf91a366c9dbcb51b8d747c5a",
+      "title": "Refining Subgames in Large Imperfect Information Games",
+      "authors": [
+        "Matej Moravcík",
+        "Martin Schmid",
+        "Karel Ha",
+        "M. Hladík",
+        "S. Gaukrodger"
+      ],
+      "topAuthors": [
+        {
+          "name": "M. Hladík",
+          "hIndex": 26,
+          "authorId": "2250160"
+        },
+        {
+          "name": "Martin Schmid",
+          "hIndex": 15,
+          "authorId": "8649018"
+        }
+      ],
+      "affiliations": [
+        "Charles University"
+      ],
+      "year": 2016,
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "publicationDate": "2016-02-12",
+      "summary": "This work introduces the notion of subgame margin, a simple value with appealing properties that is guaranteed to find the optimal solution in subgame refinements resulting in large positive margins.",
+      "url": "https://www.semanticscholar.org/paper/61dfe5df3c9bc00bf91a366c9dbcb51b8d747c5a",
+      "doi": "10.1609/aaai.v30i1.10033",
+      "arxivId": null,
+      "pdf": "https://doi.org/10.1609/aaai.v30i1.10033",
+      "citationCount": 48,
+      "referenceCount": 25,
+      "influentialCitationCount": 9,
+      "source": null,
+      "addedAt": "2026-09-18",
+      "overlap": 9,
+      "direction": "backward",
+      "score": 87.69266628983378,
+      "why": "cited by 9 in your list",
       "fromReferences": false
     },
     {
@@ -899,55 +943,11 @@
       "referenceCount": 219,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 14,
       "direction": "forward",
-      "score": 87.57820373955002,
+      "score": 87.57802737027356,
       "why": "cites 14 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "61dfe5df3c9bc00bf91a366c9dbcb51b8d747c5a",
-      "title": "Refining Subgames in Large Imperfect Information Games",
-      "authors": [
-        "Matej Moravcík",
-        "Martin Schmid",
-        "Karel Ha",
-        "M. Hladík",
-        "S. Gaukrodger"
-      ],
-      "topAuthors": [
-        {
-          "name": "M. Hladík",
-          "hIndex": 25,
-          "authorId": "2250160"
-        },
-        {
-          "name": "Martin Schmid",
-          "hIndex": 15,
-          "authorId": "8649018"
-        }
-      ],
-      "affiliations": [
-        "Charles University"
-      ],
-      "year": 2016,
-      "venue": "AAAI Conference on Artificial Intelligence",
-      "publicationDate": "2016-02-12",
-      "summary": "This work introduces the notion of subgame margin, a simple value with appealing properties that is guaranteed to find the optimal solution in subgame refinements resulting in large positive margins.",
-      "url": "https://www.semanticscholar.org/paper/61dfe5df3c9bc00bf91a366c9dbcb51b8d747c5a",
-      "doi": "10.1609/aaai.v30i1.10033",
-      "arxivId": null,
-      "pdf": "https://doi.org/10.1609/aaai.v30i1.10033",
-      "citationCount": 48,
-      "referenceCount": 25,
-      "influentialCitationCount": 9,
-      "source": null,
-      "addedAt": "2026-09-17",
-      "overlap": 9,
-      "direction": "backward",
-      "score": 87.56693157201761,
-      "why": "cited by 9 in your list",
       "fromReferences": false
     },
     {
@@ -983,11 +983,11 @@
       "doi": "10.1126/science.1259433",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 563,
+      "citationCount": 564,
       "referenceCount": 92,
       "influentialCitationCount": 36,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 14,
       "direction": "backward",
       "score": 85.44306359382551,
@@ -1011,7 +1011,7 @@
         },
         {
           "name": "Javier F. Pen͂a",
-          "hIndex": 21,
+          "hIndex": 22,
           "authorId": "145055007"
         }
       ],
@@ -1030,7 +1030,7 @@
       "referenceCount": 31,
       "influentialCitationCount": 29,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 11,
       "direction": "backward",
       "score": 84.7437718354827,

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T11:39:22.478Z",
+  "updatedAt": "2026-09-18T11:10:49.997Z",
   "recs": [
     {
       "id": "53defead4bd7ac00bd30f0aa0a05e02e9e4c4cc7",
@@ -35,10 +35,10 @@
       "referenceCount": 52,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 37.480594061826764,
+      "score": 37.47580350125322,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -80,7 +80,7 @@
       "referenceCount": 198,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
       "score": 42.44221009911931,
@@ -99,7 +99,7 @@
       "topAuthors": [
         {
           "name": "U. Ogras",
-          "hIndex": 31,
+          "hIndex": 30,
           "authorId": "117025233"
         },
         {
@@ -121,10 +121,10 @@
       "referenceCount": 56,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 31.74614445761639,
+      "score": 31.702953102145198,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -138,7 +138,7 @@
       "topAuthors": [
         {
           "name": "V. Reddi",
-          "hIndex": 46,
+          "hIndex": 47,
           "authorId": "1805668"
         }
       ],
@@ -155,10 +155,10 @@
       "referenceCount": 74,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 28.674037670719166,
+      "score": 28.68878243975886,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -198,10 +198,10 @@
       "referenceCount": 110,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 27.265420529502965,
+      "score": 27.26198086915723,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -242,10 +242,10 @@
       "referenceCount": 29,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 26.50390686792016,
+      "score": 26.50056327608516,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -288,10 +288,10 @@
       "referenceCount": 75,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 25.50058745618287,
+      "score": 25.494263482272096,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -400,7 +400,7 @@
       "topAuthors": [
         {
           "name": "M. Artoni",
-          "hIndex": 23,
+          "hIndex": 21,
           "authorId": "4009560"
         },
         {
@@ -424,10 +424,10 @@
       "referenceCount": 98,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 25.422930320786953,
+      "score": 25.332228428162214,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -468,10 +468,10 @@
       "referenceCount": 56,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 24.966934558852277,
+      "score": 24.96074292726522,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -517,10 +517,10 @@
       "referenceCount": 47,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 24.57355382856639,
+      "score": 24.56745975275053,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -567,10 +567,10 @@
       "referenceCount": 115,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 24.029778774036487,
+      "score": 24.023357244354504,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -630,11 +630,11 @@
       "doi": null,
       "arxivId": "2112.06905",
       "pdf": null,
-      "citationCount": 1325,
+      "citationCount": 1327,
       "referenceCount": 108,
       "influentialCitationCount": 83,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 8,
       "direction": "backward",
       "score": 100,
@@ -661,12 +661,12 @@
       "topAuthors": [
         {
           "name": "D. Brooks",
-          "hIndex": 63,
+          "hIndex": 64,
           "authorId": "1896817"
         },
         {
           "name": "Gu-Yeon Wei",
-          "hIndex": 54,
+          "hIndex": 55,
           "authorId": "2255803"
         }
       ],
@@ -686,10 +686,10 @@
       "referenceCount": 48,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 98.3848331165324,
+      "score": 98.44094463869045,
       "why": "cites 3 in your list",
       "fromReferences": false
     },
@@ -730,10 +730,10 @@
       "referenceCount": 329,
       "influentialCitationCount": 6,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 4,
       "direction": "forward",
-      "score": 97.20659859302677,
+      "score": 97.18215680066962,
       "why": "cites 4 in your list",
       "fromReferences": false
     },
@@ -774,11 +774,11 @@
       "doi": null,
       "arxivId": "2006.16668",
       "pdf": null,
-      "citationCount": 2350,
+      "citationCount": 2355,
       "referenceCount": 99,
       "influentialCitationCount": 218,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 8,
       "direction": "backward",
       "score": 87.62396436487907,
@@ -811,10 +811,10 @@
       "referenceCount": 63,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 4,
       "direction": "forward",
-      "score": 87.04328039987284,
+      "score": 87.01848401761143,
       "why": "cites 4 in your list",
       "fromReferences": false
     },
@@ -911,7 +911,7 @@
         },
         {
           "name": "D. Hassabis",
-          "hIndex": 92,
+          "hIndex": 93,
           "authorId": "48987704"
         }
       ],
@@ -927,11 +927,11 @@
       "doi": null,
       "arxivId": "2112.11446",
       "pdf": null,
-      "citationCount": 1667,
+      "citationCount": 1669,
       "referenceCount": 0,
-      "influentialCitationCount": 101,
+      "influentialCitationCount": 102,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 7,
       "direction": "backward",
       "score": 83.51686131806095,
@@ -956,7 +956,7 @@
       "topAuthors": [
         {
           "name": "J. Kaplan",
-          "hIndex": 43,
+          "hIndex": 42,
           "authorId": "152724169"
         },
         {
@@ -976,14 +976,14 @@
       "doi": null,
       "arxivId": "2001.08361",
       "pdf": null,
-      "citationCount": 9007,
+      "citationCount": 9016,
       "referenceCount": 59,
-      "influentialCitationCount": 628,
+      "influentialCitationCount": 629,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 9,
       "direction": "backward",
-      "score": 74.3899872605726,
+      "score": 74.32619810054547,
       "why": "cited by 9 in your list",
       "fromReferences": false
     },
@@ -1021,10 +1021,10 @@
       "referenceCount": 112,
       "influentialCitationCount": 50,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
-      "score": 74.15857902038016,
+      "score": 74.15703781552328,
       "why": "cites 3 in your list",
       "fromReferences": false
     },
@@ -1059,14 +1059,14 @@
       "doi": "10.1109/LLM4Code66737.2025.00030",
       "arxivId": "2506.18923",
       "pdf": null,
-      "citationCount": 2,
+      "citationCount": 3,
       "referenceCount": 47,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 4,
       "direction": "forward",
-      "score": 72.85911736041156,
+      "score": 72.83708863298551,
       "why": "cites 4 in your list",
       "fromReferences": false
     },
@@ -1109,7 +1109,7 @@
       "referenceCount": 60,
       "influentialCitationCount": 19,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 4,
       "direction": "backward",
       "score": 70.96625165690253,
@@ -1192,7 +1192,7 @@
       "referenceCount": 25,
       "influentialCitationCount": 11,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 4,
       "direction": "backward",
       "score": 69.90018752198058,
@@ -1239,7 +1239,7 @@
       "referenceCount": 72,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 2,
       "direction": "forward",
       "score": 68.65206632691437,
@@ -1285,7 +1285,7 @@
       "referenceCount": 101,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 2,
       "direction": "forward",
       "score": 68.34215334194924,
@@ -1329,7 +1329,7 @@
       "referenceCount": 16,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-17",
+      "addedAt": "2026-09-18",
       "overlap": 3,
       "direction": "forward",
       "score": 68.25870292250804,

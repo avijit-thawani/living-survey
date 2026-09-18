@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T11:39:22.478Z",
+  "updatedAt": "2026-09-18T11:10:49.997Z",
   "core": [
     {
       "id": "859024deadf1f43343ecc1d6f903e6c11398dadb",
@@ -26,7 +26,7 @@
       "topAuthors": [
         {
           "name": "M. Ranzato",
-          "hIndex": 62,
+          "hIndex": 64,
           "authorId": "1706809"
         },
         {
@@ -195,9 +195,9 @@
       "doi": null,
       "arxivId": "2204.02311",
       "pdf": null,
-      "citationCount": 8378,
+      "citationCount": 8384,
       "referenceCount": 173,
-      "influentialCitationCount": 437,
+      "influentialCitationCount": 439,
       "source": "author: https://www.semanticscholar.org/author/J-Dean/48448318 | 094ff971d6a8b8ff870946c9b3ce5aa173617bfb",
       "addedAt": "2026-09-13",
       "score": 60
@@ -485,7 +485,7 @@
       "doi": "10.48550/arXiv.2209.01667",
       "arxivId": "2209.01667",
       "pdf": "http://arxiv.org/pdf/2209.01667",
-      "citationCount": 214,
+      "citationCount": 215,
       "referenceCount": 90,
       "influentialCitationCount": 11,
       "source": "author: https://www.semanticscholar.org/author/J-Dean/48448318 | ca086f4c09cf8de705830ac2b70951737fab93ca",
@@ -553,9 +553,9 @@
       "doi": "10.48550/arXiv.2210.11416",
       "arxivId": "2210.11416",
       "pdf": "http://arxiv.org/pdf/2210.11416",
-      "citationCount": 4418,
+      "citationCount": 4420,
       "referenceCount": 106,
-      "influentialCitationCount": 453,
+      "influentialCitationCount": 454,
       "source": "author: https://www.semanticscholar.org/author/J-Dean/48448318 | cdbd4f9b6ab2e2fd1ddf5400d5ed2c18960635d1",
       "addedAt": "2026-09-13",
       "score": 40
@@ -605,9 +605,9 @@
       "doi": "10.48550/arXiv.2206.07682",
       "arxivId": "2206.07682",
       "pdf": "http://arxiv.org/pdf/2206.07682",
-      "citationCount": 3828,
+      "citationCount": 3831,
       "referenceCount": 107,
-      "influentialCitationCount": 193,
+      "influentialCitationCount": 194,
       "source": "author: https://www.semanticscholar.org/author/J-Dean/48448318 | dac3a172b504f4e33c029655e9befb3386e5f63a",
       "addedAt": "2026-09-13",
       "score": 60
@@ -745,9 +745,9 @@
       "doi": null,
       "arxivId": "2104.10350",
       "pdf": null,
-      "citationCount": 1237,
+      "citationCount": 1238,
       "referenceCount": 59,
-      "influentialCitationCount": 98,
+      "influentialCitationCount": 99,
       "source": "author: https://www.semanticscholar.org/author/J-Dean/48448318 | 7a16d9b4e04300d034502dc7dd58428714594e2c",
       "addedAt": "2026-09-13",
       "score": 60
@@ -864,7 +864,7 @@
       "topAuthors": [
         {
           "name": "Y. Gal",
-          "hIndex": 67,
+          "hIndex": 68,
           "authorId": "2681954"
         },
         {
@@ -917,14 +917,14 @@
       ],
       "topAuthors": [
         {
+          "name": "G. Corrado",
+          "hIndex": 66,
+          "authorId": "102388768"
+        },
+        {
           "name": "Yossi Matias",
           "hIndex": 53,
           "authorId": "1745572"
-        },
-        {
-          "name": "M. Howell",
-          "hIndex": 48,
-          "authorId": "145310670"
         }
       ],
       "affiliations": [
@@ -982,7 +982,7 @@
       "doi": "10.1038/s41591-018-0316-z",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 4719,
+      "citationCount": 4728,
       "referenceCount": 64,
       "influentialCitationCount": 124,
       "source": "author: https://www.semanticscholar.org/author/J-Dean/48448318 | 44e1dd74f0446ec91221189ad3a65edb1a0208fe",
@@ -1495,7 +1495,7 @@
       "topAuthors": [
         {
           "name": "C. Young",
-          "hIndex": 37,
+          "hIndex": 36,
           "authorId": "39660914"
         },
         {
@@ -1596,7 +1596,7 @@
       "doi": null,
       "arxivId": "1802.03268",
       "pdf": null,
-      "citationCount": 3078,
+      "citationCount": 3080,
       "referenceCount": 55,
       "influentialCitationCount": 512,
       "source": "author: https://www.semanticscholar.org/author/J-Dean/48448318 | fe9b8aac9fa3bfd9724db5a881a578e471e612d7",
@@ -1638,9 +1638,9 @@
       "doi": null,
       "arxivId": "1701.06538",
       "pdf": null,
-      "citationCount": 5601,
+      "citationCount": 5616,
       "referenceCount": 45,
-      "influentialCitationCount": 539,
+      "influentialCitationCount": 538,
       "source": "author: https://www.semanticscholar.org/author/J-Dean/48448318 | 510e26733aaff585d65701b9f1be7ca9d5afc586",
       "addedAt": "2026-09-13",
       "score": 20

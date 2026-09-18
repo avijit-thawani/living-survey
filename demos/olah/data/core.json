@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T11:40:04.271Z",
+  "updatedAt": "2026-09-18T11:11:29.200Z",
   "core": [
     {
       "id": "1b6e16cc72aee038eb1879b8686b53776be3d51f",
@@ -53,7 +53,7 @@
       "doi": "10.48550/arXiv.2605.29358",
       "arxivId": "2605.29358",
       "pdf": null,
-      "citationCount": 785,
+      "citationCount": 788,
       "referenceCount": 0,
       "influentialCitationCount": 59,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | 1b6e16cc72aee038eb1879b8686b53776be3d51f",
@@ -3457,7 +3457,7 @@
         },
         {
           "name": "Tim Rocktäschel",
-          "hIndex": 44,
+          "hIndex": 45,
           "authorId": "2620211"
         }
       ],
@@ -3798,7 +3798,7 @@
         },
         {
           "name": "M. Willemink",
-          "hIndex": 38,
+          "hIndex": 37,
           "authorId": "4127337"
         }
       ],
@@ -4351,7 +4351,7 @@
       "topAuthors": [
         {
           "name": "P. Privitera",
-          "hIndex": 58,
+          "hIndex": 62,
           "authorId": "50883754"
         },
         {
@@ -4372,7 +4372,7 @@
       "doi": "10.18653/v1/2024.acl-long.577",
       "arxivId": null,
       "pdf": "https://aclanthology.org/2024.acl-long.577.pdf",
-      "citationCount": 13,
+      "citationCount": 14,
       "referenceCount": 60,
       "influentialCitationCount": 0,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | 7925f16e76cf274c257570ed3aa0ab97638be7d1",
@@ -4832,9 +4832,9 @@
       "doi": "10.48550/arXiv.2204.05862",
       "arxivId": "2204.05862",
       "pdf": "http://arxiv.org/pdf/2204.05862",
-      "citationCount": 4354,
+      "citationCount": 4357,
       "referenceCount": 72,
-      "influentialCitationCount": 517,
+      "influentialCitationCount": 518,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | 0286b2736a114198b25fb5553c671c33aed5d477",
       "addedAt": "2026-09-13",
       "score": 42.857142857142854
@@ -4904,9 +4904,9 @@
       "doi": "10.48550/arXiv.2207.05221",
       "arxivId": "2207.05221",
       "pdf": "http://arxiv.org/pdf/2207.05221",
-      "citationCount": 2011,
+      "citationCount": 2021,
       "referenceCount": 39,
-      "influentialCitationCount": 167,
+      "influentialCitationCount": 168,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | 142ebbf4760145f591166bde2564ac70c001e927",
       "addedAt": "2026-09-13",
       "score": 28.57142857142857
@@ -4976,7 +4976,7 @@
       "doi": "10.48550/arXiv.2209.07858",
       "arxivId": "2209.07858",
       "pdf": "https://arxiv.org/pdf/2209.07858",
-      "citationCount": 887,
+      "citationCount": 888,
       "referenceCount": 61,
       "influentialCitationCount": 53,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | 17bcb1edbe068e8fe6a97da552c70a77a15bbce7",
@@ -5063,7 +5063,7 @@
       "doi": "10.48550/arXiv.2212.08073",
       "arxivId": "2212.08073",
       "pdf": "http://arxiv.org/pdf/2212.08073",
-      "citationCount": 3679,
+      "citationCount": 3691,
       "referenceCount": 82,
       "influentialCitationCount": 259,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | 3936fd3c6187f606c6e4e2e20b196dbc41cc4654",
@@ -5262,7 +5262,7 @@
       "doi": "10.48550/arXiv.2211.03540",
       "arxivId": "2211.03540",
       "pdf": "https://arxiv.org/pdf/2211.03540",
-      "citationCount": 241,
+      "citationCount": 242,
       "referenceCount": 31,
       "influentialCitationCount": 19,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | 99ca5162211a895a5dfbff9d7e36e21e09ca646e",
@@ -5493,9 +5493,9 @@
       "doi": "10.48550/arXiv.2209.11895",
       "arxivId": "2209.11895",
       "pdf": "http://arxiv.org/pdf/2209.11895",
-      "citationCount": 1031,
+      "citationCount": 1032,
       "referenceCount": 13,
-      "influentialCitationCount": 86,
+      "influentialCitationCount": 87,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | c90a99eeb57019732a6cc996bb9eaf13faedf00f",
       "addedAt": "2026-09-13",
       "score": 28.57142857142857
@@ -5592,7 +5592,7 @@
       "doi": "10.48550/arXiv.2212.09251",
       "arxivId": "2212.09251",
       "pdf": "http://arxiv.org/pdf/2212.09251",
-      "citationCount": 1037,
+      "citationCount": 1040,
       "referenceCount": 105,
       "influentialCitationCount": 76,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | cef330bacf014d60daabbd489647b2006af130ca",
@@ -5649,9 +5649,9 @@
       "doi": null,
       "arxivId": "2112.00861",
       "pdf": null,
-      "citationCount": 1233,
+      "citationCount": 1234,
       "referenceCount": 60,
-      "influentialCitationCount": 133,
+      "influentialCitationCount": 134,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | 3dc7dc1bea9a4f70c02b6759a0bda7aca0005a9e",
       "addedAt": "2026-09-13",
       "score": 14.285714285714285
@@ -5688,7 +5688,7 @@
       "doi": null,
       "arxivId": "1606.06565",
       "pdf": null,
-      "citationCount": 3461,
+      "citationCount": 3468,
       "referenceCount": 172,
       "influentialCitationCount": 160,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | e86f71ca2948d17b003a5f068db1ecb2b77827f7",
@@ -5950,7 +5950,7 @@
         "Edwin Chen",
         "Scott Heiner",
         "Craig Pettit",
-        "Jerry Wei",
+        "Jerry W. Wei",
         "Chengrun Yang",
         "Xinying Song",
         "Yifeng Lu",
