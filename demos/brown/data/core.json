@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T11:09:30.491Z",
+  "updatedAt": "2026-09-19T11:23:30.230Z",
   "core": [
     {
       "id": "1167853b9cff97347fc7beb1c8ce92fc95486a1a",
@@ -560,7 +560,7 @@
       "id": "7426468ad384a7f64e1d37c4c3757a79b98d5850",
       "title": "Augmented Thresholds for MONI",
       "authors": [
-        "C'esar Mart'inez-Guardiola",
+        "César Martínez-Guardiola",
         "Noam Brown",
         "Fernando Silva-Coira",
         "Dominik Koppl",
@@ -886,7 +886,7 @@
       "doi": "10.1126/science.ade9097",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 621,
+      "citationCount": 622,
       "referenceCount": 62,
       "influentialCitationCount": 20,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | e89ed6bb1864558e3889f5f2fb8931643c633479",
@@ -1192,7 +1192,7 @@
         "Noam Brown",
         "Carolyn V. Gould",
         "K. Berney",
-        "Tina J. Benoit",
+        "T. Benoit",
         "Maureen J. Miller",
         "D. Freeman",
         "Deeksha Kartik",
@@ -1234,7 +1234,7 @@
       "doi": "10.1001/jama.2021.15161",
       "arxivId": null,
       "pdf": "https://jamanetwork.com/journals/jama/articlepdf/2784013/jama_jones_2021_oi_210100_1633976009.39994.pdf",
-      "citationCount": 185,
+      "citationCount": 186,
       "referenceCount": 35,
       "influentialCitationCount": 8,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 28cd4cc566fc87d2182679ffebd0838d195f0846",
@@ -2728,7 +2728,7 @@
       "topAuthors": [
         {
           "name": "M. Parides",
-          "hIndex": 49,
+          "hIndex": 48,
           "authorId": "4225852"
         },
         {
@@ -3385,7 +3385,7 @@
         },
         {
           "name": "Dan Jensen",
-          "hIndex": 19,
+          "hIndex": 12,
           "authorId": "145199950"
         }
       ],
@@ -4507,7 +4507,7 @@
         },
         {
           "name": "A. Cowman",
-          "hIndex": 118,
+          "hIndex": 119,
           "authorId": "4818804"
         }
       ],
@@ -4813,12 +4813,12 @@
       "topAuthors": [
         {
           "name": "A. Cowman",
-          "hIndex": 118,
+          "hIndex": 119,
           "authorId": "4818804"
         },
         {
           "name": "J. Blenis",
-          "hIndex": 108,
+          "hIndex": 107,
           "authorId": "4037343"
         }
       ],
