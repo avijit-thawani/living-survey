@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T11:21:04.301Z",
+  "updatedAt": "2026-09-21T14:44:37.335Z",
   "authors": [
     {
       "target": "https://www.semanticscholar.org/author/Chris-Olah/2287268442",
@@ -7,7 +7,7 @@
       "authorId": "2287268442",
       "name": "Chris Olah",
       "paperCount": 27,
-      "checkedAt": "2026-09-20"
+      "checkedAt": "2026-09-21"
     }
   ]
 }
