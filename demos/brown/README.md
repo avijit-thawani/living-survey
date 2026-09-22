@@ -4,7 +4,7 @@
 
 Every paper by Noam Brown, with what to read next found automatically from their citations.
 
-**110** in your list · **25** Recs · updated 2026-09-21
+**110** in your list · **25** Recs · updated 2026-09-22
 
 ## ✨ Recs
 

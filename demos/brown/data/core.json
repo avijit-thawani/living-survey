@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T14:43:49.266Z",
+  "updatedAt": "2026-09-22T11:49:12.508Z",
   "core": [
     {
       "id": "1167853b9cff97347fc7beb1c8ce92fc95486a1a",
@@ -1486,7 +1486,7 @@
     },
     {
       "id": "9e1860e0c0645a257232b0af6eccd8422f51508e",
-      "title": "Quality improvement project: Improving documentation and junior doctor confidence on covid-19 ward rounds using a ward round pro forma",
+      "title": "P98 Quality Improvement Project: Improving documentation and junior doctor confidence on COVID-19 ward rounds using a ward round pro forma",
       "authors": [
         "Noam Brown",
         "J. Horne",
@@ -1506,9 +1506,9 @@
       ],
       "affiliations": [],
       "year": 2021,
-      "venue": null,
-      "publicationDate": null,
-      "summary": "A ward round proforma is implemented across three wards of a tertiary hospital containing high risk COVID-19 patients, aiming to improve both documentation rates and subsequent ease in finding pertinent information.",
+      "venue": "BJS Open",
+      "publicationDate": "2021-04-01",
+      "summary": "This project shows not only a 60% increase in ceiling of care documentation, but also improved ease in accessing such information in a tertiary hospital containing high risk COVID-19 patients.",
       "url": "https://www.semanticscholar.org/paper/9e1860e0c0645a257232b0af6eccd8422f51508e",
       "doi": "10.1093/bjsopen/zrab032.097",
       "arxivId": null,
