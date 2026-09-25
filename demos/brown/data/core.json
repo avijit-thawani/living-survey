@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T11:34:50.421Z",
+  "updatedAt": "2026-09-25T13:48:31.191Z",
   "core": [
     {
       "id": "1167853b9cff97347fc7beb1c8ce92fc95486a1a",
@@ -2666,9 +2666,9 @@
       "doi": "10.1126/science.aao1733",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 850,
+      "citationCount": 851,
       "referenceCount": 50,
-      "influentialCitationCount": 45,
+      "influentialCitationCount": 46,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | eaabb78d0bc44ed132e4d077e9486c86a9e4cda9",
       "addedAt": "2026-09-13",
       "score": 100
