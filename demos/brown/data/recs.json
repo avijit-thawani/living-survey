@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T13:48:31.191Z",
+  "updatedAt": "2026-09-26T12:19:00.718Z",
   "recs": [
     {
       "id": "064b6d786f7716aedba6c85c22f1b0812fbb55ba",
@@ -33,10 +33,10 @@
       "referenceCount": 69,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 10,
       "direction": "forward",
-      "score": 53.28299410516545,
+      "score": 53.28977865869842,
       "why": "past month · cites 10 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -74,10 +74,10 @@
       "referenceCount": 34,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 8,
       "direction": "forward",
-      "score": 45.408650925767155,
+      "score": 45.413742275353314,
       "why": "past month · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -108,10 +108,10 @@
       "referenceCount": 39,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 7,
       "direction": "forward",
-      "score": 30.62872127443854,
+      "score": 30.633514484830936,
       "why": "past month · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -148,10 +148,10 @@
       "referenceCount": 42,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 3,
       "direction": "forward",
-      "score": 17.868630911372872,
+      "score": 17.87611614429298,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -189,10 +189,10 @@
       "referenceCount": 26,
       "influentialCitationCount": 4,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 3,
       "direction": "forward",
-      "score": 16.068280848615576,
+      "score": 16.06731282264566,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -229,10 +229,10 @@
       "referenceCount": 54,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 4,
       "direction": "forward",
-      "score": 14.183741756155111,
+      "score": 14.181227729418836,
       "why": "past month · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -263,10 +263,10 @@
       "referenceCount": 38,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 3,
       "direction": "forward",
-      "score": 10.91803622760938,
+      "score": 10.924234662035897,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -303,10 +303,10 @@
       "referenceCount": 53,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 13,
       "direction": "forward",
-      "score": 81.2059039674628,
+      "score": 81.21322337913209,
       "why": "past year · cites 13 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -344,10 +344,10 @@
       "referenceCount": 53,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 11,
       "direction": "forward",
-      "score": 67.18966302897978,
+      "score": 67.19667956845846,
       "why": "past year · cites 11 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -358,7 +358,7 @@
       "authors": [
         "Samuel Sokota",
         "E. Vinitsky",
-        "Hengyuan Hu",
+        "Heng-Yuan Hu",
         "J. Kolter",
         "Gabriele Farina"
       ],
@@ -369,7 +369,7 @@
           "authorId": "145116464"
         },
         {
-          "name": "Hengyuan Hu",
+          "name": "Heng-Yuan Hu",
           "hIndex": 16,
           "authorId": "3437504"
         }
@@ -387,10 +387,10 @@
       "referenceCount": 48,
       "influentialCitationCount": 2,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 8,
       "direction": "forward",
-      "score": 61.06263386363603,
+      "score": 61.07034460158919,
       "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -427,10 +427,10 @@
       "referenceCount": 55,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 8,
       "direction": "forward",
-      "score": 58.98038558498777,
+      "score": 58.98889716937475,
       "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -467,10 +467,10 @@
       "referenceCount": 29,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 9,
       "direction": "forward",
-      "score": 51.655288360576805,
+      "score": 51.66205438423803,
       "why": "past year · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -482,11 +482,11 @@
         "Yanchang Fu",
         "Shengda Liu",
         "Pei Xu",
-        "Kaiqi Huang"
+        "Kai-Qi Huang"
       ],
       "topAuthors": [
         {
-          "name": "Kaiqi Huang",
+          "name": "Kai-Qi Huang",
           "hIndex": 11,
           "authorId": "2149775969"
         },
@@ -509,10 +509,10 @@
       "referenceCount": 32,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 8,
       "direction": "forward",
-      "score": 45.96996755303857,
+      "score": 45.977023867662105,
       "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -549,10 +549,10 @@
       "referenceCount": 53,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 9,
       "direction": "forward",
-      "score": 45.906239118769925,
+      "score": 45.91293969500899,
       "why": "past year · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -589,10 +589,10 @@
       "referenceCount": 36,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 7,
       "direction": "forward",
-      "score": 38.61824737538025,
+      "score": 38.61766898085295,
       "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -634,10 +634,10 @@
       "referenceCount": 66,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 4,
       "direction": "forward",
-      "score": 32.48091597093793,
+      "score": 32.48128573507297,
       "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -675,10 +675,10 @@
       "referenceCount": 78,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 7,
       "direction": "forward",
-      "score": 30.923034333450744,
+      "score": 30.928002591416963,
       "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -720,7 +720,7 @@
       "referenceCount": 14,
       "influentialCitationCount": 60,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 15,
       "direction": "backward",
       "score": 100,
@@ -731,7 +731,7 @@
       "id": "d13766eea7a132f617d86886671acedea2d1d7cc",
       "title": "A Survey of Nash Equilibrium Strategy Solving Based on CFR",
       "authors": [
-        "Li Huale",
+        "Hua-Le Li",
         "X. Wang",
         "Fengwei Jia",
         "Yifan Li",
@@ -744,9 +744,9 @@
           "authorId": "39849136"
         },
         {
-          "name": "Fengwei Jia",
-          "hIndex": 5,
-          "authorId": "24736862"
+          "name": "Hua-Le Li",
+          "hIndex": 6,
+          "authorId": "1500379589"
         }
       ],
       "affiliations": [
@@ -764,7 +764,7 @@
       "referenceCount": 76,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 13,
       "direction": "forward",
       "score": 99.5455317791271,
@@ -808,7 +808,7 @@
       "referenceCount": 11,
       "influentialCitationCount": 183,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 17,
       "direction": "backward",
       "score": 94.10777582915615,
@@ -858,7 +858,7 @@
       "referenceCount": 53,
       "influentialCitationCount": 46,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 17,
       "direction": "backward",
       "score": 90.27356435131466,
@@ -902,7 +902,7 @@
       "referenceCount": 25,
       "influentialCitationCount": 9,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 9,
       "direction": "backward",
       "score": 87.69266628983378,
@@ -913,7 +913,7 @@
       "id": "9f80829dd0103a3c0d71fe114c8e93bb855e071d",
       "title": "Learning in games: a systematic review",
       "authors": [
-        "Rongjun Qin",
+        "Rong-Jun Qin",
         "Yang Yu"
       ],
       "topAuthors": [
@@ -923,7 +923,7 @@
           "authorId": "2309729944"
         },
         {
-          "name": "Rongjun Qin",
+          "name": "Rong-Jun Qin",
           "hIndex": 5,
           "authorId": "46938007"
         }
@@ -943,10 +943,10 @@
       "referenceCount": 219,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 14,
       "direction": "forward",
-      "score": 87.57785140967673,
+      "score": 87.58524335986789,
       "why": "cites 14 in your list",
       "fromReferences": false
     },
@@ -987,7 +987,7 @@
       "referenceCount": 92,
       "influentialCitationCount": 36,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 14,
       "direction": "backward",
       "score": 85.44306359382551,
@@ -1030,7 +1030,7 @@
       "referenceCount": 31,
       "influentialCitationCount": 29,
       "source": null,
-      "addedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
       "overlap": 11,
       "direction": "backward",
       "score": 84.7437718354827,

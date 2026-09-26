@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T13:48:31.191Z",
+  "updatedAt": "2026-09-26T12:19:00.718Z",
   "core": [
     {
       "id": "1167853b9cff97347fc7beb1c8ce92fc95486a1a",
@@ -7,7 +7,7 @@
       "authors": [
         "Samuel Sokota",
         "Ryan D'Orazio",
-        "C. Ling",
+        "Chun-Kai Ling",
         "David J. Wu",
         "J. Kolter",
         "Noam Brown"
@@ -82,11 +82,11 @@
       "title": "Tracer dispersion due to non-Newtonian fluid flows in hydraulic fractures with different geometries and porous walls",
       "authors": [
         "Noam Brown",
-        "M. Dejam"
+        "Morteza Dejam"
       ],
       "topAuthors": [
         {
-          "name": "M. Dejam",
+          "name": "Morteza Dejam",
           "hIndex": 42,
           "authorId": "12962724"
         },
@@ -208,7 +208,7 @@
         "Samuel Sokota",
         "Gabriele Farina",
         "David J. Wu",
-        "Hengyuan Hu",
+        "Heng-Yuan Hu",
         "Kevin A. Wang",
         "J. Kolter",
         "Noam Brown"
@@ -722,11 +722,11 @@
       "title": "An extensive scope of flow loops with a focus on particle transport",
       "authors": [
         "Noam Brown",
-        "M. Dejam"
+        "Morteza Dejam"
       ],
       "topAuthors": [
         {
-          "name": "M. Dejam",
+          "name": "Morteza Dejam",
           "hIndex": 42,
           "authorId": "12962724"
         },
@@ -756,7 +756,7 @@
       "id": "d42ac61b938a2173d0fcb9c327684748d9e880bd",
       "title": "Human-AI Coordination via Human-Regularized Search and Learning",
       "authors": [
-        "Hengyuan Hu",
+        "Heng-Yuan Hu",
         "David J. Wu",
         "Adam Lerer",
         "J. Foerster",
@@ -843,7 +843,7 @@
         "Daniel Fried",
         "Andrew Goff",
         "Jonathan Gray",
-        "Hengyuan Hu",
+        "Heng-Yuan Hu",
         "Athul Paul Jacob",
         "Mojtaba Komeili",
         "Karthik Konath",
@@ -886,7 +886,7 @@
       "doi": "10.1126/science.ade9097",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 626,
+      "citationCount": 627,
       "referenceCount": 62,
       "influentialCitationCount": 20,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | e89ed6bb1864558e3889f5f2fb8931643c633479",
@@ -974,7 +974,7 @@
       "title": "A Fine-Tuning Approach to Belief State Modeling",
       "authors": [
         "Samuel Sokota",
-        "Hengyuan Hu",
+        "Heng-Yuan Hu",
         "David J. Wu",
         "J. Kolter",
         "J. Foerster",
@@ -1012,7 +1012,7 @@
       "id": "0c3c71c63153063afb08ecb67e9682b1b13e83fa",
       "title": "Safe Search for Stackelberg Equilibria in Extensive-Form Games",
       "authors": [
-        "C. Ling",
+        "Chun-Kai Ling",
         "Noam Brown"
       ],
       "topAuthors": [
@@ -1022,7 +1022,7 @@
           "authorId": "2685623"
         },
         {
-          "name": "C. Ling",
+          "name": "Chun-Kai Ling",
           "hIndex": 11,
           "authorId": "37087787"
         }
@@ -1048,7 +1048,7 @@
       "title": "Scalable Online Planning via Reinforcement Learning Fine-Tuning",
       "authors": [
         "Arnaud Fickinger",
-        "Hengyuan Hu",
+        "Heng-Yuan Hu",
         "Brandon Amos",
         "Stuart J. Russell",
         "Noam Brown"
@@ -1085,7 +1085,7 @@
       "id": "16ab6f35abcdbe413f2fccc6bc5b80e7ccf28de6",
       "title": "Learned Belief Search: Efficiently Improving Policies in Partially Observable Settings",
       "authors": [
-        "Hengyuan Hu",
+        "Heng-Yuan Hu",
         "Adam Lerer",
         "Noam Brown",
         "J. Foerster"
@@ -1259,7 +1259,7 @@
         "B. Taylor",
         "Srinivasan Velusamy",
         "S. Chochua",
-        "Almea M Matanock"
+        "Almea M. Matanock"
       ],
       "topAuthors": [
         {
@@ -1380,7 +1380,7 @@
       "id": "6f7eb6062cc4e8feecca0202f634257d1752f795",
       "title": "Off-Belief Learning",
       "authors": [
-        "Hengyuan Hu",
+        "Heng-Yuan Hu",
         "Adam Lerer",
         "Brandon Cui",
         "Luis Pineda",
@@ -1428,7 +1428,7 @@
         "A. Tamin",
         "Mohammad Rasheed",
         "Lisa A. Mills",
-        "S. Lester",
+        "Sandra N. Lester",
         "N. Thornburg",
         "Kenny Nguyen",
         "V. Costantini",
@@ -1565,6 +1565,7 @@
         "David J. Wu",
         "Gabriele Farina",
         "Adam Lerer",
+        "Heng-Yuan Hu",
         "A. Bakhtin",
         "Jacob Andreas",
         "Noam Brown"
@@ -1953,7 +1954,7 @@
         "R. Brown",
         "W. McIntosh",
         "Carter",
-        "v.",
+        "V.",
         "A. Oglesby",
         "C.",
         "Robinson",
@@ -2229,7 +2230,7 @@
       "doi": null,
       "arxivId": "2007.13544",
       "pdf": null,
-      "citationCount": 203,
+      "citationCount": 202,
       "referenceCount": 67,
       "influentialCitationCount": 16,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | df2b23787a58b10962951d4f663809eb20a828ea",
@@ -2300,7 +2301,7 @@
       "doi": "10.1126/science.aay2400",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 911,
+      "citationCount": 912,
       "referenceCount": 30,
       "influentialCitationCount": 58,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 2ee463bba9d4db6aec0eab17e54431a6dc80bf17",
@@ -2347,7 +2348,7 @@
       "title": "Improving Policies via Search in Cooperative Partially Observable Games",
       "authors": [
         "Adam Lerer",
-        "Hengyuan Hu",
+        "Heng-Yuan Hu",
         "Jakob N. Foerster",
         "Noam Brown"
       ],
@@ -3521,7 +3522,7 @@
         "R. Akhurst",
         "E. Amaya",
         "Kathryn Anderson",
-        "A. Andres",
+        "A. Andrés",
         "Deborah Andrew",
         "Francesco Argenton",
         "R. Arkell",
@@ -4366,7 +4367,7 @@
         "T. B. BoreÂn",
         "P. Borgia",
         "M. Bott",
-        "E. C. B. ttger",
+        "E. C. Boè Ttger",
         "J.-P. BoucheÂ",
         "C. Boucher",
         "P. Bouloc",
@@ -4437,7 +4438,7 @@
         "K. Chater",
         "A. Chatterjee",
         "D. Chattoraj",
-        "C. Chen",
+        "C.-W. Chen",
         "J. Chernoff",
         "G. Chhatwal",
         "A. Chopin",
@@ -4447,7 +4448,7 @@
         "N. Cianciotto",
         "C. Clark",
         "D. P. Clark",
-        "A. J. Clarke",
+        "A. Clarke",
         "A. Clarke",
         "J. Claverys",
         "P. Cleary",
@@ -4808,7 +4809,7 @@
         "J. Davey",
         "J. Davies",
         "E. O. Davis",
-        "P. Boer"
+        "P. A. J. De Boer"
       ],
       "topAuthors": [
         {
