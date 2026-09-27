@@ -1,121 +1,6 @@
 {
-  "updatedAt": "2026-09-26T12:19:00.718Z",
+  "updatedAt": "2026-09-27T12:50:59.765Z",
   "recs": [
-    {
-      "id": "064b6d786f7716aedba6c85c22f1b0812fbb55ba",
-      "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
-      "authors": [
-        "Bo-Ning Li",
-        "Long-Bo Huang"
-      ],
-      "topAuthors": [
-        {
-          "name": "Bo-Ning Li",
-          "hIndex": 2,
-          "authorId": "2290287268"
-        },
-        {
-          "name": "Long-Bo Huang",
-          "hIndex": 2,
-          "authorId": "2290244822"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-09-10",
-      "summary": "GPU-CFR is proposed, a compiler and runtime built on observation that for a fixed game, everything about a CFR iteration except the numerical values is known before the first iteration runs, and beats every CPU and GPU baseline on the mid-to-large games of the suite without changing the update rule.",
-      "url": "https://www.semanticscholar.org/paper/064b6d786f7716aedba6c85c22f1b0812fbb55ba",
-      "doi": null,
-      "arxivId": "2609.11923",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 69,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 10,
-      "direction": "forward",
-      "score": 53.28977865869842,
-      "why": "past month · cites 10 in your list",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
-    {
-      "id": "21ba50bc90b48ed00d4993ef8ad09d29c25661ed",
-      "title": "Test-time Reinforcement Learning in Imperfect Information Games",
-      "authors": [
-        "Ondrej Kubícek",
-        "Viliam Lisý",
-        "Tuomas Sandholm"
-      ],
-      "topAuthors": [
-        {
-          "name": "Viliam Lisý",
-          "hIndex": 3,
-          "authorId": "2184247969"
-        },
-        {
-          "name": "Ondrej Kubícek",
-          "hIndex": 2,
-          "authorId": "2095100670"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-08-31",
-      "summary": "This work extends the concept of gadget game, tabular technique for test-time search, to the reinforcement learning setting and formally proves that, unlike prior tabular algorithms, regularized policy-gradient algorithms limit possible strategy degradation caused by test-time reasoning, even without the gadget games.",
-      "url": "https://www.semanticscholar.org/paper/21ba50bc90b48ed00d4993ef8ad09d29c25661ed",
-      "doi": null,
-      "arxivId": "2608.30635",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 34,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 8,
-      "direction": "forward",
-      "score": 45.413742275353314,
-      "why": "past month · cites 8 in your list",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
-    {
-      "id": "e13c0e8877ab693891eaa52719d6137633e37213",
-      "title": "PokaiTrainer: Scaling Belief-State Search to Competitive Pok\\'emon VGC",
-      "authors": [
-        "Max Yu"
-      ],
-      "topAuthors": [
-        {
-          "name": "Max Yu",
-          "hIndex": 1,
-          "authorId": "2442559684"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-08-29",
-      "summary": "This work set out to build a strong VGC agent and report what that took, and found that on the live Showdown best-of-three ladder, the agent wins 59% of 150 sets against a human field averaging ${\\sim}1320$ Elo.",
-      "url": "https://www.semanticscholar.org/paper/e13c0e8877ab693891eaa52719d6137633e37213",
-      "doi": null,
-      "arxivId": "2608.29197",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 39,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 7,
-      "direction": "forward",
-      "score": 30.633514484830936,
-      "why": "past month · cites 7 in your list",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
     {
       "id": "d729fb8c10bda88e3fd747ad90b9307ff457aced",
       "title": "NashDreamer: Model-Based Reinforcement Learning for Zero-Sum Imperfect-Information Games",
@@ -148,10 +33,10 @@
       "referenceCount": 42,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-26",
+      "addedAt": "2026-09-27",
       "overlap": 3,
       "direction": "forward",
-      "score": 17.87611614429298,
+      "score": 56.60346377589241,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -189,10 +74,10 @@
       "referenceCount": 26,
       "influentialCitationCount": 4,
       "source": null,
-      "addedAt": "2026-09-26",
+      "addedAt": "2026-09-27",
       "overlap": 3,
       "direction": "forward",
-      "score": 16.06731282264566,
+      "score": 50.87601534872025,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -229,10 +114,10 @@
       "referenceCount": 54,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-26",
+      "addedAt": "2026-09-27",
       "overlap": 4,
       "direction": "forward",
-      "score": 14.181227729418836,
+      "score": 44.90385963038774,
       "why": "past month · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -263,57 +148,153 @@
       "referenceCount": 38,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-26",
+      "addedAt": "2026-09-27",
       "overlap": 3,
       "direction": "forward",
-      "score": 10.924234662035897,
+      "score": 34.590820286726974,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
     },
     {
-      "id": "b936ab191995307af209ac451c9adb0336a1a431",
-      "title": "Effective, Efficient, and General Information Abstraction for Imperfect-Information Extensive-Form Games",
+      "id": "5961f0d3d9f40f234d9b74188016ec3a1b8e46f8",
+      "title": "Subgame Pruning: Efficiently Solving Two-Player Imperfect Information Games by Accelerated Public Tree Traversal in CFR",
       "authors": [
-        "Boning Li",
-        "Long-Bo Huang"
+        "Shen-Kai Zhang",
+        "Peipei Yang",
+        "Ze Zeng",
+        "Jun-Ge Zhang"
       ],
       "topAuthors": [
         {
-          "name": "Boning Li",
-          "hIndex": 6,
-          "authorId": "1557387001"
+          "name": "Peipei Yang",
+          "hIndex": 11,
+          "authorId": "145655470"
         },
         {
-          "name": "Long-Bo Huang",
-          "hIndex": 2,
-          "authorId": "2290244822"
+          "name": "Jun-Ge Zhang",
+          "hIndex": 9,
+          "authorId": "2399229440"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Beijing Academy of Artificial Intelligence",
+        "Chinese Academy of Sciences"
+      ],
       "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-05-11",
-      "summary": "Experiments show that WEVA consistently outperforms equity-based and rank-based abstractions, reducing exploitability by up to over $80\\% and establish WEVA as an effective, efficient, and general approach to information abstraction in imperfect-information extensive-form games.",
-      "url": "https://www.semanticscholar.org/paper/b936ab191995307af209ac451c9adb0336a1a431",
-      "doi": "10.48550/arXiv.2605.10900",
-      "arxivId": "2605.10900",
+      "venue": "IEEE Transactions on Games",
+      "publicationDate": "2026-06-01",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/5961f0d3d9f40f234d9b74188016ec3a1b8e46f8",
+      "doi": "10.1109/TG.2026.3675377",
+      "arxivId": null,
       "pdf": null,
-      "citationCount": 8,
-      "referenceCount": 53,
+      "citationCount": 0,
+      "referenceCount": 20,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 13,
+      "addedAt": "2026-09-27",
+      "overlap": 5,
       "direction": "forward",
-      "score": 81.21322337913209,
-      "why": "past year · cites 13 in your list",
+      "score": 90.29120812669086,
+      "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
     {
-      "id": "c5dc05bde0f8fcef607a6dbfc365a0acbdfcff1f",
-      "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
+      "id": "91ab40f8b258bb1bba0ae1a5efd58259dcad691c",
+      "title": "Towards Foresighted AI Cooperators with LLM-driven Decision-Time Planning",
+      "authors": [
+        "Yuheng Jing",
+        "Kai Li",
+        "Bingyun Liu",
+        "Ziwen Zhang",
+        "Zhe Wu",
+        "Yifan Zhang",
+        "Junliang Xing",
+        "Jian Cheng"
+      ],
+      "topAuthors": [
+        {
+          "name": "Jian Cheng",
+          "hIndex": 7,
+          "authorId": "2276330423"
+        },
+        {
+          "name": "Junliang Xing",
+          "hIndex": 6,
+          "authorId": "2276201623"
+        }
+      ],
+      "affiliations": [
+        "Beijing Academy of Artificial Intelligence",
+        "Tsinghua University"
+      ],
+      "year": 2026,
+      "venue": "Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems",
+      "publicationDate": "2026-05-25",
+      "summary": "This paper introduces DTPAgent, a novel LLM-driven Decision-Time Planning (DTP) framework, and demonstrates on the popular benchmark, Overcooked, that DTPAgent, built with small-scale LLMs, effectively outperforms various types of baselines when faced with unseen partners.",
+      "url": "https://www.semanticscholar.org/paper/91ab40f8b258bb1bba0ae1a5efd58259dcad691c",
+      "doi": "10.65109/XALP4331",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 105,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-27",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 89.91714481107411,
+      "why": "past year · cites 3 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "f29f46c24cc0e11e16ba11cd163419cc866f5d19",
+      "title": "Outbidding and Outbluffing Elite Humans: Mastering Liar's Poker via Self-Play and Reinforcement Learning",
+      "authors": [
+        "Richard E. Dewey",
+        "J. Botyánszki",
+        "C. Moallemi",
+        "Andrew T. Zheng"
+      ],
+      "topAuthors": [
+        {
+          "name": "C. Moallemi",
+          "hIndex": 27,
+          "authorId": "2514597"
+        },
+        {
+          "name": "Richard E. Dewey",
+          "hIndex": 4,
+          "authorId": "116618783"
+        }
+      ],
+      "affiliations": [],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "publicationDate": "2025-11-05",
+      "summary": "Solly is presented, the first AI agent to achieve elite human play in reduced-format Liar's Poker, a game characterized by extensive multi-player engagement and outperformed large language models, including those with reasoning abilities, on the same metrics.",
+      "url": "https://www.semanticscholar.org/paper/f29f46c24cc0e11e16ba11cd163419cc866f5d19",
+      "doi": "10.48550/arXiv.2511.03724",
+      "arxivId": "2511.03724",
+      "pdf": null,
+      "citationCount": 2,
+      "referenceCount": 37,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-27",
+      "overlap": 6,
+      "direction": "forward",
+      "score": 88.19306445679602,
+      "why": "past year · cites 6 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "bc6c86862917170a740be49318fdc6ddc267cf89",
+      "title": "Correlated Chance Sampling for Monte Carlo Counterfactual Regret Minimization",
       "authors": [
         "Bo-Ning Li",
         "Yu Chen",
@@ -333,153 +314,250 @@
       ],
       "affiliations": [],
       "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-08-06",
-      "summary": "AV-AIVAT turns variance reduction into efficient, auditable early stopping while separating asymptotic screening from exact certification, so an evaluation can stop the moment its evidence suffices and hand a third party everything needed to recheck the verdict at that very stopping time.",
-      "url": "https://www.semanticscholar.org/paper/c5dc05bde0f8fcef607a6dbfc365a0acbdfcff1f",
-      "doi": null,
-      "arxivId": "2608.06362",
-      "pdf": null,
-      "citationCount": 1,
-      "referenceCount": 53,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 11,
-      "direction": "forward",
-      "score": 67.19667956845846,
-      "why": "past year · cites 11 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "ebb4109194df45084e0f08e128c02423454e0674",
-      "title": "Superhuman AI for Stratego Using Self-Play Reinforcement Learning and Test-Time Search",
-      "authors": [
-        "Samuel Sokota",
-        "E. Vinitsky",
-        "Heng-Yuan Hu",
-        "J. Kolter",
-        "Gabriele Farina"
-      ],
-      "topAuthors": [
-        {
-          "name": "J. Kolter",
-          "hIndex": 78,
-          "authorId": "145116464"
-        },
-        {
-          "name": "Heng-Yuan Hu",
-          "hIndex": 16,
-          "authorId": "3437504"
-        }
-      ],
-      "affiliations": [],
-      "year": 2025,
       "venue": "arXiv.org",
-      "publicationDate": "2025-11-10",
-      "summary": "This work establishes a step change in both performance and cost for Stratego, showing that it is now possible not only to reach the level of top humans, but to achieve vastly superhuman level -- and that doing so requires not an industrial budget, but merely a few thousand dollars.",
-      "url": "https://www.semanticscholar.org/paper/ebb4109194df45084e0f08e128c02423454e0674",
-      "doi": "10.48550/arXiv.2511.07312",
-      "arxivId": "2511.07312",
+      "publicationDate": "2026-07-29",
+      "summary": "Correlated Chance Sampling MCCFR (CCS-MCCFR), a drop-in replacement that assigns each concrete chance node a persistent randomized Weyl stream and maps its phases through the node's chance distribution, to establish unbiasedness along fixed strategy trajectories and isolate adaptive phase selection through a conditional scalar bound.",
+      "url": "https://www.semanticscholar.org/paper/bc6c86862917170a740be49318fdc6ddc267cf89",
+      "doi": "10.48550/arXiv.2607.27035",
+      "arxivId": "2607.27035",
       "pdf": null,
-      "citationCount": 10,
-      "referenceCount": 48,
-      "influentialCitationCount": 2,
-      "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 8,
-      "direction": "forward",
-      "score": 61.07034460158919,
-      "why": "past year · cites 8 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "e531beabea7bad32c842058201f274103b2d8dea",
-      "title": "Look-ahead Reasoning with a Learned Model in Imperfect Information Games",
-      "authors": [
-        "Ondrej Kubícek",
-        "V. Lisý"
-      ],
-      "topAuthors": [
-        {
-          "name": "V. Lisý",
-          "hIndex": 25,
-          "authorId": "1759154"
-        },
-        {
-          "name": "Ondrej Kubícek",
-          "hIndex": 2,
-          "authorId": "2095100670"
-        }
-      ],
-      "affiliations": [],
-      "year": 2025,
-      "venue": "arXiv.org",
-      "publicationDate": "2025-10-06",
-      "summary": "An algorithm LAMIR is introduced that learns an abstracted model of an imperfect information game directly from the agent-environment interaction, and with sufficient capacity, it still learns a valuable abstraction, which improves game playing performance of the pre-trained agents even in large games.",
-      "url": "https://www.semanticscholar.org/paper/e531beabea7bad32c842058201f274103b2d8dea",
-      "doi": "10.48550/arXiv.2510.05048",
-      "arxivId": "2510.05048",
-      "pdf": null,
-      "citationCount": 3,
-      "referenceCount": 55,
+      "citationCount": 6,
+      "referenceCount": 51,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 8,
+      "addedAt": "2026-09-27",
+      "overlap": 6,
       "direction": "forward",
-      "score": 58.98889716937475,
-      "why": "past year · cites 8 in your list",
+      "score": 86.90760102681874,
+      "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
     {
-      "id": "79d095094a33eacc91746e0b08b37c708c393174",
-      "title": "Real-Time Parallel Counterfactual Regret Minimization",
+      "id": "d9c5a9da073a04ab23b5e40d30275cbc829a9890",
+      "title": "Solver-Guided Reasoning for Mixed-Equilibrium Strategies",
       "authors": [
+        "Hanxiao Wang",
+        "Philippe Beardsell",
         "Bo-Ning Li",
-        "Long-Bo Huang"
+        "Aaron Sasmita",
+        "Shuai Li",
+        "Hongyuan Zha",
+        "Baoxiang Wang"
       ],
       "topAuthors": [
         {
-          "name": "Bo-Ning Li",
-          "hIndex": 2,
-          "authorId": "2290287268"
+          "name": "Hongyuan Zha",
+          "hIndex": 5,
+          "authorId": "2257169893"
         },
         {
-          "name": "Long-Bo Huang",
-          "hIndex": 2,
-          "authorId": "2290244822"
+          "name": "Baoxiang Wang",
+          "hIndex": 4,
+          "authorId": "2305791255"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-08-07",
+      "summary": "Mixed-Strategy Decision Tree (MDT) is proposed, which articulates the silent optimality of the equilibrium into sparse strategic rules that both humans and LLMs could understand and extends the input to arbitrarily new states and continuations.",
+      "url": "https://www.semanticscholar.org/paper/d9c5a9da073a04ab23b5e40d30275cbc829a9890",
+      "doi": null,
+      "arxivId": "2608.06741",
+      "pdf": null,
+      "citationCount": 2,
+      "referenceCount": 49,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-27",
+      "overlap": 6,
+      "direction": "forward",
+      "score": 82.21485366010111,
+      "why": "past year · cites 6 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "ad79ac960310c9d9c2fb456652246a7872fa2ccb",
+      "title": "NashPG: A Policy Gradient Method with Iteratively Refined Regularization for Finding Nash Equilibria",
+      "authors": [
+        "Eason Yu",
+        "Tzu-Hao Liu",
+        "Clément L. Canonne",
+        "Yunke Wang",
+        "Chang Xu",
+        "Nguyen H. Tran",
+        "Stefano V. Albrecht"
+      ],
+      "topAuthors": [
+        {
+          "name": "Yunke Wang",
+          "hIndex": 10,
+          "authorId": "2119215768"
+        },
+        {
+          "name": "Chang Xu",
+          "hIndex": 6,
+          "authorId": "2385774244"
+        }
+      ],
+      "affiliations": [],
+      "year": 2025,
+      "venue": null,
+      "publicationDate": "2025-10-21",
+      "summary": "A novel multi-round regularization procedure is proposed and it is shown that it guarantees strictly monotonic reduction in Bregman divergence to Nash equilibria and eventual convergence to one in two-player zero-sum extensive-form games.",
+      "url": "https://www.semanticscholar.org/paper/ad79ac960310c9d9c2fb456652246a7872fa2ccb",
+      "doi": null,
+      "arxivId": "2510.18183",
+      "pdf": null,
+      "citationCount": 1,
+      "referenceCount": 42,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-27",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 78.5030338828911,
+      "why": "past year · cites 5 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "e7a0b74a62cc6c07e2374024ef7c7950df899909",
+      "title": "AlphaExploitem: Going Beyond the Nash Equilibrium in Poker by Learning to Exploit Suboptimal Play",
+      "authors": [
+        "Vlad Murgoci",
+        "M. Spaan",
+        "Yaniv Oren"
+      ],
+      "topAuthors": [
+        {
+          "name": "M. Spaan",
+          "hIndex": 33,
+          "authorId": "1723205"
+        },
+        {
+          "name": "Yaniv Oren",
+          "hIndex": 3,
+          "authorId": "51326209"
         }
       ],
       "affiliations": [],
       "year": 2026,
       "venue": "arXiv.org",
-      "publicationDate": "2026-05-19",
-      "summary": "Parallel CFR is presented, the first parallelization framework for real-time depth-limited CFR solving that seamlessly integrates pruning, abstraction, and advanced CFR variants and decomposes each CFR iteration into a pipeline of seven stages and identifies two orthogonal dimensions of parallelism.",
-      "url": "https://www.semanticscholar.org/paper/79d095094a33eacc91746e0b08b37c708c393174",
-      "doi": "10.48550/arXiv.2605.19928",
-      "arxivId": "2605.19928",
+      "publicationDate": "2026-05-09",
+      "summary": "This work introduces AlphaExploitem, which extends the competitive RL poker agent AlphaHoldem by using a hierarchical transformer encoder that enables reasoning over previously played hands and modifying the training procedure with the inclusion of a diverse pool of exploitable opponents to facilitate learning to exploit.",
+      "url": "https://www.semanticscholar.org/paper/e7a0b74a62cc6c07e2374024ef7c7950df899909",
+      "doi": "10.48550/arXiv.2605.09150",
+      "arxivId": "2605.09150",
       "pdf": null,
-      "citationCount": 7,
-      "referenceCount": 29,
+      "citationCount": 1,
+      "referenceCount": 30,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 9,
+      "addedAt": "2026-09-27",
+      "overlap": 5,
       "direction": "forward",
-      "score": 51.66205438423803,
-      "why": "past year · cites 9 in your list",
+      "score": 77.68502831792617,
+      "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
     {
-      "id": "ca43ff47fce5f7f0fbf1d19fdda7df6228d7bdf1",
-      "title": "No-Regret Strategy Solving in Imperfect-Information Games via Pre-Trained Embedding",
+      "id": "5d833aef3703fecb11a37a66f405dd38e3b89d14",
+      "title": "RainbowCFR: Deep Counterfactual Regret Minimization with Rainbow DQN",
+      "authors": [
+        "Jinquan Liu",
+        "Yuezhongyi Sun",
+        "Xiaoda Wang"
+      ],
+      "topAuthors": [
+        {
+          "name": "Xiaoda Wang",
+          "hIndex": 4,
+          "authorId": "2352951582"
+        },
+        {
+          "name": "Yuezhongyi Sun",
+          "hIndex": 3,
+          "authorId": "2084551"
+        }
+      ],
+      "affiliations": [
+        "Harbin University of Science and Technology",
+        "Harbin Institute of Technology"
+      ],
+      "year": 2026,
+      "venue": "2026 5th International Symposium on Computer Applications and Information Technology (ISCAIT)",
+      "publicationDate": "2026-01-23",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/5d833aef3703fecb11a37a66f405dd38e3b89d14",
+      "doi": "10.1109/ISCAIT69154.2026.11477448",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 26,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-27",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 77.4696268678914,
+      "why": "past year · cites 5 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "5e7d64856c28cfb5d864fe1f09403b0fdb2b46c7",
+      "title": "Deep (Predictive) Discounted Counterfactual Regret Minimization",
+      "authors": [
+        "Hang Xu",
+        "Kai Li",
+        "Haobo Fu",
+        "Qiang Fu",
+        "Junliang Xing",
+        "Jian Cheng"
+      ],
+      "topAuthors": [
+        {
+          "name": "Haobo Fu",
+          "hIndex": 15,
+          "authorId": "2268469"
+        },
+        {
+          "name": "Kai Li",
+          "hIndex": 10,
+          "authorId": "2158259274"
+        }
+      ],
+      "affiliations": [],
+      "year": 2025,
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "publicationDate": "2025-11-11",
+      "summary": "An efficient model-free neural CFR algorithm is proposed, overcoming the limitations of existing methods in approximating advanced CFR variants and exhibits faster convergence in typical imperfect-information games and demonstrates stronger adversarial performance in a large poker game.",
+      "url": "https://www.semanticscholar.org/paper/5e7d64856c28cfb5d864fe1f09403b0fdb2b46c7",
+      "doi": "10.48550/arXiv.2511.08174",
+      "arxivId": "2511.08174",
+      "pdf": null,
+      "citationCount": 2,
+      "referenceCount": 42,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-27",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 75.38314287066355,
+      "why": "past year · cites 5 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "77a14c42f44a0482280c85ef4bf0ae758414b2d6",
+      "title": "KrwEmd: Revising the Imperfect-Recall Abstraction from Forgetting Everything",
       "authors": [
         "Yanchang Fu",
+        "Qiyue Yin",
         "Shengda Liu",
         "Pei Xu",
         "Kai-Qi Huang"
@@ -498,509 +576,66 @@
       ],
       "affiliations": [],
       "year": 2025,
-      "venue": "AAAI Conference on Artificial Intelligence",
+      "venue": "arXiv.org",
       "publicationDate": "2025-11-15",
-      "summary": "This paper proposes the Embedding CFR algorithm, a novel approach for solving strategies in IIEFGs within an embedding space that pre-trains information set abstractions via low-dimensional embedding for strategy solving, and is the first algorithm in poker AI that pre-trains information set abstractions via low-dimensional embedding for strategy solving.",
-      "url": "https://www.semanticscholar.org/paper/ca43ff47fce5f7f0fbf1d19fdda7df6228d7bdf1",
-      "doi": "10.48550/arXiv.2511.12083",
-      "arxivId": "2511.12083",
+      "summary": "The KrwEmd algorithm is developed, which clusters signal observation infosets using earth mover's distance to measure discrepancies between their features, and significantly improves AI gameplay performance compared to existing algorithms.",
+      "url": "https://www.semanticscholar.org/paper/77a14c42f44a0482280c85ef4bf0ae758414b2d6",
+      "doi": "10.48550/arXiv.2511.12089",
+      "arxivId": "2511.12089",
       "pdf": null,
-      "citationCount": 1,
-      "referenceCount": 32,
+      "citationCount": 0,
+      "referenceCount": 29,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 8,
+      "addedAt": "2026-09-27",
+      "overlap": 5,
       "direction": "forward",
-      "score": 45.977023867662105,
-      "why": "past year · cites 8 in your list",
+      "score": 74.63799873636732,
+      "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
     {
-      "id": "b23b9276a15a4ee0a3bf9af90548dc37c4513bcf",
-      "title": "Agents That Certify Their Own Exploits: Confidence-Scheduled Restricted Responses for Safe Opponent Exploitation",
+      "id": "c9eeb96da9d2b926242e9cb0e23c2a3710e61a7c",
+      "title": "Abstraction for Solving Large Incomplete-Information Games",
       "authors": [
-        "Bo-Ning Li",
-        "Long-Bo Huang"
+        "T. Sandholm"
       ],
       "topAuthors": [
         {
-          "name": "Bo-Ning Li",
-          "hIndex": 2,
-          "authorId": "2290287268"
-        },
-        {
-          "name": "Long-Bo Huang",
-          "hIndex": 2,
-          "authorId": "2290244822"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-07-30",
-      "summary": "CS-RNR is introduced, the first opponent-exploitation method whose safety guarantee is a certificate the agent computes on the strategy it actually deploys, so that every exploit it commits to is one it has audited itself.",
-      "url": "https://www.semanticscholar.org/paper/b23b9276a15a4ee0a3bf9af90548dc37c4513bcf",
-      "doi": "10.48550/arXiv.2607.28520",
-      "arxivId": "2607.28520",
-      "pdf": null,
-      "citationCount": 4,
-      "referenceCount": 53,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 9,
-      "direction": "forward",
-      "score": 45.91293969500899,
-      "why": "past year · cites 9 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "4c99fc309ea8ad73e8b77f980947f584867decce",
-      "title": "Parallelizing Counterfactual Regret Minimization",
-      "authors": [
-        "Juho Kim",
-        "Tuomas Sandholm"
-      ],
-      "topAuthors": [
-        {
-          "name": "Tuomas Sandholm",
-          "hIndex": 2,
-          "authorId": "2299533978"
-        },
-        {
-          "name": "Juho Kim",
-          "hIndex": 1,
-          "authorId": "2258414024"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-05-14",
-      "summary": "This paper presents a generalized parallelization framework, reframing CFR as a series of linear algebra operations, and describes how this technique can be applied to other tabular members of the CFR family of algorithms, including the state-of-the-art, such as CFR+, discounted CFR, and predictive variants of CFR.",
-      "url": "https://www.semanticscholar.org/paper/4c99fc309ea8ad73e8b77f980947f584867decce",
-      "doi": "10.48550/arXiv.2605.14277",
-      "arxivId": "2605.14277",
-      "pdf": null,
-      "citationCount": 2,
-      "referenceCount": 36,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 7,
-      "direction": "forward",
-      "score": 38.61766898085295,
-      "why": "past year · cites 7 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "6c58ff3d795f860a03ac79a243c32798c835e70c",
-      "title": "Human-like autonomy emerges from self-play and a pinch of human data",
-      "authors": [
-        "Daphne Cornelisse",
-        "J. Hunt",
-        "Zixu Zhang",
-        "Wael Doulazmi",
-        "K. Joseph",
-        "J. F. Fisac",
-        "E. Vinitsky"
-      ],
-      "topAuthors": [
-        {
-          "name": "J. F. Fisac",
-          "hIndex": 8,
-          "authorId": "2265578799"
-        },
-        {
-          "name": "Zixu Zhang",
-          "hIndex": 7,
-          "authorId": "2283800150"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-06-11",
-      "summary": "This work uses cheap, large-scale simulations to substitute expensive, large-scale human driving demonstrations to train driving policies without any human data, and finds that a little human data goes a long way: it uses only 30 minutes of human demonstrations, 2500x fewer than comparable imitation learning approaches.",
-      "url": "https://www.semanticscholar.org/paper/6c58ff3d795f860a03ac79a243c32798c835e70c",
-      "doi": "10.48550/arXiv.2606.19370",
-      "arxivId": "2606.19370",
-      "pdf": null,
-      "citationCount": 4,
-      "referenceCount": 66,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 4,
-      "direction": "forward",
-      "score": 32.48128573507297,
-      "why": "past year · cites 4 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "aa53b7590b4dcac0ef228063d4c13b533b038970",
-      "title": "PokerSkill: LLMs Can Play Expert-Level Poker without Training or Solvers",
-      "authors": [
-        "Bo-Ning Li",
-        "Baoxiang Wang",
-        "Long-Bo Huang"
-      ],
-      "topAuthors": [
-        {
-          "name": "Baoxiang Wang",
-          "hIndex": 4,
-          "authorId": "2305791255"
-        },
-        {
-          "name": "Bo-Ning Li",
-          "hIndex": 2,
-          "authorId": "2290287268"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-05-28",
-      "summary": "The key finding is that rule-based skills alone do not constitute a strong strategy, and LLMs alone cannot play well, but their combination yields an agent that requires neither training nor solver access yet competes with systems built on millions of core-hours of computation.",
-      "url": "https://www.semanticscholar.org/paper/aa53b7590b4dcac0ef228063d4c13b533b038970",
-      "doi": "10.48550/arXiv.2605.30094",
-      "arxivId": "2605.30094",
-      "pdf": null,
-      "citationCount": 6,
-      "referenceCount": 78,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 7,
-      "direction": "forward",
-      "score": 30.928002591416963,
-      "why": "past year · cites 7 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "7b506eebe271b76bbf830508ab4daca4fbed6ef0",
-      "title": "Monte Carlo Sampling for Regret Minimization in Extensive Games",
-      "authors": [
-        "Marc Lanctot",
-        "K. Waugh",
-        "Martin A. Zinkevich",
-        "Michael Bowling"
-      ],
-      "topAuthors": [
-        {
-          "name": "Michael Bowling",
-          "hIndex": 51,
-          "authorId": "1687780"
-        },
-        {
-          "name": "Marc Lanctot",
-          "hIndex": 42,
-          "authorId": "1975889"
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
         }
       ],
       "affiliations": [
-        "University of Alberta",
-        "Carnegie Mellon University"
-      ],
-      "year": 2009,
-      "venue": "Neural Information Processing Systems",
-      "publicationDate": "2009-12-07",
-      "summary": "A general family of domain-independent CFR sample-based algorithms called Monte Carlo counterfactual regret minimization (MCCFR) is described, of which the original and poker-specific versions are special cases.",
-      "url": "https://www.semanticscholar.org/paper/7b506eebe271b76bbf830508ab4daca4fbed6ef0",
-      "doi": "10.7939/R3319S48Q",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 362,
-      "referenceCount": 14,
-      "influentialCitationCount": 60,
-      "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 15,
-      "direction": "backward",
-      "score": 100,
-      "why": "cited by 15 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "d13766eea7a132f617d86886671acedea2d1d7cc",
-      "title": "A Survey of Nash Equilibrium Strategy Solving Based on CFR",
-      "authors": [
-        "Hua-Le Li",
-        "X. Wang",
-        "Fengwei Jia",
-        "Yifan Li",
-        "Qian Chen"
-      ],
-      "topAuthors": [
-        {
-          "name": "X. Wang",
-          "hIndex": 45,
-          "authorId": "39849136"
-        },
-        {
-          "name": "Hua-Le Li",
-          "hIndex": 6,
-          "authorId": "1500379589"
-        }
-      ],
-      "affiliations": [
-        "Harbin Institute of Technology"
-      ],
-      "year": 2020,
-      "venue": "Archives of Computational Methods in Engineering",
-      "publicationDate": "2020-08-17",
-      "summary": "The process of solving the strategy of Nash equilibrium based on CFR method is introduced and a conclusion of CFR-based methods and a prediction of future development are ended.",
-      "url": "https://www.semanticscholar.org/paper/d13766eea7a132f617d86886671acedea2d1d7cc",
-      "doi": "10.1007/s11831-020-09475-5",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 11,
-      "referenceCount": 76,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 13,
-      "direction": "forward",
-      "score": 99.5455317791271,
-      "why": "cites 13 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "db20a76a702be3ad4e7cebf7eeb7f1898827cebd",
-      "title": "Regret Minimization in Games with Incomplete Information",
-      "authors": [
-        "Martin A. Zinkevich",
-        "Michael Bradley Johanson",
-        "Michael Bowling",
-        "Carmelo Piccione"
-      ],
-      "topAuthors": [
-        {
-          "name": "Michael Bowling",
-          "hIndex": 51,
-          "authorId": "1687780"
-        },
-        {
-          "name": "Martin A. Zinkevich",
-          "hIndex": 30,
-          "authorId": "8195063"
-        }
-      ],
-      "affiliations": [
-        "DeepMind",
-        "University of Alberta"
-      ],
-      "year": 2007,
-      "venue": "Neural Information Processing Systems",
-      "publicationDate": "2007-12-03",
-      "summary": "It is shown how minimizing counterfactual regret minimizes overall regret, and therefore in self-play can be used to compute a Nash equilibrium, and is demonstrated in the domain of poker, showing it can solve abstractions of limit Texas Hold'em with as many as 1012 states, two orders of magnitude larger than previous methods.",
-      "url": "https://www.semanticscholar.org/paper/db20a76a702be3ad4e7cebf7eeb7f1898827cebd",
-      "doi": "10.7939/R3Q23R282",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 919,
-      "referenceCount": 11,
-      "influentialCitationCount": 183,
-      "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 17,
-      "direction": "backward",
-      "score": 94.10777582915615,
-      "why": "cited by 17 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "a2155552ca5afb784a3c1d67a5bcbd4e688b6e05",
-      "title": "DeepStack: Expert-level artificial intelligence in heads-up no-limit poker",
-      "authors": [
-        "Matej Moravcík",
-        "Martin Schmid",
-        "Neil Burch",
-        "V. Lisý",
-        "Dustin Morrill",
-        "Nolan Bard",
-        "Trevor Davis",
-        "K. Waugh",
-        "Michael Bradley Johanson",
-        "Michael H. Bowling"
-      ],
-      "topAuthors": [
-        {
-          "name": "Neil Burch",
-          "hIndex": 32,
-          "authorId": "2625574"
-        },
-        {
-          "name": "V. Lisý",
-          "hIndex": 25,
-          "authorId": "1759154"
-        }
-      ],
-      "affiliations": [
-        "DeepMind",
-        "University of Alberta"
-      ],
-      "year": 2017,
-      "venue": "Science",
-      "publicationDate": "2017-01-06",
-      "summary": "DeepStack is introduced, an algorithm for imperfect-information settings that combines recursive reasoning to handle information asymmetry, decomposition to focus computation on the relevant decision, and a form of intuition that is automatically learned from self-play using deep learning.",
-      "url": "https://www.semanticscholar.org/paper/a2155552ca5afb784a3c1d67a5bcbd4e688b6e05",
-      "doi": "10.1126/science.aam6960",
-      "arxivId": "1701.01724",
-      "pdf": "https://arxiv.org/pdf/1701.01724",
-      "citationCount": 1037,
-      "referenceCount": 53,
-      "influentialCitationCount": 46,
-      "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 17,
-      "direction": "backward",
-      "score": 90.27356435131466,
-      "why": "cited by 17 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "61dfe5df3c9bc00bf91a366c9dbcb51b8d747c5a",
-      "title": "Refining Subgames in Large Imperfect Information Games",
-      "authors": [
-        "Matej Moravcík",
-        "Martin Schmid",
-        "Karel Ha",
-        "M. Hladík",
-        "S. Gaukrodger"
-      ],
-      "topAuthors": [
-        {
-          "name": "M. Hladík",
-          "hIndex": 26,
-          "authorId": "2250160"
-        },
-        {
-          "name": "Martin Schmid",
-          "hIndex": 15,
-          "authorId": "8649018"
-        }
-      ],
-      "affiliations": [
-        "Charles University"
-      ],
-      "year": 2016,
-      "venue": "AAAI Conference on Artificial Intelligence",
-      "publicationDate": "2016-02-12",
-      "summary": "This work introduces the notion of subgame margin, a simple value with appealing properties that is guaranteed to find the optimal solution in subgame refinements resulting in large positive margins.",
-      "url": "https://www.semanticscholar.org/paper/61dfe5df3c9bc00bf91a366c9dbcb51b8d747c5a",
-      "doi": "10.1609/aaai.v30i1.10033",
-      "arxivId": null,
-      "pdf": "https://doi.org/10.1609/aaai.v30i1.10033",
-      "citationCount": 48,
-      "referenceCount": 25,
-      "influentialCitationCount": 9,
-      "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 9,
-      "direction": "backward",
-      "score": 87.69266628983378,
-      "why": "cited by 9 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "9f80829dd0103a3c0d71fe114c8e93bb855e071d",
-      "title": "Learning in games: a systematic review",
-      "authors": [
-        "Rong-Jun Qin",
-        "Yang Yu"
-      ],
-      "topAuthors": [
-        {
-          "name": "Yang Yu",
-          "hIndex": 6,
-          "authorId": "2309729944"
-        },
-        {
-          "name": "Rong-Jun Qin",
-          "hIndex": 5,
-          "authorId": "46938007"
-        }
-      ],
-      "affiliations": [
-        "Nanjing University"
-      ],
-      "year": 2024,
-      "venue": "Science China Information Sciences",
-      "publicationDate": "2024-06-28",
-      "summary": "The techniques used in these systems evolve from conventional search and learning to purely reinforcement learning (RL)-style learning methods, gradually getting rid of the domain knowledge.",
-      "url": "https://www.semanticscholar.org/paper/9f80829dd0103a3c0d71fe114c8e93bb855e071d",
-      "doi": "10.1007/s11432-023-3955-x",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 7,
-      "referenceCount": 219,
-      "influentialCitationCount": 1,
-      "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 14,
-      "direction": "forward",
-      "score": 87.58524335986789,
-      "why": "cites 14 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "0f45d9c0e2f3f96f97deda4fbb438b5a6e49d0dc",
-      "title": "Heads-up limit hold’em poker is solved",
-      "authors": [
-        "Michael Bowling",
-        "Neil Burch",
-        "Michael Bradley Johanson",
-        "Oskari Tammelin"
-      ],
-      "topAuthors": [
-        {
-          "name": "Michael Bowling",
-          "hIndex": 51,
-          "authorId": "1687780"
-        },
-        {
-          "name": "Neil Burch",
-          "hIndex": 32,
-          "authorId": "2625574"
-        }
-      ],
-      "affiliations": [
-        "DeepMind",
-        "University of Alberta"
+        "Laboratoire d'Informatique de Paris-Nord"
       ],
       "year": 2015,
-      "venue": "Science",
-      "publicationDate": "2015-01-09",
-      "summary": "It is announced that heads-up limit Texas hold’em is now essentially weakly solved, and this computation formally proves the common wisdom that the dealer in the game holds a substantial advantage.",
-      "url": "https://www.semanticscholar.org/paper/0f45d9c0e2f3f96f97deda4fbb438b5a6e49d0dc",
-      "doi": "10.1126/science.1259433",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "publicationDate": "2015-01-25",
+      "summary": "This paper discusses how to reverse map the opponent's action into the abstraction if the opponent makes a move that is not in the abstraction, and discusses other topics of current and future research.",
+      "url": "https://www.semanticscholar.org/paper/c9eeb96da9d2b926242e9cb0e23c2a3710e61a7c",
+      "doi": "10.1609/aaai.v29i1.9757",
       "arxivId": null,
-      "pdf": null,
-      "citationCount": 565,
-      "referenceCount": 92,
-      "influentialCitationCount": 36,
+      "pdf": "https://doi.org/10.1609/aaai.v29i1.9757",
+      "citationCount": 58,
+      "referenceCount": 40,
+      "influentialCitationCount": 8,
       "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 14,
-      "direction": "backward",
-      "score": 85.44306359382551,
-      "why": "cited by 14 in your list",
+      "addedAt": "2026-09-27",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 100,
+      "why": "cites 3 in your list",
       "fromReferences": false
     },
     {
-      "id": "335805b062a465c88d42530203f636b24f6a5264",
-      "title": "Smoothing Techniques for Computing Nash Equilibria of Sequential Games",
+      "id": "8ff5e4444e895985358e606f7f04d6f129791e4b",
+      "title": "Smoothing Method for Approximate Extensive-Form Perfect Equilibrium",
       "authors": [
-        "S. Hoda",
-        "Andrew Gilpin",
-        "Javier F. Pen͂a",
+        "Christian Kroer",
+        "Gabriele Farina",
         "T. Sandholm"
       ],
       "topAuthors": [
@@ -1010,31 +645,422 @@
           "authorId": "145714168"
         },
         {
-          "name": "Javier F. Pen͂a",
-          "hIndex": 22,
-          "authorId": "145055007"
+          "name": "Christian Kroer",
+          "hIndex": 29,
+          "authorId": "2211504"
         }
       ],
       "affiliations": [
-        "Carnegie Mellon University"
+        "Columbia University"
       ],
-      "year": 2010,
-      "venue": "Mathematics of Operations Research",
-      "publicationDate": "2010-05-01",
-      "summary": "This work develops first-order smoothing techniques for saddle-point problems that arise in finding a Nash equilibrium of sequential games and introduces heuristics that significantly speed up the algorithm, and decomposed game representations that reduce the memory requirements, enabling the application of the techniques to drastically larger games.",
-      "url": "https://www.semanticscholar.org/paper/335805b062a465c88d42530203f636b24f6a5264",
-      "doi": "10.1287/moor.1100.0452",
-      "arxivId": null,
-      "pdf": "http://www.cs.cmu.edu/~gilpin/papers/egt.optimizationonline08.pdf",
-      "citationCount": 191,
-      "referenceCount": 31,
-      "influentialCitationCount": 29,
+      "year": 2017,
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "publicationDate": "2017-05-25",
+      "summary": "A smoothing approach for behavioral perturbations of the convex polytope that encompasses the strategy spaces of players in an extensive-form game is developed, which enables one to compute an approximate variant of extensive- form perfect equilibria.",
+      "url": "https://www.semanticscholar.org/paper/8ff5e4444e895985358e606f7f04d6f129791e4b",
+      "doi": "10.24963/ijcai.2017/42",
+      "arxivId": "1705.09326",
+      "pdf": "https://www.ijcai.org/proceedings/2017/0042.pdf",
+      "citationCount": 21,
+      "referenceCount": 38,
+      "influentialCitationCount": 2,
       "source": null,
-      "addedAt": "2026-09-26",
-      "overlap": 11,
-      "direction": "backward",
-      "score": 84.7437718354827,
-      "why": "cited by 11 in your list",
+      "addedAt": "2026-09-27",
+      "overlap": 4,
+      "direction": "forward",
+      "score": 98.3157950872624,
+      "why": "cites 4 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "eee8febb47e065f4fedec6554797ebe25ef33c37",
+      "title": "RLCFR: Minimize Counterfactual Regret by Deep Reinforcement Learning",
+      "authors": [
+        "Hua-Le Li",
+        "X. Wang",
+        "Fengwei Jia",
+        "Yifan Li",
+        "Yu-Lin Wu",
+        "Jiajia Zhang",
+        "Shuhan Qi"
+      ],
+      "topAuthors": [
+        {
+          "name": "X. Wang",
+          "hIndex": 45,
+          "authorId": "39849136"
+        },
+        {
+          "name": "Shuhan Qi",
+          "hIndex": 13,
+          "authorId": "1679286"
+        }
+      ],
+      "affiliations": [
+        "Harbin Institute of Technology"
+      ],
+      "year": 2020,
+      "venue": "Expert systems with applications",
+      "publicationDate": "2020-09-10",
+      "summary": "This work proposes a framework, RLCFR, which aims at improving the generalization ability of the CFR method, which is a popular method to deal with decision-making problems of two-player zero-sum games with imperfect information.",
+      "url": "https://www.semanticscholar.org/paper/eee8febb47e065f4fedec6554797ebe25ef33c37",
+      "doi": "10.1016/j.eswa.2021.115953",
+      "arxivId": "2009.06373",
+      "pdf": "https://arxiv.org/pdf/2009.06373",
+      "citationCount": 7,
+      "referenceCount": 37,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-27",
+      "overlap": 6,
+      "direction": "forward",
+      "score": 98.15977219992217,
+      "why": "cites 6 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "0102c2b64cedd427ac003df1a22daa097f94567e",
+      "title": "Negotiation and honesty in artificial intelligence methods for the board game of Diplomacy",
+      "authors": [
+        "János Kramár",
+        "Tom Eccles",
+        "I. Gemp",
+        "Andrea Tacchetti",
+        "Kevin R. McKee",
+        "Mateusz Malinowski",
+        "T. Graepel",
+        "Yoram Bachrach"
+      ],
+      "topAuthors": [
+        {
+          "name": "T. Graepel",
+          "hIndex": 60,
+          "authorId": "1686971"
+        },
+        {
+          "name": "Yoram Bachrach",
+          "hIndex": 42,
+          "authorId": "1698412"
+        }
+      ],
+      "affiliations": [
+        "Google DeepMind (United Kingdom)",
+        "Altos Labs"
+      ],
+      "year": 2022,
+      "venue": "Nature Communications",
+      "publicationDate": "2022-12-01",
+      "summary": "An approach where Artificial Intelligence agents have ability to negotiate and form agreements, playing the board game Diplomacy is proposed, and negotiation algorithms allowing agents to agree on contracts regarding joint plans outperform agents lacking this ability.",
+      "url": "https://www.semanticscholar.org/paper/0102c2b64cedd427ac003df1a22daa097f94567e",
+      "doi": "10.1038/s41467-022-34473-5",
+      "arxivId": null,
+      "pdf": "https://www.nature.com/articles/s41467-022-34473-5.pdf",
+      "citationCount": 59,
+      "referenceCount": 71,
+      "influentialCitationCount": 2,
+      "source": null,
+      "addedAt": "2026-09-27",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 96.2254197781376,
+      "why": "cites 5 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "f1a5bf81347fdb788ff42bc528032ea307b45b0e",
+      "title": "Generalized Beliefs for Cooperative AI",
+      "authors": [
+        "Darius Muglich",
+        "Luisa M. Zintgraf",
+        "C. S. D. Witt",
+        "Shimon Whiteson",
+        "J. Foerster"
+      ],
+      "topAuthors": [
+        {
+          "name": "Shimon Whiteson",
+          "hIndex": 68,
+          "authorId": "1766767"
+        },
+        {
+          "name": "J. Foerster",
+          "hIndex": 35,
+          "authorId": "2275156099"
+        }
+      ],
+      "affiliations": [],
+      "year": 2022,
+      "venue": "International Conference on Machine Learning",
+      "publicationDate": "2022-06-26",
+      "summary": "A belief learning model is proposed that can maintain beliefs over rollouts of policies not seen at training time, and can thus decode and adapt to novel conventions at test time, to greatly improve ad-hoc teamplay.",
+      "url": "https://www.semanticscholar.org/paper/f1a5bf81347fdb788ff42bc528032ea307b45b0e",
+      "doi": "10.48550/arXiv.2206.12765",
+      "arxivId": "2206.12765",
+      "pdf": "https://arxiv.org/pdf/2206.12765",
+      "citationCount": 11,
+      "referenceCount": 50,
+      "influentialCitationCount": 1,
+      "source": null,
+      "addedAt": "2026-09-27",
+      "overlap": 4,
+      "direction": "forward",
+      "score": 94.94481562880891,
+      "why": "cites 4 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "7a9043a0b2686445e7da328408c370833da56476",
+      "title": "Faster Game Solving via Predictive Blackwell Approachability: Connecting Regret Matching and Mirror Descent",
+      "authors": [
+        "Gabriele Farina",
+        "Christian Kroer",
+        "T. Sandholm"
+      ],
+      "topAuthors": [
+        {
+          "name": "T. Sandholm",
+          "hIndex": 81,
+          "authorId": "145714168"
+        },
+        {
+          "name": "Christian Kroer",
+          "hIndex": 29,
+          "authorId": "2211504"
+        }
+      ],
+      "affiliations": [
+        "Columbia University"
+      ],
+      "year": 2020,
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "publicationDate": "2020-07-28",
+      "summary": "It is shown that RM and RM+ are the algorithms that result from running FTRL and OMD, respectively, to select the halfspace to force at all times in the underlying Blackwell approachability game.",
+      "url": "https://www.semanticscholar.org/paper/7a9043a0b2686445e7da328408c370833da56476",
+      "doi": "10.1609/aaai.v35i6.16676",
+      "arxivId": "2007.14358",
+      "pdf": "https://doi.org/10.1609/aaai.v35i6.16676",
+      "citationCount": 106,
+      "referenceCount": 43,
+      "influentialCitationCount": 19,
+      "source": null,
+      "addedAt": "2026-09-27",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 94.428561215253,
+      "why": "cites 5 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "fe42aa9da2e9469b387baac589f27a7dada5076b",
+      "title": "Lazy-CFR: a fast regret minimization algorithm for extensive games with imperfect information",
+      "authors": [
+        "Yichi Zhou",
+        "Tongzheng Ren",
+        "Jia-Lian Li",
+        "Dong Yan",
+        "Jun Zhu"
+      ],
+      "topAuthors": [
+        {
+          "name": "Jun Zhu",
+          "hIndex": 74,
+          "authorId": "145254043"
+        },
+        {
+          "name": "Dong Yan",
+          "hIndex": 37,
+          "authorId": "143848636"
+        }
+      ],
+      "affiliations": [
+        "Tsinghua University"
+      ],
+      "year": 2018,
+      "venue": "arXiv.org",
+      "publicationDate": "2018-10-10",
+      "summary": "A novel technique, lazy update, is presented, which can avoid traversing the whole game tree in CFR, as well as a novel analysis on the regret of CFR with lazy update that can also be applied to the vanilla CFR, resulting in a much tighter regret bound.",
+      "url": "https://www.semanticscholar.org/paper/fe42aa9da2e9469b387baac589f27a7dada5076b",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 3,
+      "referenceCount": 17,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-27",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 94.10056321464076,
+      "why": "cites 3 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "a7bfa7bd9d0820836c3f2410d6a44a1562d8efaa",
+      "title": "CFR-DO: A Double Oracle Algorithm for Extensive-Form Games",
+      "authors": [
+        "S. McAleer",
+        "John B. Lanier",
+        "P. Baldi",
+        "Roy Fox"
+      ],
+      "topAuthors": [
+        {
+          "name": "P. Baldi",
+          "hIndex": 120,
+          "authorId": "144902513"
+        },
+        {
+          "name": "S. McAleer",
+          "hIndex": 21,
+          "authorId": "143953836"
+        }
+      ],
+      "affiliations": [],
+      "year": 2021,
+      "venue": null,
+      "publicationDate": null,
+      "summary": "This work proposes XDO, a new extensive-form double oracle algorithm that is guaranteed to converge to an approximate Nash equilibrium linearly in the number of infostates, and introduces Neural XDO (NXDO), where the best response is learned through deep RL.",
+      "url": "https://www.semanticscholar.org/paper/a7bfa7bd9d0820836c3f2410d6a44a1562d8efaa",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 1,
+      "referenceCount": 24,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-27",
+      "overlap": 4,
+      "direction": "forward",
+      "score": 93.55344777649096,
+      "why": "cites 4 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "fdefa9fd677e3605845fb26ffb7daf8804b50668",
+      "title": "Bridge Bidding via Deep Reinforcement Learning and Belief Monte Carlo Search",
+      "authors": [
+        "Z. Qiu",
+        "Shouguang Wang",
+        "D. You",
+        "Mengchu Zhou"
+      ],
+      "topAuthors": [
+        {
+          "name": "Mengchu Zhou",
+          "hIndex": 34,
+          "authorId": "2152967237"
+        },
+        {
+          "name": "Shouguang Wang",
+          "hIndex": 22,
+          "authorId": "2095003"
+        }
+      ],
+      "affiliations": [
+        "Zhejiang Gongshang University"
+      ],
+      "year": 2024,
+      "venue": "IEEE/CAA Journal of Automatica Sinica",
+      "publicationDate": "2024-10-01",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/fdefa9fd677e3605845fb26ffb7daf8804b50668",
+      "doi": "10.1109/JAS.2024.124488",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 6,
+      "referenceCount": 39,
+      "influentialCitationCount": 1,
+      "source": null,
+      "addedAt": "2026-09-27",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 93.50748586199391,
+      "why": "cites 5 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "f4b2a562621be83b2ea7371a275f5a183af3ff1e",
+      "title": "Efficient Last-iterate Convergence Algorithms in Solving Games",
+      "authors": [
+        "Linjian Meng",
+        "Youzhi Zhang",
+        "Zhenxing Ge",
+        "Shangdong Yang",
+        "Tianyu Ding",
+        "Wen-Bin Li",
+        "Tianpei Yang",
+        "Bo An",
+        "Yang Gao"
+      ],
+      "topAuthors": [
+        {
+          "name": "Shangdong Yang",
+          "hIndex": 9,
+          "authorId": "3385090"
+        },
+        {
+          "name": "Wen-Bin Li",
+          "hIndex": 6,
+          "authorId": "2269784954"
+        }
+      ],
+      "affiliations": [],
+      "year": 2023,
+      "venue": null,
+      "publicationDate": "2023-08-22",
+      "summary": "CFR, a classical parameter-free RM-based CFR algorithm, achieves last-iterate convergence in learning an NE of perturbed regularized EFGs, and experiments show that RTCFR significantly outperforms existing algorithms with theoretical last-iterate convergence guarantees.",
+      "url": "https://www.semanticscholar.org/paper/f4b2a562621be83b2ea7371a275f5a183af3ff1e",
+      "doi": null,
+      "arxivId": "2308.11256",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 43,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-27",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 91.68564232971191,
+      "why": "cites 5 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "ee08e82117e265144c7c042670d47511bfd8195f",
+      "title": "A Meta-Game Evaluation Framework for Deep Multiagent Reinforcement Learning",
+      "authors": [
+        "Zun Li",
+        "Michael P. Wellman"
+      ],
+      "topAuthors": [
+        {
+          "name": "Zun Li",
+          "hIndex": 6,
+          "authorId": "2109644879"
+        },
+        {
+          "name": "Michael P. Wellman",
+          "hIndex": 5,
+          "authorId": "2257243777"
+        }
+      ],
+      "affiliations": [],
+      "year": 2024,
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "publicationDate": "2024-04-30",
+      "summary": "A meta-game evaluation framework for deep MARL, by framing each MARL algorithm as a meta-strategy, and repeatedly sampling normal-form empirical games over combinations of meta-strategies resulting from different random seeds, finds that the search version of a meta-strategy generally leads to improved performance.",
+      "url": "https://www.semanticscholar.org/paper/ee08e82117e265144c7c042670d47511bfd8195f",
+      "doi": "10.48550/arXiv.2405.00243",
+      "arxivId": "2405.00243",
+      "pdf": null,
+      "citationCount": 5,
+      "referenceCount": 58,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-27",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 90.60467886093235,
+      "why": "cites 3 in your list",
       "fromReferences": false
     }
   ]

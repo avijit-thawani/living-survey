@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T12:18:33.722Z",
+  "updatedAt": "2026-09-27T12:46:32.660Z",
   "core": [
     {
       "id": "371104191ffa5c2404d64cc0af34ffadbdc898e3",
@@ -189,7 +189,7 @@
       "doi": "10.1016/j.ejor.2020.07.063",
       "arxivId": "1811.06128",
       "pdf": "https://arxiv.org/pdf/1811.06128",
-      "citationCount": 1944,
+      "citationCount": 1946,
       "referenceCount": 75,
       "influentialCitationCount": 82,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 3f13a5148f7caa51ea946193d261d4f8ed32d81a",
@@ -245,7 +245,7 @@
         "Mohamed Morchid",
         "Chiheb Trabelsi",
         "Georges Linarès",
-        "R. Mori",
+        "Renato Mori",
         "Yoshua Bengio"
       ],
       "topAuthors": [
@@ -313,11 +313,11 @@
       "arxivId": "1807.11876",
       "pdf": "https://arxiv.org/pdf/1901.07935",
       "citationCount": 54,
-      "referenceCount": 49,
+      "referenceCount": 50,
       "influentialCitationCount": 3,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 461afff92a4b51c6b64a05dde407270029fd19ec",
       "addedAt": "2026-09-13",
-      "score": 5.454545454545454
+      "score": 7.2727272727272725
     },
     {
       "id": "4a684d8ff381be9334195e850d09b2a027447230",
@@ -846,7 +846,7 @@
       "doi": null,
       "arxivId": "1801.04062",
       "pdf": null,
-      "citationCount": 1745,
+      "citationCount": 1746,
       "referenceCount": 61,
       "influentialCitationCount": 272,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 6b73775f40467aed52784ff355b9bb7168e9078c",
@@ -1002,7 +1002,7 @@
       "doi": null,
       "arxivId": "1806.08734",
       "pdf": null,
-      "citationCount": 2685,
+      "citationCount": 2687,
       "referenceCount": 52,
       "influentialCitationCount": 97,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 715a73290f260cf2196307e59fe0b6776841f170",
@@ -1017,7 +1017,7 @@
         "Tong Che",
         "Zoubin Ghahramani",
         "Yoshua Bengio",
-        "Yangqiu Song"
+        "Yang-Qiu Song"
       ],
       "topAuthors": [
         {
@@ -2052,9 +2052,9 @@
       "doi": null,
       "arxivId": "1808.06670",
       "pdf": null,
-      "citationCount": 3063,
+      "citationCount": 3064,
       "referenceCount": 80,
-      "influentialCitationCount": 297,
+      "influentialCitationCount": 296,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | af3825437b627db1a99f946f7aa773ba8b03befd",
       "addedAt": "2026-09-13",
       "score": 20
@@ -3578,8 +3578,8 @@
       "id": "22194b1d1b00a8793afc6b4d33eda3e68460da56",
       "title": "Plan, Attend, Generate: Planning for Sequence-to-Sequence Models",
       "authors": [
-        "Çaglar Gülçehre",
         "Francis Dutil",
+        "Çaglar Gülçehre",
         "Adam Trischler",
         "Yoshua Bengio"
       ],
@@ -3857,7 +3857,7 @@
       "doi": "10.17863/CAM.48429",
       "arxivId": "1710.10903",
       "pdf": null,
-      "citationCount": 28517,
+      "citationCount": 28532,
       "referenceCount": 44,
       "influentialCitationCount": 3935,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 33998aff64ce51df8dee45989cdca4b6b1329ec4",
@@ -4102,7 +4102,7 @@
         "A. Tang",
         "Adriana Romero",
         "Yoshua Bengio",
-        "Chris Pal",
+        "C. Pal",
         "S. Kadoury"
       ],
       "topAuthors": [
@@ -4112,9 +4112,9 @@
           "authorId": "1751762"
         },
         {
-          "name": "S. Kadoury",
-          "hIndex": 40,
-          "authorId": "1781469"
+          "name": "C. Pal",
+          "hIndex": 53,
+          "authorId": "1972076"
         }
       ],
       "affiliations": [],
@@ -4178,7 +4178,7 @@
         "Ruixiang Zhang",
         "R. Devon Hjelm",
         "Wenjie Li",
-        "Yangqiu Song",
+        "Yang-Qiu Song",
         "Yoshua Bengio"
       ],
       "topAuthors": [
@@ -4188,7 +4188,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "Yangqiu Song",
+          "name": "Yang-Qiu Song",
           "hIndex": 53,
           "authorId": "1809614"
         }
@@ -4858,7 +4858,7 @@
       "doi": null,
       "arxivId": "1705.09792",
       "pdf": null,
-      "citationCount": 1085,
+      "citationCount": 1086,
       "referenceCount": 54,
       "influentialCitationCount": 170,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | a742162820cdabee2831235665517d0e98041502",
@@ -5847,7 +5847,7 @@
       "doi": "10.3389/fncom.2017.00024",
       "arxivId": "1602.05179",
       "pdf": "https://www.frontiersin.org/articles/10.3389/fncom.2017.00024/pdf",
-      "citationCount": 699,
+      "citationCount": 700,
       "referenceCount": 40,
       "influentialCitationCount": 85,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 1f61e15e0076a4439c98232ab679680dea0d1372",
@@ -5859,21 +5859,19 @@
       "title": "Binarized Neural Networks",
       "authors": [
         "Itay Hubara",
-        "Matthieu Courbariaux",
         "Daniel Soudry",
-        "Ran El-Yaniv",
-        "Yoshua Bengio"
+        "Ran El-Yaniv"
       ],
       "topAuthors": [
-        {
-          "name": "Yoshua Bengio",
-          "hIndex": 212,
-          "authorId": "1751762"
-        },
         {
           "name": "Daniel Soudry",
           "hIndex": 44,
           "authorId": "1912398"
+        },
+        {
+          "name": "Ran El-Yaniv",
+          "hIndex": 42,
+          "authorId": "1387872181"
         }
       ],
       "affiliations": [],
@@ -5887,7 +5885,7 @@
       "pdf": null,
       "citationCount": 2214,
       "referenceCount": 27,
-      "influentialCitationCount": 282,
+      "influentialCitationCount": 283,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 28135fd3e80dda50a673cd556f10b9b972005d27",
       "addedAt": "2026-09-13",
       "score": 0
@@ -6128,7 +6126,7 @@
         "Tim Klinger",
         "G. Tesauro",
         "Kartik Talamadupula",
-        "Bowen Zhou",
+        "Bo-Wen Zhou",
         "Yoshua Bengio",
         "Aaron C. Courville"
       ],
@@ -6338,7 +6336,7 @@
       "doi": null,
       "arxivId": "1610.01644",
       "pdf": null,
-      "citationCount": 1844,
+      "citationCount": 1845,
       "referenceCount": 38,
       "influentialCitationCount": 97,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 5e23a28063b395bdaf784dc548a046885cb90cf2",
@@ -6416,7 +6414,7 @@
       "doi": null,
       "arxivId": "1609.01704",
       "pdf": null,
-      "citationCount": 568,
+      "citationCount": 569,
       "referenceCount": 73,
       "influentialCitationCount": 72,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 65eee67dee969fdf8b44c87c560d66ad4d78e233",
@@ -6575,8 +6573,8 @@
       "id": "6eecc808d4c74e7d0d7ef6b8a4112c985ced104d",
       "title": "Binarized Neural Networks",
       "authors": [
-        "Matthieu Courbariaux",
         "Itay Hubara",
+        "Matthieu Courbariaux",
         "Daniel Soudry",
         "Ran El-Yaniv",
         "Yoshua Bengio"
@@ -6901,7 +6899,7 @@
         "Yoshua Bengio",
         "H. Larochelle",
         "Aaron C. Courville",
-        "Christopher Joseph Pal"
+        "C. Pal"
       ],
       "topAuthors": [
         {
@@ -7407,9 +7405,9 @@
       "authors": [
         "Iulian Serban",
         "Alberto García-Durán",
-        "Çaglar Gülçehre",
+        "Caglar Gulcehre",
         "Sungjin Ahn",
-        "A. Chandar",
+        "Sarath Chandar",
         "Aaron C. Courville",
         "Yoshua Bengio"
       ],
@@ -7653,7 +7651,7 @@
         "Samira Ebrahimi Kahou",
         "Xavier Bouthillier",
         "Pascal Lamblin",
-        "Çaglar Gülçehre",
+        "Caglar Gulcehre",
         "Vincent Michalski",
         "K. Konda",
         "Sébastien Jean",
@@ -8041,7 +8039,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 38312,
+      "citationCount": 38311,
       "referenceCount": 1,
       "influentialCitationCount": 1479,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 2913c2bf3f92b5ae369400a42b2d27cc5bc05ecb",
@@ -8182,7 +8180,7 @@
         "A. Biard",
         "Aaron C. Courville",
         "Yoshua Bengio",
-        "Chris Pal",
+        "C. Pal",
         "Pierre-Marc Jodoin",
         "H. Larochelle"
       ],
@@ -8248,7 +8246,7 @@
       "doi": null,
       "arxivId": "1502.03044",
       "pdf": null,
-      "citationCount": 10941,
+      "citationCount": 10944,
       "referenceCount": 55,
       "influentialCitationCount": 824,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 4d8f2d14af5991d4f0d050d22216825cac3157bd",
@@ -8637,7 +8635,7 @@
       "doi": "10.1109/ICASSP.2016.7472618",
       "arxivId": "1508.04395",
       "pdf": "https://arxiv.org/pdf/1508.04395",
-      "citationCount": 1212,
+      "citationCount": 1213,
       "referenceCount": 35,
       "influentialCitationCount": 69,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 878ba5458e9e51f0b341fd9117fa0b43ef4096d3",
@@ -8938,7 +8936,7 @@
       "doi": null,
       "arxivId": "1506.07503",
       "pdf": null,
-      "citationCount": 2780,
+      "citationCount": 2781,
       "referenceCount": 34,
       "influentialCitationCount": 134,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | b624504240fa52ab76167acfe3156150ca01cf3b",
@@ -8979,7 +8977,7 @@
       "doi": null,
       "arxivId": "1511.06481",
       "pdf": null,
-      "citationCount": 231,
+      "citationCount": 230,
       "referenceCount": 20,
       "influentialCitationCount": 26,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | be38b06e010b500f8ac137432ade82d0028dd233",
@@ -9330,9 +9328,9 @@
           "authorId": "1751762"
         },
         {
-          "name": "Vincent Dumoulin",
-          "hIndex": 24,
-          "authorId": "3074927"
+          "name": "David Warde-Farley",
+          "hIndex": 25,
+          "authorId": "1393680089"
         }
       ],
       "affiliations": [],
@@ -9532,7 +9530,7 @@
       "doi": null,
       "arxivId": "1411.1792",
       "pdf": null,
-      "citationCount": 9542,
+      "citationCount": 9545,
       "referenceCount": 18,
       "influentialCitationCount": 465,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 081651b38ff7533550a3adfc1c00da333a8fe86c",
@@ -9572,9 +9570,9 @@
       "doi": "10.3115/v1/D14-1179",
       "arxivId": "1406.1078",
       "pdf": "https://aclanthology.org/D14-1179.pdf",
-      "citationCount": 27592,
+      "citationCount": 27603,
       "referenceCount": 33,
-      "influentialCitationCount": 3180,
+      "influentialCitationCount": 3182,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 0b544dfe355a5070b60986319a3f51fb45d1348e",
       "addedAt": "2026-09-13",
       "score": 10.909090909090908
@@ -9831,7 +9829,7 @@
       "doi": "10.3115/v1/W14-4012",
       "arxivId": "1409.1259",
       "pdf": "https://aclanthology.org/W14-4012.pdf",
-      "citationCount": 7643,
+      "citationCount": 7645,
       "referenceCount": 15,
       "influentialCitationCount": 915,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 1eb09fecd75eb27825dce4f964b97f4f5cc399d7",
@@ -10257,7 +10255,7 @@
       "doi": null,
       "arxivId": "1412.6550",
       "pdf": null,
-      "citationCount": 4937,
+      "citationCount": 4941,
       "referenceCount": 38,
       "influentialCitationCount": 531,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 8604f376633af8b347e31d84c6150a93b11e34c2",
@@ -10411,7 +10409,7 @@
       "doi": null,
       "arxivId": "1412.3555",
       "pdf": null,
-      "citationCount": 15118,
+      "citationCount": 15123,
       "referenceCount": 20,
       "influentialCitationCount": 1590,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | ac3ee98020251797c2b401e1389461df88e52e62",
@@ -10731,7 +10729,7 @@
       "doi": null,
       "arxivId": "1410.8516",
       "pdf": null,
-      "citationCount": 2685,
+      "citationCount": 2686,
       "referenceCount": 35,
       "influentialCitationCount": 297,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | dc8301b67f98accbb331190dd7bd987952a692af",
@@ -10843,7 +10841,7 @@
       "doi": null,
       "arxivId": "1409.0473",
       "pdf": null,
-      "citationCount": 30066,
+      "citationCount": 30071,
       "referenceCount": 33,
       "influentialCitationCount": 2617,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5",
@@ -10954,7 +10952,7 @@
       "doi": null,
       "arxivId": "1312.6211",
       "pdf": null,
-      "citationCount": 1705,
+      "citationCount": 1706,
       "referenceCount": 19,
       "influentialCitationCount": 102,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 0407b605b8f55db72e2545586bfe8e946b691b70",
@@ -11004,9 +11002,9 @@
       "id": "10a6f02f4f62ee582481f2a8e0d82bf3deb28602",
       "title": "Stacked calibration of off-policy policy evaluation for video game matchmaking",
       "authors": [
-        "Eric Thibodeau-Laufer",
+        "Eric Laufer",
         "Raul Chandias Ferrari",
-        "Li Yao",
+        "L. Yao",
         "Olivier Delalleau",
         "Yoshua Bengio"
       ],
@@ -11017,9 +11015,9 @@
           "authorId": "1751762"
         },
         {
-          "name": "Olivier Delalleau",
-          "hIndex": 21,
-          "authorId": "2460212"
+          "name": "L. Yao",
+          "hIndex": 74,
+          "authorId": "145095579"
         }
       ],
       "affiliations": [],
@@ -11189,11 +11187,11 @@
       "arxivId": "1308.4214",
       "pdf": null,
       "citationCount": 305,
-      "referenceCount": 56,
+      "referenceCount": 57,
       "influentialCitationCount": 13,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 2f7ad26514bce4df6c8ebc42c90383ef3a974df4",
       "addedAt": "2026-09-13",
-      "score": 69.0909090909091
+      "score": 70.9090909090909
     },
     {
       "id": "306c7cd74beda5a09662b5f289bba50a2b5ea308",
@@ -11423,7 +11421,7 @@
       "doi": null,
       "arxivId": "1301.4083",
       "pdf": null,
-      "citationCount": 173,
+      "citationCount": 174,
       "referenceCount": 71,
       "influentialCitationCount": 11,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 523b12db4004b89284387f978c2af8ae0e79d54b",
@@ -11462,7 +11460,7 @@
       "doi": null,
       "arxivId": "1312.6026",
       "pdf": null,
-      "citationCount": 1090,
+      "citationCount": 1091,
       "referenceCount": 48,
       "influentialCitationCount": 74,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 533ee188324b833e059cb59b654e6160776d5812",
@@ -11506,7 +11504,7 @@
       "influentialCitationCount": 18,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 5656fa5aa6e1beeb98703fc53ec112ad227c49ca",
       "addedAt": "2026-09-13",
-      "score": 12.727272727272727
+      "score": 14.545454545454545
     },
     {
       "id": "5936aea6a42492529cc9ee5271fcd3ae2cbacaf2",
@@ -11616,7 +11614,7 @@
       "influentialCitationCount": 30,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 5ffa8bf1bf3e39227be28de4ff6915d3b21eb52d",
       "addedAt": "2026-09-13",
-      "score": 47.27272727272727
+      "score": 49.09090909090909
     },
     {
       "id": "62c76ca0b2790c34e85ba1cce09d47be317c7235",
@@ -11647,9 +11645,9 @@
       "doi": null,
       "arxivId": "1308.3432",
       "pdf": null,
-      "citationCount": 4198,
+      "citationCount": 4200,
       "referenceCount": 20,
-      "influentialCitationCount": 376,
+      "influentialCitationCount": 377,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 62c76ca0b2790c34e85ba1cce09d47be317c7235",
       "addedAt": "2026-09-13",
       "score": 10.909090909090908
@@ -12013,8 +12011,8 @@
       "doi": null,
       "arxivId": "1302.4389",
       "pdf": null,
-      "citationCount": 2275,
-      "referenceCount": 26,
+      "citationCount": 2276,
+      "referenceCount": 25,
       "influentialCitationCount": 238,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | b7b915d508987b73b61eccd2b237e7ed099a2d29",
       "addedAt": "2026-09-13",
@@ -12240,7 +12238,7 @@
       "influentialCitationCount": 37,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | d9704f8119d6ba748230b4f2ad59f0e8c64fdfb0",
       "addedAt": "2026-09-13",
-      "score": 47.27272727272727
+      "score": 49.09090909090909
     },
     {
       "id": "db8c3cfaae04a14c1209d62953029b6fa53e23c7",
@@ -12299,7 +12297,7 @@
       "doi": "10.1016/j.neunet.2014.09.005",
       "arxivId": "1307.0414",
       "pdf": "http://arxiv.org/pdf/1307.0414.pdf",
-      "citationCount": 2092,
+      "citationCount": 2094,
       "referenceCount": 25,
       "influentialCitationCount": 264,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | db8c3cfaae04a14c1209d62953029b6fa53e23c7",
@@ -12425,8 +12423,8 @@
       "id": "eb6208f3e2c0942e38ceffc443dcf64d2cb4ec82",
       "title": "A semantic matching energy function for learning with multi-relational data",
       "authors": [
-        "Xavier Glorot",
         "Antoine Bordes",
+        "Xavier Glorot",
         "J. Weston",
         "Yoshua Bengio"
       ],
@@ -12669,7 +12667,7 @@
       "doi": "10.1109/TPAMI.2013.50",
       "arxivId": "1206.5538",
       "pdf": "http://arxiv.org/pdf/1206.5538",
-      "citationCount": 14328,
+      "citationCount": 14332,
       "referenceCount": 263,
       "influentialCitationCount": 600,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 184ac0766262312ba76bbdece4e7ffad0aa8180b",
@@ -12704,7 +12702,7 @@
       "doi": "10.5555/2503308.2188395",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 11646,
+      "citationCount": 11648,
       "referenceCount": 35,
       "influentialCitationCount": 521,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 188e247506ad992b8bc62d6c74789e89891a984f",
@@ -13105,7 +13103,7 @@
       "influentialCitationCount": 2,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 6bf0414dae4f10c7e54fb9e5e8af5d0d0cab290b",
       "addedAt": "2026-09-13",
-      "score": 34.54545454545455
+      "score": 36.36363636363637
     },
     {
       "id": "7184a8b7be5ae88bca900542b0ab2c27b019f0ce",
@@ -13281,7 +13279,7 @@
       "doi": null,
       "arxivId": "1211.5063",
       "pdf": null,
-      "citationCount": 6141,
+      "citationCount": 6142,
       "referenceCount": 36,
       "influentialCitationCount": 411,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 84069287da0a6b488b8c933f3cb5be759cb6237e",
@@ -13516,7 +13514,7 @@
       "influentialCitationCount": 21,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | d0965d8f9842f2db960b36b528107ca362c00d1a",
       "addedAt": "2026-09-13",
-      "score": 81.81818181818183
+      "score": 83.63636363636363
     },
     {
       "id": "ded103d0613e1a8f51f586cc1678aee3ff26e811",
@@ -14481,7 +14479,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 1866,
+      "citationCount": 1867,
       "referenceCount": 26,
       "influentialCitationCount": 121,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 6f4065f0cc99a0839b0248ffb4457e5f0277b30d",
@@ -14676,7 +14674,7 @@
       "authors": [
         "J. Bergstra",
         "Yoshua Bengio",
-        "J. Louradour"
+        "Jrme Louradour"
       ],
       "topAuthors": [
         {
@@ -14782,9 +14780,9 @@
       "id": "aa1762a629b31d254450e37ce8baa235d729d82b",
       "title": "Large-Scale Learning of Embeddings with Reconstruction Sampling",
       "authors": [
-        "Yann Dauphin",
         "Xavier Glorot",
-        "Yoshua Bengio"
+        "Yoshua Bengio",
+        "Yann Dauphin"
       ],
       "topAuthors": [
         {
@@ -14883,7 +14881,7 @@
       "influentialCitationCount": 8,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | d1c67346e46b4d0067b3c2e5d3b959a8bc24b28c",
       "addedAt": "2026-09-13",
-      "score": 23.636363636363637
+      "score": 25.454545454545453
     },
     {
       "id": "d8e50fa972e93186c86aceef60511723c606fb87",
@@ -14993,7 +14991,7 @@
       "doi": "10.5555/1756006.1756025",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 2522,
+      "citationCount": 2523,
       "referenceCount": 68,
       "influentialCitationCount": 90,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 0d2336389dff3031910bd21dd1c44d1b4cd51725",
@@ -15068,7 +15066,7 @@
       "doi": "10.7551/mitpress/8996.003.0017",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 22,
+      "citationCount": 23,
       "referenceCount": 0,
       "influentialCitationCount": 1,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 29dceee846af4194a5e92f5fea0c53e6d38763e1",
@@ -15547,9 +15545,9 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 19666,
+      "citationCount": 19667,
       "referenceCount": 21,
-      "influentialCitationCount": 938,
+      "influentialCitationCount": 937,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | ea9d2a2b4ce11aaf85136840c65f3bc9c03ab649",
       "addedAt": "2026-09-13",
       "score": 0
@@ -15610,8 +15608,8 @@
       "id": "0516a57a202bf7f279a1dc781393bd71f7570572",
       "title": "Slow, Decorrelated Features for Pretraining Complex Cell-like Networks",
       "authors": [
-        "J. Bergstra",
-        "Yoshua Bengio"
+        "Yoshua Bengio",
+        "J. Bergstra"
       ],
       "topAuthors": [
         {
@@ -15671,9 +15669,9 @@
       "doi": "10.5555/1577069.1577070",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 1261,
+      "citationCount": 1262,
       "referenceCount": 63,
-      "influentialCitationCount": 43,
+      "influentialCitationCount": 44,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 05fd1da7b2e34f86ec7f010bef068717ae964332",
       "addedAt": "2026-09-13",
       "score": 23.636363636363637
@@ -16071,9 +16069,9 @@
       "doi": "10.1145/1553374.1553380",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 7678,
+      "citationCount": 7682,
       "referenceCount": 33,
-      "influentialCitationCount": 453,
+      "influentialCitationCount": 454,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 8de174ab5419b9d3127695405efd079808e956e8",
       "addedAt": "2026-09-13",
       "score": 0
@@ -16195,7 +16193,7 @@
       "authors": [
         "F. Steinke",
         "Koller",
-        "Dale Schuurmans",
+        "D. Schuurmans",
         "Yoshua Bengio",
         "L. Bottou"
       ],
@@ -16206,9 +16204,9 @@
           "authorId": "1751762"
         },
         {
-          "name": "L. Bottou",
-          "hIndex": 78,
-          "authorId": "52184096"
+          "name": "F. Steinke",
+          "hIndex": 14,
+          "authorId": "2083878667"
         }
       ],
       "affiliations": [],
@@ -16366,7 +16364,7 @@
       "arxivId": null,
       "pdf": "http://www.iro.umontreal.ca/~vincentp/Publications/denoising_autoencoders_tr1316.pdf",
       "citationCount": 8324,
-      "referenceCount": 29,
+      "referenceCount": 30,
       "influentialCitationCount": 513,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 843959ffdccf31c6694d135fad07425924f785b1",
       "addedAt": "2026-09-13",
@@ -16399,7 +16397,7 @@
       "influentialCitationCount": 7,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 98449bcf80e52e0e902efd288b68c701d5392099",
       "addedAt": "2026-09-13",
-      "score": 21.818181818181817
+      "score": 23.636363636363637
     },
     {
       "id": "a37d28ebc8d365b36ee651aa15dce6dba1e80ad0",
@@ -16759,6 +16757,8 @@
       "title": "Scaling learning algorithms towards AI",
       "authors": [
         "Yoshua Bengio",
+        "Yoshua Bengio",
+        "Yoshua Bengio",
         "Yann LeCun"
       ],
       "topAuthors": [
@@ -16990,7 +16990,7 @@
       "doi": "10.1561/2200000006",
       "arxivId": null,
       "pdf": "http://www.iro.umontreal.ca/~bengioy/papers/ftml.pdf",
-      "citationCount": 8877,
+      "citationCount": 8878,
       "referenceCount": 248,
       "influentialCitationCount": 509,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | d04d6db5f0df11d0cff57ec7e15134990ac07a4f",
@@ -17531,20 +17531,20 @@
       "title": "Learning Influence among Interacting Markov Chains",
       "authors": [
         "Dong Zhang",
-        "Daniel Gatica-Perez",
+        "D. Gatica-Perez",
         "Samy Bengio",
         "Deb K. Roy"
       ],
       "topAuthors": [
         {
+          "name": "D. Gatica-Perez",
+          "hIndex": 61,
+          "authorId": "1403029865"
+        },
+        {
           "name": "Deb K. Roy",
           "hIndex": 45,
           "authorId": "145364504"
-        },
-        {
-          "name": "Dong Zhang",
-          "hIndex": 19,
-          "authorId": "153165260"
         }
       ],
       "affiliations": [],
@@ -19878,7 +19878,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 801,
+      "citationCount": 800,
       "referenceCount": 11,
       "influentialCitationCount": 77,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 6aae8e1e96743c74f7cfd546a87ddaecad25979f",
@@ -20067,8 +20067,8 @@
       "doi": "10.1109/5.726791",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 62817,
-      "referenceCount": 148,
+      "citationCount": 62826,
+      "referenceCount": 147,
       "influentialCitationCount": 6461,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 162d958ff885f1462aeda91cd72582323fd6a1f4",
       "addedAt": "2026-09-13",
@@ -20243,7 +20243,7 @@
         {
           "name": "Yoshua Bengio",
           "hIndex": 0,
-          "authorId": null
+          "authorId": "2504229169"
         }
       ],
       "affiliations": [
@@ -20274,7 +20274,7 @@
         "P. Howard",
         "P. Simard",
         "Yoshua Bengio",
-        "Yann LeCun"
+        "Y. Le Cun"
       ],
       "topAuthors": [
         {
@@ -20283,15 +20283,12 @@
           "authorId": "1751762"
         },
         {
-          "name": "Yann LeCun",
-          "hIndex": 140,
-          "authorId": "1688882"
+          "name": "L. Bottou",
+          "hIndex": 78,
+          "authorId": "52184096"
         }
       ],
-      "affiliations": [
-        "Facebook",
-        "NYU"
-      ],
+      "affiliations": [],
       "year": 1998,
       "venue": "Proceedings IEEE International Forum on Research and Technology Advances in Digital Libraries -ADL'98-",
       "publicationDate": "1998-04-22",
@@ -20459,7 +20456,7 @@
       "id": "25de919ccc51093737e2d61cea3037ee6bd3775f",
       "title": "Reading checks with multilayer graph transformer networks",
       "authors": [
-        "Yann LeCun",
+        "Yann Le Cun",
         "L. Bottou",
         "Yoshua Bengio"
       ],
@@ -20470,15 +20467,12 @@
           "authorId": "1751762"
         },
         {
-          "name": "Yann LeCun",
-          "hIndex": 140,
-          "authorId": "1688882"
+          "name": "L. Bottou",
+          "hIndex": 78,
+          "authorId": "52184096"
         }
       ],
-      "affiliations": [
-        "Facebook",
-        "NYU"
-      ],
+      "affiliations": [],
       "year": 1997,
       "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
       "publicationDate": "1997-04-21",
@@ -20578,7 +20572,7 @@
       "authors": [
         "L. Bottou",
         "Yoshua Bengio",
-        "Yann LeCun"
+        "Yann Le Cun"
       ],
       "topAuthors": [
         {
@@ -20587,15 +20581,12 @@
           "authorId": "1751762"
         },
         {
-          "name": "Yann LeCun",
-          "hIndex": 140,
-          "authorId": "1688882"
+          "name": "L. Bottou",
+          "hIndex": 78,
+          "authorId": "52184096"
         }
       ],
-      "affiliations": [
-        "Facebook",
-        "NYU"
-      ],
+      "affiliations": [],
       "year": 1997,
       "venue": "Proceedings of IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
       "publicationDate": "1997-06-17",
@@ -21012,7 +21003,7 @@
         {
           "name": "Yoshua Bengio",
           "hIndex": 0,
-          "authorId": null
+          "authorId": "2504229169"
         }
       ],
       "affiliations": [
@@ -21146,18 +21137,20 @@
       "title": "Word normalization for on-line handwritten word recognition",
       "authors": [
         "Yoshua Bengio",
+        "Yoshua Bengio",
+        "Yoshua Bengio",
         "Yann LeCun"
       ],
       "topAuthors": [
         {
-          "name": "Yoshua Bengio",
-          "hIndex": 212,
-          "authorId": "1751762"
-        },
-        {
           "name": "Yann LeCun",
           "hIndex": 140,
           "authorId": "1688882"
+        },
+        {
+          "name": "Yoshua Bengio",
+          "hIndex": 0,
+          "authorId": "2504229169"
         }
       ],
       "affiliations": [
@@ -21363,7 +21356,7 @@
       "id": "ec8c344bb9d1e4b966f499a9b236c3e320d46362",
       "title": "Word-level training of a handwritten word recognizer based on convolutional neural networks",
       "authors": [
-        "Yann LeCun",
+        "Yann Le Cun",
         "Yoshua Bengio"
       ],
       "topAuthors": [
@@ -21373,15 +21366,12 @@
           "authorId": "1751762"
         },
         {
-          "name": "Yann LeCun",
-          "hIndex": 140,
-          "authorId": "1688882"
+          "name": "Yann Le Cun",
+          "hIndex": 0,
+          "authorId": null
         }
       ],
-      "affiliations": [
-        "Facebook",
-        "NYU"
-      ],
+      "affiliations": [],
       "year": 1994,
       "venue": "Signal Processing",
       "publicationDate": "1994-10-09",
@@ -21402,7 +21392,7 @@
       "title": "Word normalization for online handwritten word recognition",
       "authors": [
         "Yoshua Bengio",
-        "Yann LeCun"
+        "Y. Le Cun"
       ],
       "topAuthors": [
         {
@@ -21411,15 +21401,12 @@
           "authorId": "1751762"
         },
         {
-          "name": "Yann LeCun",
-          "hIndex": 140,
-          "authorId": "1688882"
+          "name": "Y. Le Cun",
+          "hIndex": 0,
+          "authorId": null
         }
       ],
-      "affiliations": [
-        "Facebook",
-        "NYU"
-      ],
+      "affiliations": [],
       "year": 1994,
       "venue": "Signal Processing",
       "publicationDate": "1994-10-09",
@@ -21739,7 +21726,7 @@
       "title": "Learning the dynamic nature of speech with back-propagation for sequences",
       "authors": [
         "Yoshua Bengio",
-        "R. Mori",
+        "Renato Mori",
         "M. Gori"
       ],
       "topAuthors": [
@@ -21804,7 +21791,7 @@
       "title": "Global optimization of a neural network-hidden Markov model hybrid",
       "authors": [
         "Yoshua Bengio",
-        "R. Mori",
+        "Renato Mori",
         "G. Flammia",
         "R. Kompe"
       ],
@@ -21815,7 +21802,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "R. Mori",
+          "name": "Renato Mori",
           "hIndex": 23,
           "authorId": "1714393"
         }
@@ -21841,7 +21828,7 @@
       "title": "Neural Network - Gaussian Mixture Hybrid for Speech Recognition or Density Estimation",
       "authors": [
         "Yoshua Bengio",
-        "R. Mori",
+        "Renato Mori",
         "G. Flammia",
         "R. Kompe"
       ],
@@ -21852,7 +21839,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "R. Mori",
+          "name": "Renato Mori",
           "hIndex": 23,
           "authorId": "1714393"
         }
@@ -21878,7 +21865,7 @@
       "title": "Phonetically motivated acoustic parameters for continuous speech recognition using artificial neural networks",
       "authors": [
         "Yoshua Bengio",
-        "R. Mori",
+        "Renato Mori",
         "G. Flammia",
         "R. Kompe"
       ],
@@ -21889,7 +21876,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "R. Mori",
+          "name": "Renato Mori",
           "hIndex": 23,
           "authorId": "1714393"
         }
@@ -21915,7 +21902,7 @@
       "title": "A comparative study on hybrid acoustic phonetic decoders based on artificial neural networks",
       "authors": [
         "Yoshua Bengio",
-        "R. Mori",
+        "Renato Mori",
         "G. Flammia",
         "R. Kompe"
       ],
@@ -21926,7 +21913,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "R. Mori",
+          "name": "Renato Mori",
           "hIndex": 23,
           "authorId": "1714393"
         }
@@ -21952,7 +21939,7 @@
       "title": "Connectionist Models and their Application to Automatic Speech Recognition",
       "authors": [
         "Yoshua Bengio",
-        "R. Mori"
+        "Renato Mori"
       ],
       "topAuthors": [
         {
@@ -21961,7 +21948,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "R. Mori",
+          "name": "Renato Mori",
           "hIndex": 23,
           "authorId": "1714393"
         }
@@ -22053,7 +22040,7 @@
       "id": "4c7544261a6d3414a7c08a4ad33142304c409d8a",
       "title": "On the Use of an Ear Model and Multi-Layered Networks for Automatic Speech Recognition",
       "authors": [
-        "R. Mori",
+        "Renato Mori",
         "Yoshua Bengio",
         "P. Cosi"
       ],
@@ -22064,7 +22051,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "R. Mori",
+          "name": "Renato Mori",
           "hIndex": 23,
           "authorId": "1714393"
         }
@@ -22091,7 +22078,7 @@
       "authors": [
         "P. Cosi",
         "Yoshua Bengio",
-        "R. Mori"
+        "Renato Mori"
       ],
       "topAuthors": [
         {
@@ -22100,7 +22087,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "R. Mori",
+          "name": "Renato Mori",
           "hIndex": 23,
           "authorId": "1714393"
         }
@@ -22161,7 +22148,7 @@
       "title": "Use of multilayer networks for the recognition of phonetic features and phonemes",
       "authors": [
         "Yoshua Bengio",
-        "R. Mori"
+        "Renato Mori"
       ],
       "topAuthors": [
         {
@@ -22170,7 +22157,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "R. Mori",
+          "name": "Renato Mori",
           "hIndex": 23,
           "authorId": "1714393"
         }
@@ -22195,7 +22182,7 @@
       "id": "2abe9e5a5ee9e108673100b2fd6376bd6eeb404d",
       "title": "On the Generalization Capability of Multi-Layered Networks in the Extraction of Speech Properties",
       "authors": [
-        "R. Mori",
+        "Renato Mori",
         "Yoshua Bengio",
         "P. Cosi"
       ],
@@ -22206,7 +22193,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "R. Mori",
+          "name": "Renato Mori",
           "hIndex": 23,
           "authorId": "1714393"
         }
@@ -22271,7 +22258,7 @@
       "title": "Speaker Independent Speech Recognition with Neural Networks and Speech Knowledge",
       "authors": [
         "Yoshua Bengio",
-        "R. Mori",
+        "Renato Mori",
         "R. Cardin"
       ],
       "topAuthors": [
@@ -22281,7 +22268,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "R. Mori",
+          "name": "Renato Mori",
           "hIndex": 23,
           "authorId": "1714393"
         }
@@ -22344,7 +22331,7 @@
       "authors": [
         "Yoshua Bengio",
         "R. Cardin",
-        "R. Mori",
+        "Renato Mori",
         "Ettore Merlo"
       ],
       "topAuthors": [
@@ -22354,7 +22341,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "R. Mori",
+          "name": "Renato Mori",
           "hIndex": 23,
           "authorId": "1714393"
         }
@@ -22417,7 +22404,7 @@
       "id": "a5347945537634d593cae5e167308629c37ea928",
       "title": "Data-Driven Execution of Multi-Layered Networks for Automatic Speech Recognition",
       "authors": [
-        "R. Mori",
+        "Renato Mori",
         "Yoshua Bengio",
         "R. Cardin"
       ],
@@ -22428,7 +22415,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "R. Mori",
+          "name": "Renato Mori",
           "hIndex": 23,
           "authorId": "1714393"
         }
@@ -22455,7 +22442,7 @@
       "authors": [
         "Yoshua Bengio",
         "R. Cardin",
-        "R. Mori",
+        "Renato Mori",
         "P. Cosi"
       ],
       "topAuthors": [
@@ -22465,7 +22452,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "R. Mori",
+          "name": "Renato Mori",
           "hIndex": 23,
           "authorId": "1714393"
         }
@@ -22491,7 +22478,7 @@
       "title": "Use of neural networks for the recognition of place of articulation",
       "authors": [
         "Yoshua Bengio",
-        "R. Mori"
+        "Renato Mori"
       ],
       "topAuthors": [
         {
@@ -22500,7 +22487,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "R. Mori",
+          "name": "Renato Mori",
           "hIndex": 23,
           "authorId": "1714393"
         }
@@ -22526,7 +22513,7 @@
       "title": "USE OF NEURAL NETWORKS FOR THE RECOGNITION OF PLACE",
       "authors": [
         "Yoshua Bengio",
-        "R. Mori"
+        "Renato Mori"
       ],
       "topAuthors": [
         {
@@ -22535,7 +22522,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "R. Mori",
+          "name": "Renato Mori",
           "hIndex": 23,
           "authorId": "1714393"
         }
@@ -23346,7 +23333,7 @@
       "doi": null,
       "arxivId": "2003.00982",
       "pdf": null,
-      "citationCount": 1260,
+      "citationCount": 1261,
       "referenceCount": 148,
       "influentialCitationCount": 185,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | d08a0eb7024dff5c4fabd58144a38031633d4e1a",
@@ -23475,7 +23462,7 @@
       "doi": "10.48550/arXiv.2211.06489",
       "arxivId": "2211.06489",
       "pdf": "https://arxiv.org/pdf/2211.06489",
-      "citationCount": 130,
+      "citationCount": 131,
       "referenceCount": 79,
       "influentialCitationCount": 21,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 3718b97f18710eba867fcb09d25c3fd241fe8e8d",
@@ -23737,8 +23724,8 @@
         "Peidong Wang",
         "K. Sankaran",
         "Olawale Onabola",
-        "Yimin Liu",
-        "Dianbo Liu",
+        "Yi-Min Liu",
+        "Dian-Bo Liu",
         "Yoshua Bengio"
       ],
       "topAuthors": [
@@ -23748,7 +23735,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "Yimin Liu",
+          "name": "Yi-Min Liu",
           "hIndex": 29,
           "authorId": "2108053135"
         }
@@ -23765,7 +23752,7 @@
       "doi": "10.1109/ICCV48922.2021.01077",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 160,
+      "citationCount": 161,
       "referenceCount": 58,
       "influentialCitationCount": 14,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 1446d8584488a206085345b4efc0a5c623e7bc5b",
@@ -24123,9 +24110,9 @@
       "doi": "10.1109/ICCCNT56998.2023.10306417",
       "arxivId": "2203.00667",
       "pdf": null,
-      "citationCount": 30624,
+      "citationCount": 30632,
       "referenceCount": 141,
-      "influentialCitationCount": 2673,
+      "influentialCitationCount": 2672,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 6296aa7cab06eaf058f7291040b320b5a83c0091",
       "addedAt": "2026-09-13",
       "score": 5.454545454545454
@@ -24178,7 +24165,7 @@
         "Benjamin Akera",
         "A. Ibraheem",
         "Jia Xue",
-        "Dianbo Liu",
+        "Dian-Bo Liu",
         "Yoshua Bengio"
       ],
       "topAuthors": [
@@ -24241,7 +24228,7 @@
       "doi": "10.1145/3448250",
       "arxivId": null,
       "pdf": "https://dl.acm.org/doi/pdf/10.1145/3448250",
-      "citationCount": 664,
+      "citationCount": 665,
       "referenceCount": 89,
       "influentialCitationCount": 22,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 87d5b61f5b6fdb0a57fc66b5c5bb428c398eaa86",
@@ -24252,8 +24239,8 @@
       "id": "8a4a90a925d0376e740df508ac307613c647e5c3",
       "title": "DEUP: Direct Epistemic Uncertainty Prediction",
       "authors": [
-        "Moksh Jain",
         "S. Lahlou",
+        "Moksh Jain",
         "Hadi Nekoei",
         "V. Butoi",
         "Paul Bertin",
@@ -24640,7 +24627,7 @@
       "doi": null,
       "arxivId": "2106.04624",
       "pdf": null,
-      "citationCount": 1041,
+      "citationCount": 1042,
       "referenceCount": 113,
       "influentialCitationCount": 107,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | b79cd3e0e2b154922b5cd16e1fbed9cb44e5a59f",
@@ -24731,7 +24718,7 @@
       "authors": [
         "Xu Ji",
         "Razvan Pascanu",
-        "Devon Hjelm",
+        "R. Devon Hjelm",
         "A. Vedaldi",
         "Balaji Lakshminarayanan",
         "Yoshua Bengio"
@@ -24853,7 +24840,9 @@
         "Tristan Sylvain",
         "M. Luck",
         "Joseph Paul Cohen",
+        "Heloise Cardinal",
         "Andrea Lodi",
+        "Polytechnique Montréal",
         "Yoshua Bengio"
       ],
       "topAuthors": [
@@ -25199,11 +25188,11 @@
       "arxivId": "2005.09136",
       "pdf": null,
       "citationCount": 15,
-      "referenceCount": 39,
+      "referenceCount": 40,
       "influentialCitationCount": 1,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 0c604c8a025ccc29f1a8cadbd58e3dacc041ed1c",
       "addedAt": "2026-09-13",
-      "score": 7.2727272727272725
+      "score": 9.090909090909092
     },
     {
       "id": "16e86aab2faf047cf0345671f99a708096c85614",
@@ -27033,7 +27022,8 @@
         "Daphne Ippolito",
         "R. Janda",
         "Max Jarvie",
-        "Benjamin Prud'homme",
+        "Prud",
+        "Benjamin Homme",
         "J. Rousseau",
         "Abhinav Sharma",
         "Y. Yu"
@@ -27194,12 +27184,12 @@
         "Sufeng Niu",
         "Yashaswi Pathak",
         "Haoran Wei",
-        "Shengchao Liu",
+        "Sheng-Chao Liu",
         "Karam M. J. Thomas",
         "Simon R. Blackburn",
         "Connor W. Coley",
         "Jian Tang",
-        "Sarath Chandar",
+        "A. P. Sarath Chandar",
         "Yoshua Bengio"
       ],
       "topAuthors": [
@@ -27528,7 +27518,7 @@
       "doi": null,
       "arxivId": "1905.10437",
       "pdf": null,
-      "citationCount": 1805,
+      "citationCount": 1808,
       "referenceCount": 44,
       "influentialCitationCount": 222,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 13c185b8c461034af2634f25dd8a85889e8ee135",
@@ -27693,7 +27683,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 2,
+      "citationCount": 1,
       "referenceCount": 0,
       "influentialCitationCount": 0,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 212118353c6c51feed4e574cb4ac24c22f92944a",
@@ -27976,8 +27966,8 @@
       "authors": [
         "Valentin Thomas",
         "Fabian Pedregosa",
-        "B. V. Merrienboer",
-        "Pierre-Antoine Mangazol",
+        "Bart van Merrienboer",
+        "Pierre-Antoine Manzagol",
         "Yoshua Bengio",
         "Nicolas Le Roux"
       ],
@@ -27988,9 +27978,9 @@
           "authorId": "1751762"
         },
         {
-          "name": "Nicolas Le Roux",
-          "hIndex": 33,
-          "authorId": "7245737"
+          "name": "Fabian Pedregosa",
+          "hIndex": 29,
+          "authorId": "2570016"
         }
       ],
       "affiliations": [
@@ -29304,7 +29294,7 @@
         "Marc-Alexandre Côté",
         "Jie Fu",
         "Zhouhan Lin",
-        "Chris Pal",
+        "C. Pal",
         "Yoshua Bengio",
         "Adam Trischler"
       ],
@@ -29315,9 +29305,9 @@
           "authorId": "1751762"
         },
         {
-          "name": "Adam Trischler",
-          "hIndex": 34,
-          "authorId": "3382568"
+          "name": "C. Pal",
+          "hIndex": 53,
+          "authorId": "1972076"
         }
       ],
       "affiliations": [
@@ -29730,7 +29720,7 @@
       "doi": null,
       "arxivId": "1910.09570",
       "pdf": null,
-      "citationCount": 48,
+      "citationCount": 50,
       "referenceCount": 31,
       "influentialCitationCount": 7,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | c272e2ba799e05dad88d10c8303d636c23c9b316",
@@ -30199,7 +30189,7 @@
       "authors": [
         "Zijun Zhang",
         "Ruixiang Zhang",
-        "Zongpeng Li",
+        "Zong-Peng Li",
         "Yoshua Bengio",
         "L. Paull"
       ],
@@ -30210,7 +30200,7 @@
           "authorId": "1751762"
         },
         {
-          "name": "Zongpeng Li",
+          "name": "Zong-Peng Li",
           "hIndex": 47,
           "authorId": "2118206988"
         }
@@ -30242,7 +30232,7 @@
         "F. Ghadiri",
         "R. Devon Hjelm",
         "Yoshua Bengio",
-        "Christopher Joseph Pal"
+        "C. Pal"
       ],
       "topAuthors": [
         {
@@ -30251,9 +30241,9 @@
           "authorId": "1751762"
         },
         {
-          "name": "R. Devon Hjelm",
-          "hIndex": 28,
-          "authorId": "40482726"
+          "name": "C. Pal",
+          "hIndex": 53,
+          "authorId": "1972076"
         }
       ],
       "affiliations": [
@@ -30325,7 +30315,7 @@
         "Chinnadhurai Sankar",
         "S. Subramanian",
         "C. Pal",
-        "A. Chandar",
+        "Sarath Chandar",
         "Yoshua Bengio"
       ],
       "topAuthors": [
@@ -30468,7 +30458,7 @@
       "doi": null,
       "arxivId": "1905.06214",
       "pdf": null,
-      "citationCount": 319,
+      "citationCount": 320,
       "referenceCount": 43,
       "influentialCitationCount": 40,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | fba8ef1c0908a37e6fb2d13b27eae0ad53c6d554",
@@ -31038,7 +31028,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 1658,
+      "citationCount": 1659,
       "referenceCount": 44,
       "influentialCitationCount": 218,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 1b59eea8ec4684381a885b59acd09c9151a49487",
@@ -31122,7 +31112,7 @@
       "doi": "10.18653/v1/D18-1259",
       "arxivId": "1809.09600",
       "pdf": "https://www.aclweb.org/anthology/D18-1259.pdf",
-      "citationCount": 5435,
+      "citationCount": 5437,
       "referenceCount": 20,
       "influentialCitationCount": 1127,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 22655979df781d222eaf812b0d325fa9adf11594",
@@ -31199,7 +31189,7 @@
       "doi": "10.1109/SLT.2018.8639585",
       "arxivId": "1808.00158",
       "pdf": "https://arxiv.org/pdf/1808.00158",
-      "citationCount": 906,
+      "citationCount": 908,
       "referenceCount": 54,
       "influentialCitationCount": 130,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 2540f32662aad59f66d0d9b00b9ad4721a9e522a",
@@ -31336,7 +31326,7 @@
         "Brady Neal",
         "Alex Lamb",
         "Sherjil Ozair",
-        "R. Devon Hjelm",
+        "Devon R. Hjelm",
         "Aaron C. Courville",
         "Yoshua Bengio",
         "Ioannis Mitliagkas"
@@ -31423,7 +31413,7 @@
         "Mohamed Morchid",
         "Georges Linarès",
         "Chiheb Trabelsi",
-        "R. Mori",
+        "Renato Mori",
         "Yoshua Bengio"
       ],
       "topAuthors": [
@@ -31486,7 +31476,7 @@
       "doi": "10.1109/TETCI.2017.2762739",
       "arxivId": "1803.10225",
       "pdf": "https://arxiv.org/pdf/1803.10225",
-      "citationCount": 372,
+      "citationCount": 373,
       "referenceCount": 77,
       "influentialCitationCount": 28,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 360cfa09b2f7c8e10b1831d899c5a51aefa1883e",
@@ -31599,6 +31589,239 @@
       "influentialCitationCount": 0,
       "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 3b118bbb7c33eb8ca4605170e1bff2d459488df6",
       "addedAt": "2026-09-24",
+      "score": 0
+    },
+    {
+      "id": "ee4d4ef562c63771a22dfbfa5ee952adc3bdfaf6",
+      "title": "Measuring Context-Dependent Syntactic Information Across Layers",
+      "authors": [
+        "Guillaume Alain",
+        "Yoshua Bengio",
+        "Under-329",
+        "Branden Chan",
+        "Stefan Schweter",
+        "Timo Möller",
+        "J. Devlin",
+        "Ming-Wei Chang",
+        "Kenton Lee",
+        "John Hewitt",
+        "Kawin Ethayarajh",
+        "Percy Liang",
+        "Jenny Kunz",
+        "Marco Kuhlmann",
+        "test",
+        "Martin Malmsten",
+        "Love Börjeson",
+        "Chris Haffenden",
+        "James Lerer",
+        "Gregory Bradbury",
+        "Trevor Chanan",
+        "Zeming Killeen",
+        "Natalia Lin",
+        "Luca Gimelshein",
+        "Alban Antiga",
+        "Andreas Desmaison",
+        "Edward Kopf"
+      ],
+      "topAuthors": [
+        {
+          "name": "Yoshua Bengio",
+          "hIndex": 212,
+          "authorId": "1751762"
+        },
+        {
+          "name": "Kawin Ethayarajh",
+          "hIndex": 16,
+          "authorId": "10324691"
+        }
+      ],
+      "affiliations": [
+        "Linköping University"
+      ],
+      "year": 2022,
+      "venue": null,
+      "publicationDate": null,
+      "summary": "It is found that more information is retrieved in deeper lay-018 ers than for the most common tags, and it is found that while this is often true, the manifestation 020 varies among metrics and models in different 021 languages.",
+      "url": "https://www.semanticscholar.org/paper/ee4d4ef562c63771a22dfbfa5ee952adc3bdfaf6",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 25,
+      "influentialCitationCount": 0,
+      "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | ee4d4ef562c63771a22dfbfa5ee952adc3bdfaf6",
+      "addedAt": "2026-09-27",
+      "score": 0
+    },
+    {
+      "id": "e4dbb5fc48a0419dbd148945f7f856fa07354f7a",
+      "title": "Distill and Calibrate: Denoising Inconsistent Labeling Instances for Chinese Named Entity Recognition",
+      "authors": [
+        "J. Devlin",
+        "Ming-Wei Chang",
+        "Kenton Lee",
+        "Xavier Glorot",
+        "Yoshua Bengio",
+        "Understanding",
+        "Jacob Goldberger",
+        "Ehud Ben-Reuven",
+        "Train-580",
+        "J. Lafferty",
+        "A. McCallum",
+        "CN Fernando",
+        "Guillaume Lample",
+        "Miguel Ballesteros",
+        "Sandeep Sub-606",
+        "Kazuya Kawakami",
+        "Chris Dyer",
+        "Lukas Lange",
+        "Michael A. Hedderich"
+      ],
+      "topAuthors": [
+        {
+          "name": "Yoshua Bengio",
+          "hIndex": 212,
+          "authorId": "1751762"
+        },
+        {
+          "name": "J. Lafferty",
+          "hIndex": 72,
+          "authorId": "1739581"
+        }
+      ],
+      "affiliations": [],
+      "year": 2021,
+      "venue": null,
+      "publicationDate": null,
+      "summary": "A simple yet effective denoising frame-016 work named D istillation and C alibration for Chinese NER (DCNER), which proposes the first benchmark towards validating the ability of Chinese NER to resist inconsis-026 tent labeling instances.",
+      "url": "https://www.semanticscholar.org/paper/e4dbb5fc48a0419dbd148945f7f856fa07354f7a",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 31,
+      "influentialCitationCount": 0,
+      "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | e4dbb5fc48a0419dbd148945f7f856fa07354f7a",
+      "addedAt": "2026-09-27",
+      "score": 0
+    },
+    {
+      "id": "13bc4e683075bdd6a3f0155241c276a772d4aa06",
+      "title": "Generative adversarial networks",
+      "authors": [
+        "Ian J. Goodfellow",
+        "Jean Pouget-Abadie",
+        "Mehdi Mirza",
+        "Bing Xu",
+        "David Warde-Farley",
+        "Sherjil Ozair",
+        "Aaron C. Courville",
+        "Yoshua Bengio"
+      ],
+      "topAuthors": [
+        {
+          "name": "Yoshua Bengio",
+          "hIndex": 212,
+          "authorId": "1751762"
+        },
+        {
+          "name": "Aaron C. Courville",
+          "hIndex": 94,
+          "authorId": "1760871"
+        }
+      ],
+      "affiliations": [
+        "DeepMind"
+      ],
+      "year": 2014,
+      "venue": "Communications of the ACM",
+      "publicationDate": "2014-06-10",
+      "summary": "Generative adversarial networks have been successfully applied to a wide variety of tasks but continue to present unique challenges and research opportunities because they are based on game theory while most other approaches to generative modeling are based on optimization.",
+      "url": "https://www.semanticscholar.org/paper/13bc4e683075bdd6a3f0155241c276a772d4aa06",
+      "doi": "10.1145/3422622",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 16,
+      "referenceCount": 142,
+      "influentialCitationCount": 1,
+      "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 13bc4e683075bdd6a3f0155241c276a772d4aa06",
+      "addedAt": "2026-09-27",
+      "score": 0
+    },
+    {
+      "id": "1fb11eca39c0edab06c046d6e09d9e1331e5b7bf",
+      "title": "A preliminary evaluation of word representations for named-entity recognition",
+      "authors": [
+        "Joseph P. Turian",
+        "Lev Ratinov",
+        "Yoshua Bengio",
+        "Dan Roth"
+      ],
+      "topAuthors": [
+        {
+          "name": "Yoshua Bengio",
+          "hIndex": 212,
+          "authorId": "1751762"
+        },
+        {
+          "name": "Dan Roth",
+          "hIndex": 99,
+          "authorId": "144590225"
+        }
+      ],
+      "affiliations": [
+        "University of Pennsylvania, Oracle"
+      ],
+      "year": 2009,
+      "venue": null,
+      "publicationDate": null,
+      "summary": "This work evaluates Brown clusters, Collobert and Weston (2008) embeddings, and HLBL (Mnih & Hinton, 2009)embeddings of words for named-entity recognition with a linear model, finding that all three representations improve accuracy on NER.",
+      "url": "https://www.semanticscholar.org/paper/1fb11eca39c0edab06c046d6e09d9e1331e5b7bf",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 36,
+      "referenceCount": 24,
+      "influentialCitationCount": 2,
+      "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 1fb11eca39c0edab06c046d6e09d9e1331e5b7bf",
+      "addedAt": "2026-09-27",
+      "score": 1.8181818181818181
+    },
+    {
+      "id": "60fdfa95dee2dc3b125f1552aa5c080542707e8f",
+      "title": "Sparse Covariance Coding",
+      "authors": [
+        "Aaron C. Courville",
+        "D. Erhan",
+        "P. Vincent",
+        "Yoshua Bengio"
+      ],
+      "topAuthors": [
+        {
+          "name": "Yoshua Bengio",
+          "hIndex": 212,
+          "authorId": "1751762"
+        },
+        {
+          "name": "Aaron C. Courville",
+          "hIndex": 94,
+          "authorId": "1760871"
+        }
+      ],
+      "affiliations": [],
+      "year": 2008,
+      "venue": null,
+      "publicationDate": null,
+      "summary": "This work focuses on the problem of learning a sparse representation of data that stakes out a compromise position: explicitly taking into account information such as the labels in a classification task, while simultaneously attempting to capture descriptive features of the input data.",
+      "url": "https://www.semanticscholar.org/paper/60fdfa95dee2dc3b125f1552aa5c080542707e8f",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 9,
+      "influentialCitationCount": 0,
+      "source": "author: https://www.semanticscholar.org/author/Yoshua-Bengio/1751762 | 60fdfa95dee2dc3b125f1552aa5c080542707e8f",
+      "addedAt": "2026-09-27",
       "score": 0
     }
   ]

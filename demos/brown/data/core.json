@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T12:19:00.718Z",
+  "updatedAt": "2026-09-27T12:50:59.765Z",
   "core": [
     {
       "id": "1167853b9cff97347fc7beb1c8ce92fc95486a1a",
@@ -296,7 +296,7 @@
         "C. Wallis",
         "Joseph Akol",
         "O. Ocheretina",
-        "Nguyen Van Hung",
+        "H. Nguyễn",
         "H. Mayanja-Kizza",
         "M. Lourens",
         "R. Dawson",
@@ -1436,7 +1436,7 @@
         "Jennifer Y. Huang",
         "Sarah E. Gilbert",
         "Paige Gable",
-        "Susan Bollinger",
+        "S. Bollinger",
         "Sarah Sabour",
         "Elizabeth Beshearse",
         "D. Surie",
@@ -3481,7 +3481,7 @@
       "title": "A rigorous bond model for DEM simulation of cemented particulates and deformable structures",
       "authors": [
         "Noam Brown",
-        "Jian fei Chen",
+        "Jian-Fei Chen",
         "J. Ooi"
       ],
       "topAuthors": [
@@ -4092,7 +4092,7 @@
       "doi": "10.1002/path.1027",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 2095,
+      "citationCount": 2096,
       "referenceCount": 121,
       "influentialCitationCount": 55,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 020bf06b240b88df85e7e2abc10347ef69d5253e",
