@@ -4,6 +4,8 @@
 
 A reading list that keeps itself current, living in a GitHub repo's README.
 
+<p align="center"><a href="https://github.com/avijit-thawani/living-survey/blob/media/living-surveys-demo.mp4"><img src="https://raw.githubusercontent.com/avijit-thawani/living-survey/media/living-surveys-demo.webp" width="360" alt="Living Surveys demo video, playing silently with captions"></a><br><sub><a href="https://github.com/avijit-thawani/living-survey/blob/media/living-surveys-demo.mp4">Watch with sound</a></sub></p>
+
 Your survey is a repo you own and nothing else. No website, no backend, no
 database, no account, no API keys — the papers, the data files and the code all
 sit in your repo, and a GitHub Action rewrites them in place. Nothing is sent
