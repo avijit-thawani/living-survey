@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T13:55:02.506Z",
+  "updatedAt": "2026-09-30T13:51:04.010Z",
   "recs": [
     {
       "id": "d3bdee99590983691db1f65b1dc8dd56aed17dde",
@@ -36,10 +36,10 @@
       "referenceCount": 174,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 3,
       "direction": "forward",
-      "score": 36.414090201156355,
+      "score": 36.231575645848665,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -77,10 +77,10 @@
       "referenceCount": 70,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 3,
       "direction": "forward",
-      "score": 26.964790355340078,
+      "score": 26.849075822401137,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -111,10 +111,10 @@
       "referenceCount": 22,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 3,
       "direction": "forward",
-      "score": 25.746459809859612,
+      "score": 25.674894185904623,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -137,7 +137,7 @@
       "topAuthors": [
         {
           "name": "Zhaoran Wang",
-          "hIndex": 42,
+          "hIndex": 44,
           "authorId": "2257245348"
         },
         {
@@ -155,11 +155,11 @@
       "doi": "10.48550/arXiv.2605.12671",
       "arxivId": "2605.12671",
       "pdf": null,
-      "citationCount": 9,
+      "citationCount": 10,
       "referenceCount": 66,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 3,
       "direction": "forward",
       "score": 100,
@@ -198,12 +198,12 @@
       "pdf": null,
       "citationCount": 1,
       "referenceCount": 43,
-      "influentialCitationCount": 0,
+      "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 3,
       "direction": "forward",
-      "score": 77.6695654614877,
+      "score": 77.58058257792135,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -217,14 +217,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Pranav Sawant",
+          "hIndex": 1,
+          "authorId": "2139947829"
+        },
+        {
           "name": "Jakub Krejčí",
           "hIndex": 1,
           "authorId": "2342751265"
-        },
-        {
-          "name": "Pranav Sawant",
-          "hIndex": 0,
-          "authorId": "2139947829"
         }
       ],
       "affiliations": [],
@@ -240,10 +240,10 @@
       "referenceCount": 58,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 68.82332409257373,
+      "score": 68.08269886707572,
       "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -261,12 +261,12 @@
       "topAuthors": [
         {
           "name": "Simon Osindero",
-          "hIndex": 36,
+          "hIndex": 37,
           "authorId": "2217144"
         },
         {
           "name": "Nenad Tomasev",
-          "hIndex": 7,
+          "hIndex": 8,
           "authorId": "2359197879"
         }
       ],
@@ -279,14 +279,14 @@
       "doi": "10.48550/arXiv.2512.16856",
       "arxivId": "2512.16856",
       "pdf": null,
-      "citationCount": 10,
+      "citationCount": 11,
       "referenceCount": 199,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 6,
       "direction": "forward",
-      "score": 66.76931538633347,
+      "score": 66.60063220123513,
       "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -308,11 +308,13 @@
         },
         {
           "name": "F. Plaza-del-Arco",
-          "hIndex": 10,
+          "hIndex": 8,
           "authorId": "1410406981"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "University of Leeds"
+      ],
       "year": 2026,
       "venue": "arXiv.org",
       "publicationDate": "2026-06-22",
@@ -325,10 +327,10 @@
       "referenceCount": 74,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 5,
       "direction": "forward",
-      "score": 64.46650267543548,
+      "score": 63.97523935164982,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -368,10 +370,10 @@
       "referenceCount": 70,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 6,
       "direction": "forward",
-      "score": 62.594374093954876,
+      "score": 62.4726265627057,
       "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -388,12 +390,12 @@
       "topAuthors": [
         {
           "name": "Jusheng Zhang",
-          "hIndex": 15,
+          "hIndex": 16,
           "authorId": "2344795356"
         },
         {
           "name": "Wen-Hao Wang",
-          "hIndex": 6,
+          "hIndex": 7,
           "authorId": "2280328057"
         }
       ],
@@ -410,10 +412,10 @@
       "referenceCount": 92,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 6,
       "direction": "forward",
-      "score": 61.57393353060658,
+      "score": 61.503040191138645,
       "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -424,21 +426,21 @@
       "authors": [
         "Zhao-Han Zhang",
         "Chengzhengxu Li",
-        "Xiaoming Liu",
+        "Xiao-Ming Liu",
         "Chao Shen",
-        "Ziquan Liu",
+        "Zi-Quan Liu",
         "Ioannis Patras"
       ],
       "topAuthors": [
         {
+          "name": "Xiao-Ming Liu",
+          "hIndex": 8,
+          "authorId": "2265689457"
+        },
+        {
           "name": "Chao Shen",
           "hIndex": 8,
           "authorId": "2154740036"
-        },
-        {
-          "name": "Xiaoming Liu",
-          "hIndex": 7,
-          "authorId": "2265689457"
         }
       ],
       "affiliations": [],
@@ -450,14 +452,14 @@
       "doi": "10.48550/arXiv.2604.05397",
       "arxivId": "2604.05397",
       "pdf": null,
-      "citationCount": 2,
+      "citationCount": 3,
       "referenceCount": 56,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 3,
       "direction": "forward",
-      "score": 60.173177307475335,
+      "score": 60.035844983380315,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -466,7 +468,7 @@
       "id": "a39068cc41776b34cd9b8a3a016579c01b953195",
       "title": "Scaling Reward Modeling without Human Supervision",
       "authors": [
-        "Jingxuan Fan",
+        "Jing-Xuan Fan",
         "Yueying Li",
         "Zhenting Qi",
         "Dinghuai Zhang",
@@ -478,7 +480,7 @@
       "topAuthors": [
         {
           "name": "S. Kakade",
-          "hIndex": 97,
+          "hIndex": 99,
           "authorId": "144695232"
         },
         {
@@ -502,10 +504,10 @@
       "referenceCount": 60,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 5,
       "direction": "forward",
-      "score": 58.27231959528232,
+      "score": 58.1443288416458,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -536,10 +538,10 @@
       "referenceCount": 30,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 56.539394329730385,
+      "score": 55.99222831368057,
       "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -554,7 +556,7 @@
       "topAuthors": [
         {
           "name": "Irene Solaiman",
-          "hIndex": 9,
+          "hIndex": 10,
           "authorId": "1404060690"
         },
         {
@@ -578,10 +580,10 @@
       "referenceCount": 41,
       "influentialCitationCount": 12,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 7,
       "direction": "backward",
-      "score": 94.55477566300732,
+      "score": 94.74977541262649,
       "why": "cited by 7 in your list",
       "fromReferences": false
     },
@@ -617,7 +619,7 @@
       "topAuthors": [
         {
           "name": "Anton Korinek",
-          "hIndex": 33,
+          "hIndex": 35,
           "authorId": "4645245"
         },
         {
@@ -626,7 +628,10 @@
           "authorId": "40051700"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "OpenAI (United States)",
+        "Center for a New American Security"
+      ],
       "year": 2023,
       "venue": "arXiv.org",
       "publicationDate": "2023-07-06",
@@ -639,10 +644,10 @@
       "referenceCount": 249,
       "influentialCitationCount": 12,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 6,
       "direction": "forward",
-      "score": 80.07309810263612,
+      "score": 80.02811999644085,
       "why": "cites 6 in your list",
       "fromReferences": false
     },
@@ -657,7 +662,7 @@
       "topAuthors": [
         {
           "name": "Jonas Schäfer",
-          "hIndex": 4,
+          "hIndex": 5,
           "authorId": "2272208512"
         },
         {
@@ -679,10 +684,10 @@
       "referenceCount": 33,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 2,
       "direction": "forward",
-      "score": 74.03831804206588,
+      "score": 74.44249070575498,
       "why": "cites 2 in your list",
       "fromReferences": false
     },
@@ -698,17 +703,19 @@
       ],
       "topAuthors": [
         {
-          "name": "Saeed Anwar",
-          "hIndex": 5,
-          "authorId": "2297845544"
+          "name": "Ajmal Mian",
+          "hIndex": 7,
+          "authorId": "2290752695"
         },
         {
-          "name": "Ajmal Mian",
-          "hIndex": 5,
-          "authorId": "2290752695"
+          "name": "Saeed Anwar",
+          "hIndex": 6,
+          "authorId": "2297845544"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "King Fahd University of Petroleum and Minerals"
+      ],
       "year": 2025,
       "venue": "arXiv.org",
       "publicationDate": "2025-12-22",
@@ -717,14 +724,14 @@
       "doi": "10.48550/arXiv.2512.19350",
       "arxivId": "2512.19350",
       "pdf": null,
-      "citationCount": 3,
+      "citationCount": 5,
       "referenceCount": 42,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 2,
       "direction": "forward",
-      "score": 73.60994980344834,
+      "score": 74.35570979197217,
       "why": "cites 2 in your list",
       "fromReferences": false
     },
@@ -733,12 +740,12 @@
       "title": "Language Model Behavior: A Comprehensive Survey",
       "authors": [
         "Tyler A. Chang",
-        "B. Bergen"
+        "Benjamin K. Bergen"
       ],
       "topAuthors": [
         {
-          "name": "B. Bergen",
-          "hIndex": 31,
+          "name": "Benjamin K. Bergen",
+          "hIndex": 32,
           "authorId": "24316216"
         },
         {
@@ -762,10 +769,10 @@
       "referenceCount": 393,
       "influentialCitationCount": 6,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 5,
       "direction": "forward",
-      "score": 70.87992178208836,
+      "score": 70.70551244487135,
       "why": "cites 5 in your list",
       "fromReferences": false
     },
@@ -790,7 +797,7 @@
         },
         {
           "name": "Zhenfang Chen",
-          "hIndex": 25,
+          "hIndex": 26,
           "authorId": "2111329651"
         }
       ],
@@ -810,10 +817,10 @@
       "referenceCount": 137,
       "influentialCitationCount": 7,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 5,
       "direction": "forward",
-      "score": 70.61689219684736,
+      "score": 70.4532321256898,
       "why": "cites 5 in your list",
       "fromReferences": false
     },
@@ -843,12 +850,12 @@
       "topAuthors": [
         {
           "name": "Esin Durmus",
-          "hIndex": 35,
+          "hIndex": 34,
           "authorId": "41152329"
         },
         {
           "name": "Jared Kaplan",
-          "hIndex": 33,
+          "hIndex": 31,
           "authorId": "2053807409"
         }
       ],
@@ -864,14 +871,14 @@
       "doi": null,
       "arxivId": "2306.16388",
       "pdf": null,
-      "citationCount": 507,
+      "citationCount": 513,
       "referenceCount": 95,
-      "influentialCitationCount": 36,
+      "influentialCitationCount": 39,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 5,
       "direction": "forward",
-      "score": 69.12606668093429,
+      "score": 68.9340379110119,
       "why": "cites 5 in your list",
       "fromReferences": false
     },
@@ -889,12 +896,12 @@
       "topAuthors": [
         {
           "name": "Benjamin Van Durme",
-          "hIndex": 18,
+          "hIndex": 19,
           "authorId": "2292194313"
         },
         {
           "name": "Daniel Khashabi",
-          "hIndex": 9,
+          "hIndex": 11,
           "authorId": "2319593572"
         }
       ],
@@ -913,10 +920,59 @@
       "referenceCount": 41,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 2,
       "direction": "forward",
-      "score": 68.06095632828514,
+      "score": 68.11945849525164,
+      "why": "cites 2 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "bfd0f632aa36fd47920e65f222b51090f9784e97",
+      "title": "The Alignment Waltz: Jointly Training Agents to Collaborate for Safety",
+      "authors": [
+        "Jingyu (Jack) Zhang",
+        "Haozhu Wang",
+        "E. Smith",
+        "Sid Wang",
+        "Amr Sharaf",
+        "Mahesh Pasupuleti",
+        "Benjamin Van Durme",
+        "Daniel Khashabi",
+        "Jason E. Weston",
+        "Hong-Yuan Zhan"
+      ],
+      "topAuthors": [
+        {
+          "name": "Benjamin Van Durme",
+          "hIndex": 19,
+          "authorId": "2292194313"
+        },
+        {
+          "name": "Jingyu (Jack) Zhang",
+          "hIndex": 12,
+          "authorId": "2167508843"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
+      ],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "publicationDate": "2025-10-09",
+      "summary": "WaltzRL is proposed, a novel multi-agent reinforcement learning framework that formulates safety alignment as a collaborative, positive-sum game that enhances LLM safety without degrading general capabilities, thereby advancing the Pareto front between helpfulness and harmlessness.",
+      "url": "https://www.semanticscholar.org/paper/bfd0f632aa36fd47920e65f222b51090f9784e97",
+      "doi": "10.48550/arXiv.2510.08240",
+      "arxivId": "2510.08240",
+      "pdf": null,
+      "citationCount": 10,
+      "referenceCount": 58,
+      "influentialCitationCount": 1,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 67.76022232435797,
       "why": "cites 2 in your list",
       "fromReferences": false
     },
@@ -959,9 +1015,9 @@
           "authorId": "3439053"
         },
         {
-          "name": "Sam Bowman",
+          "name": "Ameya Prabhu",
           "hIndex": 24,
-          "authorId": "1799822"
+          "authorId": "39012223"
         }
       ],
       "affiliations": [
@@ -980,60 +1036,11 @@
       "referenceCount": 68,
       "influentialCitationCount": 20,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 5,
       "direction": "forward",
-      "score": 67.9158796403805,
+      "score": 67.7599596853642,
       "why": "cites 5 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "bfd0f632aa36fd47920e65f222b51090f9784e97",
-      "title": "The Alignment Waltz: Jointly Training Agents to Collaborate for Safety",
-      "authors": [
-        "Jingyu (Jack) Zhang",
-        "Haozhu Wang",
-        "E. Smith",
-        "Sid Wang",
-        "Amr Sharaf",
-        "Mahesh Pasupuleti",
-        "Benjamin Van Durme",
-        "Daniel Khashabi",
-        "Jason E. Weston",
-        "Hong-Yuan Zhan"
-      ],
-      "topAuthors": [
-        {
-          "name": "Benjamin Van Durme",
-          "hIndex": 18,
-          "authorId": "2292194313"
-        },
-        {
-          "name": "Jingyu (Jack) Zhang",
-          "hIndex": 11,
-          "authorId": "2167508843"
-        }
-      ],
-      "affiliations": [
-        "Johns Hopkins University"
-      ],
-      "year": 2025,
-      "venue": "arXiv.org",
-      "publicationDate": "2025-10-09",
-      "summary": "WaltzRL is proposed, a novel multi-agent reinforcement learning framework that formulates safety alignment as a collaborative, positive-sum game that enhances LLM safety without degrading general capabilities, thereby advancing the Pareto front between helpfulness and harmlessness.",
-      "url": "https://www.semanticscholar.org/paper/bfd0f632aa36fd47920e65f222b51090f9784e97",
-      "doi": "10.48550/arXiv.2510.08240",
-      "arxivId": "2510.08240",
-      "pdf": null,
-      "citationCount": 10,
-      "referenceCount": 58,
-      "influentialCitationCount": 1,
-      "source": null,
-      "addedAt": "2026-09-29",
-      "overlap": 2,
-      "direction": "forward",
-      "score": 67.70361087643619,
-      "why": "cites 2 in your list",
       "fromReferences": false
     },
     {
@@ -1129,7 +1136,7 @@
         },
         {
           "name": "D. Hassabis",
-          "hIndex": 93,
+          "hIndex": 95,
           "authorId": "48987704"
         }
       ],
@@ -1145,14 +1152,14 @@
       "doi": null,
       "arxivId": "2112.11446",
       "pdf": null,
-      "citationCount": 1672,
+      "citationCount": 1673,
       "referenceCount": 0,
       "influentialCitationCount": 102,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 6,
       "direction": "backward",
-      "score": 61.63004783745683,
+      "score": 61.52562794039655,
       "why": "cited by 6 in your list",
       "fromReferences": false
     },
@@ -1171,12 +1178,14 @@
           "authorId": "1795294"
         },
         {
-          "name": "G. Kashyap",
-          "hIndex": 13,
-          "authorId": "2138567368"
+          "name": "Usman Naseem",
+          "hIndex": 28,
+          "authorId": "1394609613"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Macquarie University"
+      ],
       "year": 2025,
       "venue": "arXiv.org",
       "publicationDate": "2025-09-26",
@@ -1189,10 +1198,10 @@
       "referenceCount": 50,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 61.37364473416994,
+      "score": 61.1711137827683,
       "why": "cites 4 in your list",
       "fromReferences": false
     }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T13:54:14.188Z",
+  "updatedAt": "2026-09-30T13:50:11.100Z",
   "core": [
     {
       "id": "1167853b9cff97347fc7beb1c8ce92fc95486a1a",
@@ -15,7 +15,7 @@
       "topAuthors": [
         {
           "name": "J. Kolter",
-          "hIndex": 78,
+          "hIndex": 81,
           "authorId": "145116464"
         },
         {
@@ -87,7 +87,7 @@
       "topAuthors": [
         {
           "name": "Morteza Dejam",
-          "hIndex": 42,
+          "hIndex": 43,
           "authorId": "12962724"
         },
         {
@@ -144,7 +144,7 @@
         },
         {
           "name": "T. Akintobi",
-          "hIndex": 14,
+          "hIndex": 15,
           "authorId": "3897544"
         }
       ],
@@ -216,7 +216,7 @@
       "topAuthors": [
         {
           "name": "J. Kolter",
-          "hIndex": 78,
+          "hIndex": 81,
           "authorId": "145116464"
         },
         {
@@ -319,7 +319,7 @@
       "topAuthors": [
         {
           "name": "R. Chaisson",
-          "hIndex": 105,
+          "hIndex": 104,
           "authorId": "145695691"
         },
         {
@@ -414,12 +414,12 @@
       "topAuthors": [
         {
           "name": "C. Broder",
-          "hIndex": 69,
+          "hIndex": 70,
           "authorId": "5171013"
         },
         {
           "name": "R. Plowright",
-          "hIndex": 45,
+          "hIndex": 46,
           "authorId": "5262090"
         }
       ],
@@ -455,7 +455,7 @@
         },
         {
           "name": "C. Topaz",
-          "hIndex": 22,
+          "hIndex": 23,
           "authorId": "1949686"
         }
       ],
@@ -495,7 +495,7 @@
       "topAuthors": [
         {
           "name": "D. Amor",
-          "hIndex": 64,
+          "hIndex": 65,
           "authorId": "6965104"
         },
         {
@@ -536,7 +536,7 @@
         },
         {
           "name": "C. Topaz",
-          "hIndex": 22,
+          "hIndex": 23,
           "authorId": "1949686"
         }
       ],
@@ -616,7 +616,7 @@
         },
         {
           "name": "Adam Lerer",
-          "hIndex": 30,
+          "hIndex": 29,
           "authorId": "1977806"
         }
       ],
@@ -629,7 +629,7 @@
       "doi": "10.48550/arXiv.2210.05492",
       "arxivId": "2210.05492",
       "pdf": "http://arxiv.org/pdf/2210.05492",
-      "citationCount": 72,
+      "citationCount": 73,
       "referenceCount": 38,
       "influentialCitationCount": 1,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 7842368bf1afde87deb63333871760ae848f01f9",
@@ -652,7 +652,7 @@
       "topAuthors": [
         {
           "name": "J. Kolter",
-          "hIndex": 78,
+          "hIndex": 81,
           "authorId": "145116464"
         },
         {
@@ -727,7 +727,7 @@
       "topAuthors": [
         {
           "name": "Morteza Dejam",
-          "hIndex": 42,
+          "hIndex": 43,
           "authorId": "12962724"
         },
         {
@@ -765,7 +765,7 @@
       "topAuthors": [
         {
           "name": "J. Foerster",
-          "hIndex": 35,
+          "hIndex": 37,
           "authorId": "2275156099"
         },
         {
@@ -806,7 +806,7 @@
       "topAuthors": [
         {
           "name": "M. Waring",
-          "hIndex": 42,
+          "hIndex": 43,
           "authorId": "2695123"
         },
         {
@@ -870,7 +870,7 @@
         },
         {
           "name": "Adam Lerer",
-          "hIndex": 30,
+          "hIndex": 29,
           "authorId": "1977806"
         }
       ],
@@ -886,7 +886,7 @@
       "doi": "10.1126/science.ade9097",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 627,
+      "citationCount": 632,
       "referenceCount": 62,
       "influentialCitationCount": 20,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | e89ed6bb1864558e3889f5f2fb8931643c633479",
@@ -907,14 +907,14 @@
       ],
       "topAuthors": [
         {
+          "name": "A. Clarke",
+          "hIndex": 35,
+          "authorId": "47849770"
+        },
+        {
           "name": "Noam Brown",
           "hIndex": 34,
           "authorId": "2685623"
-        },
-        {
-          "name": "A. Clarke",
-          "hIndex": 34,
-          "authorId": "47849770"
         }
       ],
       "affiliations": [],
@@ -949,7 +949,7 @@
         },
         {
           "name": "Adam Lerer",
-          "hIndex": 30,
+          "hIndex": 29,
           "authorId": "1977806"
         }
       ],
@@ -983,12 +983,12 @@
       "topAuthors": [
         {
           "name": "J. Kolter",
-          "hIndex": 78,
+          "hIndex": 81,
           "authorId": "145116464"
         },
         {
           "name": "J. Foerster",
-          "hIndex": 35,
+          "hIndex": 37,
           "authorId": "2275156099"
         }
       ],
@@ -1056,12 +1056,12 @@
       "topAuthors": [
         {
           "name": "Stuart J. Russell",
-          "hIndex": 70,
+          "hIndex": 71,
           "authorId": "145107462"
         },
         {
           "name": "Brandon Amos",
-          "hIndex": 38,
+          "hIndex": 39,
           "authorId": "1773498"
         }
       ],
@@ -1093,7 +1093,7 @@
       "topAuthors": [
         {
           "name": "J. Foerster",
-          "hIndex": 35,
+          "hIndex": 37,
           "authorId": "2275156099"
         },
         {
@@ -1139,7 +1139,7 @@
         },
         {
           "name": "Michael Rogers",
-          "hIndex": 5,
+          "hIndex": 4,
           "authorId": "2068097793"
         }
       ],
@@ -1221,7 +1221,7 @@
         },
         {
           "name": "M. Busch",
-          "hIndex": 89,
+          "hIndex": 90,
           "authorId": "2270494342"
         }
       ],
@@ -1307,7 +1307,7 @@
         },
         {
           "name": "Benny G. Johnson",
-          "hIndex": 12,
+          "hIndex": 13,
           "authorId": "1739428183"
         }
       ],
@@ -1391,7 +1391,7 @@
       "topAuthors": [
         {
           "name": "J. Foerster",
-          "hIndex": 35,
+          "hIndex": 37,
           "authorId": "2275156099"
         },
         {
@@ -1409,7 +1409,7 @@
       "doi": null,
       "arxivId": "2103.04000",
       "pdf": null,
-      "citationCount": 101,
+      "citationCount": 102,
       "referenceCount": 29,
       "influentialCitationCount": 10,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 6f7eb6062cc4e8feecca0202f634257d1752f795",
@@ -1486,7 +1486,7 @@
     },
     {
       "id": "9e1860e0c0645a257232b0af6eccd8422f51508e",
-      "title": "P98 Quality Improvement Project: Improving documentation and junior doctor confidence on COVID-19 ward rounds using a ward round pro forma",
+      "title": "Quality improvement project: Improving documentation and junior doctor confidence on covid-19 ward rounds using a ward round pro forma",
       "authors": [
         "Noam Brown",
         "J. Horne",
@@ -1506,9 +1506,9 @@
       ],
       "affiliations": [],
       "year": 2021,
-      "venue": "BJS Open",
-      "publicationDate": "2021-04-01",
-      "summary": "This project shows not only a 60% increase in ceiling of care documentation, but also improved ease in accessing such information in a tertiary hospital containing high risk COVID-19 patients.",
+      "venue": null,
+      "publicationDate": null,
+      "summary": "A ward round proforma is implemented across three wards of a tertiary hospital containing high risk COVID-19 patients, aiming to improve both documentation rates and subsequent ease in finding pertinent information.",
       "url": "https://www.semanticscholar.org/paper/9e1860e0c0645a257232b0af6eccd8422f51508e",
       "doi": "10.1093/bjsopen/zrab032.097",
       "arxivId": null,
@@ -1537,7 +1537,7 @@
         },
         {
           "name": "Adam Lerer",
-          "hIndex": 30,
+          "hIndex": 29,
           "authorId": "1977806"
         }
       ],
@@ -1573,7 +1573,7 @@
       "topAuthors": [
         {
           "name": "Jacob Andreas",
-          "hIndex": 53,
+          "hIndex": 54,
           "authorId": "2112400"
         },
         {
@@ -1662,7 +1662,7 @@
         },
         {
           "name": "Michael Rogers",
-          "hIndex": 5,
+          "hIndex": 4,
           "authorId": "2068097793"
         }
       ],
@@ -1701,7 +1701,7 @@
       "topAuthors": [
         {
           "name": "M. Waring",
-          "hIndex": 42,
+          "hIndex": 43,
           "authorId": "2695123"
         },
         {
@@ -1743,7 +1743,7 @@
         },
         {
           "name": "Ryan Zarick",
-          "hIndex": 3,
+          "hIndex": 4,
           "authorId": "3270090"
         }
       ],
@@ -1854,7 +1854,7 @@
         },
         {
           "name": "Adam Lerer",
-          "hIndex": 30,
+          "hIndex": 29,
           "authorId": "1977806"
         }
       ],
@@ -1890,7 +1890,7 @@
         },
         {
           "name": "Adam Lerer",
-          "hIndex": 30,
+          "hIndex": 29,
           "authorId": "1977806"
         }
       ],
@@ -2006,7 +2006,7 @@
       "topAuthors": [
         {
           "name": "M. Waring",
-          "hIndex": 42,
+          "hIndex": 43,
           "authorId": "2695123"
         },
         {
@@ -2217,7 +2217,7 @@
         },
         {
           "name": "Adam Lerer",
-          "hIndex": 30,
+          "hIndex": 29,
           "authorId": "1977806"
         }
       ],
@@ -2230,7 +2230,7 @@
       "doi": null,
       "arxivId": "2007.13544",
       "pdf": null,
-      "citationCount": 202,
+      "citationCount": 204,
       "referenceCount": 67,
       "influentialCitationCount": 16,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | df2b23787a58b10962951d4f663809eb20a828ea",
@@ -2301,9 +2301,9 @@
       "doi": "10.1126/science.aay2400",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 913,
+      "citationCount": 918,
       "referenceCount": 30,
-      "influentialCitationCount": 58,
+      "influentialCitationCount": 59,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 2ee463bba9d4db6aec0eab17e54431a6dc80bf17",
       "addedAt": "2026-09-13",
       "score": 80
@@ -2360,7 +2360,7 @@
         },
         {
           "name": "Adam Lerer",
-          "hIndex": 30,
+          "hIndex": 29,
           "authorId": "1977806"
         }
       ],
@@ -2596,7 +2596,7 @@
       "doi": null,
       "arxivId": "1811.00164",
       "pdf": null,
-      "citationCount": 267,
+      "citationCount": 269,
       "referenceCount": 54,
       "influentialCitationCount": 42,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 42c01c027db1e1d9846f13b73e0846bcd3852e65",
@@ -2619,7 +2619,7 @@
         },
         {
           "name": "Brandon Amos",
-          "hIndex": 38,
+          "hIndex": 39,
           "authorId": "1773498"
         }
       ],
@@ -2667,7 +2667,7 @@
       "doi": "10.1126/science.aao1733",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 852,
+      "citationCount": 855,
       "referenceCount": 50,
       "influentialCitationCount": 46,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | eaabb78d0bc44ed132e4d077e9486c86a9e4cda9",
@@ -2734,7 +2734,7 @@
         },
         {
           "name": "N. Egorova",
-          "hIndex": 44,
+          "hIndex": 45,
           "authorId": "144813813"
         }
       ],
@@ -2817,7 +2817,7 @@
       "doi": null,
       "arxivId": "1705.02955",
       "pdf": null,
-      "citationCount": 207,
+      "citationCount": 208,
       "referenceCount": 41,
       "influentialCitationCount": 20,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 9b7a9f38184e4ea0f0cb54b3ed258a053b7cf7af",
@@ -3130,7 +3130,7 @@
         },
         {
           "name": "M. Todosow",
-          "hIndex": 18,
+          "hIndex": 19,
           "authorId": "31032644"
         }
       ],
@@ -3451,7 +3451,7 @@
       "topAuthors": [
         {
           "name": "O. Hod",
-          "hIndex": 44,
+          "hIndex": 45,
           "authorId": "6006009"
         },
         {
@@ -3487,7 +3487,7 @@
       "topAuthors": [
         {
           "name": "J. Ooi",
-          "hIndex": 36,
+          "hIndex": 37,
           "authorId": "39118612"
         },
         {
@@ -4132,8 +4132,7 @@
       "title": "The ActivePolygon Polygonal Algorithm for Haptic Force Generation",
       "authors": [
         "T. Anderson",
-        "Noam Brown",
-        "Novint"
+        "Noam Brown"
       ],
       "topAuthors": [
         {
@@ -4502,7 +4501,7 @@
       "topAuthors": [
         {
           "name": "B. Bukau",
-          "hIndex": 121,
+          "hIndex": 122,
           "authorId": "6175037"
         },
         {
@@ -4818,7 +4817,7 @@
         },
         {
           "name": "J. Blenis",
-          "hIndex": 107,
+          "hIndex": 108,
           "authorId": "4037343"
         }
       ],
@@ -4925,7 +4924,7 @@
       "topAuthors": [
         {
           "name": "A. Copp",
-          "hIndex": 69,
+          "hIndex": 70,
           "authorId": "6188629"
         },
         {

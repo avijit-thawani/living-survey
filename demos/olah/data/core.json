@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T13:55:02.506Z",
+  "updatedAt": "2026-09-30T13:51:04.010Z",
   "core": [
     {
       "id": "1b6e16cc72aee038eb1879b8686b53776be3d51f",
@@ -34,14 +34,14 @@
       ],
       "topAuthors": [
         {
+          "name": "N. Turner",
+          "hIndex": 22,
+          "authorId": "152772071"
+        },
+        {
           "name": "T. Henighan",
           "hIndex": 22,
           "authorId": "103143311"
-        },
-        {
-          "name": "N. Turner",
-          "hIndex": 21,
-          "authorId": "152772071"
         }
       ],
       "affiliations": [],
@@ -53,9 +53,9 @@
       "doi": "10.48550/arXiv.2605.29358",
       "arxivId": "2605.29358",
       "pdf": null,
-      "citationCount": 800,
+      "citationCount": 816,
       "referenceCount": 0,
-      "influentialCitationCount": 60,
+      "influentialCitationCount": 61,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | 1b6e16cc72aee038eb1879b8686b53776be3d51f",
       "addedAt": "2026-09-13",
       "score": 0
@@ -89,7 +89,7 @@
         },
         {
           "name": "Chris Olah",
-          "hIndex": 16,
+          "hIndex": 15,
           "authorId": "2287268442"
         }
       ],
@@ -102,7 +102,7 @@
       "doi": "10.48550/arXiv.2604.07729",
       "arxivId": "2604.07729",
       "pdf": null,
-      "citationCount": 59,
+      "citationCount": 62,
       "referenceCount": 0,
       "influentialCitationCount": 14,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | b23442046f193186e9d1a790785971e25c53d0ad",
@@ -125,12 +125,12 @@
       "topAuthors": [
         {
           "name": "Benjamin Van Durme",
-          "hIndex": 18,
+          "hIndex": 19,
           "authorId": "2292194313"
         },
         {
           "name": "Jingyu (Jack) Zhang",
-          "hIndex": 11,
+          "hIndex": 12,
           "authorId": "2167508843"
         }
       ],
@@ -241,7 +241,7 @@
         "Wolfgang S. Schmeisser-Nieto",
         "E. Schulz",
         "Thiziri Saci",
-        "Sarah Saidi",
+        "S. Saidi",
         "Javier Torroba Marchante",
         "Shilin Xie",
         "Sergio E. Zanotto",
@@ -752,7 +752,7 @@
         "Tamara Glaser",
         "Tamara Best",
         "Thilo Koehler",
-        "Thomas Robinson",
+        "Thomas S. Robinson",
         "Tianhe Li",
         "Tianjun Zhang",
         "Tim Matthews",
@@ -1228,7 +1228,7 @@
         "Yamini Bansal",
         "Siyuan Qiao",
         "Kris Cao",
-        "Siamak Shak-eri",
+        "Siamak Shakeri",
         "Christina Butterfield",
         "J. Chung",
         "P. Rubenstein",
@@ -1677,7 +1677,7 @@
         "Zi-Fan Lin",
         "John Eric Hoffmann",
         "J. Lai",
-        "Ray-nald Chung",
+        "Rachel Chung",
         "Kai Yang",
         "Nihal Balani",
         "Arthur Bražin-skas",
@@ -1696,7 +1696,7 @@
         "Kr-ishnan Vaidyanathan",
         "Jessica Mal-let",
         "Mitch Rudominer",
-        "Eric Johnston",
+        "Eric R. Johnston",
         "Sushil Mit-tal",
         "Akhil Udathu",
         "Janara Christensen",
@@ -2011,7 +2011,7 @@
         },
         {
           "name": "Gabriel Synnaeve",
-          "hIndex": 58,
+          "hIndex": 60,
           "authorId": "2282478"
         }
       ],
@@ -2038,7 +2038,7 @@
       "id": "bdf62d98131d639adb68d4c8ee009125d5927175",
       "title": "Towards Uncovering How Large Language ModelsWork: An Interpretability Perspective",
       "authors": [
-        "Haiyan Zhao",
+        "Hai-Yan Zhao",
         "Fan Yang",
         "Bo Shen",
         "Ali Payani",
@@ -2048,13 +2048,13 @@
       "topAuthors": [
         {
           "name": "Meng-Nan Du",
-          "hIndex": 18,
+          "hIndex": 19,
           "authorId": "2237804196"
         },
         {
-          "name": "Haiyan Zhao",
-          "hIndex": 11,
-          "authorId": "2237987232"
+          "name": "Ali Payani",
+          "hIndex": 13,
+          "authorId": "2294757977"
         }
       ],
       "affiliations": [],
@@ -2084,7 +2084,7 @@
       "topAuthors": [
         {
           "name": "Yi Cai",
-          "hIndex": 1,
+          "hIndex": 2,
           "authorId": "2327702458"
         },
         {
@@ -2133,13 +2133,13 @@
       "topAuthors": [
         {
           "name": "A. Michaelides",
-          "hIndex": 13,
+          "hIndex": 14,
           "authorId": "31742755"
         },
         {
-          "name": "Taedong Yun",
-          "hIndex": 10,
-          "authorId": "2520251"
+          "name": "S. Mahdavi",
+          "hIndex": 12,
+          "authorId": "2268760043"
         }
       ],
       "affiliations": [],
@@ -2170,12 +2170,12 @@
       "topAuthors": [
         {
           "name": "Dayiheng Liu",
-          "hIndex": 27,
+          "hIndex": 29,
           "authorId": "2403252635"
         },
         {
           "name": "Zhenan He",
-          "hIndex": 15,
+          "hIndex": 16,
           "authorId": "3160920"
         }
       ],
@@ -2259,7 +2259,7 @@
         "Zhanghao Wu",
         "Hao Zhang",
         "Lian-Min Zheng",
-        "Siyuan Zhuang",
+        "Si-Yuan Zhuang",
         "Yonghao Zhuang",
         "Joseph E. Gonzalez",
         "A. Chowdhery",
@@ -2476,14 +2476,14 @@
       ],
       "topAuthors": [
         {
-          "name": "P. Privitera",
-          "hIndex": 62,
-          "authorId": "50883754"
+          "name": "M. Isard",
+          "hIndex": 56,
+          "authorId": "2090818"
         },
         {
-          "name": "M. Isard",
-          "hIndex": 57,
-          "authorId": "2090818"
+          "name": "P. Privitera",
+          "hIndex": 53,
+          "authorId": "50883754"
         }
       ],
       "affiliations": [
@@ -2509,133 +2509,23 @@
       "id": "906102ee0177ccbc6c6cddc9fbe5fa8dfe59537e",
       "title": "Understanding Inverse Scaling and Emergence in Multitask Representation Learning",
       "authors": [
-        "M. E. Ildiz",
+        "Muhammed Emrullah Ildiz",
         "Zhe Zhao",
-        "Samet Oymak",
-        "Xiangyu Chang",
-        "Yingcong Li",
-        "Christos Thrampoulidis",
-        "Lin Chen",
-        "Yifei Min",
-        "Mikhail Belkin",
-        "A. Chowdhery",
-        "Sharan Narang",
-        "Jacob Devlin",
-        "Maarten Bosma",
-        "Gaurav Mishra",
-        "Adam Roberts",
-        "Liam Collins",
-        "Hamed Hassani",
-        "M. Soltanolkotabi",
-        "Aryan Mokhtari",
-        "Sanjay Shakkottai",
-        "Provable",
-        "S. S. Du",
-        "Wei Hu",
-        "S. Kakade",
-        "Chelsea Finn",
-        "A. Rajeswaran",
-        "Deep Ganguli",
-        "Danny Hernandez",
-        "Liane Lovitt",
-        "Amanda Askell",
-        "Yu Bai",
-        "Anna Chen",
-        "Tom Conerly",
-        "Nova Dassarma",
-        "Dawn Drain",
-        "Sheer Nelson El-hage",
-        "El Showk",
-        "Stanislav Fort",
-        "Zac Hatfield-Dodds",
-        "T. Henighan",
-        "Scott Johnston",
-        "Andy Jones",
-        "Nicholas Joseph",
-        "Jackson Kernian",
-        "S. Kravec",
-        "Benjamin Mann",
-        "Neel Nanda",
-        "Kamal Ndousse",
-        "Catherine Olsson",
-        "D. Amodei",
-        "Tom Brown",
-        "Jared Ka-plan",
-        "Sam McCandlish",
-        "Chris Olah",
-        "Dario Amodei",
-        "Trevor Hastie",
-        "Andrea Montanari",
-        "Saharon Rosset",
-        "J. Hoffmann",
-        "Sebastian Borgeaud",
-        "Arthur Mensch",
-        "Elena Buchatskaya",
-        "Trevor Cai",
-        "Eliza Rutherford",
-        "Diego De",
-        "Las Casas",
-        "L. Hendricks",
-        "Johannes Welbl",
-        "Aidan Clark",
-        "T. Hennigan",
-        "Eric Noland",
-        "Katie Milli-can",
-        "George van den Driessche",
-        "Bogdan Damoc",
-        "Aurelia Guy",
-        "Simon Osindero",
-        "Karen Si-monyan",
-        "Erich Elsen",
-        "Jack W. Rae",
-        "O. Vinyals",
-        "Jared Kaplan",
-        "Benjamin Chess",
-        "R. Child",
-        "Scott Gray",
-        "Alec Radford",
-        "Jeffrey Wu",
-        "Ian R. McKenzie",
-        "Alexander Lyzhov",
-        "Michael Pieler",
-        "Alicia Parrish",
-        "Aaron Mueller",
-        "Euan McLean",
-        "Aaron Kirtland",
-        "Alexis Ross",
-        "Alisa Liu",
-        "Andrew Gritsevskiy",
-        "Daniel Wurgaft",
-        "Derik Kauff-man",
-        "Gabriel Recchia",
-        "Jiacheng Liu",
-        "Joe Cavanagh",
-        "Tom Tseng",
-        "Xudong Korbak",
-        "Yuhui Shen",
-        "Zheng-Ping Zhang",
-        "Na Zhou",
-        "Samuel Kim",
-        "Bowman Ethan",
-        "Perez",
-        "F. Ruan"
+        "Samet Oymak"
       ],
       "topAuthors": [
         {
-          "name": "O. Vinyals",
-          "hIndex": 102,
-          "authorId": "1689108"
+          "name": "Samet Oymak",
+          "hIndex": 42,
+          "authorId": "3103394"
         },
         {
-          "name": "S. Kakade",
-          "hIndex": 97,
-          "authorId": "144695232"
+          "name": "Zhe Zhao",
+          "hIndex": 3,
+          "authorId": "2286687719"
         }
       ],
-      "affiliations": [
-        "University of Texas at Austin",
-        "University of Washington"
-      ],
+      "affiliations": [],
       "year": 2024,
       "venue": "International Conference on Artificial Intelligence and Statistics",
       "publicationDate": null,
@@ -2708,12 +2598,12 @@
       "topAuthors": [
         {
           "name": "Azalia Mirhoseini",
-          "hIndex": 36,
+          "hIndex": 37,
           "authorId": "1861312"
         },
         {
           "name": "Jared Kaplan",
-          "hIndex": 33,
+          "hIndex": 31,
           "authorId": "2053807409"
         }
       ],
@@ -2874,7 +2764,7 @@
         },
         {
           "name": "M. Khapra",
-          "hIndex": 42,
+          "hIndex": 44,
           "authorId": "2361078"
         }
       ],
@@ -2936,12 +2826,12 @@
       "topAuthors": [
         {
           "name": "Neel Nanda",
-          "hIndex": 37,
+          "hIndex": 39,
           "authorId": "2051128902"
         },
         {
           "name": "Jared Kaplan",
-          "hIndex": 33,
+          "hIndex": 31,
           "authorId": "2053807409"
         }
       ],
@@ -2957,9 +2847,9 @@
       "doi": "10.48550/arXiv.2204.05862",
       "arxivId": "2204.05862",
       "pdf": "http://arxiv.org/pdf/2204.05862",
-      "citationCount": 4369,
+      "citationCount": 4388,
       "referenceCount": 72,
-      "influentialCitationCount": 519,
+      "influentialCitationCount": 522,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | 0286b2736a114198b25fb5553c671c33aed5d477",
       "addedAt": "2026-09-13",
       "score": 42.857142857142854
@@ -3008,13 +2898,13 @@
       "topAuthors": [
         {
           "name": "Jared Kaplan",
-          "hIndex": 33,
+          "hIndex": 31,
           "authorId": "2053807409"
         },
         {
-          "name": "Dario Amodei",
+          "name": "Sam McCandlish",
           "hIndex": 30,
-          "authorId": "2698777"
+          "authorId": "52238703"
         }
       ],
       "affiliations": [
@@ -3029,9 +2919,9 @@
       "doi": "10.48550/arXiv.2207.05221",
       "arxivId": "2207.05221",
       "pdf": "http://arxiv.org/pdf/2207.05221",
-      "citationCount": 2066,
+      "citationCount": 2100,
       "referenceCount": 39,
-      "influentialCitationCount": 169,
+      "influentialCitationCount": 172,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | 142ebbf4760145f591166bde2564ac70c001e927",
       "addedAt": "2026-09-13",
       "score": 28.57142857142857
@@ -3080,13 +2970,13 @@
       "topAuthors": [
         {
           "name": "Jared Kaplan",
-          "hIndex": 33,
+          "hIndex": 31,
           "authorId": "2053807409"
         },
         {
-          "name": "Dario Amodei",
+          "name": "Sam McCandlish",
           "hIndex": 30,
-          "authorId": "2698777"
+          "authorId": "52238703"
         }
       ],
       "affiliations": [
@@ -3101,7 +2991,7 @@
       "doi": "10.48550/arXiv.2209.07858",
       "arxivId": "2209.07858",
       "pdf": "https://arxiv.org/pdf/2209.07858",
-      "citationCount": 892,
+      "citationCount": 893,
       "referenceCount": 61,
       "influentialCitationCount": 53,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | 17bcb1edbe068e8fe6a97da552c70a77a15bbce7",
@@ -3167,12 +3057,12 @@
       "topAuthors": [
         {
           "name": "Azalia Mirhoseini",
-          "hIndex": 36,
+          "hIndex": 37,
           "authorId": "1861312"
         },
         {
           "name": "Jared Kaplan",
-          "hIndex": 33,
+          "hIndex": 31,
           "authorId": "2053807409"
         }
       ],
@@ -3188,9 +3078,9 @@
       "doi": "10.48550/arXiv.2212.08073",
       "arxivId": "2212.08073",
       "pdf": "http://arxiv.org/pdf/2212.08073",
-      "citationCount": 3733,
-      "referenceCount": 77,
-      "influentialCitationCount": 260,
+      "citationCount": 3746,
+      "referenceCount": 82,
+      "influentialCitationCount": 263,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | 3936fd3c6187f606c6e4e2e20b196dbc41cc4654",
       "addedAt": "2026-09-13",
       "score": 71.42857142857143
@@ -3284,7 +3174,7 @@
       "topAuthors": [
         {
           "name": "Aniruddha Kembhavi",
-          "hIndex": 49,
+          "hIndex": 50,
           "authorId": "2684226"
         },
         {
@@ -3366,12 +3256,12 @@
       "topAuthors": [
         {
           "name": "Azalia Mirhoseini",
-          "hIndex": 36,
+          "hIndex": 37,
           "authorId": "1861312"
         },
         {
           "name": "S. Kundu",
-          "hIndex": 33,
+          "hIndex": 34,
           "authorId": "144454113"
         }
       ],
@@ -3387,7 +3277,7 @@
       "doi": "10.48550/arXiv.2211.03540",
       "arxivId": "2211.03540",
       "pdf": "https://arxiv.org/pdf/2211.03540",
-      "citationCount": 243,
+      "citationCount": 245,
       "referenceCount": 31,
       "influentialCitationCount": 19,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | 99ca5162211a895a5dfbff9d7e36e21e09ca646e",
@@ -3418,7 +3308,7 @@
       "topAuthors": [
         {
           "name": "M. Wattenberg",
-          "hIndex": 68,
+          "hIndex": 67,
           "authorId": "145233583"
         },
         {
@@ -3438,7 +3328,7 @@
       "doi": "10.48550/arXiv.2209.10652",
       "arxivId": "2209.10652",
       "pdf": "http://arxiv.org/pdf/2209.10652",
-      "citationCount": 1050,
+      "citationCount": 1058,
       "referenceCount": 5,
       "influentialCitationCount": 122,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | 9d125f45b1d2dea01f05281470bc08e12b6c7cba",
@@ -3483,12 +3373,12 @@
       "topAuthors": [
         {
           "name": "Neel Nanda",
-          "hIndex": 37,
+          "hIndex": 39,
           "authorId": "2051128902"
         },
         {
           "name": "Jared Kaplan",
-          "hIndex": 33,
+          "hIndex": 31,
           "authorId": "2053807409"
         }
       ],
@@ -3537,13 +3427,13 @@
       "topAuthors": [
         {
           "name": "Jared Kaplan",
-          "hIndex": 33,
+          "hIndex": 31,
           "authorId": "2053807409"
         },
         {
-          "name": "Dario Amodei",
+          "name": "Sam McCandlish",
           "hIndex": 30,
-          "authorId": "2698777"
+          "authorId": "52238703"
         }
       ],
       "affiliations": [
@@ -3557,9 +3447,9 @@
       "doi": "10.48550/arXiv.2205.10487",
       "arxivId": "2205.10487",
       "pdf": "https://arxiv.org/pdf/2205.10487",
-      "citationCount": 171,
+      "citationCount": 174,
       "referenceCount": 38,
-      "influentialCitationCount": 10,
+      "influentialCitationCount": 11,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | aa4d9972af3264d032dbee58501ed4ac49477103",
       "addedAt": "2026-09-13",
       "score": 42.857142857142854
@@ -3598,12 +3488,12 @@
       "topAuthors": [
         {
           "name": "Neel Nanda",
-          "hIndex": 37,
+          "hIndex": 39,
           "authorId": "2051128902"
         },
         {
           "name": "Jared Kaplan",
-          "hIndex": 33,
+          "hIndex": 31,
           "authorId": "2053807409"
         }
       ],
@@ -3618,7 +3508,7 @@
       "doi": "10.48550/arXiv.2209.11895",
       "arxivId": "2209.11895",
       "pdf": "http://arxiv.org/pdf/2209.11895",
-      "citationCount": 1044,
+      "citationCount": 1057,
       "referenceCount": 13,
       "influentialCitationCount": 87,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | c90a99eeb57019732a6cc996bb9eaf13faedf00f",
@@ -3696,13 +3586,13 @@
       "topAuthors": [
         {
           "name": "Jared Kaplan",
-          "hIndex": 33,
+          "hIndex": 31,
           "authorId": "2053807409"
         },
         {
-          "name": "Dario Amodei",
+          "name": "Sam McCandlish",
           "hIndex": 30,
-          "authorId": "2698777"
+          "authorId": "52238703"
         }
       ],
       "affiliations": [
@@ -3717,9 +3607,9 @@
       "doi": "10.48550/arXiv.2212.09251",
       "arxivId": "2212.09251",
       "pdf": "http://arxiv.org/pdf/2212.09251",
-      "citationCount": 1068,
+      "citationCount": 1079,
       "referenceCount": 105,
-      "influentialCitationCount": 76,
+      "influentialCitationCount": 75,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | cef330bacf014d60daabbd489647b2006af130ca",
       "addedAt": "2026-09-13",
       "score": 100
@@ -3754,13 +3644,13 @@
       "topAuthors": [
         {
           "name": "Jared Kaplan",
-          "hIndex": 33,
+          "hIndex": 31,
           "authorId": "2053807409"
         },
         {
-          "name": "Dario Amodei",
+          "name": "Sam McCandlish",
           "hIndex": 30,
-          "authorId": "2698777"
+          "authorId": "52238703"
         }
       ],
       "affiliations": [
@@ -3774,9 +3664,9 @@
       "doi": null,
       "arxivId": "2112.00861",
       "pdf": null,
-      "citationCount": 1240,
+      "citationCount": 1244,
       "referenceCount": 60,
-      "influentialCitationCount": 134,
+      "influentialCitationCount": 135,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | 3dc7dc1bea9a4f70c02b6759a0bda7aca0005a9e",
       "addedAt": "2026-09-13",
       "score": 14.285714285714285
@@ -3795,12 +3685,12 @@
       "topAuthors": [
         {
           "name": "Jacob Steinhardt",
-          "hIndex": 49,
+          "hIndex": 51,
           "authorId": "5164568"
         },
         {
           "name": "John D. Schulman",
-          "hIndex": 45,
+          "hIndex": 46,
           "authorId": "47971768"
         }
       ],
@@ -3813,7 +3703,7 @@
       "doi": null,
       "arxivId": "1606.06565",
       "pdf": null,
-      "citationCount": 3493,
+      "citationCount": 3501,
       "referenceCount": 172,
       "influentialCitationCount": 160,
       "source": "author: https://www.semanticscholar.org/author/Chris-Olah/2287268442 | e86f71ca2948d17b003a5f068db1ecb2b77827f7",
@@ -3963,7 +3853,7 @@
       "topAuthors": [
         {
           "name": "M. Isard",
-          "hIndex": 57,
+          "hIndex": 56,
           "authorId": "2090818"
         },
         {
@@ -4096,7 +3986,7 @@
         },
         {
           "name": "Mohit Iyyer",
-          "hIndex": 49,
+          "hIndex": 50,
           "authorId": "2136562"
         }
       ],

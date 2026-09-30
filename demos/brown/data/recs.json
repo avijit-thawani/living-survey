@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T13:54:14.188Z",
+  "updatedAt": "2026-09-30T13:50:11.100Z",
   "recs": [
     {
       "id": "064b6d786f7716aedba6c85c22f1b0812fbb55ba",
@@ -10,17 +10,19 @@
       ],
       "topAuthors": [
         {
-          "name": "Bo-Ning Li",
-          "hIndex": 2,
-          "authorId": "2290287268"
+          "name": "Long-Bo Huang",
+          "hIndex": 6,
+          "authorId": "2290244822"
         },
         {
-          "name": "Long-Bo Huang",
-          "hIndex": 2,
-          "authorId": "2290244822"
+          "name": "Bo-Ning Li",
+          "hIndex": 5,
+          "authorId": "2290287268"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Tsinghua University"
+      ],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-09-10",
@@ -33,52 +35,11 @@
       "referenceCount": 69,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 10,
       "direction": "forward",
-      "score": 53.28891840282811,
+      "score": 55.09186517595516,
       "why": "past month · cites 10 in your list",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
-    {
-      "id": "21ba50bc90b48ed00d4993ef8ad09d29c25661ed",
-      "title": "Test-time Reinforcement Learning in Imperfect Information Games",
-      "authors": [
-        "Ondrej Kubícek",
-        "Viliam Lisý",
-        "Tuomas Sandholm"
-      ],
-      "topAuthors": [
-        {
-          "name": "Viliam Lisý",
-          "hIndex": 3,
-          "authorId": "2184247969"
-        },
-        {
-          "name": "Ondrej Kubícek",
-          "hIndex": 2,
-          "authorId": "2095100670"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-08-31",
-      "summary": "This work extends the concept of gadget game, tabular technique for test-time search, to the reinforcement learning setting and formally proves that, unlike prior tabular algorithms, regularized policy-gradient algorithms limit possible strategy degradation caused by test-time reasoning, even without the gadget games.",
-      "url": "https://www.semanticscholar.org/paper/21ba50bc90b48ed00d4993ef8ad09d29c25661ed",
-      "doi": null,
-      "arxivId": "2608.30635",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 34,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-29",
-      "overlap": 8,
-      "direction": "forward",
-      "score": 45.412669135131665,
-      "why": "past month · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
     },
@@ -101,7 +62,9 @@
           "authorId": "2473405144"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Artificial Intelligence in Medicine (Canada)"
+      ],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-09-01",
@@ -114,51 +77,10 @@
       "referenceCount": 42,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 3,
       "direction": "forward",
-      "score": 17.87654170482848,
-      "why": "past month · cites 3 in your list",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
-    {
-      "id": "72a48a01a3212c4f864d4e58823dde970fa9a888",
-      "title": "Constant Individual Regret in General Games",
-      "authors": [
-        "Mingyang Liu",
-        "Gabriele Farina",
-        "A. Ozdaglar"
-      ],
-      "topAuthors": [
-        {
-          "name": "A. Ozdaglar",
-          "hIndex": 69,
-          "authorId": "145744184"
-        },
-        {
-          "name": "Mingyang Liu",
-          "hIndex": 5,
-          "authorId": "2299356247"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-08-31",
-      "summary": "This work introduces \\emph{ECHO-OFTRL}: optimistic follow-the-regularized-leader (OFTRL) equipped with an EMA cascade for high-order optimism (ECHO), where EMA denotes exponential moving average, and leverages a new form of optimism inspired by modern filter design.",
-      "url": "https://www.semanticscholar.org/paper/72a48a01a3212c4f864d4e58823dde970fa9a888",
-      "doi": null,
-      "arxivId": "2608.31166",
-      "pdf": null,
-      "citationCount": 5,
-      "referenceCount": 26,
-      "influentialCitationCount": 4,
-      "source": null,
-      "addedAt": "2026-09-29",
-      "overlap": 3,
-      "direction": "forward",
-      "score": 16.06528848190879,
+      "score": 17.853091563700314,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -172,17 +94,19 @@
       ],
       "topAuthors": [
         {
-          "name": "Bo-Ning Li",
-          "hIndex": 2,
-          "authorId": "2290287268"
+          "name": "Long-Bo Huang",
+          "hIndex": 6,
+          "authorId": "2290244822"
         },
         {
-          "name": "Long-Bo Huang",
-          "hIndex": 2,
-          "authorId": "2290244822"
+          "name": "Bo-Ning Li",
+          "hIndex": 5,
+          "authorId": "2290287268"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Tsinghua University"
+      ],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-09-03",
@@ -195,10 +119,10 @@
       "referenceCount": 54,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 14.17943645163404,
+      "score": 14.642562111646114,
       "why": "past month · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -216,7 +140,9 @@
           "authorId": "2230401015"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Peking University"
+      ],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-09-08",
@@ -229,10 +155,10 @@
       "referenceCount": 38,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 3,
       "direction": "forward",
-      "score": 10.922401628468801,
+      "score": 10.89459824352429,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -247,12 +173,12 @@
       "topAuthors": [
         {
           "name": "Boning Li",
-          "hIndex": 6,
+          "hIndex": 7,
           "authorId": "1557387001"
         },
         {
           "name": "Long-Bo Huang",
-          "hIndex": 2,
+          "hIndex": 6,
           "authorId": "2290244822"
         }
       ],
@@ -269,10 +195,10 @@
       "referenceCount": 53,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 13,
       "direction": "forward",
-      "score": 81.21295310116678,
+      "score": 81.56509412965865,
       "why": "past year · cites 13 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -287,13 +213,13 @@
       ],
       "topAuthors": [
         {
-          "name": "Yu Chen",
-          "hIndex": 3,
-          "authorId": "2283838105"
+          "name": "Long-Bo Huang",
+          "hIndex": 6,
+          "authorId": "2290244822"
         },
         {
           "name": "Bo-Ning Li",
-          "hIndex": 2,
+          "hIndex": 5,
           "authorId": "2290287268"
         }
       ],
@@ -310,10 +236,10 @@
       "referenceCount": 53,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 11,
       "direction": "forward",
-      "score": 67.19612499493131,
+      "score": 68.66105385210362,
       "why": "past year · cites 11 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -331,12 +257,12 @@
       "topAuthors": [
         {
           "name": "J. Kolter",
-          "hIndex": 78,
+          "hIndex": 81,
           "authorId": "145116464"
         },
         {
           "name": "Heng-Yuan Hu",
-          "hIndex": 16,
+          "hIndex": 17,
           "authorId": "3437504"
         }
       ],
@@ -353,10 +279,10 @@
       "referenceCount": 48,
       "influentialCitationCount": 2,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 8,
       "direction": "forward",
-      "score": 61.06938093380897,
+      "score": 61.088121562752065,
       "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -376,11 +302,13 @@
         },
         {
           "name": "Ondrej Kubícek",
-          "hIndex": 2,
+          "hIndex": 3,
           "authorId": "2095100670"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Czech Technical University in Prague"
+      ],
       "year": 2025,
       "venue": "arXiv.org",
       "publicationDate": "2025-10-06",
@@ -393,10 +321,10 @@
       "referenceCount": 55,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 8,
       "direction": "forward",
-      "score": 58.98908962297901,
+      "score": 58.92945676753799,
       "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -410,17 +338,19 @@
       ],
       "topAuthors": [
         {
-          "name": "Bo-Ning Li",
-          "hIndex": 2,
-          "authorId": "2290287268"
+          "name": "Long-Bo Huang",
+          "hIndex": 6,
+          "authorId": "2290244822"
         },
         {
-          "name": "Long-Bo Huang",
-          "hIndex": 2,
-          "authorId": "2290244822"
+          "name": "Bo-Ning Li",
+          "hIndex": 5,
+          "authorId": "2290287268"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Tsinghua University"
+      ],
       "year": 2026,
       "venue": "arXiv.org",
       "publicationDate": "2026-05-19",
@@ -433,10 +363,50 @@
       "referenceCount": 29,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 9,
       "direction": "forward",
-      "score": 51.66115537860752,
+      "score": 53.42533131717657,
+      "why": "past year · cites 9 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "b23b9276a15a4ee0a3bf9af90548dc37c4513bcf",
+      "title": "Agents That Certify Their Own Exploits: Confidence-Scheduled Restricted Responses for Safe Opponent Exploitation",
+      "authors": [
+        "Bo-Ning Li",
+        "Long-Bo Huang"
+      ],
+      "topAuthors": [
+        {
+          "name": "Long-Bo Huang",
+          "hIndex": 6,
+          "authorId": "2290244822"
+        },
+        {
+          "name": "Bo-Ning Li",
+          "hIndex": 5,
+          "authorId": "2290287268"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-07-30",
+      "summary": "CS-RNR is introduced, the first opponent-exploitation method whose safety guarantee is a certificate the agent computes on the strategy it actually deploys, so that every exploit it commits to is one it has audited itself.",
+      "url": "https://www.semanticscholar.org/paper/b23b9276a15a4ee0a3bf9af90548dc37c4513bcf",
+      "doi": "10.48550/arXiv.2607.28520",
+      "arxivId": "2607.28520",
+      "pdf": null,
+      "citationCount": 4,
+      "referenceCount": 53,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 9,
+      "direction": "forward",
+      "score": 47.45957431656211,
       "why": "past year · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -475,51 +445,52 @@
       "referenceCount": 32,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 8,
       "direction": "forward",
-      "score": 45.9758671892882,
+      "score": 45.91827900181731,
       "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
     {
-      "id": "b23b9276a15a4ee0a3bf9af90548dc37c4513bcf",
-      "title": "Agents That Certify Their Own Exploits: Confidence-Scheduled Restricted Responses for Safe Opponent Exploitation",
+      "id": "21ba50bc90b48ed00d4993ef8ad09d29c25661ed",
+      "title": "Test-time Reinforcement Learning in Imperfect Information Games",
       "authors": [
-        "Bo-Ning Li",
-        "Long-Bo Huang"
+        "Ondrej Kubícek",
+        "Viliam Lisý",
+        "Tuomas Sandholm"
       ],
       "topAuthors": [
         {
-          "name": "Bo-Ning Li",
-          "hIndex": 2,
-          "authorId": "2290287268"
+          "name": "Ondrej Kubícek",
+          "hIndex": 3,
+          "authorId": "2095100670"
         },
         {
-          "name": "Long-Bo Huang",
-          "hIndex": 2,
-          "authorId": "2290244822"
+          "name": "Viliam Lisý",
+          "hIndex": 3,
+          "authorId": "2184247969"
         }
       ],
       "affiliations": [],
       "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-07-30",
-      "summary": "CS-RNR is introduced, the first opponent-exploitation method whose safety guarantee is a certificate the agent computes on the strategy it actually deploys, so that every exploit it commits to is one it has audited itself.",
-      "url": "https://www.semanticscholar.org/paper/b23b9276a15a4ee0a3bf9af90548dc37c4513bcf",
-      "doi": "10.48550/arXiv.2607.28520",
-      "arxivId": "2607.28520",
+      "venue": null,
+      "publicationDate": "2026-08-31",
+      "summary": "This work extends the concept of gadget game, tabular technique for test-time search, to the reinforcement learning setting and formally proves that, unlike prior tabular algorithms, regularized policy-gradient algorithms limit possible strategy degradation caused by test-time reasoning, even without the gadget games.",
+      "url": "https://www.semanticscholar.org/paper/21ba50bc90b48ed00d4993ef8ad09d29c25661ed",
+      "doi": null,
+      "arxivId": "2608.30635",
       "pdf": null,
-      "citationCount": 4,
-      "referenceCount": 53,
+      "citationCount": 0,
+      "referenceCount": 34,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
-      "overlap": 9,
+      "addedAt": "2026-09-30",
+      "overlap": 8,
       "direction": "forward",
-      "score": 45.91190382540276,
-      "why": "past year · cites 9 in your list",
+      "score": 45.35158305195482,
+      "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -533,7 +504,7 @@
       "topAuthors": [
         {
           "name": "Tuomas Sandholm",
-          "hIndex": 2,
+          "hIndex": 3,
           "authorId": "2299533978"
         },
         {
@@ -555,10 +526,10 @@
       "referenceCount": 36,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 7,
       "direction": "forward",
-      "score": 38.61645943933239,
+      "score": 39.03881927389879,
       "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -578,12 +549,12 @@
       "topAuthors": [
         {
           "name": "J. F. Fisac",
-          "hIndex": 8,
+          "hIndex": 10,
           "authorId": "2265578799"
         },
         {
           "name": "Zixu Zhang",
-          "hIndex": 7,
+          "hIndex": 8,
           "authorId": "2283800150"
         }
       ],
@@ -600,52 +571,11 @@
       "referenceCount": 66,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 32.482058987676595,
+      "score": 32.695294739045195,
       "why": "past year · cites 4 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "aa53b7590b4dcac0ef228063d4c13b533b038970",
-      "title": "PokerSkill: LLMs Can Play Expert-Level Poker without Training or Solvers",
-      "authors": [
-        "Bo-Ning Li",
-        "Baoxiang Wang",
-        "Long-Bo Huang"
-      ],
-      "topAuthors": [
-        {
-          "name": "Baoxiang Wang",
-          "hIndex": 4,
-          "authorId": "2305791255"
-        },
-        {
-          "name": "Bo-Ning Li",
-          "hIndex": 2,
-          "authorId": "2290287268"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-05-28",
-      "summary": "The key finding is that rule-based skills alone do not constitute a strong strategy, and LLMs alone cannot play well, but their combination yields an agent that requires neither training nor solver access yet competes with systems built on millions of core-hours of computation.",
-      "url": "https://www.semanticscholar.org/paper/aa53b7590b4dcac0ef228063d4c13b533b038970",
-      "doi": "10.48550/arXiv.2605.30094",
-      "arxivId": "2605.30094",
-      "pdf": null,
-      "citationCount": 6,
-      "referenceCount": 78,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-29",
-      "overlap": 7,
-      "direction": "forward",
-      "score": 30.926564910853028,
-      "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -661,7 +591,7 @@
       "topAuthors": [
         {
           "name": "Michael Bowling",
-          "hIndex": 51,
+          "hIndex": 52,
           "authorId": "1687780"
         },
         {
@@ -682,11 +612,11 @@
       "doi": "10.7939/R3319S48Q",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 362,
+      "citationCount": 365,
       "referenceCount": 14,
       "influentialCitationCount": 60,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 15,
       "direction": "backward",
       "score": 100,
@@ -711,7 +641,7 @@
         },
         {
           "name": "Hua-Le Li",
-          "hIndex": 6,
+          "hIndex": 7,
           "authorId": "1500379589"
         }
       ],
@@ -730,10 +660,10 @@
       "referenceCount": 76,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 13,
       "direction": "forward",
-      "score": 99.5455317791271,
+      "score": 99.47529349698499,
       "why": "cites 13 in your list",
       "fromReferences": false
     },
@@ -749,7 +679,7 @@
       "topAuthors": [
         {
           "name": "Michael Bowling",
-          "hIndex": 51,
+          "hIndex": 52,
           "authorId": "1687780"
         },
         {
@@ -770,11 +700,11 @@
       "doi": "10.7939/R3Q23R282",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 919,
+      "citationCount": 922,
       "referenceCount": 11,
       "influentialCitationCount": 183,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 17,
       "direction": "backward",
       "score": 94.10777582915615,
@@ -820,15 +750,56 @@
       "doi": "10.1126/science.aam6960",
       "arxivId": "1701.01724",
       "pdf": "https://arxiv.org/pdf/1701.01724",
-      "citationCount": 1037,
+      "citationCount": 1040,
       "referenceCount": 53,
-      "influentialCitationCount": 46,
+      "influentialCitationCount": 47,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 17,
       "direction": "backward",
-      "score": 90.27356435131466,
+      "score": 90.20986827204763,
       "why": "cited by 17 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "9f80829dd0103a3c0d71fe114c8e93bb855e071d",
+      "title": "Learning in games: a systematic review",
+      "authors": [
+        "Rong-Jun Qin",
+        "Yang Yu"
+      ],
+      "topAuthors": [
+        {
+          "name": "Yang Yu",
+          "hIndex": 8,
+          "authorId": "2309729944"
+        },
+        {
+          "name": "Rong-Jun Qin",
+          "hIndex": 5,
+          "authorId": "46938007"
+        }
+      ],
+      "affiliations": [
+        "Nanjing University"
+      ],
+      "year": 2024,
+      "venue": "Science China Information Sciences",
+      "publicationDate": "2024-06-28",
+      "summary": "The techniques used in these systems evolve from conventional search and learning to purely reinforcement learning (RL)-style learning methods, gradually getting rid of the domain knowledge.",
+      "url": "https://www.semanticscholar.org/paper/9f80829dd0103a3c0d71fe114c8e93bb855e071d",
+      "doi": "10.1007/s11432-023-3955-x",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 7,
+      "referenceCount": 219,
+      "influentialCitationCount": 1,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 14,
+      "direction": "forward",
+      "score": 88.35225836507847,
+      "why": "cites 14 in your list",
       "fromReferences": false
     },
     {
@@ -868,52 +839,11 @@
       "referenceCount": 25,
       "influentialCitationCount": 9,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 9,
       "direction": "backward",
-      "score": 87.69266628983378,
+      "score": 87.63079126514332,
       "why": "cited by 9 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "9f80829dd0103a3c0d71fe114c8e93bb855e071d",
-      "title": "Learning in games: a systematic review",
-      "authors": [
-        "Rong-Jun Qin",
-        "Yang Yu"
-      ],
-      "topAuthors": [
-        {
-          "name": "Yang Yu",
-          "hIndex": 6,
-          "authorId": "2309729944"
-        },
-        {
-          "name": "Rong-Jun Qin",
-          "hIndex": 5,
-          "authorId": "46938007"
-        }
-      ],
-      "affiliations": [
-        "Nanjing University"
-      ],
-      "year": 2024,
-      "venue": "Science China Information Sciences",
-      "publicationDate": "2024-06-28",
-      "summary": "The techniques used in these systems evolve from conventional search and learning to purely reinforcement learning (RL)-style learning methods, gradually getting rid of the domain knowledge.",
-      "url": "https://www.semanticscholar.org/paper/9f80829dd0103a3c0d71fe114c8e93bb855e071d",
-      "doi": "10.1007/s11432-023-3955-x",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 7,
-      "referenceCount": 219,
-      "influentialCitationCount": 1,
-      "source": null,
-      "addedAt": "2026-09-29",
-      "overlap": 14,
-      "direction": "forward",
-      "score": 87.58512477482144,
-      "why": "cites 14 in your list",
       "fromReferences": false
     },
     {
@@ -928,7 +858,7 @@
       "topAuthors": [
         {
           "name": "Michael Bowling",
-          "hIndex": 51,
+          "hIndex": 52,
           "authorId": "1687780"
         },
         {
@@ -949,14 +879,14 @@
       "doi": "10.1126/science.1259433",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 565,
+      "citationCount": 567,
       "referenceCount": 92,
       "influentialCitationCount": 36,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 14,
       "direction": "backward",
-      "score": 85.44306359382551,
+      "score": 85.44306359382553,
       "why": "cited by 14 in your list",
       "fromReferences": false
     },
@@ -996,10 +926,10 @@
       "referenceCount": 31,
       "influentialCitationCount": 29,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 11,
       "direction": "backward",
-      "score": 84.7437718354827,
+      "score": 84.68397751976019,
       "why": "cited by 11 in your list",
       "fromReferences": false
     },
@@ -1048,11 +978,97 @@
       "referenceCount": 86,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 12,
       "direction": "forward",
-      "score": 79.4656958217032,
+      "score": 79.38189168221396,
       "why": "cites 12 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "ce8f79167a5b4fb452218759e807ddd7911ebba2",
+      "title": "Solving Heads-Up Limit Texas Hold'em",
+      "authors": [
+        "Oskari Tammelin",
+        "Neil Burch",
+        "Michael Bradley Johanson",
+        "Michael Bowling"
+      ],
+      "topAuthors": [
+        {
+          "name": "Michael Bowling",
+          "hIndex": 52,
+          "authorId": "1687780"
+        },
+        {
+          "name": "Neil Burch",
+          "hIndex": 32,
+          "authorId": "2625574"
+        }
+      ],
+      "affiliations": [
+        "DeepMind",
+        "University of Alberta"
+      ],
+      "year": 2015,
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "publicationDate": "2015-07-25",
+      "summary": "The engineering details required to make Cepheus solve heads-up limit Texas hold'em poker are described in detail and the theoretical soundness of CFR+ and its component algorithm, regret-matching + is proved.",
+      "url": "https://www.semanticscholar.org/paper/ce8f79167a5b4fb452218759e807ddd7911ebba2",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 187,
+      "referenceCount": 26,
+      "influentialCitationCount": 27,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 10,
+      "direction": "backward",
+      "score": 76.32852859412431,
+      "why": "cited by 10 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "31b60e11d96bdd79f8ca5e31ccf65b6b50837b62",
+      "title": "RL-CFR: Improving Action Abstraction for Imperfect Information Extensive-Form Games with Reinforcement Learning",
+      "authors": [
+        "Bo-Ning Li",
+        "Zhi-Xuan Fang",
+        "Long-Bo Huang"
+      ],
+      "topAuthors": [
+        {
+          "name": "Long-Bo Huang",
+          "hIndex": 6,
+          "authorId": "2290244822"
+        },
+        {
+          "name": "Bo-Ning Li",
+          "hIndex": 5,
+          "authorId": "2290287268"
+        }
+      ],
+      "affiliations": [
+        "Tsinghua University"
+      ],
+      "year": 2024,
+      "venue": "International Conference on Machine Learning",
+      "publicationDate": "2024-03-07",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/31b60e11d96bdd79f8ca5e31ccf65b6b50837b62",
+      "doi": "10.48550/arXiv.2403.04344",
+      "arxivId": "2403.04344",
+      "pdf": null,
+      "citationCount": 18,
+      "referenceCount": 72,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 11,
+      "direction": "forward",
+      "score": 69.11467460715434,
+      "why": "cites 11 in your list",
       "fromReferences": false
     }
   ]
