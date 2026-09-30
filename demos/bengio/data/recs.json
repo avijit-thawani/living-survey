@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T13:49:40.704Z",
+  "updatedAt": "2026-09-30T22:41:10.939Z",
   "recs": [
     {
       "id": "7c5e23306b57b06d97a1569f6fcd5300a12597bd",
@@ -74,8 +74,51 @@
       "addedAt": "2026-09-30",
       "overlap": 6,
       "direction": "forward",
-      "score": 30.059383554350973,
+      "score": 34.62583646789163,
       "why": "past year · cites 6 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "d1bf5fb85b6a073038e66479b58940e066a62079",
+      "title": "Contrastive learning in tunable dynamical systems",
+      "authors": [
+        "M. Stern",
+        "Adam G. Frim",
+        "Ra'ul Cand'as",
+        "Andrea J. Liu",
+        "Vijay Balasubramanian"
+      ],
+      "topAuthors": [
+        {
+          "name": "M. Stern",
+          "hIndex": 5,
+          "authorId": "2261827981"
+        },
+        {
+          "name": "Adam G. Frim",
+          "hIndex": 4,
+          "authorId": "2037826247"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-03-27",
+      "summary": "If physical dynamics break time reversal symmetry, gradient descent on a cost function embodying the desired behavior cannot be achieved with a scalable process, even in principle, PAR learning processes are introduced, composed of a local contrastive learning rule and a scalable supervision protocol.",
+      "url": "https://www.semanticscholar.org/paper/d1bf5fb85b6a073038e66479b58940e066a62079",
+      "doi": null,
+      "arxivId": "2603.26969",
+      "pdf": null,
+      "citationCount": 2,
+      "referenceCount": 94,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 30.969146042753675,
+      "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -125,49 +168,6 @@
       "freshWindow": "past year"
     },
     {
-      "id": "d1bf5fb85b6a073038e66479b58940e066a62079",
-      "title": "Contrastive learning in tunable dynamical systems",
-      "authors": [
-        "M. Stern",
-        "Adam G. Frim",
-        "Ra'ul Cand'as",
-        "Andrea J. Liu",
-        "Vijay Balasubramanian"
-      ],
-      "topAuthors": [
-        {
-          "name": "M. Stern",
-          "hIndex": 5,
-          "authorId": "2261827981"
-        },
-        {
-          "name": "Adam G. Frim",
-          "hIndex": 4,
-          "authorId": "2037826247"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-03-27",
-      "summary": "If physical dynamics break time reversal symmetry, gradient descent on a cost function embodying the desired behavior cannot be achieved with a scalable process, even in principle, PAR learning processes are introduced, composed of a local contrastive learning rule and a scalable supervision protocol.",
-      "url": "https://www.semanticscholar.org/paper/d1bf5fb85b6a073038e66479b58940e066a62079",
-      "doi": null,
-      "arxivId": "2603.26969",
-      "pdf": null,
-      "citationCount": 2,
-      "referenceCount": 94,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-30",
-      "overlap": 5,
-      "direction": "forward",
-      "score": 26.657447830278613,
-      "why": "past year · cites 5 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
       "id": "d7ae6be525e6761003ad0a614d6ad4d4b0346ad3",
       "title": "Can Local Learning Match Self-Supervised Backpropagation?",
       "authors": [
@@ -204,7 +204,7 @@
       "addedAt": "2026-09-30",
       "overlap": 7,
       "direction": "forward",
-      "score": 24.09941568516772,
+      "score": 25.80449091826561,
       "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -292,46 +292,97 @@
       "freshWindow": "past year"
     },
     {
-      "id": "659e09a6223bb893ae1918c8a0306a28f0bc9036",
-      "title": "Sequential critical periods support efficient local representation learning in a model of visual processing",
+      "id": "2fa559ae829ee67d408ae70def72d07b852701b1",
+      "title": "Adjoint propagation of error signal through modular recurrent neural networks for biologically plausible learning",
       "authors": [
-        "Ariane Delrocq",
-        "Zi-Han S. Wu",
-        "G. Bellec",
-        "W. Gerstner"
+        "Zhuo Liu",
+        "Hao Shu",
+        "Lin-Miao Wang",
+        "Xue-Fei Meng",
+        "You-Sheng Wang",
+        "Xuan-Cheng Li",
+        "Wei Wang",
+        "Tao Chen"
       ],
       "topAuthors": [
         {
-          "name": "W. Gerstner",
-          "hIndex": 84,
-          "authorId": "1708945"
+          "name": "Xue-Fei Meng",
+          "hIndex": 6,
+          "authorId": "2115698265"
         },
         {
-          "name": "G. Bellec",
-          "hIndex": 12,
-          "authorId": "3401407"
+          "name": "You-Sheng Wang",
+          "hIndex": 5,
+          "authorId": "2115726082"
         }
       ],
       "affiliations": [
-        "École Polytechnique Fédérale de Lausanne"
+        "University of Science and Technology of China",
+        "China Southern Power Grid (China)"
       ],
       "year": 2026,
-      "venue": "bioRxiv",
-      "publicationDate": "2026-03-24",
-      "summary": "A hierarchical model of the visual stream that learns invariant representations using only local synaptic plasticity rules modulated by lateral predictive signals is presented, demonstrating that imposing staggered critical periods significantly enhances representation quality for local learning rules, whereas it degrades performance in backpropagation-based networks.",
-      "url": "https://www.semanticscholar.org/paper/659e09a6223bb893ae1918c8a0306a28f0bc9036",
-      "doi": "10.1101/2024.12.20.629674",
+      "venue": "eLife",
+      "publicationDate": "2026-02-16",
+      "summary": "An adjoint propagation (AP) framework is introduced, in which the error signals arise naturally from recurrent dynamics and propagate concurrently with forward inference signals, which eliminates the biologically implausible feedback required by the backpropagation (BP) algorithm and allows concomitant error propagation for multiple tasks through the same RNN.",
+      "url": "https://www.semanticscholar.org/paper/2fa559ae829ee67d408ae70def72d07b852701b1",
+      "doi": "10.7554/eLife.108237",
       "arxivId": null,
-      "pdf": "https://doi.org/10.1101/2024.12.20.629674",
-      "citationCount": 2,
-      "referenceCount": 95,
+      "pdf": "https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMTA4MjM3L2VsaWZlLTEwODIzNy12MS5wZGY_Y2Fub25pY2FsVXJpPWh0dHBzOi8vZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMTA4MjM3/elife-108237-v1.pdf?_hash=KaQiHPWLzAjINWQZuHRODVX8FXmAQ%2FQobUCHVeixcWY%3D",
+      "citationCount": 1,
+      "referenceCount": 92,
       "influentialCitationCount": 0,
       "source": null,
       "addedAt": "2026-09-30",
-      "overlap": 5,
+      "overlap": 6,
       "direction": "forward",
-      "score": 23.349188459843607,
-      "why": "past year · cites 5 in your list",
+      "score": 23.47546082466806,
+      "why": "past year · cites 6 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "fe2ca9996b0e480eb18b19446436fbbab90eff3e",
+      "title": "Challenging Backpropagation: Evidence for Target Learning in the Neocortex",
+      "authors": [
+        "Pau Vilimelis Aceituno",
+        "S. de Haan",
+        "Reinhard Loidl",
+        "Lhea Beumer",
+        "B. Grewe"
+      ],
+      "topAuthors": [
+        {
+          "name": "B. Grewe",
+          "hIndex": 32,
+          "authorId": "48117063"
+        },
+        {
+          "name": "Pau Vilimelis Aceituno",
+          "hIndex": 11,
+          "authorId": "2041556"
+        }
+      ],
+      "affiliations": [
+        "University of Zurich",
+        "University of Lucerne"
+      ],
+      "year": 2025,
+      "venue": "bioRxiv",
+      "publicationDate": "2025-12-05",
+      "summary": "By combining in vivo and in vitro data, this work reveals a critical discrepancy between neocortical hierarchical learning and canonical machine learning.",
+      "url": "https://www.semanticscholar.org/paper/fe2ca9996b0e480eb18b19446436fbbab90eff3e",
+      "doi": "10.1101/2024.04.10.588837",
+      "arxivId": null,
+      "pdf": "https://www.biorxiv.org/content/biorxiv/early/2024/04/11/2024.04.10.588837.full.pdf",
+      "citationCount": 11,
+      "referenceCount": 76,
+      "influentialCitationCount": 1,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 4,
+      "direction": "forward",
+      "score": 23.013755062857744,
+      "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -380,96 +431,6 @@
       "freshWindow": "past year"
     },
     {
-      "id": "003f54c370b5214c3493d6e7d69a677afdb23c66",
-      "title": "A Unified Perspective on Optimization in Machine Learning and Neuroscience: From Gradient Descent to Neural Adaptation",
-      "authors": [
-        "J. Fernández",
-        "Nasir Ahmad",
-        "M. V. van Gerven"
-      ],
-      "topAuthors": [
-        {
-          "name": "M. V. van Gerven",
-          "hIndex": 43,
-          "authorId": "134488190"
-        },
-        {
-          "name": "Nasir Ahmad",
-          "hIndex": 3,
-          "authorId": "2337064508"
-        }
-      ],
-      "affiliations": [],
-      "year": 2025,
-      "venue": "arXiv.org",
-      "publicationDate": "2025-10-21",
-      "summary": "This review begins by categorizing optimization approaches based on the order of derivative information they utilize, ranging from first-, second-, and higher-order gradient-based to ZO methods, and explores how these methods are adapted to the unique challenges of neural network training and the resulting learning dynamics.",
-      "url": "https://www.semanticscholar.org/paper/003f54c370b5214c3493d6e7d69a677afdb23c66",
-      "doi": "10.48550/arXiv.2510.18812",
-      "arxivId": "2510.18812",
-      "pdf": null,
-      "citationCount": 1,
-      "referenceCount": 234,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-30",
-      "overlap": 7,
-      "direction": "forward",
-      "score": 22.241854615642264,
-      "why": "past year · cites 7 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "2fa559ae829ee67d408ae70def72d07b852701b1",
-      "title": "Adjoint propagation of error signal through modular recurrent neural networks for biologically plausible learning",
-      "authors": [
-        "Zhuo Liu",
-        "Hao Shu",
-        "Lin-Miao Wang",
-        "Xue-Fei Meng",
-        "You-Sheng Wang",
-        "Xuan-Cheng Li",
-        "Wei Wang",
-        "Tao Chen"
-      ],
-      "topAuthors": [
-        {
-          "name": "Xue-Fei Meng",
-          "hIndex": 6,
-          "authorId": "2115698265"
-        },
-        {
-          "name": "You-Sheng Wang",
-          "hIndex": 5,
-          "authorId": "2115726082"
-        }
-      ],
-      "affiliations": [
-        "University of Science and Technology of China",
-        "China Southern Power Grid (China)"
-      ],
-      "year": 2026,
-      "venue": "eLife",
-      "publicationDate": "2026-02-16",
-      "summary": "An adjoint propagation (AP) framework is introduced, in which the error signals arise naturally from recurrent dynamics and propagate concurrently with forward inference signals, which eliminates the biologically implausible feedback required by the backpropagation (BP) algorithm and allows concomitant error propagation for multiple tasks through the same RNN.",
-      "url": "https://www.semanticscholar.org/paper/2fa559ae829ee67d408ae70def72d07b852701b1",
-      "doi": "10.7554/eLife.108237",
-      "arxivId": null,
-      "pdf": "https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMTA4MjM3L2VsaWZlLTEwODIzNy12MS5wZGY_Y2Fub25pY2FsVXJpPWh0dHBzOi8vZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMTA4MjM3/elife-108237-v1.pdf?_hash=KaQiHPWLzAjINWQZuHRODVX8FXmAQ%2FQobUCHVeixcWY%3D",
-      "citationCount": 1,
-      "referenceCount": 92,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-30",
-      "overlap": 6,
-      "direction": "forward",
-      "score": 22.17907146300214,
-      "why": "past year · cites 6 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
       "id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
       "title": "Adam: A Method for Stochastic Optimization",
       "authors": [
@@ -500,15 +461,15 @@
       "doi": null,
       "arxivId": "1412.6980",
       "pdf": null,
-      "citationCount": 171567,
+      "citationCount": 171594,
       "referenceCount": 26,
-      "influentialCitationCount": 27120,
+      "influentialCitationCount": 27122,
       "source": null,
       "addedAt": "2026-09-30",
-      "overlap": 125,
+      "overlap": 124,
       "direction": "backward",
       "score": 100,
-      "why": "cited by 125 in your list",
+      "why": "cited by 124 in your list",
       "fromReferences": false
     },
     {
@@ -575,14 +536,14 @@
       "doi": "10.1162/neco.1997.9.8.1735",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 110747,
+      "citationCount": 110811,
       "referenceCount": 48,
-      "influentialCitationCount": 10377,
+      "influentialCitationCount": 10380,
       "source": null,
       "addedAt": "2026-09-30",
       "overlap": 106,
       "direction": "backward",
-      "score": 93.5638705939874,
+      "score": 93.12980122605836,
       "why": "cited by 106 in your list",
       "fromReferences": false
     },
@@ -599,7 +560,9 @@
           "authorId": "49807271"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Université Paris-Sud"
+      ],
       "year": 2013,
       "venue": null,
       "publicationDate": "2013-06-25",
@@ -617,6 +580,41 @@
       "direction": "forward",
       "score": 83.18900474807359,
       "why": "cites 23 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "4d08dcd2cc1e9691defe664a10f021424a896a1e",
+      "title": "Neural Machine Translation: A Review",
+      "authors": [
+        "Felix Stahlberg"
+      ],
+      "topAuthors": [
+        {
+          "name": "Felix Stahlberg",
+          "hIndex": 21,
+          "authorId": "48404632"
+        }
+      ],
+      "affiliations": [
+        "Google Research"
+      ],
+      "year": 2019,
+      "venue": "Journal of Artificial Intelligence Research",
+      "publicationDate": "2019-12-04",
+      "summary": "This work traces back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family and concludes with a short survey of more recent trends in the field.",
+      "url": "https://www.semanticscholar.org/paper/4d08dcd2cc1e9691defe664a10f021424a896a1e",
+      "doi": "10.1613/JAIR.1.12007",
+      "arxivId": "1912.02047",
+      "pdf": "https://jair.org/index.php/jair/article/download/12007/26611",
+      "citationCount": 445,
+      "referenceCount": 648,
+      "influentialCitationCount": 9,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 21,
+      "direction": "forward",
+      "score": 82.2438729373315,
+      "why": "cites 21 in your list",
       "fromReferences": false
     },
     {
@@ -652,80 +650,6 @@
       "direction": "forward",
       "score": 81.10686444173038,
       "why": "cites 21 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "4d08dcd2cc1e9691defe664a10f021424a896a1e",
-      "title": "Neural Machine Translation: A Review",
-      "authors": [
-        "Felix Stahlberg"
-      ],
-      "topAuthors": [
-        {
-          "name": "Felix Stahlberg",
-          "hIndex": 21,
-          "authorId": "48404632"
-        }
-      ],
-      "affiliations": [
-        "Google Research"
-      ],
-      "year": 2019,
-      "venue": "Journal of Artificial Intelligence Research",
-      "publicationDate": "2019-12-04",
-      "summary": "This work traces back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family and concludes with a short survey of more recent trends in the field.",
-      "url": "https://www.semanticscholar.org/paper/4d08dcd2cc1e9691defe664a10f021424a896a1e",
-      "doi": "10.1613/JAIR.1.12007",
-      "arxivId": "1912.02047",
-      "pdf": "https://jair.org/index.php/jair/article/download/12007/26611",
-      "citationCount": 445,
-      "referenceCount": 648,
-      "influentialCitationCount": 9,
-      "source": null,
-      "addedAt": "2026-09-30",
-      "overlap": 21,
-      "direction": "forward",
-      "score": 79.93858473629103,
-      "why": "cites 21 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "ddc45fad8d15771d9f1f8579331458785b2cdd93",
-      "title": "Deep Boltzmann Machines",
-      "authors": [
-        "R. Salakhutdinov",
-        "Geoffrey E. Hinton"
-      ],
-      "topAuthors": [
-        {
-          "name": "Geoffrey E. Hinton",
-          "hIndex": 158,
-          "authorId": "1695689"
-        },
-        {
-          "name": "R. Salakhutdinov",
-          "hIndex": 121,
-          "authorId": "145124475"
-        }
-      ],
-      "affiliations": [],
-      "year": 2009,
-      "venue": "International Conference on Artificial Intelligence and Statistics",
-      "publicationDate": "2009-04-15",
-      "summary": "A new learning algorithm for Boltzmann machines that contain many layers of hidden variables that is made more efficient by using a layer-by-layer “pre-training” phase that allows variational inference to be initialized with a single bottomup pass.",
-      "url": "https://www.semanticscholar.org/paper/ddc45fad8d15771d9f1f8579331458785b2cdd93",
-      "doi": null,
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 2361,
-      "referenceCount": 22,
-      "influentialCitationCount": 243,
-      "source": null,
-      "addedAt": "2026-09-30",
-      "overlap": 39,
-      "direction": "backward",
-      "score": 75.50349254783521,
-      "why": "cited by 39 in your list",
       "fromReferences": false
     },
     {
@@ -794,6 +718,47 @@
       "direction": "forward",
       "score": 72.42568807112637,
       "why": "cites 15 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "995c5f5e62614fcb4d2796ad2faab969da51713e",
+      "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+      "authors": [
+        "Sergey Ioffe",
+        "Christian Szegedy"
+      ],
+      "topAuthors": [
+        {
+          "name": "Christian Szegedy",
+          "hIndex": 29,
+          "authorId": "2574060"
+        },
+        {
+          "name": "Sergey Ioffe",
+          "hIndex": 20,
+          "authorId": "2054165706"
+        }
+      ],
+      "affiliations": [
+        "Google (United States)"
+      ],
+      "year": 2015,
+      "venue": "International Conference on Machine Learning",
+      "publicationDate": "2015-02-10",
+      "summary": "Applied to a state-of-the-art image classification model, Batch Normalization achieves the same accuracy with 14 times fewer training steps, and beats the original model by a significant margin.",
+      "url": "https://www.semanticscholar.org/paper/995c5f5e62614fcb4d2796ad2faab969da51713e",
+      "doi": null,
+      "arxivId": "1502.03167",
+      "pdf": null,
+      "citationCount": 47861,
+      "referenceCount": 54,
+      "influentialCitationCount": 2326,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 67,
+      "direction": "backward",
+      "score": 71.43201024291353,
+      "why": "cited by 67 in your list",
       "fromReferences": false
     },
     {
@@ -877,44 +842,42 @@
       "fromReferences": false
     },
     {
-      "id": "995c5f5e62614fcb4d2796ad2faab969da51713e",
-      "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+      "id": "ddc45fad8d15771d9f1f8579331458785b2cdd93",
+      "title": "Deep Boltzmann Machines",
       "authors": [
-        "Sergey Ioffe",
-        "Christian Szegedy"
+        "R. Salakhutdinov",
+        "Geoffrey E. Hinton"
       ],
       "topAuthors": [
         {
-          "name": "Christian Szegedy",
-          "hIndex": 29,
-          "authorId": "2574060"
+          "name": "Geoffrey E. Hinton",
+          "hIndex": 158,
+          "authorId": "1695689"
         },
         {
-          "name": "Sergey Ioffe",
-          "hIndex": 20,
-          "authorId": "2054165706"
+          "name": "R. Salakhutdinov",
+          "hIndex": 121,
+          "authorId": "145124475"
         }
       ],
-      "affiliations": [
-        "Google (United States)"
-      ],
-      "year": 2015,
-      "venue": "International Conference on Machine Learning",
-      "publicationDate": "2015-02-10",
-      "summary": "Applied to a state-of-the-art image classification model, Batch Normalization achieves the same accuracy with 14 times fewer training steps, and beats the original model by a significant margin.",
-      "url": "https://www.semanticscholar.org/paper/995c5f5e62614fcb4d2796ad2faab969da51713e",
+      "affiliations": [],
+      "year": 2009,
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "publicationDate": "2009-04-15",
+      "summary": "A new learning algorithm for Boltzmann machines that contain many layers of hidden variables that is made more efficient by using a layer-by-layer “pre-training” phase that allows variational inference to be initialized with a single bottomup pass.",
+      "url": "https://www.semanticscholar.org/paper/ddc45fad8d15771d9f1f8579331458785b2cdd93",
       "doi": null,
-      "arxivId": "1502.03167",
+      "arxivId": null,
       "pdf": null,
-      "citationCount": 47847,
-      "referenceCount": 54,
-      "influentialCitationCount": 2326,
+      "citationCount": 2360,
+      "referenceCount": 22,
+      "influentialCitationCount": 243,
       "source": null,
       "addedAt": "2026-09-30",
-      "overlap": 68,
+      "overlap": 39,
       "direction": "backward",
-      "score": 68.99081255172258,
-      "why": "cited by 68 in your list",
+      "score": 69.04903196703947,
+      "why": "cited by 39 in your list",
       "fromReferences": false
     },
     {
@@ -960,6 +923,39 @@
       "fromReferences": false
     },
     {
+      "id": "79bbab8f26f9ef6179c955d9c18b2a75e27bdc4b",
+      "title": "Deep learning of representations and its application to computer vision",
+      "authors": [
+        "I. Goodfellow"
+      ],
+      "topAuthors": [
+        {
+          "name": "I. Goodfellow",
+          "hIndex": 62,
+          "authorId": "153440022"
+        }
+      ],
+      "affiliations": [],
+      "year": 2015,
+      "venue": null,
+      "publicationDate": "2015-02-18",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/79bbab8f26f9ef6179c955d9c18b2a75e27bdc4b",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 5,
+      "referenceCount": 137,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 13,
+      "direction": "forward",
+      "score": 65.56341960173258,
+      "why": "cites 13 in your list",
+      "fromReferences": false
+    },
+    {
       "id": "cea967b59209c6be22829699f05b8b1ac4dc092d",
       "title": "Sequence to Sequence Learning with Neural Networks",
       "authors": [
@@ -990,14 +986,14 @@
       "doi": null,
       "arxivId": "1409.3215",
       "pdf": null,
-      "citationCount": 22421,
+      "citationCount": 22424,
       "referenceCount": 40,
       "influentialCitationCount": 1415,
       "source": null,
       "addedAt": "2026-09-30",
       "overlap": 55,
       "direction": "backward",
-      "score": 67.88665832222976,
+      "score": 63.514829712690045,
       "why": "cited by 55 in your list",
       "fromReferences": false
     }

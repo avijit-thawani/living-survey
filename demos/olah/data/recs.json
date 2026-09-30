@@ -1,6 +1,87 @@
 {
-  "updatedAt": "2026-09-30T13:51:04.010Z",
+  "updatedAt": "2026-09-30T22:58:44.870Z",
   "recs": [
+    {
+      "id": "11a3134a2b349d71798736070fd4a70553d8fff0",
+      "title": "What Does Multi-Agent LLM Debate Actually Change? A Layered Analysis of Disagreement and Answer Quality",
+      "authors": [
+        "Qian Chen"
+      ],
+      "topAuthors": [
+        {
+          "name": "Qian Chen",
+          "hIndex": 0,
+          "authorId": "2493809721"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-09-07",
+      "summary": "Taken together, LLM debate readily changes what agents say, but there is much weaker evidence that it changes what they persistently endorse or improves the quality of the final answer.",
+      "url": "https://www.semanticscholar.org/paper/11a3134a2b349d71798736070fd4a70553d8fff0",
+      "doi": null,
+      "arxivId": "2609.08016",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 53,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 54.80602144022932,
+      "why": "past month · cites 3 in your list",
+      "fromReferences": false,
+      "freshWindow": "past month"
+    },
+    {
+      "id": "1c879114a54c849de0dd8199275137dc8fc2081e",
+      "title": "Xeno-Interpretability: Investigating the Alien Minds of LLMs",
+      "authors": [
+        "F. Pierucci",
+        "M. B. Syrnikov",
+        "M. Prandi",
+        "M. Galisai",
+        "F. Giarrusso",
+        "P. Bisconti"
+      ],
+      "topAuthors": [
+        {
+          "name": "P. Bisconti",
+          "hIndex": 7,
+          "authorId": "2347203885"
+        },
+        {
+          "name": "F. Pierucci",
+          "hIndex": 5,
+          "authorId": "2375142042"
+        }
+      ],
+      "affiliations": [
+        "Sapienza University of Rome",
+        "Scuola Superiore Sant'Anna"
+      ],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-09-17",
+      "summary": "The aim of interpretability shifts the aim of interpretability from finding human concepts inside models toward discovering and characterizing the representational structures that are native to the models themselves and might affect their behaviour in unpredictable ways.",
+      "url": "https://www.semanticscholar.org/paper/1c879114a54c849de0dd8199275137dc8fc2081e",
+      "doi": null,
+      "arxivId": "2609.20408",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 127,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 4,
+      "direction": "forward",
+      "score": 49.997297835247764,
+      "why": "past month · cites 4 in your list",
+      "fromReferences": false,
+      "freshWindow": "past month"
+    },
     {
       "id": "d3bdee99590983691db1f65b1dc8dd56aed17dde",
       "title": "From Interpretability Methods to Interpretable Models",
@@ -45,6 +126,52 @@
       "freshWindow": "past month"
     },
     {
+      "id": "38857cb75d31baece1f4d6785e7e3b432d37e651",
+      "title": "The Alignment Paradox: How Post-Training Amplifies Confident Hallucinations in Language Models",
+      "authors": [
+        "Qing-Jia Huang",
+        "Ya-Kai Li",
+        "Jian-Guo Wu",
+        "Qi-Hang Zhou",
+        "Ai-Min Yu",
+        "Xiao-Qi Jia",
+        "Lu-Ping Ma",
+        "Wei-Juan Zhang"
+      ],
+      "topAuthors": [
+        {
+          "name": "Qing-Jia Huang",
+          "hIndex": 9,
+          "authorId": "2118803"
+        },
+        {
+          "name": "Wei-Juan Zhang",
+          "hIndex": 6,
+          "authorId": "144850152"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-09-26",
+      "summary": "Bounded margins mitigate confident hallucinations during post-training, implemented through an entropy-dependent margin bound in direct preference optimization (DPO) and shown to mitigate confident hallucinations during post-training.",
+      "url": "https://www.semanticscholar.org/paper/38857cb75d31baece1f4d6785e7e3b432d37e651",
+      "doi": null,
+      "arxivId": "2609.32617",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 49,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 31.954068623122573,
+      "why": "past month · cites 3 in your list",
+      "fromReferences": false,
+      "freshWindow": "past month"
+    },
+    {
       "id": "6db11455cdf61ce01b1e966dcdd60768ac4e03d4",
       "title": "The Geometry of Refusal: Why Post-Hoc Safety Is Fragile and Pretraining-Time Safety Persists",
       "authors": [
@@ -64,7 +191,9 @@
           "authorId": "2301128189"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Samsung Semiconductor (United States)"
+      ],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-09-07",
@@ -80,41 +209,128 @@
       "addedAt": "2026-09-30",
       "overlap": 3,
       "direction": "forward",
-      "score": 26.849075822401137,
+      "score": 30.472404573627976,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
     },
     {
-      "id": "21f12e097d159d5d8c1de9c08b8b74661df12833",
-      "title": "Language models judge war differently when tested for alignment",
+      "id": "f371268171ae74a91c6ff35154f97a3d1b1ab469",
+      "title": "Local Sparsity Enables Unsupervised LLM Safety Detection",
       "authors": [
-        "Maxim Chupilkin"
+        "Xin Chen",
+        "Gil Kur",
+        "A. Shevchenko",
+        "Andreas Krause"
       ],
       "topAuthors": [
         {
-          "name": "Maxim Chupilkin",
-          "hIndex": 5,
-          "authorId": "1395686361"
+          "name": "Andreas Krause",
+          "hIndex": 10,
+          "authorId": "2257180836"
+        },
+        {
+          "name": "Xin Chen",
+          "hIndex": 7,
+          "authorId": "2403655825"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "ETH Zurich"
+      ],
       "year": 2026,
       "venue": null,
-      "publicationDate": "2026-09-04",
-      "summary": "A full-factorial conjoint experiment on decisions to start a war, spanning 20 large language models, 32 scenarios, 10 repetitions and two conditions, shows Evaluation framing changes both an answer's level and its revealed decision rule.",
-      "url": "https://www.semanticscholar.org/paper/21f12e097d159d5d8c1de9c08b8b74661df12833",
+      "publicationDate": "2026-09-17",
+      "summary": "This work proposes a framework for locally masked SAE-based anomaly detection, supported by theoretical justifications, and demonstrates their ability to capture meaningful safety information while using only 1-2% of SAE neurons for computation.",
+      "url": "https://www.semanticscholar.org/paper/f371268171ae74a91c6ff35154f97a3d1b1ab469",
       "doi": null,
-      "arxivId": "2609.05009",
+      "arxivId": "2609.20129",
       "pdf": null,
       "citationCount": 0,
-      "referenceCount": 22,
+      "referenceCount": 68,
       "influentialCitationCount": 0,
       "source": null,
       "addedAt": "2026-09-30",
       "overlap": 3,
       "direction": "forward",
-      "score": 25.674894185904623,
+      "score": 30.250513517328464,
+      "why": "past month · cites 3 in your list",
+      "fromReferences": false,
+      "freshWindow": "past month"
+    },
+    {
+      "id": "ec83e6981e55f37765a96d17771183cad8344c6a",
+      "title": "Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges",
+      "authors": [
+        "Seyedakbar Mostafavi"
+      ],
+      "topAuthors": [
+        {
+          "name": "Seyedakbar Mostafavi",
+          "hIndex": 4,
+          "authorId": "2268598621"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-09-12",
+      "summary": "This survey systematically analyze threat surfaces across intra-execution loops and interaction planes, formulate a multi-layered zero-trust defense-in-depth architecture integrating Dual-LLM isolation, Capability-Based Access Control, kernel eBPF probes, and sandboxed runtimes, and map technical controls to international AI governance frameworks.",
+      "url": "https://www.semanticscholar.org/paper/ec83e6981e55f37765a96d17771183cad8344c6a",
+      "doi": null,
+      "arxivId": "2609.13731",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 193,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 29.777865900465695,
+      "why": "past month · cites 3 in your list",
+      "fromReferences": false,
+      "freshWindow": "past month"
+    },
+    {
+      "id": "10e21054277ada3ce6d3dc65c04c4986d43b98bb",
+      "title": "Trust and Task Completion in the World of Consumer AI Agents",
+      "authors": [
+        "Jeroen Olieslagers",
+        "Eduardo E. P. Pujol",
+        "Gal Zahavi",
+        "Lukas Ingemarsson",
+        "Shivani Poddar"
+      ],
+      "topAuthors": [
+        {
+          "name": "Shivani Poddar",
+          "hIndex": 8,
+          "authorId": "40346865"
+        },
+        {
+          "name": "Eduardo E. P. Pujol",
+          "hIndex": 1,
+          "authorId": "2068954112"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-09-26",
+      "summary": "An evaluation is built that scores trust and completion on the same runs, in a simulated world of businesses with their own websites, inboxes, and phone lines, and of people who write back, to measure Fo, Wajo's personal assistant, against a base model with basic instructions on three foundation models, and against the Fo harness with its guardrails switched off.",
+      "url": "https://www.semanticscholar.org/paper/10e21054277ada3ce6d3dc65c04c4986d43b98bb",
+      "doi": null,
+      "arxivId": "2609.33017",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 49,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 29.684296298214758,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -146,7 +362,10 @@
           "authorId": "2290468815"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "University of Toronto",
+        "Rutgers, The State University of New Jersey"
+      ],
       "year": 2026,
       "venue": "arXiv.org",
       "publicationDate": "2026-05-12",
@@ -227,7 +446,9 @@
           "authorId": "2342751265"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "VSB - Technical University of Ostrava"
+      ],
       "year": 2026,
       "venue": "arXiv.org",
       "publicationDate": "2026-07-08",
@@ -288,6 +509,42 @@
       "direction": "forward",
       "score": 66.60063220123513,
       "why": "past year · cites 6 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "d306d48c426ec2da4d50673705527607ca2ac381",
+      "title": "Functional Emotion Without Character: Large Language Models, Aristotelian Disposition, and the Limits of Behavioral Alignment",
+      "authors": [
+        "M. Zare"
+      ],
+      "topAuthors": [
+        {
+          "name": "M. Zare",
+          "hIndex": 11,
+          "authorId": "2948309"
+        }
+      ],
+      "affiliations": [
+        "Université Laval"
+      ],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-07-31",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/d306d48c426ec2da4d50673705527607ca2ac381",
+      "doi": null,
+      "arxivId": "2609.22362",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 68,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 4,
+      "direction": "forward",
+      "score": 66.36842498927614,
+      "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -399,7 +656,10 @@
           "authorId": "2280328057"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Southwest University",
+        "Sun Yat-sen University"
+      ],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-08-11",
@@ -417,6 +677,62 @@
       "direction": "forward",
       "score": 61.503040191138645,
       "why": "past year · cites 6 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
+    },
+    {
+      "id": "03b24e150cdcd55bce8b4d4abcbfcd4483079caa",
+      "title": "Positive Alignment: Artificial Intelligence for Human Flourishing",
+      "authors": [
+        "R. Laukkonen",
+        "S. Krier",
+        "Chlo'e Bakalar",
+        "S. Chandaria",
+        "M. Kringelbach",
+        "Adam Elwood",
+        "Daniel Ford",
+        "Fernando E. Rosas",
+        "Maty Bohacek",
+        "Matija Franklin",
+        "Nenad Tomasev",
+        "S. Chan",
+        "Verena Rieser",
+        "Roma Patel",
+        "M. Levin",
+        "Arun Rao"
+      ],
+      "topAuthors": [
+        {
+          "name": "M. Kringelbach",
+          "hIndex": 76,
+          "authorId": "1988969"
+        },
+        {
+          "name": "R. Laukkonen",
+          "hIndex": 16,
+          "authorId": "8103511"
+        }
+      ],
+      "affiliations": [
+        "Stanford University"
+      ],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-05-11",
+      "summary": "Positive Alignment is the development of AI systems that actively support human and ecological flourishing in a pluralistic, polycentric, context-sensitive, and user-authored way while (ii) remaining safe and cooperative.",
+      "url": "https://www.semanticscholar.org/paper/03b24e150cdcd55bce8b4d4abcbfcd4483079caa",
+      "doi": "10.48550/arXiv.2605.10310",
+      "arxivId": "2605.10310",
+      "pdf": null,
+      "citationCount": 6,
+      "referenceCount": 252,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 61.06786396117896,
+      "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -443,7 +759,10 @@
           "authorId": "2154740036"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Queen Mary University of London",
+        "Xi'an Jiaotong University"
+      ],
       "year": 2026,
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "publicationDate": "2026-04-07",
@@ -461,88 +780,6 @@
       "direction": "forward",
       "score": 60.035844983380315,
       "why": "past year · cites 3 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "a39068cc41776b34cd9b8a3a016579c01b953195",
-      "title": "Scaling Reward Modeling without Human Supervision",
-      "authors": [
-        "Jing-Xuan Fan",
-        "Yueying Li",
-        "Zhenting Qi",
-        "Dinghuai Zhang",
-        "Kianté Brantley",
-        "S. Kakade",
-        "Han-Lin Zhang",
-        "Hanlin Zhang"
-      ],
-      "topAuthors": [
-        {
-          "name": "S. Kakade",
-          "hIndex": 99,
-          "authorId": "144695232"
-        },
-        {
-          "name": "Hanlin Zhang",
-          "hIndex": 16,
-          "authorId": "2119078297"
-        }
-      ],
-      "affiliations": [
-        "Harvard University"
-      ],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-02-11",
-      "summary": "Overall, this work demonstrates the feasibility and promise of training reward models without costly and potentially unreliable human annotations and operationalizes reward-based scaling, in its simplest form, as preference learning over document prefixes and suffixes drawn from large-scale web corpora.",
-      "url": "https://www.semanticscholar.org/paper/a39068cc41776b34cd9b8a3a016579c01b953195",
-      "doi": "10.48550/arXiv.2603.02225",
-      "arxivId": "2603.02225",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 60,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-30",
-      "overlap": 5,
-      "direction": "forward",
-      "score": 58.1443288416458,
-      "why": "past year · cites 5 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "7f6cf0424df903206715d1fb14bcdfe86bf3ab03",
-      "title": "Negative Before Positive: Asymmetric Valence Processing in Large Language Models",
-      "authors": [
-        "S. Venkatesh"
-      ],
-      "topAuthors": [
-        {
-          "name": "S. Venkatesh",
-          "hIndex": 1,
-          "authorId": "2346286970"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-05-07",
-      "summary": "It is found that negative and positive valence are processed at different network depths, and activation patching and steering on open-source LLMs finds emotional valence in LLMs is localized, causal and steerable, making it a concrete target for interpretability-based oversight.",
-      "url": "https://www.semanticscholar.org/paper/7f6cf0424df903206715d1fb14bcdfe86bf3ab03",
-      "doi": "10.48550/arXiv.2605.05653",
-      "arxivId": "2605.05653",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 30,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-30",
-      "overlap": 4,
-      "direction": "forward",
-      "score": 55.99222831368057,
-      "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -585,6 +822,54 @@
       "direction": "backward",
       "score": 94.74977541262649,
       "why": "cited by 7 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "f05c288caeb9a14ef387e6867934ced3d2200259",
+      "title": "SALMON: Self-Alignment with Instructable Reward Models",
+      "authors": [
+        "Zhiqing Sun",
+        "Yikang Shen",
+        "Hongxin Zhang",
+        "Qinhong Zhou",
+        "Zhenfang Chen",
+        "David D. Cox",
+        "Yiming Yang",
+        "Chuang Gan"
+      ],
+      "topAuthors": [
+        {
+          "name": "Zhiqing Sun",
+          "hIndex": 26,
+          "authorId": "48064856"
+        },
+        {
+          "name": "Zhenfang Chen",
+          "hIndex": 26,
+          "authorId": "2111329651"
+        }
+      ],
+      "affiliations": [
+        "Carnegie Mellon University",
+        "UMass Amherst"
+      ],
+      "year": 2023,
+      "venue": "International Conference on Learning Representations",
+      "publicationDate": "2023-10-09",
+      "summary": "This paper presents a novel approach, namely SALMON, to align base language models with minimal human supervision, using only a small set of human-defined principles, yet achieving superior performance in LLM-based AI agents.",
+      "url": "https://www.semanticscholar.org/paper/f05c288caeb9a14ef387e6867934ced3d2200259",
+      "doi": null,
+      "arxivId": "2310.05910",
+      "pdf": null,
+      "citationCount": 67,
+      "referenceCount": 137,
+      "influentialCitationCount": 7,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 90.82165774755887,
+      "why": "cites 5 in your list",
       "fromReferences": false
     },
     {
@@ -647,7 +932,7 @@
       "addedAt": "2026-09-30",
       "overlap": 6,
       "direction": "forward",
-      "score": 80.02811999644085,
+      "score": 85.78507091464806,
       "why": "cites 6 in your list",
       "fromReferences": false
     },
@@ -736,92 +1021,54 @@
       "fromReferences": false
     },
     {
-      "id": "12d16f426edc6ab248fb476007bd1646282d4d68",
-      "title": "Language Model Behavior: A Comprehensive Survey",
+      "id": "f9fc7b5ebd5fe30257abb03ad87d8138eeeb28d9",
+      "title": "Best Practices and Lessons Learned on Synthetic Data for Language Models",
       "authors": [
-        "Tyler A. Chang",
-        "Benjamin K. Bergen"
+        "Ruibo Liu",
+        "Jerry W. Wei",
+        "Fangyu Liu",
+        "Chenglei Si",
+        "Yanzhe Zhang",
+        "Jinmeng Rao",
+        "Steven Zheng",
+        "Daiyi Peng",
+        "Diyi Yang",
+        "Denny Zhou",
+        "Andrew M. Dai"
       ],
       "topAuthors": [
         {
-          "name": "Benjamin K. Bergen",
-          "hIndex": 32,
-          "authorId": "24316216"
+          "name": "Fangyu Liu",
+          "hIndex": 31,
+          "authorId": "144097210"
         },
         {
-          "name": "Tyler A. Chang",
-          "hIndex": 12,
-          "authorId": "2087001989"
+          "name": "Ruibo Liu",
+          "hIndex": 24,
+          "authorId": "7247867"
         }
       ],
       "affiliations": [
-        "UC San Diego"
+        "Google DeepMind",
+        "Georgia Institute of Technology"
       ],
-      "year": 2023,
-      "venue": "International Conference on Computational Logic",
-      "publicationDate": "2023-03-20",
-      "summary": "Over 250 recent studies of English language model behavior before task-specific fine-tuning are discussed, synthesizing recent results to highlight what is currently known about large language model capabilities, thus providing a resource for applied work and for research in adjacent fields that use language models.",
-      "url": "https://www.semanticscholar.org/paper/12d16f426edc6ab248fb476007bd1646282d4d68",
-      "doi": "10.1162/coli_a_00492",
-      "arxivId": "2303.11504",
-      "pdf": "https://direct.mit.edu/coli/article-pdf/doi/10.1162/coli_a_00492/2177312/coli_a_00492.pdf",
-      "citationCount": 183,
-      "referenceCount": 393,
-      "influentialCitationCount": 6,
-      "source": null,
-      "addedAt": "2026-09-30",
-      "overlap": 5,
-      "direction": "forward",
-      "score": 70.70551244487135,
-      "why": "cites 5 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "f05c288caeb9a14ef387e6867934ced3d2200259",
-      "title": "SALMON: Self-Alignment with Instructable Reward Models",
-      "authors": [
-        "Zhiqing Sun",
-        "Yikang Shen",
-        "Hongxin Zhang",
-        "Qinhong Zhou",
-        "Zhenfang Chen",
-        "David D. Cox",
-        "Yiming Yang",
-        "Chuang Gan"
-      ],
-      "topAuthors": [
-        {
-          "name": "Zhiqing Sun",
-          "hIndex": 26,
-          "authorId": "48064856"
-        },
-        {
-          "name": "Zhenfang Chen",
-          "hIndex": 26,
-          "authorId": "2111329651"
-        }
-      ],
-      "affiliations": [
-        "Carnegie Mellon University",
-        "UMass Amherst"
-      ],
-      "year": 2023,
-      "venue": "International Conference on Learning Representations",
-      "publicationDate": "2023-10-09",
-      "summary": "This paper presents a novel approach, namely SALMON, to align base language models with minimal human supervision, using only a small set of human-defined principles, yet achieving superior performance in LLM-based AI agents.",
-      "url": "https://www.semanticscholar.org/paper/f05c288caeb9a14ef387e6867934ced3d2200259",
-      "doi": null,
-      "arxivId": "2310.05910",
+      "year": 2024,
+      "venue": "arXiv.org",
+      "publicationDate": "2024-04-11",
+      "summary": "An overview of synthetic data research is provided, discussing its applications, challenges, and future directions and emphasizing the need for responsible use of synthetic data to build more powerful, inclusive, and trustworthy language models.",
+      "url": "https://www.semanticscholar.org/paper/f9fc7b5ebd5fe30257abb03ad87d8138eeeb28d9",
+      "doi": "10.48550/arXiv.2404.07503",
+      "arxivId": "2404.07503",
       "pdf": null,
-      "citationCount": 67,
-      "referenceCount": 137,
-      "influentialCitationCount": 7,
+      "citationCount": 129,
+      "referenceCount": 190,
+      "influentialCitationCount": 4,
       "source": null,
       "addedAt": "2026-09-30",
-      "overlap": 5,
+      "overlap": 4,
       "direction": "forward",
-      "score": 70.4532321256898,
-      "why": "cites 5 in your list",
+      "score": 73.20215397833232,
+      "why": "cites 4 in your list",
       "fromReferences": false
     },
     {
@@ -873,335 +1120,12 @@
       "pdf": null,
       "citationCount": 513,
       "referenceCount": 95,
-      "influentialCitationCount": 39,
-      "source": null,
-      "addedAt": "2026-09-30",
-      "overlap": 5,
-      "direction": "forward",
-      "score": 68.9340379110119,
-      "why": "cites 5 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "4a047c2e07bdaabc7064e5ba6c37a246e9a82ab0",
-      "title": "Many-Tier Instruction Hierarchy in LLM Agents",
-      "authors": [
-        "Jingyu Zhang",
-        "Tianjian Li",
-        "William Jurayj",
-        "Hong-Yuan Zhan",
-        "Benjamin Van Durme",
-        "Daniel Khashabi"
-      ],
-      "topAuthors": [
-        {
-          "name": "Benjamin Van Durme",
-          "hIndex": 19,
-          "authorId": "2292194313"
-        },
-        {
-          "name": "Daniel Khashabi",
-          "hIndex": 11,
-          "authorId": "2319593572"
-        }
-      ],
-      "affiliations": [
-        "Johns Hopkins University"
-      ],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-04-10",
-      "summary": "This work proposes Many-Tier Instruction Hierarchy (ManyIH), a paradigm for resolving instruction conflicts among instructions with arbitrarily many privilege levels, and introduces ManyIH-Bench, the first benchmark for ManyIH.",
-      "url": "https://www.semanticscholar.org/paper/4a047c2e07bdaabc7064e5ba6c37a246e9a82ab0",
-      "doi": "10.48550/arXiv.2604.09443",
-      "arxivId": "2604.09443",
-      "pdf": null,
-      "citationCount": 7,
-      "referenceCount": 41,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-30",
-      "overlap": 2,
-      "direction": "forward",
-      "score": 68.11945849525164,
-      "why": "cites 2 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "bfd0f632aa36fd47920e65f222b51090f9784e97",
-      "title": "The Alignment Waltz: Jointly Training Agents to Collaborate for Safety",
-      "authors": [
-        "Jingyu (Jack) Zhang",
-        "Haozhu Wang",
-        "E. Smith",
-        "Sid Wang",
-        "Amr Sharaf",
-        "Mahesh Pasupuleti",
-        "Benjamin Van Durme",
-        "Daniel Khashabi",
-        "Jason E. Weston",
-        "Hong-Yuan Zhan"
-      ],
-      "topAuthors": [
-        {
-          "name": "Benjamin Van Durme",
-          "hIndex": 19,
-          "authorId": "2292194313"
-        },
-        {
-          "name": "Jingyu (Jack) Zhang",
-          "hIndex": 12,
-          "authorId": "2167508843"
-        }
-      ],
-      "affiliations": [
-        "Johns Hopkins University"
-      ],
-      "year": 2025,
-      "venue": "arXiv.org",
-      "publicationDate": "2025-10-09",
-      "summary": "WaltzRL is proposed, a novel multi-agent reinforcement learning framework that formulates safety alignment as a collaborative, positive-sum game that enhances LLM safety without degrading general capabilities, thereby advancing the Pareto front between helpfulness and harmlessness.",
-      "url": "https://www.semanticscholar.org/paper/bfd0f632aa36fd47920e65f222b51090f9784e97",
-      "doi": "10.48550/arXiv.2510.08240",
-      "arxivId": "2510.08240",
-      "pdf": null,
-      "citationCount": 10,
-      "referenceCount": 58,
-      "influentialCitationCount": 1,
-      "source": null,
-      "addedAt": "2026-09-30",
-      "overlap": 2,
-      "direction": "forward",
-      "score": 67.76022232435797,
-      "why": "cites 2 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "31d65e179b1d00484154b3525d93846dd82f23d8",
-      "title": "Inverse Scaling: When Bigger Isn't Better",
-      "authors": [
-        "Ian R. McKenzie",
-        "Alexander Lyzhov",
-        "Michael M. Pieler",
-        "Alicia Parrish",
-        "Aaron Mueller",
-        "Ameya Prabhu",
-        "Euan McLean",
-        "Aaron Kirtland",
-        "Alexis Ross",
-        "Alisa Liu",
-        "Andrew Gritsevskiy",
-        "Daniel Wurgaft",
-        "Derik Kauff-man",
-        "Gabriel Recchia",
-        "Jiacheng Liu",
-        "Joe Cavanagh",
-        "Max Weiss",
-        "Sicong Huang",
-        "The Floating Droid",
-        "Tom Tseng",
-        "Tomasz Korbak",
-        "Xudong Shen",
-        "Yuhui Zhang",
-        "Zhengping Zhou",
-        "Najoung Kim",
-        "Sam Bowman",
-        "Ethan Perez"
-      ],
-      "topAuthors": [
-        {
-          "name": "Ethan Perez",
-          "hIndex": 27,
-          "authorId": "3439053"
-        },
-        {
-          "name": "Ameya Prabhu",
-          "hIndex": 24,
-          "authorId": "39012223"
-        }
-      ],
-      "affiliations": [
-        "Stanford University",
-        "University of Washington"
-      ],
-      "year": 2023,
-      "venue": "Trans. Mach. Learn. Res.",
-      "publicationDate": "2023-06-15",
-      "summary": "Overall, the results suggest that there are tasks for which increased model scale alone may not lead to progress, and that more careful thought needs to go into the data and objectives for training language models.",
-      "url": "https://www.semanticscholar.org/paper/31d65e179b1d00484154b3525d93846dd82f23d8",
-      "doi": "10.48550/arXiv.2306.09479",
-      "arxivId": "2306.09479",
-      "pdf": "http://arxiv.org/pdf/2306.09479",
-      "citationCount": 259,
-      "referenceCount": 68,
-      "influentialCitationCount": 20,
-      "source": null,
-      "addedAt": "2026-09-30",
-      "overlap": 5,
-      "direction": "forward",
-      "score": 67.7599596853642,
-      "why": "cites 5 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "68f141724814839d556a989646194be88641b143",
-      "title": "Scaling Language Models: Methods, Analysis & Insights from Training Gopher",
-      "authors": [
-        "Jack W. Rae",
-        "Sebastian Borgeaud",
-        "Trevor Cai",
-        "Katie Milli-can",
-        "Jordan Hoffmann",
-        "H. F. Song",
-        "John Aslanides",
-        "Sarah Henderson",
-        "Roman Ring",
-        "Susannah Young",
-        "Eliza Rutherford",
-        "T. Hennigan",
-        "Jacob Menick",
-        "Albin Cassirer",
-        "Richard Powell",
-        "George van den Driessche",
-        "Lisa Anne Hendricks",
-        "Maribeth Rauh",
-        "Po-Sen Huang",
-        "A. Glaese",
-        "Johannes Welbl",
-        "Sumanth Dathathri",
-        "Saffron Huang",
-        "Jonathan Uesato",
-        "John F. J. Mellor",
-        "I. Higgins",
-        "Antonia Creswell",
-        "Nat McAleese",
-        "Amy Wu",
-        "Erich Elsen",
-        "Siddhant M. Jayakumar",
-        "Elena Buchatskaya",
-        "D. Budden",
-        "Esme Sutherland",
-        "K. Simonyan",
-        "Michela Paganini",
-        "L. Sifre",
-        "L. Martens",
-        "Xiang Lorraine Li",
-        "Adhiguna Kuncoro",
-        "Aida Nematzadeh",
-        "E. Gribovskaya",
-        "Domenic Donato",
-        "Angeliki Lazaridou",
-        "Arthur Mensch",
-        "Jean-Baptiste Lespiau",
-        "M. Tsimpoukelli",
-        "N. Grigorev",
-        "Doug Fritz",
-        "Thibault Sottiaux",
-        "Mantas Pajarskas",
-        "Tobias Pohlen",
-        "Z. Gong",
-        "Daniel Toyama",
-        "Cyprien de Masson d'Autume",
-        "Yujia Li",
-        "Tayfun Terzi",
-        "Vladimir Mikulik",
-        "Igor Babuschkin",
-        "Aidan Clark",
-        "Diego de Las Casas",
-        "Aurelia Guy",
-        "Chris Jones",
-        "James Bradbury",
-        "Matthew G. Johnson",
-        "Blake A. Hechtman",
-        "Laura Weidinger",
-        "Iason Gabriel",
-        "William S. Isaac",
-        "Edward Lockhart",
-        "Simon Osindero",
-        "Laura Rimell",
-        "Chris Dyer",
-        "O. Vinyals",
-        "Kareem W. Ayoub",
-        "J. Stanway",
-        "L. Bennett",
-        "D. Hassabis",
-        "K. Kavukcuoglu",
-        "G. Irving"
-      ],
-      "topAuthors": [
-        {
-          "name": "O. Vinyals",
-          "hIndex": 102,
-          "authorId": "1689108"
-        },
-        {
-          "name": "D. Hassabis",
-          "hIndex": 95,
-          "authorId": "48987704"
-        }
-      ],
-      "affiliations": [
-        "DeepMind",
-        "UMASS Amherst"
-      ],
-      "year": 2021,
-      "venue": "arXiv.org",
-      "publicationDate": "2021-12-08",
-      "summary": "This paper presents an analysis of Transformer-based language model performance across a wide range of model scales -- from models with tens of millions of parameters up to a 280 billion parameter model called Gopher.",
-      "url": "https://www.semanticscholar.org/paper/68f141724814839d556a989646194be88641b143",
-      "doi": null,
-      "arxivId": "2112.11446",
-      "pdf": null,
-      "citationCount": 1673,
-      "referenceCount": 0,
-      "influentialCitationCount": 102,
-      "source": null,
-      "addedAt": "2026-09-30",
-      "overlap": 6,
-      "direction": "backward",
-      "score": 61.52562794039655,
-      "why": "cited by 6 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "97307df78c99c73a52c0c01f847b5b3d4f235756",
-      "title": "We Think, Therefore We Align LLMs to Helpful, Harmless and Honest Before They Go Wrong",
-      "authors": [
-        "G. Kashyap",
-        "M. Dras",
-        "Usman Naseem"
-      ],
-      "topAuthors": [
-        {
-          "name": "M. Dras",
-          "hIndex": 37,
-          "authorId": "1795294"
-        },
-        {
-          "name": "Usman Naseem",
-          "hIndex": 28,
-          "authorId": "1394609613"
-        }
-      ],
-      "affiliations": [
-        "Macquarie University"
-      ],
-      "year": 2025,
-      "venue": "arXiv.org",
-      "publicationDate": "2025-09-26",
-      "summary": "Adaptive Multi-Branch Steering (AMBS), a two-stage framework in a 1-to-N Transformer setting that parameterizes objective-specific transformations relative to a shared representation, is proposed.",
-      "url": "https://www.semanticscholar.org/paper/97307df78c99c73a52c0c01f847b5b3d4f235756",
-      "doi": "10.48550/arXiv.2509.22510",
-      "arxivId": "2509.22510",
-      "pdf": null,
-      "citationCount": 4,
-      "referenceCount": 50,
-      "influentialCitationCount": 0,
+      "influentialCitationCount": 40,
       "source": null,
       "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 61.1711137827683,
+      "score": 71.86480720213495,
       "why": "cites 4 in your list",
       "fromReferences": false
     }
