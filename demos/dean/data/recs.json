@@ -1,50 +1,6 @@
 {
-  "updatedAt": "2026-09-30T22:56:26.041Z",
+  "updatedAt": "2026-10-01T14:31:57.298Z",
   "recs": [
-    {
-      "id": "9232247e6d4a1a5203ecdaff7922af23707befe8",
-      "title": "GMoE-AD: Generalized Hyperspectral Anomaly Detection via Mixture-of-Experts and Domain-Invariant Learning",
-      "authors": [
-        "Mazharul Hossain",
-        "Aaron Robinson",
-        "C. Preza",
-        "Lan Wang"
-      ],
-      "topAuthors": [
-        {
-          "name": "C. Preza",
-          "hIndex": 15,
-          "authorId": "1736512"
-        },
-        {
-          "name": "Mazharul Hossain",
-          "hIndex": 3,
-          "authorId": "2110572533"
-        }
-      ],
-      "affiliations": [
-        "University of Memphis"
-      ],
-      "year": 2026,
-      "venue": "Italian National Conference on Sensors",
-      "publicationDate": "2026-09-01",
-      "summary": "Results suggest that combining neural expert routing, transfer learning, and domain-adversarial representation learning improves robustness across heterogeneous HS datasets and provides a unified approach to anomaly detection in high-dimensional sensor data, supporting deployment in real-world hyperspectral applications where training and deployment conditions differ.",
-      "url": "https://www.semanticscholar.org/paper/9232247e6d4a1a5203ecdaff7922af23707befe8",
-      "doi": "10.3390/s26175661",
-      "arxivId": null,
-      "pdf": "https://doi.org/10.3390/s26175661",
-      "citationCount": 0,
-      "referenceCount": 78,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-30",
-      "overlap": 3,
-      "direction": "forward",
-      "score": 42.55296927029093,
-      "why": "past month · cites 3 in your list",
-      "fromReferences": false,
-      "freshWindow": "past month"
-    },
     {
       "id": "53defead4bd7ac00bd30f0aa0a05e02e9e4c4cc7",
       "title": "From Concentration to Differentiation and Back: Routing Effective Rank in MoE Reasoning Cohorts",
@@ -81,13 +37,57 @@
       "referenceCount": 52,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 3,
       "direction": "forward",
-      "score": 28.81672993985792,
+      "score": 28.805487275093977,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
+    },
+    {
+      "id": "9232247e6d4a1a5203ecdaff7922af23707befe8",
+      "title": "GMoE-AD: Generalized Hyperspectral Anomaly Detection via Mixture-of-Experts and Domain-Invariant Learning",
+      "authors": [
+        "Mazharul Hossain",
+        "Aaron Robinson",
+        "C. Preza",
+        "Lan Wang"
+      ],
+      "topAuthors": [
+        {
+          "name": "C. Preza",
+          "hIndex": 15,
+          "authorId": "1736512"
+        },
+        {
+          "name": "Mazharul Hossain",
+          "hIndex": 3,
+          "authorId": "2110572533"
+        }
+      ],
+      "affiliations": [
+        "University of Memphis"
+      ],
+      "year": 2026,
+      "venue": "Italian National Conference on Sensors",
+      "publicationDate": "2026-09-01",
+      "summary": "Results suggest that combining neural expert routing, transfer learning, and domain-adversarial representation learning improves robustness across heterogeneous HS datasets and provides a unified approach to anomaly detection in high-dimensional sensor data, supporting deployment in real-world hyperspectral applications where training and deployment conditions differ.",
+      "url": "https://www.semanticscholar.org/paper/9232247e6d4a1a5203ecdaff7922af23707befe8",
+      "doi": "10.3390/s26175661",
+      "arxivId": null,
+      "pdf": "https://doi.org/10.3390/s26175661",
+      "citationCount": 0,
+      "referenceCount": 78,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-01",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 42.538052540392584,
+      "why": "past year · cites 3 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year"
     },
     {
       "id": "0d506b1226be155737bb76e2c7f326152b2e15e6",
@@ -129,10 +129,10 @@
       "referenceCount": 198,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 3,
       "direction": "forward",
-      "score": 32.62230346697701,
+      "score": 32.59472214086775,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -172,10 +172,10 @@
       "referenceCount": 110,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 3,
       "direction": "forward",
-      "score": 29.164551872517375,
+      "score": 29.1502941398979,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -216,10 +216,10 @@
       "referenceCount": 29,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 3,
       "direction": "forward",
-      "score": 28.34999613658694,
+      "score": 28.336136617454073,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -252,10 +252,10 @@
       "referenceCount": 74,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 3,
       "direction": "forward",
-      "score": 25.717968365390725,
+      "score": 25.703460859762227,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -295,10 +295,10 @@
       "referenceCount": 56,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 3,
       "direction": "forward",
-      "score": 24.104595028282144,
+      "score": 24.089207594802144,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -431,10 +431,10 @@
       "referenceCount": 98,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 3,
       "direction": "forward",
-      "score": 19.327258312831468,
+      "score": 19.314815740473637,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -478,10 +478,10 @@
       "referenceCount": 56,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 3,
       "direction": "forward",
-      "score": 19.091593318849114,
+      "score": 19.07930246375466,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -527,10 +527,10 @@
       "referenceCount": 47,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 3,
       "direction": "forward",
-      "score": 18.81430930274515,
+      "score": 18.80219695855888,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -545,13 +545,13 @@
         "Shunan Dong",
         "Ziming Zhang",
         "Hua-Zhong Yang",
-        "Yongpan Liu",
+        "Yong-Pan Liu",
         "Guowei Zhang",
         "Hong-Yang Jia"
       ],
       "topAuthors": [
         {
-          "name": "Yongpan Liu",
+          "name": "Yong-Pan Liu",
           "hIndex": 39,
           "authorId": "2442306"
         },
@@ -576,51 +576,10 @@
       "referenceCount": 115,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 3,
       "direction": "forward",
-      "score": 18.27814309500381,
-      "why": "past year · cites 3 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "db722b24f66ecb1be4803be189942e5324021523",
-      "title": "A Queueing-Theoretic Framework for Stability Analysis of LLM Inference with KV Cache Memory Constraints",
-      "authors": [
-        "Chengyi Nie",
-        "Nian Si",
-        "Zijie Zhou"
-      ],
-      "topAuthors": [
-        {
-          "name": "Nian Si",
-          "hIndex": 13,
-          "authorId": "79061927"
-        },
-        {
-          "name": "Zijie Zhou",
-          "hIndex": 4,
-          "authorId": "2375865001"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-05-06",
-      "summary": "This paper introduces the first queueing-theoretic framework that explicitly incorporates both computation and GPU memory constraints into the analysis of LLM inference, and derives rigorous stability and instability conditions that determine whether an LLM inference service can sustain incoming demand without unbounded queue growth.",
-      "url": "https://www.semanticscholar.org/paper/db722b24f66ecb1be4803be189942e5324021523",
-      "doi": "10.48550/arXiv.2605.04595",
-      "arxivId": "2605.04595",
-      "pdf": null,
-      "citationCount": 4,
-      "referenceCount": 42,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-30",
-      "overlap": 3,
-      "direction": "forward",
-      "score": 18.156185516620067,
+      "score": 18.268671020137642,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -680,11 +639,11 @@
       "doi": null,
       "arxivId": "2112.06905",
       "pdf": null,
-      "citationCount": 1337,
+      "citationCount": 1336,
       "referenceCount": 108,
       "influentialCitationCount": 83,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 8,
       "direction": "backward",
       "score": 100,
@@ -728,10 +687,10 @@
       "referenceCount": 329,
       "influentialCitationCount": 6,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 4,
       "direction": "forward",
-      "score": 94.38037652723531,
+      "score": 94.3735903147305,
       "why": "cites 4 in your list",
       "fromReferences": false
     },
@@ -763,7 +722,7 @@
       "referenceCount": 63,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 4,
       "direction": "forward",
       "score": 93.79393754252754,
@@ -815,7 +774,7 @@
       "referenceCount": 48,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 3,
       "direction": "forward",
       "score": 81.74643876682318,
@@ -861,7 +820,7 @@
       "referenceCount": 101,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 2,
       "direction": "forward",
       "score": 78.60403923779342,
@@ -902,7 +861,7 @@
       "referenceCount": 97,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 2,
       "direction": "forward",
       "score": 74.80966599999198,
@@ -937,7 +896,7 @@
       "referenceCount": 112,
       "influentialCitationCount": 4,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 2,
       "direction": "forward",
       "score": 72.37765590380175,
@@ -972,7 +931,7 @@
       "referenceCount": 111,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 2,
       "direction": "forward",
       "score": 72.37765590380175,
@@ -1016,11 +975,11 @@
       "doi": null,
       "arxivId": "2006.16668",
       "pdf": null,
-      "citationCount": 2409,
+      "citationCount": 2410,
       "referenceCount": 99,
       "influentialCitationCount": 219,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 8,
       "direction": "backward",
       "score": 69.07122552170917,
@@ -1140,7 +1099,7 @@
       "referenceCount": 0,
       "influentialCitationCount": 102,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 7,
       "direction": "backward",
       "score": 67.72745757815738,
@@ -1186,7 +1145,7 @@
       "referenceCount": 16,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 2,
       "direction": "forward",
       "score": 64.9129245417942,
@@ -1227,7 +1186,7 @@
       "referenceCount": 26,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 2,
       "direction": "forward",
       "score": 62.698093729030354,
@@ -1270,11 +1229,57 @@
       "referenceCount": 61,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-30",
+      "addedAt": "2026-10-01",
       "overlap": 2,
       "direction": "forward",
       "score": 61.8977248294041,
       "why": "cites 2 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "4a8964ea0de47010fb458021b68fa3ef5c4b77b2",
+      "title": "Primer: Searching for Efficient Transformers for Language Modeling",
+      "authors": [
+        "David R. So",
+        "Wojciech Ma'nke",
+        "Hanxiao Liu",
+        "Zihang Dai",
+        "Noam Shazeer",
+        "Quoc V. Le"
+      ],
+      "topAuthors": [
+        {
+          "name": "Quoc V. Le",
+          "hIndex": 122,
+          "authorId": "2827616"
+        },
+        {
+          "name": "Noam Shazeer",
+          "hIndex": 39,
+          "authorId": "1846258"
+        }
+      ],
+      "affiliations": [
+        "Google",
+        "Google Brain"
+      ],
+      "year": 2021,
+      "venue": "Neural Information Processing Systems",
+      "publicationDate": "2021-09-17",
+      "summary": "This work identifies an architecture, named Primer, that has a smaller training cost than the original Transformer and other variants for auto-regressive language modeling, and proves empirically that Primer can be dropped into different codebases to significantly speed up training without additional tuning.",
+      "url": "https://www.semanticscholar.org/paper/4a8964ea0de47010fb458021b68fa3ef5c4b77b2",
+      "doi": null,
+      "arxivId": "2109.08668",
+      "pdf": null,
+      "citationCount": 230,
+      "referenceCount": 60,
+      "influentialCitationCount": 20,
+      "source": null,
+      "addedAt": "2026-10-01",
+      "overlap": 4,
+      "direction": "backward",
+      "score": 59.247423999590744,
+      "why": "cited by 4 in your list",
       "fromReferences": false
     }
   ]

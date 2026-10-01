@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T22:52:01.132Z",
+  "updatedAt": "2026-10-01T14:30:55.324Z",
   "core": [
     {
       "id": "1167853b9cff97347fc7beb1c8ce92fc95486a1a",
@@ -122,7 +122,7 @@
         "S. Scott",
         "K. Davis",
         "T. Jones",
-        "Noam Brown",
+        "N. De Veauuse Brown",
         "M. Fraire",
         "R. Fraire",
         "J. Garner",
@@ -138,14 +138,14 @@
       ],
       "topAuthors": [
         {
-          "name": "Noam Brown",
-          "hIndex": 34,
-          "authorId": "2685623"
-        },
-        {
           "name": "T. Akintobi",
           "hIndex": 15,
           "authorId": "3897544"
+        },
+        {
+          "name": "M. Fraire",
+          "hIndex": 10,
+          "authorId": "47765793"
         }
       ],
       "affiliations": [],
@@ -673,9 +673,9 @@
       "doi": "10.48550/arXiv.2206.05825",
       "arxivId": "2206.05825",
       "pdf": "http://arxiv.org/pdf/2206.05825",
-      "citationCount": 95,
+      "citationCount": 96,
       "referenceCount": 88,
-      "influentialCitationCount": 14,
+      "influentialCitationCount": 15,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 7925c5f11a0c792069d635aa3f93f43d71c71c84",
       "addedAt": "2026-09-13",
       "score": 35
@@ -886,7 +886,7 @@
       "doi": "10.1126/science.ade9097",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 632,
+      "citationCount": 633,
       "referenceCount": 62,
       "influentialCitationCount": 20,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | e89ed6bb1864558e3889f5f2fb8931643c633479",
@@ -1369,7 +1369,7 @@
       "doi": "10.1093/cid/ciab449",
       "arxivId": null,
       "pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/11307574",
-      "citationCount": 17,
+      "citationCount": 16,
       "referenceCount": 37,
       "influentialCitationCount": 0,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 50a564596bc5f79b1b0ab553c0c74fcee7de2b43",
@@ -1903,7 +1903,7 @@
       "doi": null,
       "arxivId": "2006.10410",
       "pdf": null,
-      "citationCount": 69,
+      "citationCount": 70,
       "referenceCount": 42,
       "influentialCitationCount": 10,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 874e0bcbe52d157b7fd565702d1bdcc6a8fd32cd",
@@ -2230,7 +2230,7 @@
       "doi": null,
       "arxivId": "2007.13544",
       "pdf": null,
-      "citationCount": 204,
+      "citationCount": 205,
       "referenceCount": 67,
       "influentialCitationCount": 16,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | df2b23787a58b10962951d4f663809eb20a828ea",
@@ -2447,7 +2447,7 @@
       "doi": null,
       "arxivId": "1902.04982",
       "pdf": null,
-      "citationCount": 39,
+      "citationCount": 40,
       "referenceCount": 28,
       "influentialCitationCount": 4,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | b7e1466f27c886d08164d69e59cccef982b46c58",
@@ -2522,7 +2522,7 @@
       "doi": "10.1609/aaai.v33i01.33011829",
       "arxivId": "1809.04040",
       "pdf": "https://www.aaai.org/ojs/index.php/AAAI/article/download/4007/3885",
-      "citationCount": 206,
+      "citationCount": 207,
       "referenceCount": 34,
       "influentialCitationCount": 41,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 0d84ed33bee6a1898d0104f824e78716947ab2b5",
@@ -2596,7 +2596,7 @@
       "doi": null,
       "arxivId": "1811.00164",
       "pdf": null,
-      "citationCount": 269,
+      "citationCount": 270,
       "referenceCount": 54,
       "influentialCitationCount": 42,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 42c01c027db1e1d9846f13b73e0846bcd3852e65",
@@ -2667,7 +2667,7 @@
       "doi": "10.1126/science.aao1733",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 855,
+      "citationCount": 856,
       "referenceCount": 50,
       "influentialCitationCount": 46,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | eaabb78d0bc44ed132e4d077e9486c86a9e4cda9",
@@ -3434,7 +3434,7 @@
       "doi": "10.1609/aaai.v28i1.8832",
       "arxivId": null,
       "pdf": "https://doi.org/10.1609/aaai.v28i1.8832",
-      "citationCount": 33,
+      "citationCount": 34,
       "referenceCount": 20,
       "influentialCitationCount": 0,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | f8142d2f5244f99c4107e9d928ba56b115d41794",
