@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T14:30:55.324Z",
+  "updatedAt": "2026-10-02T13:47:31.319Z",
   "core": [
     {
       "id": "1167853b9cff97347fc7beb1c8ce92fc95486a1a",
@@ -2301,7 +2301,7 @@
       "doi": "10.1126/science.aay2400",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 918,
+      "citationCount": 920,
       "referenceCount": 30,
       "influentialCitationCount": 59,
       "source": "author: https://www.semanticscholar.org/author/Noam-Brown/2685623 | 2ee463bba9d4db6aec0eab17e54431a6dc80bf17",
@@ -3531,7 +3531,6 @@
         "E. Baehrecke",
         "E. Baetge",
         "Eldon E. Ball",
-        "Buzz Baum",
         "S. Baumgartner",
         "M. Baylies",
         "R. Beckstead",

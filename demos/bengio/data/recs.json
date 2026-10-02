@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T14:30:27.630Z",
+  "updatedAt": "2026-10-02T13:47:16.668Z",
   "recs": [
     {
       "id": "7c5e23306b57b06d97a1569f6fcd5300a12597bd",
@@ -29,10 +29,10 @@
       "referenceCount": 30,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-01",
+      "addedAt": "2026-10-02",
       "overlap": 9,
       "direction": "forward",
-      "score": 38.801431604628625,
+      "score": 33.388395315032085,
       "why": "past month · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past month"
@@ -71,10 +71,10 @@
       "referenceCount": 62,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-01",
+      "addedAt": "2026-10-02",
       "overlap": 6,
       "direction": "forward",
-      "score": 34.62210030008187,
+      "score": 29.79394361848034,
       "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -114,10 +114,10 @@
       "referenceCount": 94,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-01",
+      "addedAt": "2026-10-02",
       "overlap": 5,
       "direction": "forward",
-      "score": 30.965717619398674,
+      "score": 26.6468929996227,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -159,10 +159,10 @@
       "referenceCount": 74,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-01",
+      "addedAt": "2026-10-02",
       "overlap": 9,
       "direction": "forward",
-      "score": 27.730651507891864,
+      "score": 23.862957230569805,
       "why": "past year · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -171,7 +171,7 @@
       "id": "d7ae6be525e6761003ad0a614d6ad4d4b0346ad3",
       "title": "Can Local Learning Match Self-Supervised Backpropagation?",
       "authors": [
-        "Zihan Wu",
+        "Zi-Han Wu",
         "Ariane Delrocq",
         "W. Gerstner",
         "G. Bellec"
@@ -201,57 +201,11 @@
       "referenceCount": 89,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-01",
+      "addedAt": "2026-10-02",
       "overlap": 7,
       "direction": "forward",
-      "score": 25.80173886801308,
+      "score": 22.199544108862842,
       "why": "past year · cites 7 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "3885f624b96e2051588b5c1844d2c3c8af3c4ada",
-      "title": "Optical Implementation of Equilibrium Propagation Using Spatial Photonic Ising Machines",
-      "authors": [
-        "Dimitri Vanden Abeele",
-        "D. Veraldi",
-        "D. Pierangeli",
-        "C. Conti",
-        "Serge Massar"
-      ],
-      "topAuthors": [
-        {
-          "name": "D. Pierangeli",
-          "hIndex": 19,
-          "authorId": "5214932"
-        },
-        {
-          "name": "C. Conti",
-          "hIndex": 7,
-          "authorId": "2237854948"
-        }
-      ],
-      "affiliations": [
-        "Sapienza University of Rome",
-        "Université Libre de Bruxelles"
-      ],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-06-11",
-      "summary": "This work provides a concrete pathway toward energy-efficient physical implementations of Equilibrium Propagation using a Spatial Photonic Ising Machine (SPIM), which exploits the gauge transformation method to optically encode both continuous neuron states and rank-1 binary trainable patterns as phase modulations via a spatial light modulator.",
-      "url": "https://www.semanticscholar.org/paper/3885f624b96e2051588b5c1844d2c3c8af3c4ada",
-      "doi": "10.48550/arXiv.2606.13454",
-      "arxivId": "2606.13454",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 56,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-01",
-      "overlap": 5,
-      "direction": "forward",
-      "score": 23.709686151005805,
-      "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -283,10 +237,10 @@
       "referenceCount": 23,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-01",
+      "addedAt": "2026-10-02",
       "overlap": 7,
       "direction": "forward",
-      "score": 23.655143140817362,
+      "score": 20.35426489988159,
       "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -332,10 +286,10 @@
       "referenceCount": 92,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-01",
+      "addedAt": "2026-10-02",
       "overlap": 6,
       "direction": "forward",
-      "score": 23.47245360624582,
+      "score": 20.198583845736618,
       "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -371,11 +325,11 @@
       "doi": null,
       "arxivId": "1412.6980",
       "pdf": null,
-      "citationCount": 171611,
+      "citationCount": 171714,
       "referenceCount": 26,
-      "influentialCitationCount": 27128,
+      "influentialCitationCount": 27145,
       "source": null,
-      "addedAt": "2026-10-01",
+      "addedAt": "2026-10-02",
       "overlap": 124,
       "direction": "backward",
       "score": 100,
@@ -408,46 +362,11 @@
       "referenceCount": 139,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-01",
-      "overlap": 24,
+      "addedAt": "2026-10-02",
+      "overlap": 25,
       "direction": "forward",
       "score": 99.03229878562126,
-      "why": "cites 24 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "4d08dcd2cc1e9691defe664a10f021424a896a1e",
-      "title": "Neural Machine Translation: A Review",
-      "authors": [
-        "Felix Stahlberg"
-      ],
-      "topAuthors": [
-        {
-          "name": "Felix Stahlberg",
-          "hIndex": 21,
-          "authorId": "48404632"
-        }
-      ],
-      "affiliations": [
-        "Google Research"
-      ],
-      "year": 2019,
-      "venue": "Journal of Artificial Intelligence Research",
-      "publicationDate": "2019-12-04",
-      "summary": "This work traces back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family and concludes with a short survey of more recent trends in the field.",
-      "url": "https://www.semanticscholar.org/paper/4d08dcd2cc1e9691defe664a10f021424a896a1e",
-      "doi": "10.1613/JAIR.1.12007",
-      "arxivId": "1912.02047",
-      "pdf": "https://jair.org/index.php/jair/article/download/12007/26611",
-      "citationCount": 445,
-      "referenceCount": 648,
-      "influentialCitationCount": 9,
-      "source": null,
-      "addedAt": "2026-10-01",
-      "overlap": 21,
-      "direction": "forward",
-      "score": 92.42733616623372,
-      "why": "cites 21 in your list",
+      "why": "cites 25 in your list",
       "fromReferences": false
     },
     {
@@ -481,50 +400,15 @@
       "doi": "10.1162/neco.1997.9.8.1735",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 110819,
+      "citationCount": 110915,
       "referenceCount": 48,
-      "influentialCitationCount": 10380,
+      "influentialCitationCount": 10383,
       "source": null,
-      "addedAt": "2026-10-01",
+      "addedAt": "2026-10-02",
       "overlap": 105,
       "direction": "backward",
-      "score": 91.5026765992262,
+      "score": 91.85424834354576,
       "why": "cited by 105 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "38b40ae531ddca434de07015637b78413370d15a",
-      "title": "The Roles of Language Models and Hierarchical Models in Neural Sequence-to-Sequence Prediction",
-      "authors": [
-        "Felix Stahlberg"
-      ],
-      "topAuthors": [
-        {
-          "name": "Felix Stahlberg",
-          "hIndex": 21,
-          "authorId": "48404632"
-        }
-      ],
-      "affiliations": [
-        "Google Research"
-      ],
-      "year": 2020,
-      "venue": "European Association for Machine Translation Conferences/Workshops",
-      "publicationDate": "2020-05-16",
-      "summary": "It is shown how traditional symbolic statistical machine translation models can still improve neural machine translation while reducing the risk of common pathologies of NMT such as hallucinations and neologisms.",
-      "url": "https://www.semanticscholar.org/paper/38b40ae531ddca434de07015637b78413370d15a",
-      "doi": "10.17863/CAM.49422",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 4,
-      "referenceCount": 751,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-01",
-      "overlap": 21,
-      "direction": "forward",
-      "score": 86.10667287586573,
-      "why": "cites 21 in your list",
       "fromReferences": false
     },
     {
@@ -555,11 +439,120 @@
       "referenceCount": 190,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-10-01",
-      "overlap": 23,
+      "addedAt": "2026-10-02",
+      "overlap": 24,
       "direction": "forward",
-      "score": 83.1836664683562,
-      "why": "cites 23 in your list",
+      "score": 83.98721223846641,
+      "why": "cites 24 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "4d08dcd2cc1e9691defe664a10f021424a896a1e",
+      "title": "Neural Machine Translation: A Review",
+      "authors": [
+        "Felix Stahlberg"
+      ],
+      "topAuthors": [
+        {
+          "name": "Felix Stahlberg",
+          "hIndex": 21,
+          "authorId": "48404632"
+        }
+      ],
+      "affiliations": [
+        "Google Research"
+      ],
+      "year": 2019,
+      "venue": "Journal of Artificial Intelligence Research",
+      "publicationDate": "2019-12-04",
+      "summary": "This work traces back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family and concludes with a short survey of more recent trends in the field.",
+      "url": "https://www.semanticscholar.org/paper/4d08dcd2cc1e9691defe664a10f021424a896a1e",
+      "doi": "10.1613/JAIR.1.12007",
+      "arxivId": "1912.02047",
+      "pdf": "https://jair.org/index.php/jair/article/download/12007/26611",
+      "citationCount": 445,
+      "referenceCount": 648,
+      "influentialCitationCount": 9,
+      "source": null,
+      "addedAt": "2026-10-02",
+      "overlap": 21,
+      "direction": "forward",
+      "score": 82.08714829032607,
+      "why": "cites 21 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "38b40ae531ddca434de07015637b78413370d15a",
+      "title": "The Roles of Language Models and Hierarchical Models in Neural Sequence-to-Sequence Prediction",
+      "authors": [
+        "Felix Stahlberg"
+      ],
+      "topAuthors": [
+        {
+          "name": "Felix Stahlberg",
+          "hIndex": 21,
+          "authorId": "48404632"
+        }
+      ],
+      "affiliations": [
+        "Google Research"
+      ],
+      "year": 2020,
+      "venue": "European Association for Machine Translation Conferences/Workshops",
+      "publicationDate": "2020-05-16",
+      "summary": "It is shown how traditional symbolic statistical machine translation models can still improve neural machine translation while reducing the risk of common pathologies of NMT such as hallucinations and neologisms.",
+      "url": "https://www.semanticscholar.org/paper/38b40ae531ddca434de07015637b78413370d15a",
+      "doi": "10.17863/CAM.49422",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 4,
+      "referenceCount": 751,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-02",
+      "overlap": 21,
+      "direction": "forward",
+      "score": 77.59077859053879,
+      "why": "cites 21 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "ddc45fad8d15771d9f1f8579331458785b2cdd93",
+      "title": "Deep Boltzmann Machines",
+      "authors": [
+        "R. Salakhutdinov",
+        "Geoffrey E. Hinton"
+      ],
+      "topAuthors": [
+        {
+          "name": "Geoffrey E. Hinton",
+          "hIndex": 158,
+          "authorId": "1695689"
+        },
+        {
+          "name": "R. Salakhutdinov",
+          "hIndex": 121,
+          "authorId": "145124475"
+        }
+      ],
+      "affiliations": [],
+      "year": 2009,
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "publicationDate": "2009-04-15",
+      "summary": "A new learning algorithm for Boltzmann machines that contain many layers of hidden variables that is made more efficient by using a layer-by-layer “pre-training” phase that allows variational inference to be initialized with a single bottomup pass.",
+      "url": "https://www.semanticscholar.org/paper/ddc45fad8d15771d9f1f8579331458785b2cdd93",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 2360,
+      "referenceCount": 22,
+      "influentialCitationCount": 243,
+      "source": null,
+      "addedAt": "2026-10-02",
+      "overlap": 39,
+      "direction": "backward",
+      "score": 77.4762969843526,
+      "why": "cited by 39 in your list",
       "fromReferences": false
     },
     {
@@ -590,44 +583,55 @@
       "referenceCount": 206,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-01",
+      "addedAt": "2026-10-02",
       "overlap": 18,
       "direction": "forward",
-      "score": 79.45112784092098,
+      "score": 72.9139021304749,
       "why": "cites 18 in your list",
       "fromReferences": false
     },
     {
-      "id": "a867efc1cbefa4653dffc295c482156b0a6f2133",
-      "title": "Foundations and Advances in Deep Learning",
+      "id": "874bf9750efab1b7d65dfb1cd1d6c6576e360ddb",
+      "title": "An overview on Restricted Boltzmann Machines",
       "authors": [
-        "Kyunghyun Cho"
+        "Nan Zhang",
+        "Shifei Ding",
+        "Jian Zhang",
+        "Yu Xue"
       ],
       "topAuthors": [
         {
-          "name": "Kyunghyun Cho",
-          "hIndex": 96,
-          "authorId": "1979489"
+          "name": "Nan Zhang",
+          "hIndex": 56,
+          "authorId": "144679565"
+        },
+        {
+          "name": "Yu Xue",
+          "hIndex": 38,
+          "authorId": "46364560"
         }
       ],
-      "affiliations": [],
-      "year": 2014,
-      "venue": null,
-      "publicationDate": null,
-      "summary": "This thesis starts from some of the earlier ideas and models in the field of artificial neural networks and arrives at autoencoders and Boltzmann machines which are two most widely studied neural networks these days.",
-      "url": "https://www.semanticscholar.org/paper/a867efc1cbefa4653dffc295c482156b0a6f2133",
-      "doi": null,
+      "affiliations": [
+        "Chinese Academy of Sciences",
+        "Nanjing University of Information Science and Technology"
+      ],
+      "year": 2018,
+      "venue": "Neurocomputing",
+      "publicationDate": "2018-01-31",
+      "summary": "This review aims to report the recent developments in theoretical research and applications of the Restricted Boltzmann Machine, including stochastic approximation methods, stochastically gradient methods, and preventing overfitting methods.",
+      "url": "https://www.semanticscholar.org/paper/874bf9750efab1b7d65dfb1cd1d6c6576e360ddb",
+      "doi": "10.1016/j.neucom.2017.09.065",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 16,
-      "referenceCount": 177,
-      "influentialCitationCount": 2,
+      "citationCount": 158,
+      "referenceCount": 109,
+      "influentialCitationCount": 7,
       "source": null,
-      "addedAt": "2026-10-01",
-      "overlap": 15,
+      "addedAt": "2026-10-02",
+      "overlap": 13,
       "direction": "forward",
-      "score": 76.4326833156886,
-      "why": "cites 15 in your list",
+      "score": 72.35193756238601,
+      "why": "cites 13 in your list",
       "fromReferences": false
     },
     {
@@ -664,89 +668,11 @@
       "referenceCount": 454,
       "influentialCitationCount": 145,
       "source": null,
-      "addedAt": "2026-10-01",
-      "overlap": 19,
+      "addedAt": "2026-10-02",
+      "overlap": 20,
       "direction": "forward",
-      "score": 73.42844300089052,
-      "why": "cites 19 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "5d3792a19c301b501d0c4260a3115cc8856be43a",
-      "title": "PRÉSENTATION GÉNÉRALE",
-      "authors": [
-        "Annie Montaut",
-        "Katharina Haude"
-      ],
-      "topAuthors": [
-        {
-          "name": "Katharina Haude",
-          "hIndex": 1,
-          "authorId": "2500169746"
-        },
-        {
-          "name": "Annie Montaut",
-          "hIndex": 0,
-          "authorId": null
-        }
-      ],
-      "affiliations": [],
-      "year": 2019,
-      "venue": "Les premieres annees du roi Zimri-Lim de Mari",
-      "publicationDate": "2019-06-06",
-      "summary": "",
-      "url": "https://www.semanticscholar.org/paper/5d3792a19c301b501d0c4260a3115cc8856be43a",
-      "doi": "10.18356/d5b631d6-fr",
-      "arxivId": null,
-      "pdf": "https://books.openedition.org/septentrion/91243",
-      "citationCount": 29,
-      "referenceCount": 440,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-01",
-      "overlap": 7,
-      "direction": "forward",
-      "score": 69.65960983106852,
-      "why": "cites 7 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "ddc45fad8d15771d9f1f8579331458785b2cdd93",
-      "title": "Deep Boltzmann Machines",
-      "authors": [
-        "R. Salakhutdinov",
-        "Geoffrey E. Hinton"
-      ],
-      "topAuthors": [
-        {
-          "name": "Geoffrey E. Hinton",
-          "hIndex": 158,
-          "authorId": "1695689"
-        },
-        {
-          "name": "R. Salakhutdinov",
-          "hIndex": 121,
-          "authorId": "145124475"
-        }
-      ],
-      "affiliations": [],
-      "year": 2009,
-      "venue": "International Conference on Artificial Intelligence and Statistics",
-      "publicationDate": "2009-04-15",
-      "summary": "A new learning algorithm for Boltzmann machines that contain many layers of hidden variables that is made more efficient by using a layer-by-layer “pre-training” phase that allows variational inference to be initialized with a single bottomup pass.",
-      "url": "https://www.semanticscholar.org/paper/ddc45fad8d15771d9f1f8579331458785b2cdd93",
-      "doi": null,
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 2360,
-      "referenceCount": 22,
-      "influentialCitationCount": 243,
-      "source": null,
-      "addedAt": "2026-10-01",
-      "overlap": 39,
-      "direction": "backward",
-      "score": 69.40584938181586,
-      "why": "cited by 39 in your list",
+      "score": 71.0546439959298,
+      "why": "cites 20 in your list",
       "fromReferences": false
     },
     {
@@ -780,11 +706,11 @@
       "doi": null,
       "arxivId": "1409.3215",
       "pdf": null,
-      "citationCount": 22424,
+      "citationCount": 22435,
       "referenceCount": 40,
-      "influentialCitationCount": 1415,
+      "influentialCitationCount": 1414,
       "source": null,
-      "addedAt": "2026-10-01",
+      "addedAt": "2026-10-02",
       "overlap": 55,
       "direction": "backward",
       "score": 68.9353848038521,
@@ -821,15 +747,171 @@
       "doi": null,
       "arxivId": "1502.03167",
       "pdf": null,
-      "citationCount": 47860,
+      "citationCount": 47873,
       "referenceCount": 54,
       "influentialCitationCount": 2326,
       "source": null,
-      "addedAt": "2026-10-01",
+      "addedAt": "2026-10-02",
       "overlap": 67,
       "direction": "backward",
       "score": 68.91675374320539,
       "why": "cited by 67 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "8978cf7574ceb35f4c3096be768c7547b28a35d0",
+      "title": "A Fast Learning Algorithm for Deep Belief Nets",
+      "authors": [
+        "Geoffrey E. Hinton",
+        "Simon Osindero",
+        "Y. Teh"
+      ],
+      "topAuthors": [
+        {
+          "name": "Geoffrey E. Hinton",
+          "hIndex": 158,
+          "authorId": "1695689"
+        },
+        {
+          "name": "Simon Osindero",
+          "hIndex": 37,
+          "authorId": "2217144"
+        }
+      ],
+      "affiliations": [
+        "University of Toronto",
+        "National University of Singapore"
+      ],
+      "year": 2006,
+      "venue": "Neural Computation",
+      "publicationDate": "2006-07-01",
+      "summary": "A fast, greedy algorithm is derived that can learn deep, directed belief networks one layer at a time, provided the top two layers form an undirected associative memory.",
+      "url": "https://www.semanticscholar.org/paper/8978cf7574ceb35f4c3096be768c7547b28a35d0",
+      "doi": "10.1162/neco.2006.18.7.1527",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 17057,
+      "referenceCount": 39,
+      "influentialCitationCount": 1233,
+      "source": null,
+      "addedAt": "2026-10-02",
+      "overlap": 48,
+      "direction": "backward",
+      "score": 64.66160113320323,
+      "why": "cited by 48 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "e1a1c3d3e0336d6bfc48fd480a9d18a4f92edc60",
+      "title": "Training restricted Boltzmann machines: An introduction",
+      "authors": [
+        "Asja Fischer",
+        "C. Igel"
+      ],
+      "topAuthors": [
+        {
+          "name": "C. Igel",
+          "hIndex": 55,
+          "authorId": "1748824"
+        },
+        {
+          "name": "Asja Fischer",
+          "hIndex": 27,
+          "authorId": "35988982"
+        }
+      ],
+      "affiliations": [
+        "University of Copenhagen"
+      ],
+      "year": 2014,
+      "venue": "Pattern Recognition",
+      "publicationDate": null,
+      "summary": "This tutorial introduces RBMs from the viewpoint of Markov random fields, starting with the required concepts of undirected graphical models and reviewing the state-of-the-art in training restricted Boltzmann machines from the perspective of graphical models.",
+      "url": "https://www.semanticscholar.org/paper/e1a1c3d3e0336d6bfc48fd480a9d18a4f92edc60",
+      "doi": "10.1016/J.PATCOG.2013.05.025",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 514,
+      "referenceCount": 127,
+      "influentialCitationCount": 33,
+      "source": null,
+      "addedAt": "2026-10-02",
+      "overlap": 13,
+      "direction": "forward",
+      "score": 61.48174023648283,
+      "why": "cites 13 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "a867efc1cbefa4653dffc295c482156b0a6f2133",
+      "title": "Foundations and Advances in Deep Learning",
+      "authors": [
+        "Kyunghyun Cho"
+      ],
+      "topAuthors": [
+        {
+          "name": "Kyunghyun Cho",
+          "hIndex": 96,
+          "authorId": "1979489"
+        }
+      ],
+      "affiliations": [],
+      "year": 2014,
+      "venue": null,
+      "publicationDate": null,
+      "summary": "This thesis starts from some of the earlier ideas and models in the field of artificial neural networks and arrives at autoencoders and Boltzmann machines which are two most widely studied neural networks these days.",
+      "url": "https://www.semanticscholar.org/paper/a867efc1cbefa4653dffc295c482156b0a6f2133",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 16,
+      "referenceCount": 177,
+      "influentialCitationCount": 2,
+      "source": null,
+      "addedAt": "2026-10-02",
+      "overlap": 14,
+      "direction": "forward",
+      "score": 61.03416616834766,
+      "why": "cites 14 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "5d3792a19c301b501d0c4260a3115cc8856be43a",
+      "title": "PRÉSENTATION GÉNÉRALE",
+      "authors": [
+        "Annie Montaut",
+        "Katharina Haude"
+      ],
+      "topAuthors": [
+        {
+          "name": "Katharina Haude",
+          "hIndex": 1,
+          "authorId": "2500169746"
+        },
+        {
+          "name": "Annie Montaut",
+          "hIndex": 0,
+          "authorId": null
+        }
+      ],
+      "affiliations": [],
+      "year": 2019,
+      "venue": "Les premieres annees du roi Zimri-Lim de Mari",
+      "publicationDate": "2019-06-06",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/5d3792a19c301b501d0c4260a3115cc8856be43a",
+      "doi": "10.18356/d5b631d6-fr",
+      "arxivId": null,
+      "pdf": "https://books.openedition.org/septentrion/91243",
+      "citationCount": 29,
+      "referenceCount": 440,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-02",
+      "overlap": 7,
+      "direction": "forward",
+      "score": 59.94536639324816,
+      "why": "cites 7 in your list",
       "fromReferences": false
     },
     {
@@ -867,129 +949,53 @@
       "referenceCount": 132,
       "influentialCitationCount": 9,
       "source": null,
-      "addedAt": "2026-10-01",
+      "addedAt": "2026-10-02",
       "overlap": 10,
       "direction": "forward",
-      "score": 68.54753953401686,
+      "score": 58.988377665153415,
       "why": "cites 10 in your list",
       "fromReferences": false
     },
     {
-      "id": "79bbab8f26f9ef6179c955d9c18b2a75e27bdc4b",
-      "title": "Deep learning of representations and its application to computer vision",
+      "id": "5c66b83bb492b0e2824cdaffc3f1fb61b639c7b4",
+      "title": "Deep Learning for Natural Language Processing: A Survey",
       "authors": [
-        "I. Goodfellow"
+        "E. O. Arkhangelskaya",
+        "S. Nikolenko"
       ],
       "topAuthors": [
         {
-          "name": "I. Goodfellow",
-          "hIndex": 62,
-          "authorId": "153440022"
-        }
-      ],
-      "affiliations": [],
-      "year": 2015,
-      "venue": null,
-      "publicationDate": "2015-02-18",
-      "summary": "",
-      "url": "https://www.semanticscholar.org/paper/79bbab8f26f9ef6179c955d9c18b2a75e27bdc4b",
-      "doi": null,
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 5,
-      "referenceCount": 137,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-01",
-      "overlap": 13,
-      "direction": "forward",
-      "score": 65.54996718274533,
-      "why": "cites 13 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "9c7628cc4efdbaefa54c1571113ef7831fadd0e3",
-      "title": "Episodes Meta Sequence S 2 Fast Update Slow Update Fast Update Slow Update",
-      "authors": [
-        "Kanika Madan",
-        "R. Ke",
-        "Anirudh Goyal",
-        "B. Schölkopf",
-        "Y. Bengio"
-      ],
-      "topAuthors": [
-        {
-          "name": "B. Schölkopf",
-          "hIndex": 178,
-          "authorId": "1707625"
+          "name": "S. Nikolenko",
+          "hIndex": 2,
+          "authorId": "2196980727"
         },
         {
-          "name": "Y. Bengio",
-          "hIndex": 62,
-          "authorId": "1865800402"
+          "name": "E. O. Arkhangelskaya",
+          "hIndex": 1,
+          "authorId": "2221056984"
         }
       ],
       "affiliations": [
-        "Mila, University of Montreal"
+        "Saarland University",
+        "St Petersburg University"
       ],
-      "year": 2021,
-      "venue": null,
-      "publicationDate": null,
-      "summary": "It is found that meta-learning the modular aspects of the proposed system greatly helps in achieving faster adaptation in a reinforcement learning setup involving navigation in a partially observed grid world with image-level input and reversing the role of parameters and meta-parameters does not work nearly as well, suggesting a particular role for fast adaptation of the dynamically selected modules.",
-      "url": "https://www.semanticscholar.org/paper/9c7628cc4efdbaefa54c1571113ef7831fadd0e3",
-      "doi": null,
+      "year": 2023,
+      "venue": "Journal of Mathematical Sciences",
+      "publicationDate": "2023-06-26",
+      "summary": "Various deep architectures that have either arisen specifically for NLP tasks or have become a method of choice for them are surveyed; the tasks include sentiment analysis, dependency parsing, machine translation, dialog and conversational models, question answering, and other applications.",
+      "url": "https://www.semanticscholar.org/paper/5c66b83bb492b0e2824cdaffc3f1fb61b639c7b4",
+      "doi": "10.1007/s10958-023-06519-6",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 47,
+      "citationCount": 21,
+      "referenceCount": 355,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-01",
-      "overlap": 11,
+      "addedAt": "2026-10-02",
+      "overlap": 24,
       "direction": "forward",
-      "score": 63.22518261590724,
-      "why": "cites 11 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "e1a1c3d3e0336d6bfc48fd480a9d18a4f92edc60",
-      "title": "Training restricted Boltzmann machines: An introduction",
-      "authors": [
-        "Asja Fischer",
-        "C. Igel"
-      ],
-      "topAuthors": [
-        {
-          "name": "C. Igel",
-          "hIndex": 55,
-          "authorId": "1748824"
-        },
-        {
-          "name": "Asja Fischer",
-          "hIndex": 27,
-          "authorId": "35988982"
-        }
-      ],
-      "affiliations": [
-        "University of Copenhagen"
-      ],
-      "year": 2014,
-      "venue": "Pattern Recognition",
-      "publicationDate": null,
-      "summary": "This tutorial introduces RBMs from the viewpoint of Markov random fields, starting with the required concepts of undirected graphical models and reviewing the state-of-the-art in training restricted Boltzmann machines from the perspective of graphical models.",
-      "url": "https://www.semanticscholar.org/paper/e1a1c3d3e0336d6bfc48fd480a9d18a4f92edc60",
-      "doi": "10.1016/J.PATCOG.2013.05.025",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 514,
-      "referenceCount": 127,
-      "influentialCitationCount": 33,
-      "source": null,
-      "addedAt": "2026-10-01",
-      "overlap": 13,
-      "direction": "forward",
-      "score": 62.86892637582863,
-      "why": "cites 13 in your list",
+      "score": 56.63297205604797,
+      "why": "cites 24 in your list",
       "fromReferences": false
     }
   ]
