@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T13:47:16.668Z",
+  "updatedAt": "2026-10-03T14:09:12.046Z",
   "recs": [
     {
       "id": "7c5e23306b57b06d97a1569f6fcd5300a12597bd",
@@ -29,7 +29,7 @@
       "referenceCount": 30,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 9,
       "direction": "forward",
       "score": 33.388395315032085,
@@ -71,7 +71,7 @@
       "referenceCount": 62,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 6,
       "direction": "forward",
       "score": 29.79394361848034,
@@ -114,10 +114,10 @@
       "referenceCount": 94,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 5,
       "direction": "forward",
-      "score": 26.6468929996227,
+      "score": 26.646332123613053,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -159,53 +159,11 @@
       "referenceCount": 74,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 9,
       "direction": "forward",
-      "score": 23.862957230569805,
+      "score": 23.862685876918142,
       "why": "past year · cites 9 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year"
-    },
-    {
-      "id": "d7ae6be525e6761003ad0a614d6ad4d4b0346ad3",
-      "title": "Can Local Learning Match Self-Supervised Backpropagation?",
-      "authors": [
-        "Zi-Han Wu",
-        "Ariane Delrocq",
-        "W. Gerstner",
-        "G. Bellec"
-      ],
-      "topAuthors": [
-        {
-          "name": "W. Gerstner",
-          "hIndex": 84,
-          "authorId": "1708945"
-        },
-        {
-          "name": "G. Bellec",
-          "hIndex": 12,
-          "authorId": "3401407"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-01-29",
-      "summary": "The best local-SSL rule with the CLAPP loss function matches the performance of a comparable global BP-SSL with InfoNCE or CPC-like loss functions, and improves upon state-of-the-art for local SSL on these benchmarks.",
-      "url": "https://www.semanticscholar.org/paper/d7ae6be525e6761003ad0a614d6ad4d4b0346ad3",
-      "doi": "10.48550/arXiv.2601.21683",
-      "arxivId": "2601.21683",
-      "pdf": null,
-      "citationCount": 1,
-      "referenceCount": 89,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-02",
-      "overlap": 7,
-      "direction": "forward",
-      "score": 22.199544108862842,
-      "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
     },
@@ -237,10 +195,10 @@
       "referenceCount": 23,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 7,
       "direction": "forward",
-      "score": 20.35426489988159,
+      "score": 20.355158937601157,
       "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -286,10 +244,10 @@
       "referenceCount": 92,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 6,
       "direction": "forward",
-      "score": 20.198583845736618,
+      "score": 20.198019485933933,
       "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year"
@@ -325,11 +283,11 @@
       "doi": null,
       "arxivId": "1412.6980",
       "pdf": null,
-      "citationCount": 171714,
+      "citationCount": 171744,
       "referenceCount": 26,
-      "influentialCitationCount": 27145,
+      "influentialCitationCount": 27149,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 124,
       "direction": "backward",
       "score": 100,
@@ -362,7 +320,7 @@
       "referenceCount": 139,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 25,
       "direction": "forward",
       "score": 99.03229878562126,
@@ -400,14 +358,14 @@
       "doi": "10.1162/neco.1997.9.8.1735",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 110915,
+      "citationCount": 110966,
       "referenceCount": 48,
-      "influentialCitationCount": 10383,
+      "influentialCitationCount": 10385,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 105,
       "direction": "backward",
-      "score": 91.85424834354576,
+      "score": 91.25976213269425,
       "why": "cited by 105 in your list",
       "fromReferences": false
     },
@@ -439,10 +397,10 @@
       "referenceCount": 190,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 24,
       "direction": "forward",
-      "score": 83.98721223846641,
+      "score": 85.44871247636672,
       "why": "cites 24 in your list",
       "fromReferences": false
     },
@@ -474,10 +432,10 @@
       "referenceCount": 648,
       "influentialCitationCount": 9,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 21,
       "direction": "forward",
-      "score": 82.08714829032607,
+      "score": 82.08812014086855,
       "why": "cites 21 in your list",
       "fromReferences": false
     },
@@ -509,10 +467,10 @@
       "referenceCount": 751,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 21,
       "direction": "forward",
-      "score": 77.59077859053879,
+      "score": 77.59175044108129,
       "why": "cites 21 in your list",
       "fromReferences": false
     },
@@ -544,15 +502,56 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 2360,
+      "citationCount": 2359,
       "referenceCount": 22,
       "influentialCitationCount": 243,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 39,
       "direction": "backward",
-      "score": 77.4762969843526,
+      "score": 76.97486573805061,
       "why": "cited by 39 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "f58ea68448a584b8c8540c86bb9965d746b767a9",
+      "title": "Deep Learning: Methods and Applications",
+      "authors": [
+        "L. Deng",
+        "Dong Yu"
+      ],
+      "topAuthors": [
+        {
+          "name": "L. Deng",
+          "hIndex": 89,
+          "authorId": "144718788"
+        },
+        {
+          "name": "Dong Yu",
+          "hIndex": 86,
+          "authorId": "144580027"
+        }
+      ],
+      "affiliations": [
+        "Microsoft (United States)"
+      ],
+      "year": 2014,
+      "venue": "Foundations and Trends® in Signal Processing",
+      "publicationDate": "2014-06-12",
+      "summary": "This monograph provides an overview of general deep learning methodology and its applications to a variety of signal and information processing tasks, including natural language and text processing, information retrieval, and multimodal information processing empowered by multi-task deep learning.",
+      "url": "https://www.semanticscholar.org/paper/f58ea68448a584b8c8540c86bb9965d746b767a9",
+      "doi": "10.1561/2000000039",
+      "arxivId": null,
+      "pdf": "https://www.ped-perinatology.ru/jour/article/download/586/570",
+      "citationCount": 3891,
+      "referenceCount": 454,
+      "influentialCitationCount": 145,
+      "source": null,
+      "addedAt": "2026-10-03",
+      "overlap": 20,
+      "direction": "forward",
+      "score": 73.6960744655074,
+      "why": "cites 20 in your list",
       "fromReferences": false
     },
     {
@@ -583,10 +582,10 @@
       "referenceCount": 206,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 18,
       "direction": "forward",
-      "score": 72.9139021304749,
+      "score": 72.9133115289074,
       "why": "cites 18 in your list",
       "fromReferences": false
     },
@@ -627,7 +626,7 @@
       "referenceCount": 109,
       "influentialCitationCount": 7,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 13,
       "direction": "forward",
       "score": 72.35193756238601,
@@ -635,44 +634,44 @@
       "fromReferences": false
     },
     {
-      "id": "f58ea68448a584b8c8540c86bb9965d746b767a9",
-      "title": "Deep Learning: Methods and Applications",
+      "id": "995c5f5e62614fcb4d2796ad2faab969da51713e",
+      "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
       "authors": [
-        "L. Deng",
-        "Dong Yu"
+        "Sergey Ioffe",
+        "Christian Szegedy"
       ],
       "topAuthors": [
         {
-          "name": "L. Deng",
-          "hIndex": 89,
-          "authorId": "144718788"
+          "name": "Christian Szegedy",
+          "hIndex": 29,
+          "authorId": "2574060"
         },
         {
-          "name": "Dong Yu",
-          "hIndex": 86,
-          "authorId": "144580027"
+          "name": "Sergey Ioffe",
+          "hIndex": 20,
+          "authorId": "2054165706"
         }
       ],
       "affiliations": [
-        "Microsoft (United States)"
+        "Google (United States)"
       ],
-      "year": 2014,
-      "venue": "Foundations and Trends® in Signal Processing",
-      "publicationDate": "2014-06-12",
-      "summary": "This monograph provides an overview of general deep learning methodology and its applications to a variety of signal and information processing tasks, including natural language and text processing, information retrieval, and multimodal information processing empowered by multi-task deep learning.",
-      "url": "https://www.semanticscholar.org/paper/f58ea68448a584b8c8540c86bb9965d746b767a9",
-      "doi": "10.1561/2000000039",
-      "arxivId": null,
-      "pdf": "https://www.ped-perinatology.ru/jour/article/download/586/570",
-      "citationCount": 3891,
-      "referenceCount": 454,
-      "influentialCitationCount": 145,
+      "year": 2015,
+      "venue": "International Conference on Machine Learning",
+      "publicationDate": "2015-02-10",
+      "summary": "Applied to a state-of-the-art image classification model, Batch Normalization achieves the same accuracy with 14 times fewer training steps, and beats the original model by a significant margin.",
+      "url": "https://www.semanticscholar.org/paper/995c5f5e62614fcb4d2796ad2faab969da51713e",
+      "doi": null,
+      "arxivId": "1502.03167",
+      "pdf": null,
+      "citationCount": 47882,
+      "referenceCount": 54,
+      "influentialCitationCount": 2327,
       "source": null,
-      "addedAt": "2026-10-02",
-      "overlap": 20,
-      "direction": "forward",
-      "score": 71.0546439959298,
-      "why": "cites 20 in your list",
+      "addedAt": "2026-10-03",
+      "overlap": 67,
+      "direction": "backward",
+      "score": 68.88445442878786,
+      "why": "cited by 67 in your list",
       "fromReferences": false
     },
     {
@@ -706,56 +705,57 @@
       "doi": null,
       "arxivId": "1409.3215",
       "pdf": null,
-      "citationCount": 22435,
+      "citationCount": 22440,
       "referenceCount": 40,
       "influentialCitationCount": 1414,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 55,
       "direction": "backward",
-      "score": 68.9353848038521,
+      "score": 68.4892308540385,
       "why": "cited by 55 in your list",
       "fromReferences": false
     },
     {
-      "id": "995c5f5e62614fcb4d2796ad2faab969da51713e",
-      "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+      "id": "cbb8670258f80caf8168e47ee3b6d979446c8851",
+      "title": "A survey of hybrid ANN/HMM models for automatic speech recognition",
       "authors": [
-        "Sergey Ioffe",
-        "Christian Szegedy"
+        "E. Trentin",
+        "M. Gori"
       ],
       "topAuthors": [
         {
-          "name": "Christian Szegedy",
-          "hIndex": 29,
-          "authorId": "2574060"
+          "name": "M. Gori",
+          "hIndex": 49,
+          "authorId": "145467467"
         },
         {
-          "name": "Sergey Ioffe",
-          "hIndex": 20,
-          "authorId": "2054165706"
+          "name": "E. Trentin",
+          "hIndex": 15,
+          "authorId": "1709862"
         }
       ],
       "affiliations": [
-        "Google (United States)"
+        "Istituto per la Ricerca Scientifica e Tecnologica",
+        "University of Siena"
       ],
-      "year": 2015,
-      "venue": "International Conference on Machine Learning",
-      "publicationDate": "2015-02-10",
-      "summary": "Applied to a state-of-the-art image classification model, Batch Normalization achieves the same accuracy with 14 times fewer training steps, and beats the original model by a significant margin.",
-      "url": "https://www.semanticscholar.org/paper/995c5f5e62614fcb4d2796ad2faab969da51713e",
-      "doi": null,
-      "arxivId": "1502.03167",
-      "pdf": null,
-      "citationCount": 47873,
-      "referenceCount": 54,
-      "influentialCitationCount": 2326,
+      "year": 2001,
+      "venue": "Neurocomputing",
+      "publicationDate": "2001-04-01",
+      "summary": "A number of significant hybrid models for ASR are reviewed, putting together approaches and techniques from a highly specialistic and non-homogeneous literature, allowing for tangible improvements in recognition performance over the standard HMMs in difficult and significant benchmark tasks.",
+      "url": "https://www.semanticscholar.org/paper/cbb8670258f80caf8168e47ee3b6d979446c8851",
+      "doi": "10.1016/S0925-2312(00)00308-8",
+      "arxivId": null,
+      "pdf": "http://www-gth.die.upm.es/research/documentation/referencias/Trentin_ASurvey.pdf",
+      "citationCount": 227,
+      "referenceCount": 132,
+      "influentialCitationCount": 9,
       "source": null,
-      "addedAt": "2026-10-02",
-      "overlap": 67,
-      "direction": "backward",
-      "score": 68.91675374320539,
-      "why": "cited by 67 in your list",
+      "addedAt": "2026-10-03",
+      "overlap": 10,
+      "direction": "forward",
+      "score": 65.04401582126762,
+      "why": "cites 10 in your list",
       "fromReferences": false
     },
     {
@@ -790,14 +790,14 @@
       "doi": "10.1162/neco.2006.18.7.1527",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 17057,
+      "citationCount": 17058,
       "referenceCount": 39,
-      "influentialCitationCount": 1233,
+      "influentialCitationCount": 1232,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 48,
       "direction": "backward",
-      "score": 64.66160113320323,
+      "score": 64.24310736793397,
       "why": "cited by 48 in your list",
       "fromReferences": false
     },
@@ -835,7 +835,7 @@
       "referenceCount": 127,
       "influentialCitationCount": 33,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 13,
       "direction": "forward",
       "score": 61.48174023648283,
@@ -868,7 +868,7 @@
       "referenceCount": 177,
       "influentialCitationCount": 2,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 14,
       "direction": "forward",
       "score": 61.03416616834766,
@@ -907,53 +907,11 @@
       "referenceCount": 440,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 7,
       "direction": "forward",
-      "score": 59.94536639324816,
+      "score": 59.29812514780792,
       "why": "cites 7 in your list",
-      "fromReferences": false
-    },
-    {
-      "id": "cbb8670258f80caf8168e47ee3b6d979446c8851",
-      "title": "A survey of hybrid ANN/HMM models for automatic speech recognition",
-      "authors": [
-        "E. Trentin",
-        "M. Gori"
-      ],
-      "topAuthors": [
-        {
-          "name": "M. Gori",
-          "hIndex": 49,
-          "authorId": "145467467"
-        },
-        {
-          "name": "E. Trentin",
-          "hIndex": 15,
-          "authorId": "1709862"
-        }
-      ],
-      "affiliations": [
-        "Istituto per la Ricerca Scientifica e Tecnologica",
-        "University of Siena"
-      ],
-      "year": 2001,
-      "venue": "Neurocomputing",
-      "publicationDate": "2001-04-01",
-      "summary": "A number of significant hybrid models for ASR are reviewed, putting together approaches and techniques from a highly specialistic and non-homogeneous literature, allowing for tangible improvements in recognition performance over the standard HMMs in difficult and significant benchmark tasks.",
-      "url": "https://www.semanticscholar.org/paper/cbb8670258f80caf8168e47ee3b6d979446c8851",
-      "doi": "10.1016/S0925-2312(00)00308-8",
-      "arxivId": null,
-      "pdf": "http://www-gth.die.upm.es/research/documentation/referencias/Trentin_ASurvey.pdf",
-      "citationCount": 227,
-      "referenceCount": 132,
-      "influentialCitationCount": 9,
-      "source": null,
-      "addedAt": "2026-10-02",
-      "overlap": 10,
-      "direction": "forward",
-      "score": 58.988377665153415,
-      "why": "cites 10 in your list",
       "fromReferences": false
     },
     {
@@ -991,11 +949,55 @@
       "referenceCount": 355,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-02",
+      "addedAt": "2026-10-03",
       "overlap": 24,
       "direction": "forward",
-      "score": 56.63297205604797,
+      "score": 56.6320856818459,
       "why": "cites 24 in your list",
+      "fromReferences": false
+    },
+    {
+      "id": "9c7628cc4efdbaefa54c1571113ef7831fadd0e3",
+      "title": "Episodes Meta Sequence S 2 Fast Update Slow Update Fast Update Slow Update",
+      "authors": [
+        "Kanika Madan",
+        "R. Ke",
+        "Anirudh Goyal",
+        "B. Schölkopf",
+        "Y. Bengio"
+      ],
+      "topAuthors": [
+        {
+          "name": "B. Schölkopf",
+          "hIndex": 178,
+          "authorId": "1707625"
+        },
+        {
+          "name": "Y. Bengio",
+          "hIndex": 62,
+          "authorId": "1865800402"
+        }
+      ],
+      "affiliations": [
+        "Mila, University of Montreal"
+      ],
+      "year": 2021,
+      "venue": null,
+      "publicationDate": null,
+      "summary": "It is found that meta-learning the modular aspects of the proposed system greatly helps in achieving faster adaptation in a reinforcement learning setup involving navigation in a partially observed grid world with image-level input and reversing the role of parameters and meta-parameters does not work nearly as well, suggesting a particular role for fast adaptation of the dynamically selected modules.",
+      "url": "https://www.semanticscholar.org/paper/9c7628cc4efdbaefa54c1571113ef7831fadd0e3",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 47,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-03",
+      "overlap": 11,
+      "direction": "forward",
+      "score": 55.858305836998504,
+      "why": "cites 11 in your list",
       "fromReferences": false
     }
   ]
